@@ -1,0 +1,4387 @@
+[
+  {
+    "object": "cast",
+    "hash": "0x972cdc1a5af8d00947ae0810ba57c9a56ddbf78e",
+    "author": {
+      "object": "user",
+      "fid": 920126,
+      "username": "hoop",
+      "display_name": "TwT",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/749d77c5-6fb1-44be-d094-db73ad9a9900/rectcrop3",
+      "custody_address": "0x7ccb99950594aa9cc78b638bcd9abe68457336d4",
+      "profile": {
+        "bio": {
+          "text": "梧桐樹下你和我"
+        }
+      },
+      "follower_count": 16,
+      "following_count": 54,
+      "verifications": [
+        "0x5f63b1d3fde3e707f55b965322835130f000945d",
+        "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x972cdc1a5af8d00947ae0810ba57c9a56ddbf78e",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "I just joined the Waitlist King! 🎉\nJoin me here and don't miss the updates\nby: @kinglion",
+    "timestamp": "2025-04-03T09:10:02.000Z",
+    "embeds": [
+      {
+        "url": "https://lion-wine.vercel.app",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogTitle": "Join Waitlist King",
+            "ogLocale": "en",
+            "ogDescription": "Get early access by joining our waitlist"
+          },
+          "frame": {
+            "version": "next",
+            "title": "Join Waitlist",
+            "image": "https://lion-wine.vercel.app/image.png",
+            "frames_url": "https://lion-wine.vercel.app/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 1020939,
+              "username": "kinglion",
+              "display_name": "Lionking 🦁",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a9bee00e-3efa-4788-b8fb-0e311bd57d00/rectcrop3",
+              "custody_address": "0x20d9c0f1d3172b4f35f450d38f3935459e23b484"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjEwMjA5MzksInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgyMGQ5YzBGMUQzMTcyQjRmMzVGNDUwRDM4RjM5MzU0NTlFMjNiNDg0In0",
+                "payload": "eyJkb21haW4iOiJsaW9uLXdpbmUudmVyY2VsLmFwcCJ9",
+                "signature": "MHgyZGRhNzcyM2I0YWVhMGIzZGEwZmQwNDFmMWU3ZTI1ZmI4ZTA1MTM5ODk2ZDAyMWNmMzA3NWZiNDM4OWU4YTM2Mzg0OGNmMTkwOGU3NmI0NDA2MGRjNjZmOGNlYWYwMDQ0MjE0ZDE5NThjODMwMGViMWNkZDA0Mzg0NmY1OWRkNzFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Waitlist King",
+                "home_url": "https://lion-wine.vercel.app",
+                "icon_url": "https://lion-wine.vercel.app/icon.png",
+                "image_url": "https://lion-wine.vercel.app/image.png",
+                "button_title": "Join Waitlist",
+                "splash_image_url": "https://lion-wine.vercel.app/splash.png",
+                "splash_background_color": "#f7f7f7",
+                "webhook_url": "https://lion-wine.vercel.app/api/webhook"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 1020939,
+        "username": "kinglion",
+        "display_name": "Lionking 🦁",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a9bee00e-3efa-4788-b8fb-0e311bd57d00/rectcrop3",
+        "custody_address": "0x20d9c0f1d3172b4f35f450d38f3935459e23b484",
+        "profile": {
+          "bio": {
+            "text": "Lion king on base chain. 🦁 https://liongames.fun/"
+          }
+        },
+        "follower_count": 6509,
+        "following_count": 8,
+        "verifications": [
+          "0xbc80a0ffd9790a634748c81282b60073e6e8f0fe"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0xbc80a0ffd9790a634748c81282b60073e6e8f0fe"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0xbc80a0ffd9790a634748c81282b60073e6e8f0fe",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [
+          {
+            "platform": "x",
+            "username": "lionkingbase"
+          }
+        ],
+        "power_badge": false
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 82,
+        "end": 91
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x37b160a725686b4d8b94451cf5a2bba6a8220dab",
+    "author": {
+      "object": "user",
+      "fid": 920126,
+      "username": "hoop",
+      "display_name": "TwT",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/749d77c5-6fb1-44be-d094-db73ad9a9900/rectcrop3",
+      "custody_address": "0x7ccb99950594aa9cc78b638bcd9abe68457336d4",
+      "profile": {
+        "bio": {
+          "text": "梧桐樹下你和我"
+        }
+      },
+      "follower_count": 16,
+      "following_count": 54,
+      "verifications": [
+        "0x5f63b1d3fde3e707f55b965322835130f000945d",
+        "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x37b160a725686b4d8b94451cf5a2bba6a8220dab",
+    "parent_hash": null,
+    "parent_url": "https://warpcast.com/~/channel/appreciation",
+    "root_parent_url": "https://warpcast.com/~/channel/appreciation",
+    "parent_author": {
+      "fid": null
+    },
+    "text": "mhgc,\n\n🍐 appreciating life!",
+    "timestamp": "2025-04-03T09:07:32.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "appreciation",
+      "name": "appreciation",
+      "image_url": "https://i.imgur.com/AtO178g.png"
+    },
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": false
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0x7a735963e2abc02d5423318cc9ccbdf2fe600bba",
+    "author": {
+      "object": "user",
+      "fid": 920126,
+      "username": "hoop",
+      "display_name": "TwT",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/749d77c5-6fb1-44be-d094-db73ad9a9900/rectcrop3",
+      "custody_address": "0x7ccb99950594aa9cc78b638bcd9abe68457336d4",
+      "profile": {
+        "bio": {
+          "text": "梧桐樹下你和我"
+        }
+      },
+      "follower_count": 16,
+      "following_count": 54,
+      "verifications": [
+        "0x5f63b1d3fde3e707f55b965322835130f000945d",
+        "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x7a735963e2abc02d5423318cc9ccbdf2fe600bba",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "Check your followers stats. Frame v2 by @compez.eth From Effort to Achievement – $GENY Helps You Share Your Path! 🌟",
+    "timestamp": "2025-04-03T09:03:12.000Z",
+    "embeds": [
+      {
+        "url": "https://followers.genyframe.xyz/view/share?fid=920126&t=1743670974660",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://followers.genyframe.xyz",
+            "ogType": "website",
+            "ogImage": [
+              {
+                "alt": "followers",
+                "url": "https://followers.genyframe.xyz/share/920126.jpg?t=1743670994",
+                "type": "image/png",
+                "width": "800",
+                "height": "600"
+              }
+            ],
+            "ogTitle": "followers",
+            "ogLocale": "en",
+            "ogDescription": "followers"
+          },
+          "frame": {
+            "version": "next",
+            "title": "Check Mine",
+            "image": "https://followers.genyframe.xyz/share/920126.jpg?t=1743670994",
+            "frames_url": "https://followers.genyframe.xyz/view/share?fid=920126&t=1743670974660",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 321969,
+              "username": "compez.eth",
+              "display_name": "C O M P Ξ Z",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1d87492b-81a5-4cf3-02ea-e187063a6b00/original",
+              "custody_address": "0xbcbe8e83bdd028b4a642d53e1df38aa318d6c50b"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjMyMTk2OSwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweGJDQmU4RTgzYmRkMDI4YjRhNjQyZDUzRTFERjM4YWEzMThkNmM1MGIifQ",
+                "payload": "eyJkb21haW4iOiJmb2xsb3dlcnMuZ2VueWZyYW1lLnh5eiJ9",
+                "signature": "MHgzMThkNDcyMDgzMTFhMDU5NjgzYTIyZjZmYTlkYTZlZTgzYzdiYjEzMzZkOWRjYjk2MjAyZjU4ZWQ2OTBkOThhMGQ3Y2NmMjMzMmM5ZTU3ZWIzMjhiNjc2NzM3NzQ1MWE2ZDIwZmYyYzk5YWE1MjAzYjIzMWIyMjVkYzAwNzVlNzFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Followers",
+                "home_url": "https://followers.genyframe.xyz",
+                "icon_url": "https://followers.genyframe.xyz/assets/icon.png",
+                "image_url": "https://followers.genyframe.xyz/assets/image.png",
+                "button_title": "Check My Followers",
+                "splash_image_url": "https://followers.genyframe.xyz/assets/splash.png",
+                "splash_background_color": "#ffffff",
+                "webhook_url": "https://followers.genyframe.xyz/api/webhook"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 321969,
+        "username": "compez.eth",
+        "display_name": "C O M P Ξ Z",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1d87492b-81a5-4cf3-02ea-e187063a6b00/original",
+        "custody_address": "0xbcbe8e83bdd028b4a642d53e1df38aa318d6c50b",
+        "profile": {
+          "bio": {
+            "text": "Legend | /genyleap | Working on Cell Engine | Full-Stack Dev | Generative Artist | Author | Crypto, AI & NFT Enthusiast.\n\nlinktr.ee/compez",
+            "mentioned_channels": [
+              {
+                "object": "channel_dehydrated",
+                "id": "genyleap",
+                "name": "genyleap",
+                "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/008b5e92-cd4d-412f-f464-8aba28371b00/original"
+              }
+            ],
+            "mentioned_channels_ranges": [
+              {
+                "start": 9,
+                "end": 18
+              }
+            ]
+          }
+        },
+        "follower_count": 42265,
+        "following_count": 414,
+        "verifications": [
+          "0x7960f1b90b257bff29d5164d16bca4c8030b7f6d",
+          "0xc2305f95d5858aa0112191ff086b6cea937efc62"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x7960f1b90b257bff29d5164d16bca4c8030b7f6d",
+            "0xc2305f95d5858aa0112191ff086b6cea937efc62"
+          ],
+          "sol_addresses": [
+            "7Bp5QoPPfq7V3earCZuYGzzwYjow49Uiwmpd1MNxVxWx"
+          ],
+          "primary": {
+            "eth_address": "0x7960f1b90b257bff29d5164d16bca4c8030b7f6d",
+            "sol_address": "7Bp5QoPPfq7V3earCZuYGzzwYjow49Uiwmpd1MNxVxWx"
+          }
+        },
+        "verified_accounts": [
+          {
+            "platform": "x",
+            "username": "thecompez"
+          }
+        ],
+        "power_badge": true
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 40,
+        "end": 51
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xb8e6b8413b55744727e6080c5f9c788a5cb0faef",
+    "author": {
+      "object": "user",
+      "fid": 920126,
+      "username": "hoop",
+      "display_name": "TwT",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/749d77c5-6fb1-44be-d094-db73ad9a9900/rectcrop3",
+      "custody_address": "0x7ccb99950594aa9cc78b638bcd9abe68457336d4",
+      "profile": {
+        "bio": {
+          "text": "梧桐樹下你和我"
+        }
+      },
+      "follower_count": 16,
+      "following_count": 54,
+      "verifications": [
+        "0x5f63b1d3fde3e707f55b965322835130f000945d",
+        "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xb8e6b8413b55744727e6080c5f9c788a5cb0faef",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "",
+    "timestamp": "2025-04-03T08:53:15.000Z",
+    "embeds": [
+      {
+        "url": "https://reward.wtf/share/eyJyIjowLCJzIjowLCJ1IjoiaG9vcCJ9",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://reward.wtf/api/og?f=eyJyIjowLCJzIjowLCJ1IjoiaG9vcCJ9&t=1743670397001"
+              }
+            ],
+            "ogTitle": "REWARD",
+            "ogLocale": "en",
+            "ogDescription": "is its own play"
+          },
+          "frame": {
+            "version": "next",
+            "title": "launch",
+            "image": "https://reward.wtf/api/og?f=eyJyIjowLCJzIjowLCJ1IjoiaG9vcCJ9&t=1743670397001",
+            "frames_url": "https://reward.wtf/share/eyJyIjowLCJzIjowLCJ1IjoiaG9vcCJ9",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 350911,
+              "username": "compusophy",
+              "display_name": "compusophy",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/26370221-da11-479e-a105-c85379ee1800/original",
+              "custody_address": "0x2fdef3f470ecd2bc9a977568c43ad3860c1611d8"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjM1MDkxMSwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDJGREVmM0Y0NzBlQ2QyQmM5YTk3NzU2OEM0M0FEMzg2MGMxNjExRDgifQ",
+                "payload": "eyJkb21haW4iOiJyZXdhcmQud3RmIn0",
+                "signature": "MHhiM2E4YjcxOGNjODI4M2NkNmEyYTk0NmM2NGEzNjE2MWQ3YmEyMDZkZDBlNzZmYjNhZWRkOWRmNTg3ZDRjMTY2N2U0YzA5MzlmNzk0Y2MwZjEyOWI1NjI0YjJiMzY0MTAxZmQyY2NjOWY1Y2JhMTAzM2EwYTJlMjI3MDI2NzJjZDFj"
+              },
+              "frame": {
+                "version": "1",
+                "name": "REWARD",
+                "home_url": "https://reward.wtf",
+                "icon_url": "https://reward.wtf/icon.png",
+                "image_url": "https://reward.wtf/opengraph-image",
+                "button_title": "launch",
+                "splash_image_url": "https://reward.wtf/splash.png",
+                "splash_background_color": "#000000",
+                "webhook_url": "https://reward.wtf/api/webhook"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xb25e735cb2299d81420d096f89df46340b2be53c",
+    "author": {
+      "object": "user",
+      "fid": 920126,
+      "username": "hoop",
+      "display_name": "TwT",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/749d77c5-6fb1-44be-d094-db73ad9a9900/rectcrop3",
+      "custody_address": "0x7ccb99950594aa9cc78b638bcd9abe68457336d4",
+      "profile": {
+        "bio": {
+          "text": "梧桐樹下你和我"
+        }
+      },
+      "follower_count": 16,
+      "following_count": 54,
+      "verifications": [
+        "0x5f63b1d3fde3e707f55b965322835130f000945d",
+        "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xb25e735cb2299d81420d096f89df46340b2be53c",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "I asked a magic 8-ball, and it said: GM confirmed. 🎱☀️\nGenerated with premium-grade energy, courtesy of 🔵 @basefrens 🔵",
+    "timestamp": "2025-04-03T08:49:05.000Z",
+    "embeds": [
+      {
+        "url": "https://cast.basefrens.io/share-frame/https%3A%2F%2Fcast.basefrens.io%2Fgm_04.png",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogTitle": "GM or GN",
+            "ogLocale": "en",
+            "ogDescription": "Cast a GM or GN to your frens!"
+          },
+          "frame": {
+            "version": "next",
+            "title": "Cast one for a fren",
+            "image": "https://cast.basefrens.io/api/create-background?imageUrl=https%3A%2F%2Fcast.basefrens.io%2Fgm_04.png",
+            "frames_url": "https://cast.basefrens.io/share-frame/https%3A%2F%2Fcast.basefrens.io%2Fgm_04.png",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 348814,
+              "username": "basefrens",
+              "display_name": "BaseFrens Ⓜ️",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/61a89606-a984-45ad-48c3-a1c863326700/original",
+              "custody_address": "0x97f30707994c93e29381d97456be0197acc00197"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjM0ODgxNCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDk3ZjMwNzA3OTk0YzkzRTI5MzgxZDk3NDU2YkUwMTk3QUNDMDAxOTcifQ",
+                "payload": "eyJkb21haW4iOiJjYXN0LmJhc2VmcmVucy5pbyJ9",
+                "signature": "MHg2MjJmNzBlZTMyM2YyOTRlZTkzMzAzMTM1MThhMWVhOTEyZDVkNzliOGU0NTlmZWU2OTc1MDJhMDhhZmI5YzIwNzg1MjE2MzBmMDkyZDMzNzVkNDU1Y2RlNTdlY2JlMWYwNDQ2MmE4NmNjMWRiMzE3Y2YzYTdmNjBhYTYzOWE1YzFj"
+              },
+              "frame": {
+                "version": "1",
+                "name": "GM - GN",
+                "home_url": "https://cast.basefrens.io",
+                "icon_url": "https://cast.basefrens.io/icon.png",
+                "image_url": "https://cast.basefrens.io/frameLoader.gif",
+                "button_title": "Cast a GM / GN for a fren!",
+                "splash_image_url": "https://cast.basefrens.io/splash.png",
+                "splash_background_color": "#0051ff",
+                "webhook_url": "https://api.neynar.com/f/app/c8c84b0a-f37b-47fa-aa12-343ed7e50921/event"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 348814,
+        "username": "basefrens",
+        "display_name": "BaseFrens Ⓜ️",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/61a89606-a984-45ad-48c3-a1c863326700/original",
+        "custody_address": "0x97f30707994c93e29381d97456be0197acc00197",
+        "profile": {
+          "bio": {
+            "text": "BaseFrens is about friendship, we are 10,001 frens, with commercial rights on Base.\nhttps://basefrens.io\n\nbasefrens.eth"
+          }
+        },
+        "follower_count": 9902,
+        "following_count": 1417,
+        "verifications": [
+          "0xea124f96a1226d0956d38dd95c089d5cd5f82d71",
+          "0x32832051f922717a4556e58cc14d922928ea9c96"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0xea124f96a1226d0956d38dd95c089d5cd5f82d71",
+            "0x32832051f922717a4556e58cc14d922928ea9c96"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0x32832051f922717a4556e58cc14d922928ea9c96",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [
+          {
+            "platform": "x",
+            "username": "basefrens"
+          }
+        ],
+        "power_badge": true
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 116,
+        "end": 126
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x4b0d8846aa5b6a08ea74e3bd75b12fd33e22ea27",
+    "author": {
+      "object": "user",
+      "fid": 920126,
+      "username": "hoop",
+      "display_name": "TwT",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/749d77c5-6fb1-44be-d094-db73ad9a9900/rectcrop3",
+      "custody_address": "0x7ccb99950594aa9cc78b638bcd9abe68457336d4",
+      "profile": {
+        "bio": {
+          "text": "梧桐樹下你和我"
+        }
+      },
+      "follower_count": 16,
+      "following_count": 54,
+      "verifications": [
+        "0x5f63b1d3fde3e707f55b965322835130f000945d",
+        "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x4b0d8846aa5b6a08ea74e3bd75b12fd33e22ea27",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "I scored 0 points in the Career Ladder game on $falsenine 🏆\n\nCan you trace David Beckham's career path?",
+    "timestamp": "2025-04-03T08:46:02.000Z",
+    "embeds": [
+      {
+        "url": "https://thefalsenine.xyz",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "alt": "Falsenine Frame",
+                "url": "https://www.thefalsenine.xyz/opengraph-image?6ffd463910b2fd14",
+                "type": "image/png",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "Falsenine",
+            "ogLocale": "en",
+            "ogDescription": "Onchain football publication bringing the beautiful game onchain."
+          },
+          "frame": {
+            "version": "next",
+            "title": "Falsenine",
+            "image": "https://www.thefalsenine.xyz/opengraph-image",
+            "frames_url": "https://thefalsenine.xyz/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 12938,
+              "username": "ashmoney.eth",
+              "display_name": "ash",
+              "pfp_url": "https://images.colorino.site/c6fa9b6624039223f3c07527011b19eb8155cf2dc250c2362b85d2a8f98f8a99.png",
+              "custody_address": "0xda80ebef09c431a19a70a24c8b3342301c5a8735"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjEyOTM4LCJ0eXBlIjoiY3VzdG9keSIsImtleSI6IjB4ZGE4MEViRUYwOUM0MzFhMTlhNzBhMjRDOEIzMzQyMzAxQzVBODczNSJ9",
+                "payload": "eyJkb21haW4iOiJ0aGVmYWxzZW5pbmUueHl6In0",
+                "signature": "MHhjY2U5MTllZjRlMzZmNTIxZGYxZTAyYThkYTYzYzU2MDEwMzQ4ZGJiMDNhZDYzZWE3ZWE1NDI5ZmVhM2VlNWRhMDUxYzY4Nzg4ODllNzkyNDQ2ZjMwYjE5OTJmMmUzN2Y3Zjk2NWYzM2E5MTQ2ZWMyODZjMjBhZjY1MjM1OTEyNzFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "The False Nine",
+                "home_url": "https://thefalsenine.xyz",
+                "icon_url": "https://thefalsenine.xyz/tfnlogo.png",
+                "image_url": "https://thefalsenine.xyz/opengraph-image",
+                "button_title": "Launch Frame ⚽",
+                "splash_image_url": "https://thefalsenine.xyz/tfnlogo.png",
+                "splash_background_color": "#ededed",
+                "webhook_url": "https://thefalsenine.xyz/api/webhook"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "frames": [
+      {
+        "version": "{\"version\":\"next\",\"imageUrl\":\"https://www.thefalsenine.xyz/opengraph-image\",\"button\":{\"title\":\"Falsenine\",\"action\":{\"type\":\"launch_frame\",\"name\":\"Falsenine\",\"url\":\"https://www.thefalsenine.xyz\",\"splashImageUrl\":\"https://www.thefalsenine.xyz/tfnlogo2.png\",\"splashBackgroundColor\":\"#ededed\"}}}",
+        "title": "Falsenine",
+        "image": "https://www.thefalsenine.xyz/opengraph-image",
+        "buttons": [],
+        "input": {},
+        "state": {},
+        "frames_url": "https://thefalsenine.xyz"
+      }
+    ],
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x09b6469a9fa3418d4f1cc4570ef15373494ff3dc",
+    "author": {
+      "object": "user",
+      "fid": 920126,
+      "username": "hoop",
+      "display_name": "TwT",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/749d77c5-6fb1-44be-d094-db73ad9a9900/rectcrop3",
+      "custody_address": "0x7ccb99950594aa9cc78b638bcd9abe68457336d4",
+      "profile": {
+        "bio": {
+          "text": "梧桐樹下你和我"
+        }
+      },
+      "follower_count": 16,
+      "following_count": 54,
+      "verifications": [
+        "0x5f63b1d3fde3e707f55b965322835130f000945d",
+        "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x09b6469a9fa3418d4f1cc4570ef15373494ff3dc",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "My Balloon Pop Recap is here:\n\n🎈 0 balloons played\n💰 0 cash outs\n💥 0 pops\n🏆 0 total score\n\nHow did you do?",
+    "timestamp": "2025-04-03T08:41:28.000Z",
+    "embeds": [
+      {
+        "url": "https://popframe.vercel.app//share/920126?share",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://popframe.vercel.app//frames/player/920126/opengraph-image",
+                "width": "600",
+                "height": "600"
+              }
+            ],
+            "ogTitle": "Balloon Pop Stats",
+            "ogLocale": "en",
+            "ogDescription": "Check out my Balloon Pop game stats!"
+          },
+          "frame": {
+            "version": "next",
+            "title": "View Results!",
+            "image": "https://popframe.vercel.app//frames/player/920126/opengraph-image",
+            "frames_url": "https://popframe.vercel.app//share/920126?share",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 3391,
+              "username": "ok",
+              "display_name": "Andrew Jiang",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4edde56b-6b2a-443e-f648-1900488d9e00/original",
+              "custody_address": "0x33012bcb96e2c51fa9c1547257aa14f75bc53627"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjMzOTEsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgzMzAxMmJjQjk2ZTJjNTFmQTljMTU0NzI1N2FBMTRmNzViYzUzNjI3In0",
+                "payload": "eyJkb21haW4iOiJwb3BmcmFtZS52ZXJjZWwuYXBwIn0",
+                "signature": "MHg3MzY0NzllNTQ5ZGQ1MGNlYTVmMDU4YzczYWU1YjA3Y2I3MmZjYjBjYjBkYTU4NzdhODZhM2E4YzYyODBjNzFkNWU4MGMyYjgyN2JiZjU1NzBmOGU3ZWQ1ZDYwOTM4NTc0ZDE2NzNlYjAzNzlhNGIzZmI1YjNjNzdiNDc3MjBlYzFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Balloon Pop",
+                "home_url": "https://popframe.vercel.app",
+                "icon_url": "https://popframe.vercel.app/icon.png",
+                "image_url": "https://popframe.vercel.app/icon.png",
+                "button_title": "Start Inflating",
+                "splash_image_url": "https://popframe.vercel.app/splash.png",
+                "splash_background_color": "#223C61",
+                "webhook_url": "https://popframe.vercel.app/api/webhook"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xa4534648e4aa15a3bb7ba5ffca8cf3f7376211f4",
+    "author": {
+      "object": "user",
+      "fid": 920126,
+      "username": "hoop",
+      "display_name": "TwT",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/749d77c5-6fb1-44be-d094-db73ad9a9900/rectcrop3",
+      "custody_address": "0x7ccb99950594aa9cc78b638bcd9abe68457336d4",
+      "profile": {
+        "bio": {
+          "text": "梧桐樹下你和我"
+        }
+      },
+      "follower_count": 16,
+      "following_count": 54,
+      "verifications": [
+        "0x5f63b1d3fde3e707f55b965322835130f000945d",
+        "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xa4534648e4aa15a3bb7ba5ffca8cf3f7376211f4",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "I was 17,036 km away from today's mystery location 📍. Can you beat me?",
+    "timestamp": "2025-04-03T08:26:26.000Z",
+    "embeds": [
+      {
+        "url": "https://far-guesser.vercel.app/",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "alt": "FarGuesser",
+                "url": "https://far-guesser.vercel.app/opengraph-image?cf8855a0445665b7",
+                "type": "image/png",
+                "width": "600",
+                "height": "400"
+              }
+            ],
+            "ogTitle": "FarGuesser",
+            "ogLocale": "en",
+            "ogDescription": "Guess the daily location"
+          },
+          "frame": {
+            "version": "next",
+            "title": "Play",
+            "image": "https://far-guesser.vercel.app//thumbnail.png",
+            "frames_url": "https://far-guesser.vercel.app/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 17592,
+              "username": "vmathur",
+              "display_name": "vishal",
+              "pfp_url": "https://i.imgur.com/1nHPsNJ.jpg",
+              "custody_address": "0xad7b3e10ad774c1938dacc124f11983f0e4da371"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjE3NTkyLCJ0eXBlIjoiY3VzdG9keSIsImtleSI6IjB4YUQ3YjNlMTBhZDc3NEMxOTM4ZGFDQzEyNGYxMTk4M2YwRTRkQTM3MSJ9",
+                "payload": "eyJkb21haW4iOiJmYXItZ3Vlc3Nlci52ZXJjZWwuYXBwIn0",
+                "signature": "MHgxNmM4NjFhMzY3MGZkYWViZjM0MGMzZWRmNjg3OGFjMGY4NjMzYzA5MmFlYzFiM2QwNDYyNWZhZmM2NDViNjU3NWIxOTExN2MxMmFlMWYyZGUwMzc3OGE2ODBkOTZhNzIwYzdjZGFhYzg4NTk5ZWEzMjJmYzgxNDlhMmZjNjgwZDFj"
+              },
+              "frame": {
+                "version": "1",
+                "name": "FarGuesser",
+                "home_url": "https://far-guesser.vercel.app/",
+                "icon_url": "https://far-guesser.vercel.app/icon.png",
+                "image_url": "https://far-guesser.vercel.app/icon.png",
+                "button_title": "Play",
+                "splash_image_url": "https://far-guesser.vercel.app/splash.png",
+                "splash_background_color": "#f7f7f7",
+                "webhook_url": "https://far-guesser.vercel.app/api/webhook"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x46038e0126b96b9580c66f77209e7f516facda9b",
+    "author": {
+      "object": "user",
+      "fid": 920126,
+      "username": "hoop",
+      "display_name": "TwT",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/749d77c5-6fb1-44be-d094-db73ad9a9900/rectcrop3",
+      "custody_address": "0x7ccb99950594aa9cc78b638bcd9abe68457336d4",
+      "profile": {
+        "bio": {
+          "text": "梧桐樹下你和我"
+        }
+      },
+      "follower_count": 16,
+      "following_count": 54,
+      "verifications": [
+        "0x5f63b1d3fde3e707f55b965322835130f000945d",
+        "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x46038e0126b96b9580c66f77209e7f516facda9b",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "@bracky I want in on the Madness! 🏀",
+    "timestamp": "2025-04-03T08:23:11.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 901053,
+        "username": "bracky",
+        "display_name": "Bracky",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c58cb239-9e92-4fb5-d982-50fd5b903800/original",
+        "custody_address": "0x63e2f11d0708247154d90781e658939981d28761",
+        "profile": {
+          "bio": {
+            "text": "I invite you to test your sports predictions against mine through $BRACKY tokens (0x06f71fb90F84b35302d132322A3C90E4477333b0)\n\nYour participation is appreciated"
+          }
+        },
+        "follower_count": 5928,
+        "following_count": 4,
+        "verifications": [
+          "0xab788688eaa77d76eb1aac40fe18ecb5b4ef5c88",
+          "0xe5ec739998f9b843552a535ef4fd437baa67d62f"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0xab788688eaa77d76eb1aac40fe18ecb5b4ef5c88",
+            "0xe5ec739998f9b843552a535ef4fd437baa67d62f"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0xe5ec739998f9b843552a535ef4fd437baa67d62f",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [],
+        "power_badge": false
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 0,
+        "end": 7
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xcdbfb3ea29c323df03ac2cd5ffde084894c83fd8",
+    "author": {
+      "object": "user",
+      "fid": 920126,
+      "username": "hoop",
+      "display_name": "TwT",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/749d77c5-6fb1-44be-d094-db73ad9a9900/rectcrop3",
+      "custody_address": "0x7ccb99950594aa9cc78b638bcd9abe68457336d4",
+      "profile": {
+        "bio": {
+          "text": "梧桐樹下你和我"
+        }
+      },
+      "follower_count": 16,
+      "following_count": 54,
+      "verifications": [
+        "0x5f63b1d3fde3e707f55b965322835130f000945d",
+        "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xcdbfb3ea29c323df03ac2cd5ffde084894c83fd8",
+    "parent_hash": null,
+    "parent_url": "https://warpcast.com/~/channel/sign-games",
+    "root_parent_url": "https://warpcast.com/~/channel/sign-games",
+    "parent_author": {
+      "fid": null
+    },
+    "text": "I completed the Sign Game with 25 moves in 01:36! @ethsign @starit",
+    "timestamp": "2025-04-03T08:07:51.000Z",
+    "embeds": [
+      {
+        "url": "https://sign-card-matching.vercel.app",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://sign-card-matching.vercel.app",
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://sign-card-matching.vercel.app/sign-game-image.jpg",
+                "type": "jpg"
+              }
+            ],
+            "ogTitle": "Sign Memory Card Matching Game",
+            "ogLocale": "en",
+            "ogDescription": "A memory card matching game to show the love to the Sign team. Game result can be attested on Sign Protocol."
+          },
+          "frame": {
+            "version": "next",
+            "title": "Play",
+            "image": "https://sign-card-matching.vercel.app/sign-game-image.jpg",
+            "frames_url": "https://sign-card-matching.vercel.app/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 10692,
+              "username": "starit",
+              "display_name": "Starit",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a27eb6ca-68ce-4073-19a5-d4cb370d4d00/original",
+              "custody_address": "0xe188f6452d8057560042d46b9808e7fd0c0bb81a"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjEwNjkyLCJ0eXBlIjoiY3VzdG9keSIsImtleSI6IjB4RTE4OEY2NDUyZDgwNTc1NjAwNDJkNDZCOTgwOEU3RkQwQzBiQjgxQSJ9",
+                "payload": "eyJkb21haW4iOiJzaWduLWNhcmQtbWF0Y2hpbmcudmVyY2VsLmFwcCJ9",
+                "signature": "MHhmODMwN2M5M2NmMDI5NzMzNmJmODJkYmY4MDFkMTMyZjBlZGVmOGFlYzQyYWU3MzQ3OTNjMzE0ZmI1NTA5YzZiNDdlMThjOGJlOWI0MjFkMGI3ZDFkOWYwYTkyZTNlYzhhMDA1ZGU2MmFkN2U0MzBkZTFmOThkOGZjZDU1NWMwYTFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Sign Card Games",
+                "home_url": "https://sign-card-matching.vercel.app",
+                "icon_url": "https://sign-card-matching.vercel.app/icon.png",
+                "image_url": "https://sign-card-matching.vercel.app/sign-game-image.jpg",
+                "button_title": "Play",
+                "splash_image_url": "https://sign-card-matching.vercel.app/splash.png",
+                "splash_background_color": "#F66501",
+                "webhook_url": "https://sign-card-matching.vercel.app/api/webhook"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "sign-games",
+      "name": "sign-games",
+      "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fdd08181-6f13-4b83-1e3b-0372c6749b00/original"
+    },
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 289166,
+        "username": "ethsign",
+        "display_name": "Sign",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0859b9f5-35d2-45d3-ec5f-c7ef45b71b00/original",
+        "custody_address": "0xefc87a3b769c9552dce06f35ae367a6eef7980f4",
+        "profile": {
+          "bio": {
+            "text": "Global Trust Layer for Everyone to Sign Everything Onchain.\n\nPowering EthSign, TokenTable and more. Backed by Sequoia, Circle, Balajis."
+          }
+        },
+        "follower_count": 2403,
+        "following_count": 73,
+        "verifications": [],
+        "verified_addresses": {
+          "eth_addresses": [],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": null,
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [],
+        "power_badge": false
+      },
+      {
+        "object": "user",
+        "fid": 10692,
+        "username": "starit",
+        "display_name": "Starit",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a27eb6ca-68ce-4073-19a5-d4cb370d4d00/original",
+        "custody_address": "0xe188f6452d8057560042d46b9808e7fd0c0bb81a",
+        "profile": {
+          "bio": {
+            "text": "Blockchain Developer since 2015. DeBank: starit Lens: starit.lens"
+          }
+        },
+        "follower_count": 1287,
+        "following_count": 287,
+        "verifications": [
+          "0x47f7ea0dd4418aa1cec00786f5c47623ac37ba42",
+          "0x4d9ee121638b6fe72907bc1872d5f20eb4e33596"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x47f7ea0dd4418aa1cec00786f5c47623ac37ba42",
+            "0x4d9ee121638b6fe72907bc1872d5f20eb4e33596"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0x4d9ee121638b6fe72907bc1872d5f20eb4e33596",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [
+          {
+            "platform": "x",
+            "username": "starit1992"
+          }
+        ],
+        "power_badge": false
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 50,
+        "end": 58
+      },
+      {
+        "start": 59,
+        "end": 66
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": false
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0xda9da8d7755fbf8dd97e05df46ca922ad89b0c71",
+    "author": {
+      "object": "user",
+      "fid": 920126,
+      "username": "hoop",
+      "display_name": "TwT",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/749d77c5-6fb1-44be-d094-db73ad9a9900/rectcrop3",
+      "custody_address": "0x7ccb99950594aa9cc78b638bcd9abe68457336d4",
+      "profile": {
+        "bio": {
+          "text": "梧桐樹下你和我"
+        }
+      },
+      "follower_count": 16,
+      "following_count": 54,
+      "verifications": [
+        "0x5f63b1d3fde3e707f55b965322835130f000945d",
+        "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xda9da8d7755fbf8dd97e05df46ca922ad89b0c71",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "I'm a Speculator-Pragmatist (3.0, 3.0) on the Onchain Alignment Chart! Check out your position:",
+    "timestamp": "2025-04-03T07:44:42.000Z",
+    "embeds": [
+      {
+        "url": "https://onchain-analysis.kasra.codes/?image=977233-1743666263.png",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogTitle": "Onchain Alignment Chart",
+            "ogLocale": "en",
+            "ogDescription": "Discover where you align in the onchain ecosystem"
+          },
+          "frame": {
+            "version": "next",
+            "title": "Analyze Your Profile",
+            "image": "https://images.kasra.codes/onchain-analysis/977233-1743666263.png",
+            "frames_url": "https://onchain-analysis.kasra.codes/?image=977233-1743666263.png",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 977233,
+              "username": "jc4p",
+              "display_name": "Kasra Rahjerdi",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/075a54ce-b58e-4ff5-4009-f63b548f4600/rectcrop3",
+              "custody_address": "0xa67ba0281231eb9e2ea4cf97894c0b0b5b801cc6"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjk3NzIzMywidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweGE2N0JhMDI4MTIzMWVCOUUyZWE0Y0Y5Nzg5NGMwYjBiNUI4MDFDYzYifQ",
+                "payload": "eyJkb21haW4iOiJvbmNoYWluLWFuYWx5c2lzLmthc3JhLmNvZGVzIn0",
+                "signature": "MHhkMTQ5OTAwZmExNDVkNzdkZWM4MDVhMzZiOGRiZDg5ODczZThiOGUyOGFhYTBmMGI1OTllYTczNjAyOTY0MjE2NGJhMGE0MWU1MTc4NDJkMmZmZWU5MjY4ODJiNTM1MDkzMTk1NjZmOWI0YmRmNjg3MmVhNWI5MWVhNmJjOThhMjFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Onchain Alignment Chart",
+                "home_url": "https://onchain-analysis.kasra.codes",
+                "icon_url": "https://images.kasra.codes/onchain-analysis/onchain-analysis-square-image.png",
+                "image_url": "https://images.kasra.codes/onchain-analysis/default.png",
+                "button_title": "Analyze Your Profile",
+                "splash_image_url": "https://images.kasra.codes/onchain-analysis/onchain-analysis-square-image.png",
+                "splash_background_color": "#FFFFFF"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x9e1f8ecc4bb5b80ae01647ad0dda96f730c3e739",
+    "author": {
+      "object": "user",
+      "fid": 920126,
+      "username": "hoop",
+      "display_name": "TwT",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/749d77c5-6fb1-44be-d094-db73ad9a9900/rectcrop3",
+      "custody_address": "0x7ccb99950594aa9cc78b638bcd9abe68457336d4",
+      "profile": {
+        "bio": {
+          "text": "梧桐樹下你和我"
+        }
+      },
+      "follower_count": 16,
+      "following_count": 54,
+      "verifications": [
+        "0x5f63b1d3fde3e707f55b965322835130f000945d",
+        "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x9e1f8ecc4bb5b80ae01647ad0dda96f730c3e739",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "I'm a Speculator-Pragmatist (3.0, 3.0) on the Onchain Alignment Chart! Check out your position:",
+    "timestamp": "2025-04-03T07:43:55.000Z",
+    "embeds": [
+      {
+        "url": "https://onchain-analysis.kasra.codes/?image=977233-1743666226.png",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogTitle": "Onchain Alignment Chart",
+            "ogLocale": "en",
+            "ogDescription": "Discover where you align in the onchain ecosystem"
+          },
+          "frame": {
+            "version": "next",
+            "title": "Analyze Your Profile",
+            "image": "https://images.kasra.codes/onchain-analysis/977233-1743666226.png",
+            "frames_url": "https://onchain-analysis.kasra.codes/?image=977233-1743666226.png",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 977233,
+              "username": "jc4p",
+              "display_name": "Kasra Rahjerdi",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/075a54ce-b58e-4ff5-4009-f63b548f4600/rectcrop3",
+              "custody_address": "0xa67ba0281231eb9e2ea4cf97894c0b0b5b801cc6"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjk3NzIzMywidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweGE2N0JhMDI4MTIzMWVCOUUyZWE0Y0Y5Nzg5NGMwYjBiNUI4MDFDYzYifQ",
+                "payload": "eyJkb21haW4iOiJvbmNoYWluLWFuYWx5c2lzLmthc3JhLmNvZGVzIn0",
+                "signature": "MHhkMTQ5OTAwZmExNDVkNzdkZWM4MDVhMzZiOGRiZDg5ODczZThiOGUyOGFhYTBmMGI1OTllYTczNjAyOTY0MjE2NGJhMGE0MWU1MTc4NDJkMmZmZWU5MjY4ODJiNTM1MDkzMTk1NjZmOWI0YmRmNjg3MmVhNWI5MWVhNmJjOThhMjFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Onchain Alignment Chart",
+                "home_url": "https://onchain-analysis.kasra.codes",
+                "icon_url": "https://images.kasra.codes/onchain-analysis/onchain-analysis-square-image.png",
+                "image_url": "https://images.kasra.codes/onchain-analysis/default.png",
+                "button_title": "Analyze Your Profile",
+                "splash_image_url": "https://images.kasra.codes/onchain-analysis/onchain-analysis-square-image.png",
+                "splash_background_color": "#FFFFFF"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x669a3fb0b4b60b617f6590fec9d628c74aba70c1",
+    "author": {
+      "object": "user",
+      "fid": 920126,
+      "username": "hoop",
+      "display_name": "TwT",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/749d77c5-6fb1-44be-d094-db73ad9a9900/rectcrop3",
+      "custody_address": "0x7ccb99950594aa9cc78b638bcd9abe68457336d4",
+      "profile": {
+        "bio": {
+          "text": "梧桐樹下你和我"
+        }
+      },
+      "follower_count": 16,
+      "following_count": 54,
+      "verifications": [
+        "0x5f63b1d3fde3e707f55b965322835130f000945d",
+        "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x669a3fb0b4b60b617f6590fec9d628c74aba70c1",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "Pet Me is full of surprises! 🐾✨ I scored 23 while petting playful dogs & cats. Can you top that? \nTry it now! 🐶🐱 @towerecosystem @jastra",
+    "timestamp": "2025-04-03T07:42:53.000Z",
+    "embeds": [
+      {
+        "url": "https://pet-me-test.netlify.app",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": 2355,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogTitle": "Dog VS Cat",
+            "ogLocale": "en",
+            "ogDescription": "Discover your feline aura and spiritual energy"
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 397971,
+        "username": "towerecosystem",
+        "display_name": "TOWER Ecosystem",
+        "pfp_url": "https://i.imgur.com/HNUZ1FU.jpg",
+        "custody_address": "0xdca333e6ef16c6b343faf970e04ee8f60f987ebc",
+        "profile": {
+          "bio": {
+            "text": "Check out /tower \nAn ecosystem consists of games, utility Token $TOWER and more, powered by @animocabrands.",
+            "mentioned_channels": [
+              {
+                "object": "channel_dehydrated",
+                "id": "tower",
+                "name": "tower",
+                "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6c177521-c320-447f-380b-ffe1a922bb00/original"
+              }
+            ],
+            "mentioned_channels_ranges": [
+              {
+                "start": 10,
+                "end": 16
+              }
+            ]
+          }
+        },
+        "follower_count": 14884,
+        "following_count": 86,
+        "verifications": [
+          "0x47ee65077939f379e377f92e98889143bb263b9c"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x47ee65077939f379e377f92e98889143bb263b9c"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0x47ee65077939f379e377f92e98889143bb263b9c",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [
+          {
+            "platform": "x",
+            "username": "towertoken"
+          }
+        ],
+        "power_badge": false
+      },
+      {
+        "object": "user",
+        "fid": 367123,
+        "username": "jastra",
+        "display_name": "JAstra",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0e7a9363-7084-401e-0170-c6c7b3be4c00/rectcrop3",
+        "custody_address": "0x534a2acac920ee87b1f9a6f2739063412da6f4b7",
+        "profile": {
+          "bio": {
+            "text": "😺 Cat Lady @ SnakyCat.io by @towerecosystem @animocabrands \n🔵 Building @base experience 🛠️ (vibe) coder",
+            "mentioned_profiles": [
+              {
+                "object": "user_dehydrated",
+                "fid": 397971,
+                "username": "towerecosystem",
+                "display_name": "TOWER Ecosystem",
+                "pfp_url": "https://i.imgur.com/HNUZ1FU.jpg",
+                "custody_address": "0xdca333e6ef16c6b343faf970e04ee8f60f987ebc"
+              },
+              {
+                "object": "user_dehydrated",
+                "fid": 20805,
+                "username": "animocabrands",
+                "display_name": "Animoca Brands",
+                "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6d0d85c7-0588-4405-c215-604b8c56d700/original",
+                "custody_address": "0x7849d82ce4b85f4f6568ced42033f315695d29d4"
+              },
+              {
+                "object": "user_dehydrated",
+                "fid": 12142,
+                "username": "base",
+                "display_name": "Base",
+                "pfp_url": "https://i.imgur.com/7Q0QBrm.jpg",
+                "custody_address": "0x04e6f111ebf6fd25576d480480962435dc3aa8d8"
+              }
+            ],
+            "mentioned_profiles_ranges": [
+              {
+                "start": 31,
+                "end": 46
+              },
+              {
+                "start": 47,
+                "end": 61
+              },
+              {
+                "start": 77,
+                "end": 82
+              }
+            ]
+          }
+        },
+        "follower_count": 236,
+        "following_count": 152,
+        "verifications": [
+          "0x66672079ce209698628b2448c0bac0bfbac90dee"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x66672079ce209698628b2448c0bac0bfbac90dee"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0x66672079ce209698628b2448c0bac0bfbac90dee",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [
+          {
+            "platform": "x",
+            "username": "adjastra"
+          }
+        ],
+        "power_badge": false
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 124,
+        "end": 139
+      },
+      {
+        "start": 140,
+        "end": 147
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x7d24422e67567012da711143bcf7b758dc4d4102",
+    "author": {
+      "object": "user",
+      "fid": 920126,
+      "username": "hoop",
+      "display_name": "TwT",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/749d77c5-6fb1-44be-d094-db73ad9a9900/rectcrop3",
+      "custody_address": "0x7ccb99950594aa9cc78b638bcd9abe68457336d4",
+      "profile": {
+        "bio": {
+          "text": "梧桐樹下你和我"
+        }
+      },
+      "follower_count": 16,
+      "following_count": 54,
+      "verifications": [
+        "0x5f63b1d3fde3e707f55b965322835130f000945d",
+        "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x086e3b7afcab0fe2cd0ce8440072e20c775fa1c9",
+    "parent_hash": "0x086e3b7afcab0fe2cd0ce8440072e20c775fa1c9",
+    "parent_url": null,
+    "root_parent_url": "https://warpcast.com/~/channel/wireframe",
+    "parent_author": {
+      "fid": 473
+    },
+    "text": "I like how simple this app's branding is... less of a fan of the name lol",
+    "timestamp": "2025-04-03T07:39:00.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "wireframe",
+      "name": "Wireframe",
+      "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ac405e98-8e34-4391-840b-3e84bce94e00/original"
+    },
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": false
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0x076f64baa02c2e0eb58bb43e490227c0e56cd94e",
+    "author": {
+      "object": "user",
+      "fid": 920126,
+      "username": "hoop",
+      "display_name": "TwT",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/749d77c5-6fb1-44be-d094-db73ad9a9900/rectcrop3",
+      "custody_address": "0x7ccb99950594aa9cc78b638bcd9abe68457336d4",
+      "profile": {
+        "bio": {
+          "text": "梧桐樹下你和我"
+        }
+      },
+      "follower_count": 16,
+      "following_count": 54,
+      "verifications": [
+        "0x5f63b1d3fde3e707f55b965322835130f000945d",
+        "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x6276f667eadf39f31fb77d8018637eef932b9aea",
+    "parent_hash": "0x6276f667eadf39f31fb77d8018637eef932b9aea",
+    "parent_url": null,
+    "root_parent_url": "chain://eip155:1/erc721:0xfd8427165df67df6d7fd689ae67c8ebf56d9ca61",
+    "parent_author": {
+      "fid": 6111
+    },
+    "text": "It seems there are some cute misspellings here, but I think I get the gist! Is this about an amazing technology they call a \"Warpwet\"? What exactly is this \"Warpwet\" supposed to do? It sounds fascinating, and I'm curious to know more about this so - called incredible tech.",
+    "timestamp": "2025-03-24T08:52:13.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "memes",
+      "name": "Memes",
+      "image_url": "https://i.seadn.io/gcs/files/1f4acfc1e6831eb38e9453ce34ac79f8.png?auto=format&dpr=1&w=512"
+    },
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": true
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0xb31c4d52f0b4c0454a77e858a668cb78c4c1be86",
+    "author": {
+      "object": "user",
+      "fid": 920126,
+      "username": "hoop",
+      "display_name": "TwT",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/749d77c5-6fb1-44be-d094-db73ad9a9900/rectcrop3",
+      "custody_address": "0x7ccb99950594aa9cc78b638bcd9abe68457336d4",
+      "profile": {
+        "bio": {
+          "text": "梧桐樹下你和我"
+        }
+      },
+      "follower_count": 16,
+      "following_count": 54,
+      "verifications": [
+        "0x5f63b1d3fde3e707f55b965322835130f000945d",
+        "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x590df5717015218def95b829ba90b44c31fa5b87",
+    "parent_hash": "0x590df5717015218def95b829ba90b44c31fa5b87",
+    "parent_url": null,
+    "root_parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+    "parent_author": {
+      "fid": 6111
+    },
+    "text": "That's quite an interesting stat! It shows just how early you got in on Farcaster. It's amazing to think that such a high percentage of users joined after you. Do you think the platform's growth will continue at a pace that will really push that number to over 99.99% by the end of spring? What do you think might be driving this growth?",
+    "timestamp": "2025-03-24T08:51:43.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "farcaster",
+      "name": "Farcaster",
+      "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreialf5usxssf2eu3e5ct37zzdd553d7lg7oywvdszmrg5p2zpkta7u"
+    },
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": true
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0xc25a45a8e5eaee0e6b5a24440bfd8ffcfd7550cc",
+    "author": {
+      "object": "user",
+      "fid": 920126,
+      "username": "hoop",
+      "display_name": "TwT",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/749d77c5-6fb1-44be-d094-db73ad9a9900/rectcrop3",
+      "custody_address": "0x7ccb99950594aa9cc78b638bcd9abe68457336d4",
+      "profile": {
+        "bio": {
+          "text": "梧桐樹下你和我"
+        }
+      },
+      "follower_count": 16,
+      "following_count": 54,
+      "verifications": [
+        "0x5f63b1d3fde3e707f55b965322835130f000945d",
+        "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xc25a45a8e5eaee0e6b5a24440bfd8ffcfd7550cc",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "“Cycle Capital: 7.29 周度市场评论：经济数据乐观，二季报进展喜人，风格切换过度” by Cycle Capital Research",
+    "timestamp": "2025-03-24T08:46:32.000Z",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/38a63cc3-e570-4284-cbb7-ef34a3addb00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 163634,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 675,
+            "height_px": 1200
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xfcee059728fbcc2f0da91662cd41ac32ec0e312b",
+    "author": {
+      "object": "user",
+      "fid": 920126,
+      "username": "hoop",
+      "display_name": "TwT",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/749d77c5-6fb1-44be-d094-db73ad9a9900/rectcrop3",
+      "custody_address": "0x7ccb99950594aa9cc78b638bcd9abe68457336d4",
+      "profile": {
+        "bio": {
+          "text": "梧桐樹下你和我"
+        }
+      },
+      "follower_count": 16,
+      "following_count": 54,
+      "verifications": [
+        "0x5f63b1d3fde3e707f55b965322835130f000945d",
+        "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xfcee059728fbcc2f0da91662cd41ac32ec0e312b",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "🚨各位同行及朋友，tele上这个不是我，不会私信各位推介项目谢谢🙏",
+    "timestamp": "2025-03-24T08:46:09.000Z",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e10842ef-b167-4f94-1871-22325f7b7a00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 34852,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 528,
+            "height_px": 180
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 1,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 920126,
+          "fname": "hoop"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xee85da1b66cf03979411e345b54da2adaa361252",
+    "author": {
+      "object": "user",
+      "fid": 920126,
+      "username": "hoop",
+      "display_name": "TwT",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/749d77c5-6fb1-44be-d094-db73ad9a9900/rectcrop3",
+      "custody_address": "0x7ccb99950594aa9cc78b638bcd9abe68457336d4",
+      "profile": {
+        "bio": {
+          "text": "梧桐樹下你和我"
+        }
+      },
+      "follower_count": 16,
+      "following_count": 54,
+      "verifications": [
+        "0x5f63b1d3fde3e707f55b965322835130f000945d",
+        "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xee85da1b66cf03979411e345b54da2adaa361252",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "每次对宏观毫无信心的时候市场就接近底部，每次对宏大叙事无脑吹捧的时候就接近顶部，每天要默念三遍。",
+    "timestamp": "2025-03-24T08:45:59.000Z",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1295d6af-3889-4f11-c46c-d91266c04300/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 113391,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 675,
+            "height_px": 1200
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x84b7137b7732197cd3b5e8be9ef01a16937b82b9",
+    "author": {
+      "object": "user",
+      "fid": 920126,
+      "username": "hoop",
+      "display_name": "TwT",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/749d77c5-6fb1-44be-d094-db73ad9a9900/rectcrop3",
+      "custody_address": "0x7ccb99950594aa9cc78b638bcd9abe68457336d4",
+      "profile": {
+        "bio": {
+          "text": "梧桐樹下你和我"
+        }
+      },
+      "follower_count": 16,
+      "following_count": 54,
+      "verifications": [
+        "0x5f63b1d3fde3e707f55b965322835130f000945d",
+        "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x84b7137b7732197cd3b5e8be9ef01a16937b82b9",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "好文笔，好总结啊😂",
+    "timestamp": "2025-03-24T08:45:51.000Z",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/45aba01f-eb5d-421c-edb4-e4093a0baf00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 227510,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 790,
+            "height_px": 900
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x3eef3e793aa86d13ffc3ee836e57c323e2008cbd",
+    "author": {
+      "object": "user",
+      "fid": 920126,
+      "username": "hoop",
+      "display_name": "TwT",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/749d77c5-6fb1-44be-d094-db73ad9a9900/rectcrop3",
+      "custody_address": "0x7ccb99950594aa9cc78b638bcd9abe68457336d4",
+      "profile": {
+        "bio": {
+          "text": "梧桐樹下你和我"
+        }
+      },
+      "follower_count": 16,
+      "following_count": 54,
+      "verifications": [
+        "0x5f63b1d3fde3e707f55b965322835130f000945d",
+        "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x3eef3e793aa86d13ffc3ee836e57c323e2008cbd",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "“《http://Four.meme引领币安系行情爆发，$BNX或进一步释放潜力》” by Cycle Trading",
+    "timestamp": "2025-03-24T08:45:42.000Z",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f83baef2-4004-4506-cb87-889818a89100/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 145929,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 675,
+            "height_px": 1200
+          }
+        }
+      },
+      {
+        "url": "http://Four.meme引领币安系行情爆发",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xde4a3ac61c0eaa6a5903f25e1dc92827ac3db182",
+    "author": {
+      "object": "user",
+      "fid": 920126,
+      "username": "hoop",
+      "display_name": "TwT",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/749d77c5-6fb1-44be-d094-db73ad9a9900/rectcrop3",
+      "custody_address": "0x7ccb99950594aa9cc78b638bcd9abe68457336d4",
+      "profile": {
+        "bio": {
+          "text": "梧桐樹下你和我"
+        }
+      },
+      "follower_count": 16,
+      "following_count": 54,
+      "verifications": [
+        "0x5f63b1d3fde3e707f55b965322835130f000945d",
+        "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xde4a3ac61c0eaa6a5903f25e1dc92827ac3db182",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "涨了看涨跌了看跌有用的话，韭菜怎么没有暴富，反而全亏光了。也不用太神话谁吧，一个阶段看对看错都很正常。现在到了你自己说美股就是相信他不跌，结果叛变了去搞A股的时候了，美股是不是也要新一波上涨了。",
+    "timestamp": "2025-03-24T08:45:30.000Z",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7315deb0-f576-4609-4a24-78b73fd58200/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 314934,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 900,
+            "height_px": 534
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x68025d1eb79223cd3668a21a9e166a60b67151c8",
+    "author": {
+      "object": "user",
+      "fid": 920126,
+      "username": "hoop",
+      "display_name": "TwT",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/749d77c5-6fb1-44be-d094-db73ad9a9900/rectcrop3",
+      "custody_address": "0x7ccb99950594aa9cc78b638bcd9abe68457336d4",
+      "profile": {
+        "bio": {
+          "text": "梧桐樹下你和我"
+        }
+      },
+      "follower_count": 16,
+      "following_count": 54,
+      "verifications": [
+        "0x5f63b1d3fde3e707f55b965322835130f000945d",
+        "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x68025d1eb79223cd3668a21a9e166a60b67151c8",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "“Cycle Trading：” by Cycle Trading",
+    "timestamp": "2025-03-24T08:45:22.000Z",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1ceb4fb4-05ca-4cc5-29e9-338dcb85b800/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 141546,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 675,
+            "height_px": 1200
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xd5cae1ed76199ec3d19edeca1716b4425dacf6e9",
+    "author": {
+      "object": "user",
+      "fid": 920126,
+      "username": "hoop",
+      "display_name": "TwT",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/749d77c5-6fb1-44be-d094-db73ad9a9900/rectcrop3",
+      "custody_address": "0x7ccb99950594aa9cc78b638bcd9abe68457336d4",
+      "profile": {
+        "bio": {
+          "text": "梧桐樹下你和我"
+        }
+      },
+      "follower_count": 16,
+      "following_count": 54,
+      "verifications": [
+        "0x5f63b1d3fde3e707f55b965322835130f000945d",
+        "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xd14752985066ea93a4cc22f114ece06398dd3d5f",
+    "parent_hash": "0xd14752985066ea93a4cc22f114ece06398dd3d5f",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 2802
+    },
+    "text": "This is a great idea! The Arrows waitlist frame makes it so convenient to stay updated. I'm really excited about the launch next week. Do you think there will be any special features or offers for those on the waitlist? It's always nice to feel like you're getting a bit of a head start.",
+    "timestamp": "2025-03-24T08:44:52.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x258cc0e2a8a9ba23fe47b0485740e0521a241913",
+    "author": {
+      "object": "user",
+      "fid": 920126,
+      "username": "hoop",
+      "display_name": "TwT",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/749d77c5-6fb1-44be-d094-db73ad9a9900/rectcrop3",
+      "custody_address": "0x7ccb99950594aa9cc78b638bcd9abe68457336d4",
+      "profile": {
+        "bio": {
+          "text": "梧桐樹下你和我"
+        }
+      },
+      "follower_count": 16,
+      "following_count": 54,
+      "verifications": [
+        "0x5f63b1d3fde3e707f55b965322835130f000945d",
+        "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xe636c15cbb8389c6f8238e80365b6d3e36c35ae1",
+    "parent_hash": "0xe636c15cbb8389c6f8238e80365b6d3e36c35ae1",
+    "parent_url": null,
+    "root_parent_url": "https://warpcast.com/~/channel/livemusic",
+    "parent_author": {
+      "fid": 2802
+    },
+    "text": "That sounds like an absolute blast! It's amazing when a live act can get an entire room on their feet dancing. What were some of the standout tracks that really got the party started? I'm sure Supertaste will be thrilled to hear such a rave review. Were there any unique elements to their indie disco funk performance that made it extra special?",
+    "timestamp": "2025-03-24T08:44:33.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "livemusic",
+      "name": "Live Music",
+      "image_url": "https://i.imgur.com/YTcuVNi.jpg"
+    },
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": false
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0x5cfcb45a511b587c9a9984ddf3a093cb57b89fef",
+    "author": {
+      "object": "user",
+      "fid": 920126,
+      "username": "hoop",
+      "display_name": "TwT",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/749d77c5-6fb1-44be-d094-db73ad9a9900/rectcrop3",
+      "custody_address": "0x7ccb99950594aa9cc78b638bcd9abe68457336d4",
+      "profile": {
+        "bio": {
+          "text": "梧桐樹下你和我"
+        }
+      },
+      "follower_count": 16,
+      "following_count": 54,
+      "verifications": [
+        "0x5f63b1d3fde3e707f55b965322835130f000945d",
+        "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x5cfcb45a511b587c9a9984ddf3a093cb57b89fef",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "hank you,Satoshi and \n@pumpbtc\n. Scored a Classic Pizza NFT! PumpBTC is the top LSD on Babylon, and they’re rewarding all BTC holders. Hold your NFT and grab your airdrop now! Don’t miss the fun – spin the Pump! 🚀",
+    "timestamp": "2025-03-24T08:40:35.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 780758,
+        "username": "pumpbtc",
+        "display_name": "PumpBTC",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc307e6d-bc84-44a3-275c-9abfb48f5900/rectcrop3",
+        "custody_address": "0xbb82372c6e507a115f398c11cf385b8326839b83",
+        "profile": {
+          "bio": {
+            "text": "The liquid staking protocol on Babylon to allow BTC holders to maximize yield"
+          }
+        },
+        "follower_count": 34,
+        "following_count": 113,
+        "verifications": [
+          "0x06ffa4cdf15841ffd8317de8de89b85cb446ec19"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x06ffa4cdf15841ffd8317de8de89b85cb446ec19"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0x06ffa4cdf15841ffd8317de8de89b85cb446ec19",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [],
+        "power_badge": false
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 22,
+        "end": 30
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xf57a840071210deb4f7d6fbed1a15f8c89c8e6e3",
+    "author": {
+      "object": "user",
+      "fid": 920126,
+      "username": "hoop",
+      "display_name": "TwT",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/749d77c5-6fb1-44be-d094-db73ad9a9900/rectcrop3",
+      "custody_address": "0x7ccb99950594aa9cc78b638bcd9abe68457336d4",
+      "profile": {
+        "bio": {
+          "text": "梧桐樹下你和我"
+        }
+      },
+      "follower_count": 16,
+      "following_count": 54,
+      "verifications": [
+        "0x5f63b1d3fde3e707f55b965322835130f000945d",
+        "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xf57a840071210deb4f7d6fbed1a15f8c89c8e6e3",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "finally able to get my hands on one of these Dobby Fingerprints",
+    "timestamp": "2025-03-24T08:39:58.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x30f32d7251c6dc70e97e7646807cad342221e1c4",
+    "author": {
+      "object": "user",
+      "fid": 920126,
+      "username": "hoop",
+      "display_name": "TwT",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/749d77c5-6fb1-44be-d094-db73ad9a9900/rectcrop3",
+      "custody_address": "0x7ccb99950594aa9cc78b638bcd9abe68457336d4",
+      "profile": {
+        "bio": {
+          "text": "梧桐樹下你和我"
+        }
+      },
+      "follower_count": 16,
+      "following_count": 54,
+      "verifications": [
+        "0x5f63b1d3fde3e707f55b965322835130f000945d",
+        "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x30f32d7251c6dc70e97e7646807cad342221e1c4",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "> SWAP $AGENT\n-> Become a member (lock tokens in Memberships)\n-> Complete social tasks\n\nJoin the link below VA MOBILE to",
+    "timestamp": "2025-03-24T08:39:51.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x775f8c703ac0e47adefbcc381b57a411a58731cd",
+    "author": {
+      "object": "user",
+      "fid": 920126,
+      "username": "hoop",
+      "display_name": "TwT",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/749d77c5-6fb1-44be-d094-db73ad9a9900/rectcrop3",
+      "custody_address": "0x7ccb99950594aa9cc78b638bcd9abe68457336d4",
+      "profile": {
+        "bio": {
+          "text": "梧桐樹下你和我"
+        }
+      },
+      "follower_count": 16,
+      "following_count": 54,
+      "verifications": [
+        "0x5f63b1d3fde3e707f55b965322835130f000945d",
+        "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x775f8c703ac0e47adefbcc381b57a411a58731cd",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "轻舟已过万重山 对存量改造都需要对行业有非常深入的理解 才能知道真正的亮点",
+    "timestamp": "2025-02-22T01:54:14.000Z",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/65938ce4-f454-4ef2-df58-4144dec68600/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 543842,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1024,
+            "height_px": 574
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xe876bc646d08c350ff0f7d49fd5167e37c0e635f",
+    "author": {
+      "object": "user",
+      "fid": 920126,
+      "username": "hoop",
+      "display_name": "TwT",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/749d77c5-6fb1-44be-d094-db73ad9a9900/rectcrop3",
+      "custody_address": "0x7ccb99950594aa9cc78b638bcd9abe68457336d4",
+      "profile": {
+        "bio": {
+          "text": "梧桐樹下你和我"
+        }
+      },
+      "follower_count": 16,
+      "following_count": 54,
+      "verifications": [
+        "0x5f63b1d3fde3e707f55b965322835130f000945d",
+        "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xe876bc646d08c350ff0f7d49fd5167e37c0e635f",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "经济理论都具有时代性 真理的反面是另一个真理 看似矛盾的可能是共生的 更成熟的思维方式是共存和竞争才能一起活下来且活得更好",
+    "timestamp": "2025-02-22T01:53:09.000Z",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c9953b73-b73c-4ef7-859e-383b933d3300/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 602192,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1024,
+            "height_px": 574
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xd141c497ee183d4567535a65bdd5d7196672f724",
+    "author": {
+      "object": "user",
+      "fid": 920126,
+      "username": "hoop",
+      "display_name": "TwT",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/749d77c5-6fb1-44be-d094-db73ad9a9900/rectcrop3",
+      "custody_address": "0x7ccb99950594aa9cc78b638bcd9abe68457336d4",
+      "profile": {
+        "bio": {
+          "text": "梧桐樹下你和我"
+        }
+      },
+      "follower_count": 16,
+      "following_count": 54,
+      "verifications": [
+        "0x5f63b1d3fde3e707f55b965322835130f000945d",
+        "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xd141c497ee183d4567535a65bdd5d7196672f724",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "在做与不做之间消耗的能量比直接做消耗的更多 唯一需要考虑的就是如何通过学习加深理解",
+    "timestamp": "2025-02-22T01:51:45.000Z",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d4572a47-5a48-4780-53c7-be5f0aead700/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 403895,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 683,
+            "height_px": 1024
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x7b5408fa1b6ae42486c4fdc5ff0f310150388203",
+    "author": {
+      "object": "user",
+      "fid": 920126,
+      "username": "hoop",
+      "display_name": "TwT",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/749d77c5-6fb1-44be-d094-db73ad9a9900/rectcrop3",
+      "custody_address": "0x7ccb99950594aa9cc78b638bcd9abe68457336d4",
+      "profile": {
+        "bio": {
+          "text": "梧桐樹下你和我"
+        }
+      },
+      "follower_count": 16,
+      "following_count": 54,
+      "verifications": [
+        "0x5f63b1d3fde3e707f55b965322835130f000945d",
+        "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x7b5408fa1b6ae42486c4fdc5ff0f310150388203",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "大学听了好多讲座 但是那个时候好浮躁 不知道这只是一个兴趣的导师 更不知道皮毛需要自己探索才能不是皮毛",
+    "timestamp": "2025-02-22T01:51:03.000Z",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/aa689ce8-4171-46ee-4e60-32460efd0e00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 315775,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1024,
+            "height_px": 1536
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xaba1f366d91bd5eade3096fafe2f3905c40b346f",
+    "author": {
+      "object": "user",
+      "fid": 920126,
+      "username": "hoop",
+      "display_name": "TwT",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/749d77c5-6fb1-44be-d094-db73ad9a9900/rectcrop3",
+      "custody_address": "0x7ccb99950594aa9cc78b638bcd9abe68457336d4",
+      "profile": {
+        "bio": {
+          "text": "梧桐樹下你和我"
+        }
+      },
+      "follower_count": 16,
+      "following_count": 54,
+      "verifications": [
+        "0x5f63b1d3fde3e707f55b965322835130f000945d",
+        "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xaba1f366d91bd5eade3096fafe2f3905c40b346f",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "I feel so disgusting. Girls need to improve our self-worth and self-esteem. The more important thing is how you earn it rather than how much you earn.",
+    "timestamp": "2025-02-12T07:30:55.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xdb804c28a3c4f2db6ce275f983c074f6fc351f9d",
+    "author": {
+      "object": "user",
+      "fid": 920126,
+      "username": "hoop",
+      "display_name": "TwT",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/749d77c5-6fb1-44be-d094-db73ad9a9900/rectcrop3",
+      "custody_address": "0x7ccb99950594aa9cc78b638bcd9abe68457336d4",
+      "profile": {
+        "bio": {
+          "text": "梧桐樹下你和我"
+        }
+      },
+      "follower_count": 16,
+      "following_count": 54,
+      "verifications": [
+        "0x5f63b1d3fde3e707f55b965322835130f000945d",
+        "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xdb804c28a3c4f2db6ce275f983c074f6fc351f9d",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "What’s the most wanted position after a flash crash？ Even if spx drop 10%, EV is still relatively low compared with some Chinese assets.",
+    "timestamp": "2025-02-12T07:30:49.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x2cc097c8782a25d5809f5f32cb9ff5270b36e4a5",
+    "author": {
+      "object": "user",
+      "fid": 920126,
+      "username": "hoop",
+      "display_name": "TwT",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/749d77c5-6fb1-44be-d094-db73ad9a9900/rectcrop3",
+      "custody_address": "0x7ccb99950594aa9cc78b638bcd9abe68457336d4",
+      "profile": {
+        "bio": {
+          "text": "梧桐樹下你和我"
+        }
+      },
+      "follower_count": 16,
+      "following_count": 54,
+      "verifications": [
+        "0x5f63b1d3fde3e707f55b965322835130f000945d",
+        "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x2cc097c8782a25d5809f5f32cb9ff5270b36e4a5",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "如果利空出现的时候，价格不再下跌，那就是拐点。#tlt\n美股跌两周？",
+    "timestamp": "2025-02-12T07:30:44.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xeb945994ea83f3c9f5b60b656a7886b5cf2d1e49",
+    "author": {
+      "object": "user",
+      "fid": 920126,
+      "username": "hoop",
+      "display_name": "TwT",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/749d77c5-6fb1-44be-d094-db73ad9a9900/rectcrop3",
+      "custody_address": "0x7ccb99950594aa9cc78b638bcd9abe68457336d4",
+      "profile": {
+        "bio": {
+          "text": "梧桐樹下你和我"
+        }
+      },
+      "follower_count": 16,
+      "following_count": 54,
+      "verifications": [
+        "0x5f63b1d3fde3e707f55b965322835130f000945d",
+        "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xeb945994ea83f3c9f5b60b656a7886b5cf2d1e49",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "买点恒科技和地产。",
+    "timestamp": "2025-02-12T07:30:39.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 2,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 823871,
+          "fname": "veouz"
+        },
+        {
+          "fid": 834652,
+          "fname": "gaffr"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xc2a1598cec1136b3bab17ca2fafaabf45cb70589",
+    "author": {
+      "object": "user",
+      "fid": 920126,
+      "username": "hoop",
+      "display_name": "TwT",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/749d77c5-6fb1-44be-d094-db73ad9a9900/rectcrop3",
+      "custody_address": "0x7ccb99950594aa9cc78b638bcd9abe68457336d4",
+      "profile": {
+        "bio": {
+          "text": "梧桐樹下你和我"
+        }
+      },
+      "follower_count": 16,
+      "following_count": 54,
+      "verifications": [
+        "0x5f63b1d3fde3e707f55b965322835130f000945d",
+        "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xc2a1598cec1136b3bab17ca2fafaabf45cb70589",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "你们TSM check出来的什么信息",
+    "timestamp": "2025-02-12T07:30:31.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 1,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 834652,
+          "fname": "gaffr"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xdfe540ee768947a69b58ed48cdf5344277cbc329",
+    "author": {
+      "object": "user",
+      "fid": 920126,
+      "username": "hoop",
+      "display_name": "TwT",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/749d77c5-6fb1-44be-d094-db73ad9a9900/rectcrop3",
+      "custody_address": "0x7ccb99950594aa9cc78b638bcd9abe68457336d4",
+      "profile": {
+        "bio": {
+          "text": "梧桐樹下你和我"
+        }
+      },
+      "follower_count": 16,
+      "following_count": 54,
+      "verifications": [
+        "0x5f63b1d3fde3e707f55b965322835130f000945d",
+        "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xdfe540ee768947a69b58ed48cdf5344277cbc329",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "今年的置顶，主看大行情，但是波动剧烈。原因主要是：1）宏观主线应是“增长回落，通胀回落”，对主要资产价格的影响，取决于增长回落和通胀回落（分子和分母），哪个回落得更快；2）由于不确定增长回落和通胀回落哪个更快，对2024年美股偏中性，但长端美债有确定性机会；",
+    "timestamp": "2025-02-12T07:30:27.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 1,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 834652,
+          "fname": "gaffr"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x7ffd066fc68072a049ba55f056dd98e96266f6ac",
+    "author": {
+      "object": "user",
+      "fid": 920126,
+      "username": "hoop",
+      "display_name": "TwT",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/749d77c5-6fb1-44be-d094-db73ad9a9900/rectcrop3",
+      "custody_address": "0x7ccb99950594aa9cc78b638bcd9abe68457336d4",
+      "profile": {
+        "bio": {
+          "text": "梧桐樹下你和我"
+        }
+      },
+      "follower_count": 16,
+      "following_count": 54,
+      "verifications": [
+        "0x5f63b1d3fde3e707f55b965322835130f000945d",
+        "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x7ffd066fc68072a049ba55f056dd98e96266f6ac",
+    "parent_hash": null,
+    "parent_url": "chain://eip155:1/erc721:0xec0ba367a6edf483a252c3b093f012b9b1da8b3f",
+    "root_parent_url": "chain://eip155:1/erc721:0xec0ba367a6edf483a252c3b093f012b9b1da8b3f",
+    "parent_author": {
+      "fid": null
+    },
+    "text": "South India delicacy today for breakfast.",
+    "timestamp": "2025-02-12T07:28:18.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "food",
+      "name": "Food",
+      "image_url": "https://i.seadn.io/gcs/files/0d84654921fd65e3c1723bc74d976a07.png?auto=format&dpr=1&w=512"
+    },
+    "reactions": {
+      "likes_count": 2,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 834652,
+          "fname": "gaffr"
+        },
+        {
+          "fid": 822828,
+          "fname": "gantver1"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": false
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0xeeff0c04070e92ed3727e3b8cb46c7fecce93d77",
+    "author": {
+      "object": "user",
+      "fid": 920126,
+      "username": "hoop",
+      "display_name": "TwT",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/749d77c5-6fb1-44be-d094-db73ad9a9900/rectcrop3",
+      "custody_address": "0x7ccb99950594aa9cc78b638bcd9abe68457336d4",
+      "profile": {
+        "bio": {
+          "text": "梧桐樹下你和我"
+        }
+      },
+      "follower_count": 16,
+      "following_count": 54,
+      "verifications": [
+        "0x5f63b1d3fde3e707f55b965322835130f000945d",
+        "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xeeff0c04070e92ed3727e3b8cb46c7fecce93d77",
+    "parent_hash": null,
+    "parent_url": "chain://eip155:1/erc721:0xec0ba367a6edf483a252c3b093f012b9b1da8b3f",
+    "root_parent_url": "chain://eip155:1/erc721:0xec0ba367a6edf483a252c3b093f012b9b1da8b3f",
+    "parent_author": {
+      "fid": null
+    },
+    "text": "We'll be experimenting with lenient access first, but if the quality goes down we can iterate.",
+    "timestamp": "2025-02-12T07:28:10.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "food",
+      "name": "Food",
+      "image_url": "https://i.seadn.io/gcs/files/0d84654921fd65e3c1723bc74d976a07.png?auto=format&dpr=1&w=512"
+    },
+    "reactions": {
+      "likes_count": 1,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 822828,
+          "fname": "gantver1"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": false
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0x68e6f48a907756bbf2274445797e1aa2cb7c7fb7",
+    "author": {
+      "object": "user",
+      "fid": 920126,
+      "username": "hoop",
+      "display_name": "TwT",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/749d77c5-6fb1-44be-d094-db73ad9a9900/rectcrop3",
+      "custody_address": "0x7ccb99950594aa9cc78b638bcd9abe68457336d4",
+      "profile": {
+        "bio": {
+          "text": "梧桐樹下你和我"
+        }
+      },
+      "follower_count": 16,
+      "following_count": 54,
+      "verifications": [
+        "0x5f63b1d3fde3e707f55b965322835130f000945d",
+        "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x68e6f48a907756bbf2274445797e1aa2cb7c7fb7",
+    "parent_hash": null,
+    "parent_url": "https://warpcast.com/~/channel/jeeves",
+    "root_parent_url": "https://warpcast.com/~/channel/jeeves",
+    "parent_author": {
+      "fid": null
+    },
+    "text": "What’s the most wanted position after a flash crash？ Even if spx drop 10%, EV is still relatively low compared with some Chinese assets.",
+    "timestamp": "2025-01-15T11:32:52.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "jeeves",
+      "name": "jeeves",
+      "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7a28aae2-c465-4359-48bf-924d4d9ea900/original"
+    },
+    "reactions": {
+      "likes_count": 3,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 834652,
+          "fname": "gaffr"
+        },
+        {
+          "fid": 822828,
+          "fname": "gantver1"
+        },
+        {
+          "fid": 926076,
+          "fname": "qwaa"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": false
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0x43b943235e7c12c495ad1d9809a5381371ec60f3",
+    "author": {
+      "object": "user",
+      "fid": 920126,
+      "username": "hoop",
+      "display_name": "TwT",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/749d77c5-6fb1-44be-d094-db73ad9a9900/rectcrop3",
+      "custody_address": "0x7ccb99950594aa9cc78b638bcd9abe68457336d4",
+      "profile": {
+        "bio": {
+          "text": "梧桐樹下你和我"
+        }
+      },
+      "follower_count": 16,
+      "following_count": 54,
+      "verifications": [
+        "0x5f63b1d3fde3e707f55b965322835130f000945d",
+        "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x43b943235e7c12c495ad1d9809a5381371ec60f3",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "买点恒科技和地产。",
+    "timestamp": "2025-01-15T11:32:23.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 1,
+      "recasts_count": 1,
+      "likes": [
+        {
+          "fid": 933084,
+          "fname": "nkvp"
+        }
+      ],
+      "recasts": [
+        {
+          "fid": 822965,
+          "fname": "icedrink"
+        }
+      ]
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xb973b0cd4901c71f375de1df8abb949bff81dceb",
+    "author": {
+      "object": "user",
+      "fid": 920126,
+      "username": "hoop",
+      "display_name": "TwT",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/749d77c5-6fb1-44be-d094-db73ad9a9900/rectcrop3",
+      "custody_address": "0x7ccb99950594aa9cc78b638bcd9abe68457336d4",
+      "profile": {
+        "bio": {
+          "text": "梧桐樹下你和我"
+        }
+      },
+      "follower_count": 16,
+      "following_count": 54,
+      "verifications": [
+        "0x5f63b1d3fde3e707f55b965322835130f000945d",
+        "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xb973b0cd4901c71f375de1df8abb949bff81dceb",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "“灿谷（http://Cang.us） — 华丽转身，价值低估” by Cycle Trading\nhttps://medium.com/@Cycle_Trading_/%E7%81%BF%E8%B0%B7-cang-us-%E5%8D%8E%E4%B8%BD%E8%BD%AC%E8%BA%AB-%E4%BB%B7%E5%80%BC%E4%BD%8E%E4%BC%B0-d576b6f5e655\n“灿谷（http:// Cang.us） — 华丽转身，价值低估” by Cycle Trading\nhttps:// medium.com/@Cycle_Trading_/%E7%81%BF%E8%B0%B7-cang-us-%E5%8D%8E%E4%B8%BD%E8%BD%AC%E8%BA%AB-%E4%BB%B7%E5%80%BC%E4%BD%8E%E4%BC%B0-d576b6f5e655",
+    "timestamp": "2025-01-15T11:32:12.000Z",
+    "embeds": [
+      {
+        "url": "http://Cang.us",
+        "metadata": {
+          "content_type": "text/html",
+          "content_length": 114,
+          "_status": "RESOLVED",
+          "html": {}
+        }
+      },
+      {
+        "url": "https://medium.com/@Cycle_Trading_/%E7%81%BF%E8%B0%B7-cang-us-%E5%8D%8E%E4%B8%BD%E8%BD%AC%E8%BA%AB-%E4%BB%B7%E5%80%BC%E4%BD%8E%E4%BC%B0-d576b6f5e655",
+        "metadata": {
+          "_status": "PENDING"
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 1,
+      "recasts_count": 1,
+      "likes": [
+        {
+          "fid": 911704,
+          "fname": "weretettovie"
+        }
+      ],
+      "recasts": [
+        {
+          "fid": 913750,
+          "fname": "liseenhataramy"
+        }
+      ]
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xf4342be54207bcf1e7e1ed4c5b5cc810466f4123",
+    "author": {
+      "object": "user",
+      "fid": 920126,
+      "username": "hoop",
+      "display_name": "TwT",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/749d77c5-6fb1-44be-d094-db73ad9a9900/rectcrop3",
+      "custody_address": "0x7ccb99950594aa9cc78b638bcd9abe68457336d4",
+      "profile": {
+        "bio": {
+          "text": "梧桐樹下你和我"
+        }
+      },
+      "follower_count": 16,
+      "following_count": 54,
+      "verifications": [
+        "0x5f63b1d3fde3e707f55b965322835130f000945d",
+        "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xf4342be54207bcf1e7e1ed4c5b5cc810466f4123",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "今年的置顶，主看大行情，但是波动剧烈。原因主要是：1）宏观主线应是“增长回落，通胀回落”，对主要资产价格的影响，取决于增长回落和通胀回落（分子和分母），哪个回落得更快；2）由于不确定增长回落和通胀回落哪个更快，对2024年美股偏中性，但长端美债有确定性机会；",
+    "timestamp": "2025-01-15T11:31:56.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 3,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 823871,
+          "fname": "veouz"
+        },
+        {
+          "fid": 822828,
+          "fname": "gantver1"
+        },
+        {
+          "fid": 886848,
+          "fname": "shadokan"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x96fc27ba48f6d9407a49defed6224cbb5017a465",
+    "author": {
+      "object": "user",
+      "fid": 920126,
+      "username": "hoop",
+      "display_name": "TwT",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/749d77c5-6fb1-44be-d094-db73ad9a9900/rectcrop3",
+      "custody_address": "0x7ccb99950594aa9cc78b638bcd9abe68457336d4",
+      "profile": {
+        "bio": {
+          "text": "梧桐樹下你和我"
+        }
+      },
+      "follower_count": 16,
+      "following_count": 54,
+      "verifications": [
+        "0x5f63b1d3fde3e707f55b965322835130f000945d",
+        "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "0xef30617161d5b5e9c5bf92c0047ecdbe7f4b8b90"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5f63b1d3fde3e707f55b965322835130f000945d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x96fc27ba48f6d9407a49defed6224cbb5017a465",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "梧桐樹下你和我 我們做遊戲歡樂多又多",
+    "timestamp": "2024-12-26T10:12:08.000Z",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6e777f89-dfe8-4149-3ba4-c6dc006b9200/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 21108,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 600,
+            "height_px": 600
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 7,
+      "recasts_count": 1,
+      "likes": [
+        {
+          "fid": 822828,
+          "fname": "gantver1"
+        },
+        {
+          "fid": 913749,
+          "fname": "isimondmenisi"
+        },
+        {
+          "fid": 913750,
+          "fname": "liseenhataramy"
+        },
+        {
+          "fid": 887039,
+          "fname": "thewitchking"
+        },
+        {
+          "fid": 918660,
+          "fname": "xivel"
+        }
+      ],
+      "recasts": [
+        {
+          "fid": 855546,
+          "fname": "rtem"
+        }
+      ]
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  }
+]

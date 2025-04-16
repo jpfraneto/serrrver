@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "🤔",
+      "label": "Problem Solving Approach",
+      "description": "How will your FarTwin approach problems?",
+      "options": [
+        {
+          "value": "Logical",
+          "description": "Your FarTwin will analyze data and use logical reasoning to find solutions."
+        },
+        {
+          "value": "Creative",
+          "description": "Your FarTwin will think outside the box and explore unconventional approaches to solve problems."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Learning Style",
+      "description": "How does your FarTwin prefer to learn new information?",
+      "options": [
+        {
+          "value": "Visual",
+          "description": "Your FarTwin is a visual learner, using images and diagrams to understand complex concepts."
+        },
+        {
+          "value": "Auditory",
+          "description": "Your FarTwin is an auditory learner, preferring to listen and repeat information to understand it."
+        }
+      ]
+    },
+    {
+      "emoji": "💼",
+      "label": "Work Environment Preference",
+      "description": "How does your FarTwin prefer to work?",
+      "options": [
+        {
+          "value": "Independent",
+          "description": "Your FarTwin prefers to work independently, with minimal supervision and freedom to make decisions."
+        },
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin thrives in a collaborative environment, working closely with others to achieve shared goals."
+        }
+      ]
+    },
+    {
+      "emoji": "📱",
+      "label": "Communication Style",
+      "description": "How will your FarTwin communicate with others?",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Your FarTwin will communicate clearly and straightforwardly, stating opinions without hesitation or sugar-coating."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Your FarTwin will communicate tactfully and considerately, carefully choosing words to maintain harmony."
+        }
+      ]
+    },
+    {
+      "emoji": "😂",
+      "label": "Sense of Humor",
+      "description": "How does your FarTwin typically respond to humor?",
+      "options": [
+        {
+          "value": "Dry",
+          "description": "Your FarTwin has a dry sense of humor, often responding with sarcasm or irony."
+        },
+        {
+          "value": "Goofy",
+          "description": "Your FarTwin has a playful and lighthearted sense of humor, often laughing at things that others might find funny."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Relationship Style",
+      "description": "How does your FarTwin approach relationships?",
+      "options": [
+        {
+          "value": "Intimate",
+          "description": "Your FarTwin values deep, intimate connections with others, prioritizing emotional vulnerability and trust."
+        },
+        {
+          "value": "Casual",
+          "description": "Your FarTwin prefers to maintain casual, low-key relationships, avoiding intense emotional commitments."
+        }
+      ]
+    },
+    {
+      "emoji": "🎨",
+      "label": "Creative Expression",
+      "description": "How does your FarTwin express their creativity?",
+      "options": [
+        {
+          "value": "Visual",
+          "description": "Your FarTwin expresses themselves through visual art, such as painting or drawing."
+        },
+        {
+          "value": "Musical",
+          "description": "Your FarTwin expresses themselves through music, often playing an instrument or singing."
+        }
+      ]
+    },
+    {
+      "emoji": "🚀",
+      "label": "Risk Tolerance",
+      "description": "How does your FarTwin approach risk?",
+      "options": [
+        {
+          "value": "Thrill-Seeker",
+          "description": "Your FarTwin seeks out thrilling experiences and takes calculated risks to push their boundaries."
+        },
+        {
+          "value": "Cautionary",
+          "description": "Your FarTwin prefers to err on the side of caution, avoiding unnecessary risks and taking a more conservative approach."
+        }
+      ]
+    }
+  ]
+}

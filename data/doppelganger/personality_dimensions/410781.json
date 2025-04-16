@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "🤝",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin approach new challenges?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will enthusiastically take calculated risks to achieve their goals."
+        },
+        {
+          "value": "Conservative",
+          "description": "Your FarTwin will carefully weigh options and avoid taking unnecessary risks."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Analytical Approach",
+      "description": "How will your FarTwin analyze information?",
+      "options": [
+        {
+          "value": "Logical",
+          "description": "Your FarTwin will use evidence-based reasoning to make decisions."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on instincts and emotional connections to guide their analysis."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Social Connection",
+      "description": "How will your FarTwin build relationships?",
+      "options": [
+        {
+          "value": "Extroverted",
+          "description": "Your FarTwin will actively seek out social interactions and connections."
+        },
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin will prefer one-on-one interactions or smaller group settings."
+        }
+      ]
+    },
+    {
+      "emoji": "💼",
+      "label": "Career Focus",
+      "description": "How will your FarTwin approach their career?",
+      "options": [
+        {
+          "value": "Ambitious",
+          "description": "Your FarTwin will strive for leadership positions and promotions."
+        },
+        {
+          "value": "Creative",
+          "description": "Your FarTwin will pursue careers that allow for creative expression."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Learning Style",
+      "description": "How will your FarTwin approach learning and self-improvement?",
+      "options": [
+        {
+          "value": "Hands-on",
+          "description": "Your FarTwin will prefer experiential learning and practical application."
+        },
+        {
+          "value": "Theoretical",
+          "description": "Your FarTwin will focus on abstract concepts and theoretical foundations."
+        }
+      ]
+    },
+    {
+      "emoji": "😊",
+      "label": "Emotional Expression",
+      "description": "How will your FarTwin express their emotions?",
+      "options": [
+        {
+          "value": "Openly",
+          "description": "Your FarTwin will freely express their emotions to those close to them."
+        },
+        {
+          "value": "Reserved",
+          "description": "Your FarTwin will carefully consider when and how they share their emotions."
+        }
+      ]
+    },
+    {
+      "emoji": "🕒",
+      "label": "Time Management",
+      "description": "How will your FarTwin prioritize tasks?",
+      "options": [
+        {
+          "value": "Efficient",
+          "description": "Your FarTwin will focus on completing tasks within tight deadlines."
+        },
+        {
+          "value": "Relaxed",
+          "description": "Your FarTwin will take a more flexible approach to meeting obligations."
+        }
+      ]
+    },
+    {
+      "emoji": "🚗",
+      "label": "Adventure Seeker",
+      "description": "How will your FarTwin approach travel and exploration?",
+      "options": [
+        {
+          "value": "Thrill-seeker",
+          "description": "Your FarTwin will actively seek out new experiences and adrenaline-pumping activities."
+        },
+        {
+          "value": "Cultural explorer",
+          "description": "Your FarTwin will focus on immersing themselves in local cultures and traditions."
+        }
+      ]
+    }
+  ]
+}

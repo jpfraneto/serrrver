@@ -1,0 +1,343 @@
+[
+  {
+    "object": "cast",
+    "hash": "0xa5e7be9d9955a0f4eedb4b12814e59a3b7c5c3fa",
+    "author": {
+      "object": "user",
+      "fid": 271024,
+      "username": "airdeni",
+      "display_name": "airdeni",
+      "pfp_url": "https://i.imgur.com/t0hn1lH.jpg",
+      "custody_address": "0x30715148110ee0a893359f6ac8233b9d4293c036",
+      "profile": {
+        "bio": {
+          "text": ""
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0x1064bc5406bc61951cb62829e71eb966a012799e"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x1064bc5406bc61951cb62829e71eb966a012799e"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x1064bc5406bc61951cb62829e71eb966a012799e",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x93411933193f103582f5322772c91fbc571a4af0",
+    "parent_hash": "0x93411933193f103582f5322772c91fbc571a4af0",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 2074
+    },
+    "text": "Hey @clanker can you create coin\nName: Finn\nTicker: $Finn\nuse this image",
+    "timestamp": "2025-01-20T15:26:35.000Z",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/57052a3c-7353-40c0-c3fd-993de4271c00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 158100,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1680,
+            "height_px": 840
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 874542,
+        "username": "clanker",
+        "display_name": "tokenbot",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d34acf16-9002-4a2d-a163-c552d0816300/original",
+        "custody_address": "0x1e0365df407d82135561ccfb29a6fdc32dd9d28c",
+        "profile": {
+          "bio": {
+            "text": "create autonomous memecoins for free, get rewarded for posting bangers"
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [
+          "0xc204af95b0307162118f7bc36a91c9717490ab69",
+          "0xb9ed44627bea88846193171cb55b93c262429682"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0xc204af95b0307162118f7bc36a91c9717490ab69",
+            "0xb9ed44627bea88846193171cb55b93c262429682"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0xc204af95b0307162118f7bc36a91c9717490ab69",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [
+          {
+            "platform": "x",
+            "username": "clankeronbase"
+          }
+        ],
+        "power_badge": true
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 4,
+        "end": 12
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x753f8e3a3e8d2294100508927d9720a9ca9e4d55",
+    "author": {
+      "object": "user",
+      "fid": 271024,
+      "username": "airdeni",
+      "display_name": "airdeni",
+      "pfp_url": "https://i.imgur.com/t0hn1lH.jpg",
+      "custody_address": "0x30715148110ee0a893359f6ac8233b9d4293c036",
+      "profile": {
+        "bio": {
+          "text": ""
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0x1064bc5406bc61951cb62829e71eb966a012799e"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x1064bc5406bc61951cb62829e71eb966a012799e"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x1064bc5406bc61951cb62829e71eb966a012799e",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x753f8e3a3e8d2294100508927d9720a9ca9e4d55",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "gm",
+    "timestamp": "2024-11-25T06:29:46.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 1,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 838864,
+          "fname": "kudr"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xb90c9764d89084ff6cdaade6871d6315c0ddd238",
+    "author": {
+      "object": "user",
+      "fid": 271024,
+      "username": "airdeni",
+      "display_name": "airdeni",
+      "pfp_url": "https://i.imgur.com/t0hn1lH.jpg",
+      "custody_address": "0x30715148110ee0a893359f6ac8233b9d4293c036",
+      "profile": {
+        "bio": {
+          "text": ""
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0x1064bc5406bc61951cb62829e71eb966a012799e"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x1064bc5406bc61951cb62829e71eb966a012799e"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x1064bc5406bc61951cb62829e71eb966a012799e",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xbb7a622e390077a3f7bb7cc2e0a7fbe9bf6fb2be",
+    "parent_hash": "0xbb7a622e390077a3f7bb7cc2e0a7fbe9bf6fb2be",
+    "parent_url": null,
+    "root_parent_url": "https://warpcast.com/~/channel/dropframe",
+    "parent_author": {
+      "fid": 429257
+    },
+    "text": "free",
+    "timestamp": "2024-04-18T18:07:41.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "dropframe",
+      "name": "DropFrame.xyz",
+      "image_url": "https://i.imgur.com/SeFM6MX.jpg"
+    },
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": true
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0xf8765525a88c5ab387d01f1b6de26d5c06823b22",
+    "author": {
+      "object": "user",
+      "fid": 271024,
+      "username": "airdeni",
+      "display_name": "airdeni",
+      "pfp_url": "https://i.imgur.com/t0hn1lH.jpg",
+      "custody_address": "0x30715148110ee0a893359f6ac8233b9d4293c036",
+      "profile": {
+        "bio": {
+          "text": ""
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0x1064bc5406bc61951cb62829e71eb966a012799e"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x1064bc5406bc61951cb62829e71eb966a012799e"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x1064bc5406bc61951cb62829e71eb966a012799e",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x14c0afc7252aac28325c5663e2af3f5b8d7ef588",
+    "parent_hash": "0x14c0afc7252aac28325c5663e2af3f5b8d7ef588",
+    "parent_url": null,
+    "root_parent_url": "https://warpcast.com/~/channel/red",
+    "parent_author": {
+      "fid": 4923
+    },
+    "text": "0x1E6c02d4f25DFF92b8355ABBaC1b9522e0a7E8E9",
+    "timestamp": "2024-04-09T00:39:15.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "red",
+      "name": "red",
+      "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/40902790-a296-4e11-796e-40b65e9c7d00/original"
+    },
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": false
+    }
+  }
+]

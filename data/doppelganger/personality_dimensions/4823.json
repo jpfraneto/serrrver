@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "",
+      "label": "Communication Style",
+      "description": "How will your FarTwin communicate with others?",
+      "options": [
+        {
+          "value": "",
+          "description": "Direct and straightforward"
+        },
+        {
+          "value": "",
+          "description": "Thoughtful and nuanced"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Problem-Solving Approach",
+      "description": "How will your FarTwin approach complex problems?",
+      "options": [
+        {
+          "value": "",
+          "description": "Logical and analytical"
+        },
+        {
+          "value": "",
+          "description": "Creative and outside-the-box"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Confidence Level",
+      "description": "How confident will your FarTwin be in their decisions?",
+      "options": [
+        {
+          "value": "",
+          "description": "Self-assured"
+        },
+        {
+          "value": "",
+          "description": "Cautious"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Social Dynamics",
+      "description": "How will your FarTwin interact with people in social situations?",
+      "options": [
+        {
+          "value": "",
+          "description": "Outgoing and assertive"
+        },
+        {
+          "value": "",
+          "description": "Reserved and observant"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Learning Style",
+      "description": "How will your FarTwin approach new information?",
+      "options": [
+        {
+          "value": "",
+          "description": "Competitive and driven"
+        },
+        {
+          "value": "",
+          "description": "Curious and open-minded"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Risk Tolerance",
+      "description": "How willing is your FarTwin to take risks?",
+      "options": [
+        {
+          "value": "",
+          "description": "Thrill-seeking"
+        },
+        {
+          "value": "",
+          "description": "Cautious"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Emotional Expression",
+      "description": "How will your FarTwin express their emotions?",
+      "options": [
+        {
+          "value": "",
+          "description": "Vocal and expressive"
+        },
+        {
+          "value": "",
+          "description": "Introverted and reserved"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Perfectionism",
+      "description": "How demanding will your FarTwin be of themselves?",
+      "options": [
+        {
+          "value": "",
+          "description": "Meticulous"
+        },
+        {
+          "value": "",
+          "description": "Flexible"
+        }
+      ]
+    }
+  ]
+}

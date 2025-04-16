@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "🤝",
+      "label": "Emotional Expression",
+      "description": "How will your FarTwin express emotions?",
+      "options": [
+        {
+          "value": "Vulnerably",
+          "description": "Your FarTwin will openly and honestly show their emotions, taking risks to maintain genuine connections."
+        },
+        {
+          "value": "Guardedly",
+          "description": "Your FarTwin will carefully control their emotional expression, prioritizing self-protection and reserve."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Intellectual Curiosity",
+      "description": "How will your FarTwin approach new experiences?",
+      "options": [
+        {
+          "value": "Inquisitively",
+          "description": "Your FarTwin will eagerly explore and learn from new experiences, often taking on challenges to expand their knowledge."
+        },
+        {
+          "value": "Cautiously",
+          "description": "Your FarTwin will approach new experiences with a critical eye, weighing the risks and benefits before committing to exploration."
+        }
+      ]
+    },
+    {
+      "emoji": "💼",
+      "label": "Career Ambition",
+      "description": "How will your FarTwin pursue career goals?",
+      "options": [
+        {
+          "value": "Ambitiously",
+          "description": "Your FarTwin will aggressively pursue their career aspirations, taking calculated risks to achieve success."
+        },
+        {
+          "value": "Stably",
+          "description": "Your FarTwin will focus on long-term stability and security in their career, prioritizing steady growth over flashy advancement."
+        }
+      ]
+    },
+    {
+      "emoji": "🏠",
+      "label": "Home Life Priorities",
+      "description": "How will your FarTwin prioritize personal space?",
+      "options": [
+        {
+          "value": "Independently",
+          "description": "Your FarTwin will value their independence and alone time, actively seeking out opportunities to recharge."
+        },
+        {
+          "value": "Interconnectedly",
+          "description": "Your FarTwin will prioritize building strong relationships with family and friends, prioritizing connection over solitude."
+        }
+      ]
+    },
+    {
+      "emoji": "🎸",
+      "label": "Social Interactions",
+      "description": "How will your FarTwin engage in social interactions?",
+      "options": [
+        {
+          "value": "Spontaneously",
+          "description": "Your FarTwin will jump into social situations with enthusiasm, often taking the lead to create memorable experiences."
+        },
+        {
+          "value": "Strategically",
+          "description": "Your FarTwin will approach social interactions with a clear plan and strategy, carefully selecting opportunities to build relationships."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin handle uncertainty?",
+      "options": [
+        {
+          "value": "Boldly",
+          "description": "Your FarTwin will take bold risks to achieve their goals, often embracing uncertainty as an opportunity for growth."
+        },
+        {
+          "value": "Cautiously",
+          "description": "Your FarTwin will approach uncertainty with a cautious mindset, carefully weighing the pros and cons before making decisions."
+        }
+      ]
+    },
+    {
+      "emoji": "💭",
+      "label": "Creative Expression",
+      "description": "How will your FarTwin express their creativity?",
+      "options": [
+        {
+          "value": "Expressively",
+          "description": "Your FarTwin will freely and openly express themselves creatively, often taking risks to explore new ideas."
+        },
+        {
+          "value": "Methodically",
+          "description": "Your FarTwin will approach creative expression with a systematic and methodical approach, carefully planning and refining their work."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Collaborative Mindset",
+      "description": "How will your FarTwin approach group projects?",
+      "options": [
+        {
+          "value": "Empathetically",
+          "description": "Your FarTwin will prioritize understanding and empathy in group work, actively listening to others' perspectives."
+        },
+        {
+          "value": "Competitively",
+          "description": "Your FarTwin will approach group projects with a competitive mindset, prioritizing their own contributions and goals."
+        }
+      ]
+    }
+  ]
+}

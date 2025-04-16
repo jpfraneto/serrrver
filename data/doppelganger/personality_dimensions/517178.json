@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "🤔",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin handle financial risks?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will take bold and calculated risks to pursue opportunities."
+        },
+        {
+          "value": "Conservative",
+          "description": "Your FarTwin will prioritize caution and stability, avoiding high-risk investments."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Learning Style",
+      "description": "How will your FarTwin approach new skills and knowledge?",
+      "options": [
+        {
+          "value": "Experiential",
+          "description": "Your FarTwin will learn by doing, preferring hands-on experience over theoretical studies."
+        },
+        {
+          "value": "Theoretical",
+          "description": "Your FarTwin will focus on abstract concepts and theoretical foundations, often neglecting practical applications."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Analytical Thinking",
+      "description": "How will your FarTwin approach problem-solving?",
+      "options": [
+        {
+          "value": "Logical",
+          "description": "Your FarTwin will use reason and evidence to arrive at solutions, valuing accuracy above all else."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will trust their instincts and rely on gut feelings to guide decision-making."
+        }
+      ]
+    },
+    {
+      "emoji": "👥",
+      "label": "Social Interaction",
+      "description": "How will your FarTwin handle social gatherings?",
+      "options": [
+        {
+          "value": "Extroverted",
+          "description": "Your FarTwin will thrive in social settings, enjoying the company of others and often taking center stage."
+        },
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin will prefer quieter environments, recharging alone before engaging with others."
+        }
+      ]
+    },
+    {
+      "emoji": "💸",
+      "label": "Financial Priorities",
+      "description": "How will your FarTwin manage their finances?",
+      "options": [
+        {
+          "value": "Frugal",
+          "description": "Your FarTwin will prioritize saving and investing, striving to accumulate wealth over short-term indulgences."
+        },
+        {
+          "value": "Spender",
+          "description": "Your FarTwin will focus on enjoying life's luxuries, spending money on experiences and possessions that bring joy."
+        }
+      ]
+    },
+    {
+      "emoji": "🕰️",
+      "label": "Time Management",
+      "description": "How will your FarTwin prioritize their schedule?",
+      "options": [
+        {
+          "value": "Flexible",
+          "description": "Your FarTwin will be adaptable and spontaneous, responding to changing circumstances rather than adhering to strict routines."
+        },
+        {
+          "value": "Structured",
+          "description": "Your FarTwin will prioritize planning and organization, using schedules and to-do lists to stay on track."
+        }
+      ]
+    },
+    {
+      "emoji": "😊",
+      "label": "Emotional Expression",
+      "description": "How will your FarTwin express their emotions?",
+      "options": [
+        {
+          "value": "Vocal",
+          "description": "Your FarTwin will openly share their feelings, using verbal communication to convey emotions and needs."
+        },
+        {
+          "value": "Nonverbal",
+          "description": "Your FarTwin will manage their emotions internally, relying on body language and tone of voice to convey affect."
+        }
+      ]
+    },
+    {
+      "emoji": "📝",
+      "label": "Creativity Expression",
+      "description": "How will your FarTwin showcase their creativity?",
+      "options": [
+        {
+          "value": "Artistic",
+          "description": "Your FarTwin will channel their creativity into visual arts, music, or other creative pursuits."
+        },
+        {
+          "value": "Written",
+          "description": "Your FarTwin will express themselves through writing, whether fiction, journalism, or another form of storytelling."
+        }
+      ]
+    }
+  ]
+}

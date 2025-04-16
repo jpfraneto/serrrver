@@ -1,0 +1,1047 @@
+[
+  {
+    "object": "cast",
+    "hash": "0xf1d6d967b3a8de2e981e598bfc09285ec47908cc",
+    "author": {
+      "object": "user",
+      "fid": 641762,
+      "username": "weeklyhackathon.eth",
+      "display_name": "$hackathon",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0378d4de-9ac2-4dfb-ee0d-4a09475d6d00/rectcrop3",
+      "custody_address": "0x8841e893107fd0164cb75e7c3ad0cc25b00d1452",
+      "profile": {
+        "bio": {
+          "text": "reinventing the coliseum for the builders of the new internet"
+        }
+      },
+      "follower_count": 58,
+      "following_count": 5,
+      "verifications": [
+        "0x59e95e50058c3d6900c9c28dfabbcc59a47deec0",
+        "0x838eb07d7f2de4a86f43d55d2817702686852ba8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x59e95e50058c3d6900c9c28dfabbcc59a47deec0",
+          "0x838eb07d7f2de4a86f43d55d2817702686852ba8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x838eb07d7f2de4a86f43d55d2817702686852ba8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "weeklyhackathon"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xbebc2f7bf0c9081b516700e8d7bed2b0d609b9b8",
+    "parent_hash": "0xdbd2879c08b87ba3e12a876c8401b727530e856a",
+    "parent_url": null,
+    "root_parent_url": "https://warpcast.com/~/channel/weeklyhackathon",
+    "parent_author": {
+      "fid": 15732
+    },
+    "text": "thinking through all possibilities and how to keep things interesting for folks. one hackathon every week is exhausting -both from an organization standpoint-, and on a developer POV\n\nhow would you do this? how does $hackathon win?",
+    "timestamp": "2025-01-22T19:16:25.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "weeklyhackathon",
+      "name": "$hackathon",
+      "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0b600184-68a5-4864-9e4e-587c81671100/original"
+    },
+    "reactions": {
+      "likes_count": 1,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 15732,
+          "fname": "kompreni"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": false
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0x21ea9e11c74464d9112944c37bfcacf7fc36c6f7",
+    "author": {
+      "object": "user",
+      "fid": 641762,
+      "username": "weeklyhackathon.eth",
+      "display_name": "$hackathon",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0378d4de-9ac2-4dfb-ee0d-4a09475d6d00/rectcrop3",
+      "custody_address": "0x8841e893107fd0164cb75e7c3ad0cc25b00d1452",
+      "profile": {
+        "bio": {
+          "text": "reinventing the coliseum for the builders of the new internet"
+        }
+      },
+      "follower_count": 58,
+      "following_count": 5,
+      "verifications": [
+        "0x59e95e50058c3d6900c9c28dfabbcc59a47deec0",
+        "0x838eb07d7f2de4a86f43d55d2817702686852ba8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x59e95e50058c3d6900c9c28dfabbcc59a47deec0",
+          "0x838eb07d7f2de4a86f43d55d2817702686852ba8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x838eb07d7f2de4a86f43d55d2817702686852ba8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "weeklyhackathon"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x21ea9e11c74464d9112944c37bfcacf7fc36c6f7",
+    "parent_hash": null,
+    "parent_url": "https://warpcast.com/~/channel/weeklyhackathon",
+    "root_parent_url": "https://warpcast.com/~/channel/weeklyhackathon",
+    "parent_author": {
+      "fid": null
+    },
+    "text": "for $hackathon to succeed, we need to learn about what people want and iterate with that in mind\n\nand the target market is clear: hackers\n\nprogrammers that want to evolve on their craft, and understand how to create stuff that people like. or that they like",
+    "timestamp": "2025-01-22T18:18:42.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "weeklyhackathon",
+      "name": "$hackathon",
+      "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0b600184-68a5-4864-9e4e-587c81671100/original"
+    },
+    "reactions": {
+      "likes_count": 4,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 13505,
+          "fname": "jvaleska.eth"
+        },
+        {
+          "fid": 6861,
+          "fname": "boredhead"
+        },
+        {
+          "fid": 407932,
+          "fname": "nicocapital"
+        },
+        {
+          "fid": 16098,
+          "fname": "jpfraneto.eth"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": false
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0x32a0f30c1534fea591a0ef1091d69fbdee572fd9",
+    "author": {
+      "object": "user",
+      "fid": 641762,
+      "username": "weeklyhackathon.eth",
+      "display_name": "$hackathon",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0378d4de-9ac2-4dfb-ee0d-4a09475d6d00/rectcrop3",
+      "custody_address": "0x8841e893107fd0164cb75e7c3ad0cc25b00d1452",
+      "profile": {
+        "bio": {
+          "text": "reinventing the coliseum for the builders of the new internet"
+        }
+      },
+      "follower_count": 58,
+      "following_count": 5,
+      "verifications": [
+        "0x59e95e50058c3d6900c9c28dfabbcc59a47deec0",
+        "0x838eb07d7f2de4a86f43d55d2817702686852ba8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x59e95e50058c3d6900c9c28dfabbcc59a47deec0",
+          "0x838eb07d7f2de4a86f43d55d2817702686852ba8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x838eb07d7f2de4a86f43d55d2817702686852ba8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "weeklyhackathon"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xbebc2f7bf0c9081b516700e8d7bed2b0d609b9b8",
+    "parent_hash": "0xea72f11936a970a6e92ed726127226acf1acb447",
+    "parent_url": null,
+    "root_parent_url": "https://warpcast.com/~/channel/weeklyhackathon",
+    "parent_author": {
+      "fid": 158
+    },
+    "text": "thanks breck. thank you for being part of it",
+    "timestamp": "2025-01-21T15:38:06.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "weeklyhackathon",
+      "name": "$hackathon",
+      "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0b600184-68a5-4864-9e4e-587c81671100/original"
+    },
+    "reactions": {
+      "likes_count": 1,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 158,
+          "fname": "breck"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": false
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0xa6627b33788acbd2e9da5f892f6f42820bb1004b",
+    "author": {
+      "object": "user",
+      "fid": 641762,
+      "username": "weeklyhackathon.eth",
+      "display_name": "$hackathon",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0378d4de-9ac2-4dfb-ee0d-4a09475d6d00/rectcrop3",
+      "custody_address": "0x8841e893107fd0164cb75e7c3ad0cc25b00d1452",
+      "profile": {
+        "bio": {
+          "text": "reinventing the coliseum for the builders of the new internet"
+        }
+      },
+      "follower_count": 58,
+      "following_count": 5,
+      "verifications": [
+        "0x59e95e50058c3d6900c9c28dfabbcc59a47deec0",
+        "0x838eb07d7f2de4a86f43d55d2817702686852ba8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x59e95e50058c3d6900c9c28dfabbcc59a47deec0",
+          "0x838eb07d7f2de4a86f43d55d2817702686852ba8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x838eb07d7f2de4a86f43d55d2817702686852ba8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "weeklyhackathon"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xc116e45a801d7c1f6be8046196b0a9bab38d12b2",
+    "parent_hash": "0xc116e45a801d7c1f6be8046196b0a9bab38d12b2",
+    "parent_url": null,
+    "root_parent_url": "https://ethereum.org",
+    "parent_author": {
+      "fid": 3612
+    },
+    "text": "cc @ionspired this could be a good potential opportunity",
+    "timestamp": "2025-01-21T15:37:32.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "ethereum",
+      "name": "Ethereum",
+      "image_url": "https://warpcast.com/~/channel-images/ethereum.png"
+    },
+    "reactions": {
+      "likes_count": 2,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 3612,
+          "fname": "furqan"
+        },
+        {
+          "fid": 410781,
+          "fname": "ionspired"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 410781,
+        "username": "ionspired",
+        "display_name": "ionspired",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5c6f42be-a8e6-4ac9-60b0-8e565c101b00/original",
+        "custody_address": "0x7d8c558a7184af15efe4dfc627d8a3beb3a7bde5",
+        "profile": {
+          "bio": {
+            "text": "Engineer coding in English t.me/agentstoagents meta chat (drb)",
+            "mentioned_channels": [
+              {
+                "object": "channel_dehydrated",
+                "id": "agentstoagents",
+                "name": "agents to agents",
+                "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cb45cf9f-c130-481f-952b-da6e21004300/original"
+              }
+            ],
+            "mentioned_channels_ranges": [
+              {
+                "start": 27,
+                "end": 42
+              }
+            ]
+          }
+        },
+        "follower_count": 2227,
+        "following_count": 1324,
+        "verifications": [
+          "0x657143820ee59b5f0da0de12bd199674178777cd",
+          "0x6454d56f68b270d7014fe9d32a4af430efd3067e"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x657143820ee59b5f0da0de12bd199674178777cd",
+            "0x6454d56f68b270d7014fe9d32a4af430efd3067e"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0x657143820ee59b5f0da0de12bd199674178777cd",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [
+          {
+            "platform": "x",
+            "username": "ionspired"
+          }
+        ],
+        "power_badge": true
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 3,
+        "end": 13
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": true
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0xbebc2f7bf0c9081b516700e8d7bed2b0d609b9b8",
+    "author": {
+      "object": "user",
+      "fid": 641762,
+      "username": "weeklyhackathon.eth",
+      "display_name": "$hackathon",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0378d4de-9ac2-4dfb-ee0d-4a09475d6d00/rectcrop3",
+      "custody_address": "0x8841e893107fd0164cb75e7c3ad0cc25b00d1452",
+      "profile": {
+        "bio": {
+          "text": "reinventing the coliseum for the builders of the new internet"
+        }
+      },
+      "follower_count": 58,
+      "following_count": 5,
+      "verifications": [
+        "0x59e95e50058c3d6900c9c28dfabbcc59a47deec0",
+        "0x838eb07d7f2de4a86f43d55d2817702686852ba8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x59e95e50058c3d6900c9c28dfabbcc59a47deec0",
+          "0x838eb07d7f2de4a86f43d55d2817702686852ba8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x838eb07d7f2de4a86f43d55d2817702686852ba8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "weeklyhackathon"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xbebc2f7bf0c9081b516700e8d7bed2b0d609b9b8",
+    "parent_hash": null,
+    "parent_url": "https://warpcast.com/~/channel/weeklyhackathon",
+    "root_parent_url": "https://warpcast.com/~/channel/weeklyhackathon",
+    "parent_author": {
+      "fid": null
+    },
+    "text": "this is the final leaderboard of the first cycle of $hackathon\n\nall the rewards allocated were delivered. if there are doubts or feedback, please reply here or via DC. lots of lessons learned with this one. your questions or feedback will help uncover them with more clarity\n\nthank you to everyone that participated",
+    "timestamp": "2025-01-20T20:24:49.000Z",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d5d629fa-62ad-49dc-57d5-6872f98fc100/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 360652,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1364,
+            "height_px": 1372
+          }
+        }
+      }
+    ],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "weeklyhackathon",
+      "name": "$hackathon",
+      "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0b600184-68a5-4864-9e4e-587c81671100/original"
+    },
+    "reactions": {
+      "likes_count": 8,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 6861,
+          "fname": "boredhead"
+        },
+        {
+          "fid": 407932,
+          "fname": "nicocapital"
+        },
+        {
+          "fid": 208481,
+          "fname": "accsemble"
+        },
+        {
+          "fid": 262800,
+          "fname": "itsmide.eth"
+        },
+        {
+          "fid": 158,
+          "fname": "breck"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 3
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": false
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0x3936b26e23897ae93e6ed0dd3c85bcb1ab3529b3",
+    "author": {
+      "object": "user",
+      "fid": 641762,
+      "username": "weeklyhackathon.eth",
+      "display_name": "$hackathon",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0378d4de-9ac2-4dfb-ee0d-4a09475d6d00/rectcrop3",
+      "custody_address": "0x8841e893107fd0164cb75e7c3ad0cc25b00d1452",
+      "profile": {
+        "bio": {
+          "text": "reinventing the coliseum for the builders of the new internet"
+        }
+      },
+      "follower_count": 58,
+      "following_count": 5,
+      "verifications": [
+        "0x59e95e50058c3d6900c9c28dfabbcc59a47deec0",
+        "0x838eb07d7f2de4a86f43d55d2817702686852ba8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x59e95e50058c3d6900c9c28dfabbcc59a47deec0",
+          "0x838eb07d7f2de4a86f43d55d2817702686852ba8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x838eb07d7f2de4a86f43d55d2817702686852ba8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "weeklyhackathon"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x3936b26e23897ae93e6ed0dd3c85bcb1ab3529b3",
+    "parent_hash": null,
+    "parent_url": "https://warpcast.com/~/channel/weeklyhackathon",
+    "root_parent_url": "https://warpcast.com/~/channel/weeklyhackathon",
+    "parent_author": {
+      "fid": null
+    },
+    "text": "more than 20 people have voted for their favorite project of $hackathon week one.\n\nif you are on that group:\n\nwhy?\n\nwhy did you choose /that/ hacker?\n\n(voting ends in ~6 hours)\n\nprize pool:",
+    "timestamp": "2025-01-19T00:23:50.000Z",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4416a03f-cc2c-42a5-21e5-9911a5453e00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 35358,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1179,
+            "height_px": 343
+          }
+        }
+      }
+    ],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "weeklyhackathon",
+      "name": "$hackathon",
+      "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0b600184-68a5-4864-9e4e-587c81671100/original"
+    },
+    "reactions": {
+      "likes_count": 6,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 875457,
+          "fname": "acrossthemap"
+        },
+        {
+          "fid": 838003,
+          "fname": "loopyracer"
+        },
+        {
+          "fid": 897792,
+          "fname": "mistynwilliams55"
+        },
+        {
+          "fid": 6861,
+          "fname": "boredhead"
+        },
+        {
+          "fid": 870594,
+          "fname": "shomari.eth"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 2
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [
+      {
+        "object": "channel_dehydrated",
+        "id": "that",
+        "name": "that"
+      }
+    ],
+    "mentioned_channels_ranges": [
+      {
+        "start": 135,
+        "end": 140
+      }
+    ],
+    "author_channel_context": {
+      "following": false
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0xe6ed5af189e2ef326a4dc2ee91bb8054ce79759d",
+    "author": {
+      "object": "user",
+      "fid": 641762,
+      "username": "weeklyhackathon.eth",
+      "display_name": "$hackathon",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0378d4de-9ac2-4dfb-ee0d-4a09475d6d00/rectcrop3",
+      "custody_address": "0x8841e893107fd0164cb75e7c3ad0cc25b00d1452",
+      "profile": {
+        "bio": {
+          "text": "reinventing the coliseum for the builders of the new internet"
+        }
+      },
+      "follower_count": 58,
+      "following_count": 5,
+      "verifications": [
+        "0x59e95e50058c3d6900c9c28dfabbcc59a47deec0",
+        "0x838eb07d7f2de4a86f43d55d2817702686852ba8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x59e95e50058c3d6900c9c28dfabbcc59a47deec0",
+          "0x838eb07d7f2de4a86f43d55d2817702686852ba8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x838eb07d7f2de4a86f43d55d2817702686852ba8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "weeklyhackathon"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xe6ed5af189e2ef326a4dc2ee91bb8054ce79759d",
+    "parent_hash": null,
+    "parent_url": "chain://eip155:1/erc721:0x7dd4e31f1530ac682c8ea4d8016e95773e08d8b0",
+    "root_parent_url": "chain://eip155:1/erc721:0x7dd4e31f1530ac682c8ea4d8016e95773e08d8b0",
+    "parent_author": {
+      "fid": null
+    },
+    "text": "week-1 is over\n\nand that means that week-2 started\n\nto celebrate, we just published our first rodeo piece. the banner for this second week:\n\n\"power to the curious\"\n\ngo, mint and start hacking\n\nhttps://rodeo.club/post/0x42AD840E8567f30cd86dD0EFE3D56CBcab4d82d5/1",
+    "timestamp": "2025-01-17T16:06:28.000Z",
+    "embeds": [
+      {
+        "url": "https://rodeo.club/post/0x42AD840E8567f30cd86dD0EFE3D56CBcab4d82d5/1",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/meta/favicon.svg",
+            "ogImage": [
+              {
+                "url": "https://rodeo.club/api/frame/post/0x42AD840E8567f30cd86dD0EFE3D56CBcab4d82d5/1/imageHandler/og"
+              }
+            ],
+            "ogTitle": "power to the curious - Rodeo",
+            "ogDescription": "$hackathon week-2 challenge is LIVE on github\nfork \nclone\ncode\nsubmit\nevolve\nhttps://github.com/weeklyhackathon.com/week-2"
+          }
+        }
+      }
+    ],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "dev",
+      "name": "dev",
+      "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreigbei45ni5zsliszzeivotgee5auj2ykkh6zrzjwvm4izviidusny"
+    },
+    "frames": [
+      {
+        "version": "vNext",
+        "title": "power to the curious - Rodeo",
+        "image": "https://rodeo.club/api/frame/post/0x42AD840E8567f30cd86dD0EFE3D56CBcab4d82d5/1/imageHandler",
+        "image_aspect_ratio": "1:1",
+        "buttons": [
+          {
+            "index": 1,
+            "title": "View on Rodeo",
+            "action_type": "link",
+            "target": "https://rodeo.club/post/0x42AD840E8567f30cd86dD0EFE3D56CBcab4d82d5/1"
+          }
+        ],
+        "input": {},
+        "state": {},
+        "post_url": "https://rodeo.club/api/frame/post/0x42AD840E8567f30cd86dD0EFE3D56CBcab4d82d5/1/result?initialPath=%252Fapi%252Fframe%252Fpost%252F0x42AD840E8567f30cd86dD0EFE3D56CBcab4d82d5%252F1&amp;previousButtonValues=%2523A__l",
+        "frames_url": "https://rodeo.club/post/0x42AD840E8567f30cd86dD0EFE3D56CBcab4d82d5/1"
+      }
+    ],
+    "reactions": {
+      "likes_count": 5,
+      "recasts_count": 2,
+      "likes": [
+        {
+          "fid": 884679,
+          "fname": "dhoxin565"
+        },
+        {
+          "fid": 477997,
+          "fname": "web3designer"
+        },
+        {
+          "fid": 6861,
+          "fname": "boredhead"
+        },
+        {
+          "fid": 16098,
+          "fname": "jpfraneto.eth"
+        },
+        {
+          "fid": 5698,
+          "fname": "0xcaso"
+        }
+      ],
+      "recasts": [
+        {
+          "fid": 884240,
+          "fname": "kyrusious907"
+        },
+        {
+          "fid": 884158,
+          "fname": "mxtch5889"
+        }
+      ]
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": true
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0x4d2427cfa52bb6ec353ddb2c2412c482f9b916fa",
+    "author": {
+      "object": "user",
+      "fid": 641762,
+      "username": "weeklyhackathon.eth",
+      "display_name": "$hackathon",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0378d4de-9ac2-4dfb-ee0d-4a09475d6d00/rectcrop3",
+      "custody_address": "0x8841e893107fd0164cb75e7c3ad0cc25b00d1452",
+      "profile": {
+        "bio": {
+          "text": "reinventing the coliseum for the builders of the new internet"
+        }
+      },
+      "follower_count": 58,
+      "following_count": 5,
+      "verifications": [
+        "0x59e95e50058c3d6900c9c28dfabbcc59a47deec0",
+        "0x838eb07d7f2de4a86f43d55d2817702686852ba8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x59e95e50058c3d6900c9c28dfabbcc59a47deec0",
+          "0x838eb07d7f2de4a86f43d55d2817702686852ba8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x838eb07d7f2de4a86f43d55d2817702686852ba8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "weeklyhackathon"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x4d2427cfa52bb6ec353ddb2c2412c482f9b916fa",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "what is the actual value that farcaster frames bring to the internet?\n\nthat is the question that we are answering. whoever manages to answer it practically will likely win",
+    "timestamp": "2025-01-13T14:35:47.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 5,
+      "recasts_count": 3,
+      "likes": [
+        {
+          "fid": 885279,
+          "fname": "humblesin14"
+        },
+        {
+          "fid": 875395,
+          "fname": "captjakesparrow"
+        },
+        {
+          "fid": 857996,
+          "fname": "plantboiq"
+        },
+        {
+          "fid": 407932,
+          "fname": "nicocapital"
+        },
+        {
+          "fid": 6861,
+          "fname": "boredhead"
+        }
+      ],
+      "recasts": [
+        {
+          "fid": 884807,
+          "fname": "emj2508"
+        },
+        {
+          "fid": 897801,
+          "fname": "malahkya453"
+        },
+        {
+          "fid": 856879,
+          "fname": "gostwz"
+        }
+      ]
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x9a68ceceb342b4f99deb664c3efb9fd3a374ec09",
+    "author": {
+      "object": "user",
+      "fid": 641762,
+      "username": "weeklyhackathon.eth",
+      "display_name": "$hackathon",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0378d4de-9ac2-4dfb-ee0d-4a09475d6d00/rectcrop3",
+      "custody_address": "0x8841e893107fd0164cb75e7c3ad0cc25b00d1452",
+      "profile": {
+        "bio": {
+          "text": "reinventing the coliseum for the builders of the new internet"
+        }
+      },
+      "follower_count": 58,
+      "following_count": 5,
+      "verifications": [
+        "0x59e95e50058c3d6900c9c28dfabbcc59a47deec0",
+        "0x838eb07d7f2de4a86f43d55d2817702686852ba8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x59e95e50058c3d6900c9c28dfabbcc59a47deec0",
+          "0x838eb07d7f2de4a86f43d55d2817702686852ba8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x838eb07d7f2de4a86f43d55d2817702686852ba8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "weeklyhackathon"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x9a68ceceb342b4f99deb664c3efb9fd3a374ec09",
+    "parent_hash": null,
+    "parent_url": "https://warpcast.com/~/channel/weeklyhackathon",
+    "root_parent_url": "https://warpcast.com/~/channel/weeklyhackathon",
+    "parent_author": {
+      "fid": null
+    },
+    "text": "$hackathon is a coordination experiment where we work towards a common goal:\n\ncreate farcaster public goods that help grow and evolve our ecosystem \n\ncontribute and participate on this week’s challenge:\n\nhttps://weeklyhackathon.com",
+    "timestamp": "2025-01-13T10:59:44.000Z",
+    "embeds": [
+      {
+        "url": "https://weeklyhackathon.com",
+        "metadata": {
+          "content_type": "text/html",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://weeklyhackathon.com",
+            "ogType": "website",
+            "favicon": "/hackathon.png",
+            "ogImage": [
+              {
+                "url": "https://github.com/jpfraneto/images/blob/main/hackathon-banner-.png?raw=true",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "weekly $hackathon",
+            "ogLocale": "en",
+            "ogDescription": "Build and Earn"
+          }
+        }
+      }
+    ],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "weeklyhackathon",
+      "name": "$hackathon",
+      "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0b600184-68a5-4864-9e4e-587c81671100/original"
+    },
+    "reactions": {
+      "likes_count": 12,
+      "recasts_count": 1,
+      "likes": [
+        {
+          "fid": 884107,
+          "fname": "conke223"
+        },
+        {
+          "fid": 884808,
+          "fname": "areos795"
+        },
+        {
+          "fid": 884069,
+          "fname": "bveillon688"
+        },
+        {
+          "fid": 884338,
+          "fname": "thighpillow8080"
+        },
+        {
+          "fid": 6473,
+          "fname": "albiverse"
+        }
+      ],
+      "recasts": [
+        {
+          "fid": 312492,
+          "fname": "0xgimic"
+        }
+      ]
+    },
+    "replies": {
+      "count": 2
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": false
+    }
+  }
+]

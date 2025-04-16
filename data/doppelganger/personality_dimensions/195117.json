@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "🤝",
+      "label": "Team Management Style",
+      "description": "How will your FarTwin manage team projects?",
+      "options": [
+        {
+          "value": "Autocratic",
+          "description": "Your FarTwin will take charge and make all decisions without consulting others."
+        },
+        {
+          "value": "Democrat",
+          "description": "Your FarTwin will involve everyone in the decision-making process, seeking input from team members."
+        }
+      ]
+    },
+    {
+      "emoji": "💡",
+      "label": "Problem-Solving Approach",
+      "description": "How will your FarTwin approach complex problems?",
+      "options": [
+        {
+          "value": "Logical",
+          "description": "Your FarTwin will analyze data and use logical reasoning to find solutions."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will trust their instincts and rely on creative, out-of-the-box thinking to solve problems."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Financial Decision-Making",
+      "description": "How will your FarTwin make financial decisions?",
+      "options": [
+        {
+          "value": "Frugal",
+          "description": "Your FarTwin will prioritize saving money and avoiding unnecessary expenses."
+        },
+        {
+          "value": "Generous",
+          "description": "Your FarTwin will spend freely, splurging on luxury items and experiences to bring joy to others."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Learning Style",
+      "description": "How will your FarTwin prefer to learn new information?",
+      "options": [
+        {
+          "value": "Textbook",
+          "description": "Your FarTwin will absorb knowledge through reading and studying, focusing on facts and data."
+        },
+        {
+          "value": "Hands-On",
+          "description": "Your FarTwin will learn best by doing, experimenting with new ideas and taking risks to gain experience."
+        }
+      ]
+    },
+    {
+      "emoji": "📱",
+      "label": "Communication Channels",
+      "description": "How will your FarTwin prefer to stay connected with others?",
+      "options": [
+        {
+          "value": "In-Person",
+          "description": "Your FarTwin will prioritize face-to-face interactions, preferring in-person conversations over digital communication."
+        },
+        {
+          "value": "Digital",
+          "description": "Your FarTwin will prefer to communicate through digital channels, such as email or text messages, for convenience and efficiency."
+        }
+      ]
+    },
+    {
+      "emoji": "🏆",
+      "label": "Competitive Drive",
+      "description": "How will your FarTwin approach competition?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will aggressively pursue victories, pushing themselves and others to win at all costs."
+        },
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will work collaboratively with others to achieve shared goals, prioritizing teamwork over individual success."
+        }
+      ]
+    },
+    {
+      "emoji": "🌎",
+      "label": "Global Perspective",
+      "description": "How will your FarTwin approach global issues?",
+      "options": [
+        {
+          "value": "Local",
+          "description": "Your FarTwin will focus on local problems and concerns, prioritizing the needs of their community over global issues."
+        },
+        {
+          "value": "Global",
+          "description": "Your FarTwin will take a holistic approach, considering the impact of actions on a global scale and seeking to make a positive difference worldwide."
+        }
+      ]
+    },
+    {
+      "emoji": "🕰️",
+      "label": "Time Management Style",
+      "description": "How will your FarTwin manage their time?",
+      "options": [
+        {
+          "value": "Planner",
+          "description": "Your FarTwin will prioritize planning and organization, using schedules and to-do lists to stay on track."
+        },
+        {
+          "value": "Spontaneous",
+          "description": "Your FarTwin will be flexible and spontaneous, making time for unexpected opportunities and adventures."
+        }
+      ]
+    }
+  ]
+}

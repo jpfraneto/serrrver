@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "",
+      "label": "Communication Style",
+      "description": "How will your FarTwin communicate with others?",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Your FarTwin will communicate clearly and straightforwardly, stating opinions without hesitation or sugar-coating."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Your FarTwin will communicate tactfully and considerately, carefully choosing words to maintain harmony."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Emotional Expression",
+      "description": "How will your FarTwin express their emotions?",
+      "options": [
+        {
+          "value": "Open",
+          "description": "Your FarTwin will openly and honestly express their emotions, allowing others to see how they feel."
+        },
+        {
+          "value": "Reserved",
+          "description": "Your FarTwin will keep their emotions private, not sharing them with others unless necessary."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Problem-Solving Approach",
+      "description": "How will your FarTwin approach problems?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will analyze data and facts to solve problems, making informed decisions."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on instinct and gut feelings to solve problems, often trusting their intuition."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Social Interactions",
+      "description": "How will your FarTwin interact with others in social situations?",
+      "options": [
+        {
+          "value": "Outgoing",
+          "description": "Your FarTwin will be outgoing and friendly, easily making new connections and friends."
+        },
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin will prefer quieter, more low-key social interactions, sometimes feeling overwhelmed in larger groups."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Decision-Making Process",
+      "description": "How will your FarTwin make decisions?",
+      "options": [
+        {
+          "value": "Logical",
+          "description": "Your FarTwin will base their decisions on logic and reason, weighing the pros and cons of each option."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on instinct and gut feelings to make decisions, often trusting their intuition."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Conflict Resolution",
+      "description": "How will your FarTwin handle conflicts with others?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will assertively stand their ground and defend themselves, sometimes coming across as confrontational."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Your FarTwin will try to find common ground and compromise, often seeking peaceful resolutions to conflicts."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Learning Style",
+      "description": "How will your FarTwin learn and absorb new information?",
+      "options": [
+        {
+          "value": "Visual",
+          "description": "Your FarTwin will primarily learn through visual aids, such as images and diagrams."
+        },
+        {
+          "value": "Auditory",
+          "description": "Your FarTwin will primarily learn through auditory means, such as listening to lectures or discussions."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin approach risk and uncertainty?",
+      "options": [
+        {
+          "value": "Thrill-Seeker",
+          "description": "Your FarTwin will actively seek out new challenges and risks, often enjoying the thrill of the unknown."
+        },
+        {
+          "value": "Cautious",
+          "description": "Your FarTwin will approach risk with caution, weighing the pros and cons before making a decision."
+        }
+      ]
+    }
+  ]
+}

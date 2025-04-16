@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "💬",
+      "label": "Communication Style",
+      "description": "How will your FarTwin communicate with others?",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Your FarTwin will communicate clearly and straightforwardly, stating opinions without hesitation or sugar-coating."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Your FarTwin will communicate tactfully and considerately, carefully choosing words to maintain harmony."
+        }
+      ]
+    },
+    {
+      "emoji": "📈",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin approach new investment opportunities?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will aggressively pursue high-risk investments, willing to take on significant uncertainty for potential gains."
+        },
+        {
+          "value": "Conservative",
+          "description": "Your FarTwin will prioritize caution and stability, avoiding high-risk investments in favor of steady returns."
+        }
+      ]
+    },
+    {
+      "emoji": "💻",
+      "label": "Technical Expertise",
+      "description": "How will your FarTwin approach technical challenges?",
+      "options": [
+        {
+          "value": "In-Depth",
+          "description": "Your FarTwin will thoroughly analyze and understand complex technical concepts, often going beyond the surface level."
+        },
+        {
+          "value": "High-Level",
+          "description": "Your FarTwin will focus on understanding the overall strategy and big picture, rather than delving into intricate details."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Analytical Approach",
+      "description": "How will your FarTwin approach data analysis?",
+      "options": [
+        {
+          "value": "Quantitative",
+          "description": "Your FarTwin will rely on numerical data and statistical models to inform decisions."
+        },
+        {
+          "value": "Qualitative",
+          "description": "Your FarTwin will consider the broader context and nuances, using intuition and experience to guide analysis."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Learning Style",
+      "description": "How will your FarTwin approach new knowledge?",
+      "options": [
+        {
+          "value": "Immersive",
+          "description": "Your FarTwin will engage with new information through hands-on experience and interactive learning."
+        },
+        {
+          "value": "Reflective",
+          "description": "Your FarTwin will thoroughly reflect on new ideas, analyzing their implications and considering different perspectives."
+        }
+      ]
+    },
+    {
+      "emoji": "🌐",
+      "label": "Global Perspective",
+      "description": "How will your FarTwin approach international issues?",
+      "options": [
+        {
+          "value": "Globalist",
+          "description": "Your FarTwin will consider the global implications of decisions, seeking to understand diverse perspectives and interests."
+        },
+        {
+          "value": "Nationalist",
+          "description": "Your FarTwin will prioritize domestic concerns, prioritizing national interests over international cooperation."
+        }
+      ]
+    },
+    {
+      "emoji": "💼",
+      "label": "Career Ambition",
+      "description": "How will your FarTwin approach career development?",
+      "options": [
+        {
+          "value": "Ambitious",
+          "description": "Your FarTwin will strive for leadership roles and recognition, seeking to make a significant impact in their field."
+        },
+        {
+          "value": "Stable",
+          "description": "Your FarTwin will prioritize job security and stability, focusing on building a solid foundation rather than rapid advancement."
+        }
+      ]
+    },
+    {
+      "emoji": "😊",
+      "label": "Personal Values",
+      "description": "How will your FarTwin approach personal relationships?",
+      "options": [
+        {
+          "value": "Outgoing",
+          "description": "Your FarTwin will prioritize building strong connections with others, seeking to form close and meaningful relationships."
+        },
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin will value their independence and focus on maintaining a healthy balance between social interactions and alone time."
+        }
+      ]
+    }
+  ]
+}

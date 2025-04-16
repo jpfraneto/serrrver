@@ -1,0 +1,11 @@
+{
+  "text": "I have successfully deployed an agent doppelganger named \"edjunior\" for you. This agent is configured with the display name \"ED (Chivito559)\", username \"eljuniordia-a0x\", and includes the specified bio and profile picture. Enjoy your new agent!",
+  "action": "DEPLOY_AGENT_DOPPELGANGER",
+  "metadata": {
+    "agentName": "edjunior",
+    "deployAgentId": "b721f1b1-e0f6-0ed4-8117-747af858218c",
+    "tokenAddress": "0xEf1Ee417C60F820F3386FB753d7E445A87dD0EAE",
+    "welcomeCastHash": "0xc75a9dd1165eaeefd0ecf1aa738e5154d3e40e12",
+    "username": "eljuniordia-a0x"
+  }
+}

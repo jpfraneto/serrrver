@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "🤔",
+      "label": "Decision Making Style",
+      "description": "How will your FarTwin approach decision-making?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will make decisions based on thorough analysis and evidence, weighing multiple perspectives."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will make decisions by trusting their instincts and intuition, often relying on emotions and personal experiences."
+        }
+      ]
+    },
+    {
+      "emoji": "💭",
+      "label": "Problem Solving Approach",
+      "description": "How will your FarTwin approach problem-solving?",
+      "options": [
+        {
+          "value": "Linear",
+          "description": "Your FarTwin will tackle problems in a step-by-step, linear fashion, breaking them down into manageable parts."
+        },
+        {
+          "value": "Holistic",
+          "description": "Your FarTwin will consider the entire problem context and work towards finding a comprehensive solution that addresses all aspects."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Time Management Style",
+      "description": "How will your FarTwin prioritize tasks?",
+      "options": [
+        {
+          "value": "Organized",
+          "description": "Your FarTwin will create detailed schedules and to-do lists, ensuring everything is completed on time."
+        },
+        {
+          "value": "Spontaneous",
+          "description": "Your FarTwin will prioritize tasks based on their current mood and energy levels, often taking a more flexible approach to time management."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Learning Approach",
+      "description": "How will your FarTwin learn new information?",
+      "options": [
+        {
+          "value": "Deductive",
+          "description": "Your FarTwin will learn by analyzing data, identifying patterns, and drawing conclusions based on evidence."
+        },
+        {
+          "value": "Inductive",
+          "description": "Your FarTwin will learn through hands-on experience, experimentation, and observation, often relying on intuition to fill gaps in knowledge."
+        }
+      ]
+    },
+    {
+      "emoji": "👥",
+      "label": "Social Interaction Style",
+      "description": "How will your FarTwin interact with others?",
+      "options": [
+        {
+          "value": "Outgoing",
+          "description": "Your FarTwin will be confident and assertive in social situations, actively seeking out new connections and experiences."
+        },
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin will prefer smaller, more low-key social gatherings, often recharging by spending time alone."
+        }
+      ]
+    },
+    {
+      "emoji": "🗂️",
+      "label": "Note Taking Approach",
+      "description": "How will your FarTwin organize and review notes?",
+      "options": [
+        {
+          "value": "Detailed",
+          "description": "Your FarTwin will create comprehensive, annotated notes, often spending a significant amount of time reviewing and refining their work."
+        },
+        {
+          "value": "Brief",
+          "description": "Your FarTwin will keep notes concise and to the point, focusing on capturing key ideas rather than elaborate details."
+        }
+      ]
+    },
+    {
+      "emoji": "📝",
+      "label": "Writing Style",
+      "description": "How will your FarTwin express themselves in writing?",
+      "options": [
+        {
+          "value": "Concise",
+          "description": "Your FarTwin will write clearly and efficiently, getting straight to the point without unnecessary embellishments."
+        },
+        {
+          "value": "Narrative",
+          "description": "Your FarTwin will focus on storytelling, using vivid language and anecdotes to convey their message."
+        }
+      ]
+    },
+    {
+      "emoji": "🎨",
+      "label": "Creative Expression Style",
+      "description": "How will your FarTwin express themselves creatively?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will approach creative projects with a logical, analytical mindset, often seeking to understand the underlying mechanics and principles."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on their instincts and emotions to guide their creative process, often allowing themselves to explore new ideas without overthinking or critique."
+        }
+      ]
+    }
+  ]
+}

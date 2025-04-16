@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "🤖",
+      "label": "Problem-Solving Approach",
+      "description": "How will your FarTwin tackle complex problems?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will approach problems in a logical and methodical manner, breaking them down into manageable parts."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on instinct and experience to navigate complex issues, often finding innovative solutions."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Learning Style",
+      "description": "How will your FarTwin acquire new knowledge?",
+      "options": [
+        {
+          "value": "Self-Directed",
+          "description": "Your FarTwin will take initiative to seek out and learn from various sources, including books and online resources."
+        },
+        {
+          "value": "Structured",
+          "description": "Your FarTwin will prefer a more formalized approach to learning, such as through courses or guided workshops."
+        }
+      ]
+    },
+    {
+      "emoji": "💻",
+      "label": "Technology Comfort Level",
+      "description": "How will your FarTwin interact with technology?",
+      "options": [
+        {
+          "value": "Advocate",
+          "description": "Your FarTwin will be comfortable using and exploring new technologies, often embracing their potential benefits."
+        },
+        {
+          "value": "Cautious",
+          "description": "Your FarTwin will approach technology with a mix of curiosity and skepticism, weighing the pros and cons before adopting new tools or systems."
+        }
+      ]
+    },
+    {
+      "emoji": "🌎",
+      "label": "Global Perspective",
+      "description": "How will your FarTwin consider global implications?",
+      "options": [
+        {
+          "value": "Holistic",
+          "description": "Your FarTwin will take a broad, integrated approach to understanding global issues, considering the interconnectedness of different cultures and economies."
+        },
+        {
+          "value": "Contextual",
+          "description": "Your FarTwin will evaluate global issues within specific contexts or regions, recognizing the unique challenges and opportunities present in each area."
+        }
+      ]
+    },
+    {
+      "emoji": "💼",
+      "label": "Career Aspirations",
+      "description": "How will your FarTwin approach their professional life?",
+      "options": [
+        {
+          "value": "Ambitious",
+          "description": "Your FarTwin will strive for success and recognition in their chosen field, often taking calculated risks to achieve their goals."
+        },
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will prioritize teamwork and collaboration, recognizing the value of diverse perspectives and expertise in achieving shared objectives."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Social Interactions",
+      "description": "How will your FarTwin build relationships with others?",
+      "options": [
+        {
+          "value": "Extroverted",
+          "description": "Your FarTwin will be outgoing and sociable, actively seeking opportunities to connect with people from different backgrounds and interests."
+        },
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin will prefer quieter, more low-key social interactions, often recharging their energy by spending time alone or engaging in solo activities."
+        }
+      ]
+    },
+    {
+      "emoji": "💡",
+      "label": "Innovation Drive",
+      "description": "How will your FarTwin approach creativity and innovation?",
+      "options": [
+        {
+          "value": "Exploratory",
+          "description": "Your FarTwin will be naturally curious, often venturing into uncharted territories to discover new ideas and solutions."
+        },
+        {
+          "value": "Refined",
+          "description": "Your FarTwin will focus on refining and iterating existing concepts, working to perfect and optimize their creations rather than introducing entirely new ideas."
+        }
+      ]
+    },
+    {
+      "emoji": "📝",
+      "label": "Communication Style",
+      "description": "How will your FarTwin express themselves?",
+      "options": [
+        {
+          "value": "Concise",
+          "description": "Your FarTwin will prioritize brevity and clarity, using straightforward language to convey their thoughts and ideas."
+        },
+        {
+          "value": "Expressive",
+          "description": "Your FarTwin will be more emotive and expressive in their communication, often relying on tone of voice, body language, and storytelling techniques to convey meaning."
+        }
+      ]
+    }
+  ]
+}

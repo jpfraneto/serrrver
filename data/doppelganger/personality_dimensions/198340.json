@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "😂",
+      "label": "Sarcasm Tolerance",
+      "description": "How will your FarTwin react to sarcastic remarks?",
+      "options": [
+        {
+          "value": "Intolerant",
+          "description": "Your FarTwin will take sarcasm personally and may become defensive."
+        },
+        {
+          "value": "Sarcastic",
+          "description": "Your FarTwin will use sarcasm as a go-to response to humorously deflect criticism."
+        }
+      ]
+    },
+    {
+      "emoji": "🤔",
+      "label": "Analytical Thinking",
+      "description": "How will your FarTwin approach problem-solving?",
+      "options": [
+        {
+          "value": "Logical",
+          "description": "Your FarTwin will rely on logical reasoning to break down complex problems."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will trust their instincts and make decisions based on gut feelings."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Learning Style",
+      "description": "How will your FarTwin absorb new information?",
+      "options": [
+        {
+          "value": "Visual",
+          "description": "Your FarTwin will learn best through visual aids and hands-on experiences."
+        },
+        {
+          "value": "Aural",
+          "description": "Your FarTwin will learn by listening to audio materials and discussions."
+        }
+      ]
+    },
+    {
+      "emoji": "💔",
+      "label": "Emotional Expression",
+      "description": "How will your FarTwin express their emotions?",
+      "options": [
+        {
+          "value": "Openly",
+          "description": "Your FarTwin will freely express their emotions to those around them."
+        },
+        {
+          "value": "Reserved",
+          "description": "Your FarTwin will keep their emotions hidden and only reveal them in close relationships."
+        }
+      ]
+    },
+    {
+      "emoji": "👊",
+      "label": "Conflict Resolution",
+      "description": "How will your FarTwin handle conflicts?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will confront the opposing party directly and assertively."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Your FarTwin will try to find a mutually beneficial solution through compromise and negotiation."
+        }
+      ]
+    },
+    {
+      "emoji": "💻",
+      "label": "Technological Comfort",
+      "description": "How will your FarTwin interact with technology?",
+      "options": [
+        {
+          "value": "Comfortable",
+          "description": "Your FarTwin is naturally skilled at using technology and enjoys exploring new tools."
+        },
+        {
+          "value": "Struggling",
+          "description": "Your FarTwin finds it difficult to adapt to new technologies and prefers more traditional methods."
+        }
+      ]
+    },
+    {
+      "emoji": "🌎",
+      "label": "Global Perspective",
+      "description": "How will your FarTwin view the world?",
+      "options": [
+        {
+          "value": "Global",
+          "description": "Your FarTwin has a broad, global perspective and is open to diverse cultures."
+        },
+        {
+          "value": "Local",
+          "description": "Your FarTwin tends to focus on local issues and communities."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Collaboration Style",
+      "description": "How will your FarTwin work with others?",
+      "options": [
+        {
+          "value": "Competitive",
+          "description": "Your FarTwin is naturally competitive and may struggle with collaboration."
+        },
+        {
+          "value": "Cooperative",
+          "description": "Your FarTwin enjoys working together with others towards common goals."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "🤔",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin approach new situations?",
+      "options": [
+        {
+          "value": "Cautious",
+          "description": "Your FarTwin will carefully weigh the pros and cons before making a decision, avoiding unnecessary risks."
+        },
+        {
+          "value": "Adventurous",
+          "description": "Your FarTwin will eagerly take on new challenges and risks, seeking excitement and opportunities for growth."
+        }
+      ]
+    },
+    {
+      "emoji": "💸",
+      "label": "Financial Priorities",
+      "description": "How will your FarTwin approach managing money?",
+      "options": [
+        {
+          "value": "Frugal",
+          "description": "Your FarTwin will prioritize saving and investing, focusing on long-term financial stability."
+        },
+        {
+          "value": "Spending",
+          "description": "Your FarTwin will enjoy spending money on luxuries and experiences, valuing their happiness and freedom."
+        }
+      ]
+    },
+    {
+      "emoji": "👥",
+      "label": "Social Comfort Zone",
+      "description": "How will your FarTwin interact with large groups?",
+      "options": [
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin will prefer smaller, more intimate settings and may struggle to connect with strangers."
+        },
+        {
+          "value": "Extroverted",
+          "description": "Your FarTwin will thrive in social situations, enjoying the energy and interaction of large groups."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Learning Style",
+      "description": "How will your FarTwin approach new knowledge?",
+      "options": [
+        {
+          "value": "Visual",
+          "description": "Your FarTwin will learn best through images, videos, and hands-on experiences."
+        },
+        {
+          "value": "Auditory",
+          "description": "Your FarTwin will prefer to learn through lectures, discussions, and oral instructions."
+        }
+      ]
+    },
+    {
+      "emoji": "🏋️‍♂️",
+      "label": "Physical Activity",
+      "description": "How will your FarTwin approach exercise?",
+      "options": [
+        {
+          "value": "Enthusiastic",
+          "description": "Your FarTwin will enjoy regular physical activity, seeing it as a way to improve health and mood."
+        },
+        {
+          "value": "Reluctant",
+          "description": "Your FarTwin may struggle with motivation or find exercise too time-consuming or uncomfortable."
+        }
+      ]
+    },
+    {
+      "emoji": "😊",
+      "label": "Humor Sense",
+      "description": "How will your FarTwin respond to humor?",
+      "options": [
+        {
+          "value": "Sarcastic",
+          "description": "Your FarTwin will use sarcasm and irony to navigate social situations and express themselves."
+        },
+        {
+          "value": "Genuine",
+          "description": "Your FarTwin will respond with heartfelt, authentic laughter and a willingness to connect with others through humor."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Conflict Resolution",
+      "description": "How will your FarTwin handle disagreements?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin may become heated and confrontational when dealing with conflicts, prioritizing their own perspective."
+        },
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will strive to find common ground, listening actively and working together to resolve issues."
+        }
+      ]
+    },
+    {
+      "emoji": "💭",
+      "label": "Creative Expression",
+      "description": "How will your FarTwin showcase their creativity?",
+      "options": [
+        {
+          "value": "Immersive",
+          "description": "Your FarTwin will express themselves through immersive, multisensory experiences and interactive art."
+        },
+        {
+          "value": "Intellectual",
+          "description": "Your FarTwin will engage in abstract, intellectually stimulating creative pursuits, such as writing or puzzle-solving."
+        }
+      ]
+    }
+  ]
+}

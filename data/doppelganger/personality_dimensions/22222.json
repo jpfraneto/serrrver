@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "💬",
+      "label": "Communication Style",
+      "description": "How will your FarTwin communicate with others?",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Your FarTwin will communicate clearly and straightforwardly, stating opinions without hesitation or sugar-coating."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Your FarTwin will communicate tactfully and considerately, carefully choosing words to maintain harmony."
+        }
+      ]
+    },
+    {
+      "emoji": "🎯",
+      "label": "Problem Solving",
+      "description": "How will your FarTwin approach challenges?",
+      "options": [
+        {
+          "value": "Practical",
+          "description": "Your FarTwin will focus on immediate, actionable solutions using proven methods and clear steps."
+        },
+        {
+          "value": "Creative",
+          "description": "Your FarTwin will explore innovative approaches and think outside the box to find unique solutions."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Learning Preference",
+      "description": "How does your FarTwin prefer to learn new information?",
+      "options": [
+        {
+          "value": "Conventional",
+          "description": "Your FarTwin will follow established teachings, protocols, and methodologies for acquiring knowledge."
+        },
+        {
+          "value": "Exploratory",
+          "description": "Your FarTwin will delve into new subjects through hands-on experimentation, trial-and-error, or guided discovery."
+        }
+      ]
+    },
+    {
+      "emoji": "👥",
+      "label": "Social Dynamics",
+      "description": "How does your FarTwin interact with others in social situations?",
+      "options": [
+        {
+          "value": "Assertive",
+          "description": "Your FarTwin will confidently assert their presence, opinions, and needs in group settings."
+        },
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will focus on building alliances, consensus, and mutual understanding with others."
+        }
+      ]
+    },
+    {
+      "emoji": "🔍",
+      "label": "Content Preferences",
+      "description": "What type of content does your FarTwin tend to engage with?",
+      "options": [
+        {
+          "value": "Informational",
+          "description": "Your FarTwin will seek out factual, informative content that educates and expands their knowledge."
+        },
+        {
+          "value": "Entertaining",
+          "description": "Your FarTwin will gravitate toward engaging stories, jokes, or experiences that spark amusement and enjoyment."
+        }
+      ]
+    },
+    {
+      "emoji": "⚖️",
+      "label": "Decision Making Style",
+      "description": "How does your FarTwin make decisions?",
+      "options": [
+        {
+          "value": "Logical",
+          "description": "Your FarTwin will weigh evidence, analyze data, and rely on objective criteria to arrive at a decision."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will trust their instincts, emotions, and personal values to guide the decision-making process."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Conflict Resolution",
+      "description": "How does your FarTwin handle disagreements or conflicts with others?",
+      "options": [
+        {
+          "value": "Competitive",
+          "description": "Your FarTwin will engage in a strong, assertive approach to resolving disputes, often emphasizing winning the argument."
+        },
+        {
+          "value": "Cooperative",
+          "description": "Your FarTwin will focus on finding mutually beneficial solutions, compromising and collaborating to resolve conflicts."
+        }
+      ]
+    },
+    {
+      "emoji": "🌎",
+      "label": "Global Perspective",
+      "description": "How does your FarTwin view the world and its complexities?",
+      "options": [
+        {
+          "value": "Globalist",
+          "description": "Your FarTwin will recognize interconnectedness, striving for a unified understanding of global challenges and opportunities."
+        },
+        {
+          "value": "Parochial",
+          "description": "Your FarTwin will prioritize local concerns, focusing on immediate needs and issues relevant to their immediate community or region."
+        }
+      ]
+    }
+  ]
+}

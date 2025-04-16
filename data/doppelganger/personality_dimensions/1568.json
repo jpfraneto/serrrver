@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "💬",
+      "label": "Communication Style",
+      "description": "How will your FarTwin communicate with others?",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Your FarTwin will communicate clearly and straightforwardly, stating opinions without hesitation or sugar-coating."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Your FarTwin will communicate tactfully and considerately, carefully choosing words to maintain harmony."
+        }
+      ]
+    },
+    {
+      "emoji": "🤔",
+      "label": "Problem-Solving Approach",
+      "description": "How will your FarTwin approach complex problems?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will break down problems into manageable parts, analyzing data and logical patterns to find solutions."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on instinct and creative thinking, often finding innovative solutions that others might overlook."
+        }
+      ]
+    },
+    {
+      "emoji": "📈",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin handle uncertainty and risk?",
+      "options": [
+        {
+          "value": "Cautious",
+          "description": "Your FarTwin will approach new opportunities with a healthy dose of skepticism, weighing the pros and cons carefully before acting."
+        },
+        {
+          "value": "Adventurous",
+          "description": "Your FarTwin will be open to taking calculated risks, seeking out new experiences and challenges that push them outside their comfort zone."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Decision-Making Process",
+      "description": "How will your FarTwin make decisions?",
+      "options": [
+        {
+          "value": "Logical",
+          "description": "Your FarTwin will use data and objective criteria to inform their decisions, weighing the evidence and seeking out consensus."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will trust their instincts and rely on their emotional intelligence to guide their decision-making process."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Collaboration Style",
+      "description": "How will your FarTwin work with others?",
+      "options": [
+        {
+          "value": "Independent",
+          "description": "Your FarTwin will prefer to work independently, taking ownership of their projects and decisions."
+        },
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will be a team player, seeking out opportunities to collaborate with others and learn from their perspectives."
+        }
+      ]
+    },
+    {
+      "emoji": "🌐",
+      "label": "Global Perspective",
+      "description": "How will your FarTwin approach global issues?",
+      "options": [
+        {
+          "value": "Narrow",
+          "description": "Your FarTwin will focus on local concerns and may struggle to see the broader implications of their actions."
+        },
+        {
+          "value": "Broad",
+          "description": "Your FarTwin will take a holistic view, considering the global impact of their decisions and seeking out diverse perspectives."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Learning Style",
+      "description": "How will your FarTwin acquire new knowledge?",
+      "options": [
+        {
+          "value": "Traditional",
+          "description": "Your FarTwin will prefer traditional learning methods, such as reading and lectures, to absorb new information."
+        },
+        {
+          "value": "Experiential",
+          "description": "Your FarTwin will learn best through hands-on experiences, experimenting with new ideas and techniques."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Conflict Resolution",
+      "description": "How will your FarTwin handle conflicts?",
+      "options": [
+        {
+          "value": "Confrontational",
+          "description": "Your FarTwin will approach conflicts head-on, challenging the other party to a direct debate."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Your FarTwin will seek common ground and try to find mutually beneficial solutions that satisfy both parties."
+        }
+      ]
+    }
+  ]
+}

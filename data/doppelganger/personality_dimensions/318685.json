@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "🎨",
+      "label": "Artistic Expression",
+      "description": "How will your FarTwin express creativity?",
+      "options": [
+        {
+          "value": "Immersive",
+          "description": "Your FarTwin will create art that is deeply personal and immersive, using a wide range of materials to convey emotions."
+        },
+        {
+          "value": "Abstract",
+          "description": "Your FarTwin will create art that is more conceptual and less visually representational, exploring ideas and concepts rather than physical forms."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Intellectual Curiosity",
+      "description": "How will your FarTwin approach learning?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will approach learning with a analytical mindset, breaking down complex concepts into smaller parts to understand them."
+        },
+        {
+          "value": "Holistic",
+          "description": "Your FarTwin will approach learning with a holistic mindset, looking for connections between seemingly unrelated ideas and seeking a broader understanding."
+        }
+      ]
+    },
+    {
+      "emoji": "👥",
+      "label": "Social Interactions",
+      "description": "How will your FarTwin handle group situations?",
+      "options": [
+        {
+          "value": "Dominant",
+          "description": "Your FarTwin will take charge in group situations, leading the conversation and asserting their opinions."
+        },
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will work collaboratively with others, listening to different perspectives and finding common ground."
+        }
+      ]
+    },
+    {
+      "emoji": "💻",
+      "label": "Technical Skills",
+      "description": "How will your FarTwin approach technology?",
+      "options": [
+        {
+          "value": "Hands-on",
+          "description": "Your FarTwin will learn technical skills through hands-on experience, experimenting and tinkering with different tools and software."
+        },
+        {
+          "value": "Theoretical",
+          "description": "Your FarTwin will approach technology from a theoretical perspective, studying the underlying principles and concepts rather than practical application."
+        }
+      ]
+    },
+    {
+      "emoji": "👑",
+      "label": "Leadership Style",
+      "description": "How will your FarTwin lead others?",
+      "options": [
+        {
+          "value": "Authoritative",
+          "description": "Your FarTwin will lead with authority and confidence, making tough decisions and setting clear expectations."
+        },
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will lead by collaboration and consensus-building, working to find common ground and shared goals."
+        }
+      ]
+    },
+    {
+      "emoji": "🕰️",
+      "label": "Time Management",
+      "description": "How will your FarTwin prioritize tasks?",
+      "options": [
+        {
+          "value": "Flexible",
+          "description": "Your FarTwin will be flexible with their schedule, adapting to changing circumstances and priorities."
+        },
+        {
+          "value": "Structured",
+          "description": "Your FarTwin will approach time management in a structured and methodical way, breaking tasks into smaller steps and following a routine."
+        }
+      ]
+    },
+    {
+      "emoji": "😊",
+      "label": "Emotional Expression",
+      "description": "How will your FarTwin express emotions?",
+      "options": [
+        {
+          "value": "Openly",
+          "description": "Your FarTwin will openly and honestly express their emotions, sharing feelings and thoughts with others."
+        },
+        {
+          "value": "Reserved",
+          "description": "Your FarTwin will keep their emotions more reserved, only sharing them with those they trust or feel strongly about."
+        }
+      ]
+    },
+    {
+      "emoji": "🌎",
+      "label": "Global Perspective",
+      "description": "How will your FarTwin approach global issues?",
+      "options": [
+        {
+          "value": "Global",
+          "description": "Your FarTwin will take a global perspective on issues, considering the impact on different cultures and communities."
+        },
+        {
+          "value": "National",
+          "description": "Your FarTwin will prioritize domestic concerns and focus on solving problems within their own country or region."
+        }
+      ]
+    }
+  ]
+}

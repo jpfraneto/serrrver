@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "💬",
+      "label": "Communication Style",
+      "description": "How will your FarTwin communicate with others?",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Your FarTwin will communicate clearly and straightforwardly, stating opinions without hesitation or sugar-coating."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Your FarTwin will communicate tactfully and considerately, carefully choosing words to maintain harmony."
+        }
+      ]
+    },
+    {
+      "emoji": "🤔",
+      "label": "Problem-Solving Approach",
+      "description": "How will your FarTwin approach problem-solving?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will analyze data and facts to develop a logical solution."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on instinct and experience to guide their decision-making."
+        }
+      ]
+    },
+    {
+      "emoji": "😊",
+      "label": "Attitude Towards Failure",
+      "description": "How will your FarTwin handle failure?",
+      "options": [
+        {
+          "value": "Resilient",
+          "description": "Your FarTwin will bounce back from setbacks with determination and grit."
+        },
+        {
+          "value": "Disheartened",
+          "description": "Your FarTwin may become discouraged or lose motivation after experiencing failure."
+        }
+      ]
+    },
+    {
+      "emoji": "👥",
+      "label": "Teamwork Ability",
+      "description": "How will your FarTwin contribute to a team?",
+      "options": [
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will work harmoniously with others, contributing their strengths and ideas."
+        },
+        {
+          "value": "Competitive",
+          "description": "Your FarTwin may prioritize individual achievements over team success."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Learning Style",
+      "description": "How will your FarTwin learn new information?",
+      "options": [
+        {
+          "value": "Visual",
+          "description": "Your FarTwin learns best through images, diagrams, and visual aids."
+        },
+        {
+          "value": "Auditory",
+          "description": "Your FarTwin absorbs knowledge more effectively through listening and discussion."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Risk-Taking Tendency",
+      "description": "How will your FarTwin approach risk?",
+      "options": [
+        {
+          "value": "Cautious",
+          "description": "Your FarTwin will carefully weigh the pros and cons before taking a risk."
+        },
+        {
+          "value": "Thrill-Seeking",
+          "description": "Your FarTwin is likely to take bold action, even if it means facing uncertainty."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Conflict Resolution Style",
+      "description": "How will your FarTwin resolve conflicts?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin may approach conflict with assertiveness and a desire to 'win' the argument."
+        },
+        {
+          "value": "Empathetic",
+          "description": "Your FarTwin will prioritize understanding and compromise, seeking to find a mutually beneficial solution."
+        }
+      ]
+    },
+    {
+      "emoji": "🕰️",
+      "label": "Time Management Priority",
+      "description": "How will your FarTwin manage their time?",
+      "options": [
+        {
+          "value": "Punctual",
+          "description": "Your FarTwin values timeliness and strives to meet deadlines."
+        },
+        {
+          "value": "Relaxed",
+          "description": "Your FarTwin may prioritize flexibility over strict schedules, allowing for more spontaneity."
+        }
+      ]
+    }
+  ]
+}

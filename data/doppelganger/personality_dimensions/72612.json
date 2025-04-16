@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "",
+      "label": "Communication Style",
+      "description": "How will your FarTwin communicate with others?",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Your FarTwin will communicate clearly and straightforwardly, stating opinions without hesitation or sugar-coating."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Your FarTwin will communicate tactfully and considerately, carefully choosing words to maintain harmony."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Problem Solving",
+      "description": "How will your FarTwin approach challenges?",
+      "options": [
+        {
+          "value": "Practical",
+          "description": "Your FarTwin will focus on immediate, actionable solutions using proven methods and clear steps."
+        },
+        {
+          "value": "Creative",
+          "description": "Your FarTwin will explore innovative approaches and think outside the box to find unique solutions."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Value Alignment",
+      "description": "What values should guide your FarTwin's decisions?",
+      "options": [
+        {
+          "value": "Utilitarian",
+          "description": "Your FarTwin will prioritize actions that maximize overall happiness and well-being, even if it means making tough choices."
+        },
+        {
+          "value": "Deontological",
+          "description": "Your FarTwin will adhere to strict moral principles and rules, even if they don't always lead to the best outcomes."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Social Dynamics",
+      "description": "How should your FarTwin navigate social interactions?",
+      "options": [
+        {
+          "value": "Assertive",
+          "description": "Your FarTwin will confidently express their needs and boundaries, while still being open to collaboration and compromise."
+        },
+        {
+          "value": "Passive",
+          "description": "Your FarTwin will prioritize harmony and avoid conflict, even if it means sacrificing their own needs or desires."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Emotional Expression",
+      "description": "How should your FarTwin manage their emotions?",
+      "options": [
+        {
+          "value": "Expressive",
+          "description": "Your FarTwin will openly and authentically express their emotions, using them as a source of strength and inspiration."
+        },
+        {
+          "value": "Reserved",
+          "description": "Your FarTwin will keep their emotions private, only sharing them with those they trust, to maintain emotional equilibrium."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Risk Tolerance",
+      "description": "How should your FarTwin approach uncertainty and risk?",
+      "options": [
+        {
+          "value": "Thrill-Seeking",
+          "description": "Your FarTwin will eagerly embrace new challenges and risks, using them as opportunities for growth and adventure."
+        },
+        {
+          "value": "Cautious",
+          "description": "Your FarTwin will carefully weigh the potential benefits and drawbacks before taking on new challenges or risks, prioritizing stability and security."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Intelligence Approach",
+      "description": "How should your FarTwin acquire knowledge and understanding?",
+      "options": [
+        {
+          "value": "Experiential",
+          "description": "Your FarTwin will learn primarily through hands-on experience, exploration, and experimentation."
+        },
+        {
+          "value": "Theoretical",
+          "description": "Your FarTwin will prioritize intellectual pursuits, studying and analyzing concepts to gain a deeper understanding of the world."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Interpersonal Relationships",
+      "description": "What kind of relationships should your FarTwin prioritize?",
+      "options": [
+        {
+          "value": "Deepening",
+          "description": "Your FarTwin will focus on nurturing and deepening meaningful connections with others, prioritizing intimacy and understanding."
+        },
+        {
+          "value": "Expansion",
+          "description": "Your FarTwin will prioritize expanding their social network, meeting new people, and exploring new relationships to broaden their horizons."
+        }
+      ]
+    }
+  ]
+}

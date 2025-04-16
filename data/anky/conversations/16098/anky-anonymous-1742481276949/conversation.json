@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": "write literally: \"write for 8 minutes\""
+  },
+  {
+    "role": "assistant",
+    "content": "to write for eight minutes"
+  },
+  {
+    "role": "user",
+    "content": "slkdkajsdkllksajldkjdlkaskjdaslkdlaksdklaksjcjkasjcksdsadasdasdasdsadasddasddsadsadasdsadasdasdadsdasdcdc\n\n"
+  },
+  {
+    "role": "assistant",
+    "content": "it seems like you accidentally pasted a bunch of random characters instead of typing out \"write for 8 minutes\" again. No worries, I'll help you with that!\n\nto write for eight minutes"
+  }
+]

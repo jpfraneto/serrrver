@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "💬",
+      "label": "Communication Style",
+      "description": "How will your FarTwin communicate with others?",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Your FarTwin will communicate clearly and straightforwardly, stating opinions without hesitation or sugar-coating."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Your FarTwin will communicate tactfully and considerately, carefully choosing words to maintain harmony."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Conflict Resolution Style",
+      "description": "How will your FarTwin handle disagreements or conflicts?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will fiercely assert their position and engage in heated debates."
+        },
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will actively listen to opposing views, seeking common ground and compromise."
+        }
+      ]
+    },
+    {
+      "emoji": "📈",
+      "label": "Risk Tolerance",
+      "description": "How willing is your FarTwin to take calculated risks?",
+      "options": [
+        {
+          "value": "High",
+          "description": "Your FarTwin will eagerly pursue high-stakes opportunities, weighing potential rewards against uncertainty."
+        },
+        {
+          "value": "Low",
+          "description": "Your FarTwin will cautiously approach new challenges, prioritizing stability and security over growth."
+        }
+      ]
+    },
+    {
+      "emoji": "🎨",
+      "label": "Creative Expression",
+      "description": "How does your FarTwin express themselves creatively?",
+      "options": [
+        {
+          "value": "Artistic",
+          "description": "Your FarTwin will channel their creativity into artistic pursuits, such as music, writing, or visual art."
+        },
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will approach creative endeavors through analytical lenses, focusing on precision and technical skill."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Data Analysis Style",
+      "description": "How does your FarTwin handle data-driven insights?",
+      "options": [
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rapidly grasp key trends and patterns, trusting their instincts to guide decision-making."
+        },
+        {
+          "value": "Methodical",
+          "description": "Your FarTwin will meticulously analyze data, methodically identifying insights through rigorous testing and validation."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Learning Style",
+      "description": "How does your FarTwin approach new knowledge or skills?",
+      "options": [
+        {
+          "value": "Experiential",
+          "description": "Your FarTwin will learn best through hands-on experiences, applying theory to practical situations."
+        },
+        {
+          "value": "Theoretical",
+          "description": "Your FarTwin will prefer a more abstract approach, focusing on theoretical foundations before applying knowledge."
+        }
+      ]
+    },
+    {
+      "emoji": "👥",
+      "label": "Social Circle",
+      "description": "How does your FarTwin tend to gather and interact with others?",
+      "options": [
+        {
+          "value": "Large Group",
+          "description": "Your FarTwin will naturally gravitate towards large social gatherings, feeling energized by diverse conversations."
+        },
+        {
+          "value": "Intimate Network",
+          "description": "Your FarTwin will prefer smaller, more personal connections, cultivating deep relationships with a select few."
+        }
+      ]
+    },
+    {
+      "emoji": "💼",
+      "label": "Professional Drive",
+      "description": "How driven is your FarTwin in their professional pursuits?",
+      "options": [
+        {
+          "value": "Ambitious",
+          "description": "Your FarTwin will be relentlessly driven to succeed, setting high standards and pushing through obstacles."
+        },
+        {
+          "value": "Consistent",
+          "description": "Your FarTwin will maintain a steady pace, consistently delivering quality work while avoiding unnecessary risks or stress."
+        }
+      ]
+    }
+  ]
+}

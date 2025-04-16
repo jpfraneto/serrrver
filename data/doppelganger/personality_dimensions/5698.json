@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "",
+      "label": "Grind Level",
+      "description": "How will your FarTwin approach personal development?",
+      "options": [
+        {
+          "value": "Hardcore",
+          "description": "Your FarTwin will dedicate significant time and effort to improving skills, with a focus on progress over perfection."
+        },
+        {
+          "value": "Casual",
+          "description": "Your FarTwin will prioritize relaxation and enjoyment over structured improvement, taking an easygoing approach to personal growth."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin handle uncertainty and ambiguity?",
+      "options": [
+        {
+          "value": "Thrill Seeker",
+          "description": "Your FarTwin will actively seek out new experiences and challenges, embracing the unknown with a sense of adventure."
+        },
+        {
+          "value": "Cautious",
+          "description": "Your FarTwin will approach uncertain situations with caution, weighing risks carefully before making decisions or taking actions."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Social Interaction",
+      "description": "How will your FarTwin engage with others in social situations?",
+      "options": [
+        {
+          "value": "Extroverted",
+          "description": "Your FarTwin will thrive in social environments, drawing energy from the company of others and enjoying lively conversations."
+        },
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin will prefer quieter, more low-key settings, recharging alone before engaging with others or participating in group activities."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Problem Solving",
+      "description": "How will your FarTwin approach complex problems?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will tackle challenges with a systematic, methodical approach, analyzing data and evaluating options before making decisions."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on instinct and creativity to solve problems, trusting their gut feelings and exploring unconventional solutions."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Perfectionism",
+      "description": "How will your FarTwin approach tasks and projects?",
+      "options": [
+        {
+          "value": "Meticulous",
+          "description": "Your FarTwin will strive for precision and accuracy, ensuring that every detail is attended to before completing a task or project."
+        },
+        {
+          "value": "Relaxed",
+          "description": "Your FarTwin will focus on meeting deadlines and delivering results, rather than getting bogged down in the intricacies of each task or project."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Adaptability",
+      "description": "How will your FarTwin handle changes and unexpected events?",
+      "options": [
+        {
+          "value": "Flexible",
+          "description": "Your FarTwin will adjust easily to new circumstances, adapting their plans and approach as needed to navigate uncertainty."
+        },
+        {
+          "value": "Rigid",
+          "description": "Your FarTwin will resist changes and stick to their original plan, even in the face of adversity or unexpected events."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Learning Style",
+      "description": "How will your FarTwin approach education and self-improvement?",
+      "options": [
+        {
+          "value": "Self-Directed",
+          "description": "Your FarTwin will take charge of their own learning, setting goals and pursuing knowledge through independent study and exploration."
+        },
+        {
+          "value": "Structured",
+          "description": "Your FarTwin will prefer a more formalized approach to education, following established curricula and seeking guidance from qualified instructors."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Emotional Expression",
+      "description": "How will your FarTwin manage their emotions in public?",
+      "options": [
+        {
+          "value": "Open",
+          "description": "Your FarTwin will freely express their emotions, sharing their feelings and thoughts with others without hesitation or reserve."
+        },
+        {
+          "value": "Reserved",
+          "description": "Your FarTwin will maintain a more stoic demeanor in public, keeping their emotions private and only revealing them to those they trust."
+        }
+      ]
+    }
+  ]
+}

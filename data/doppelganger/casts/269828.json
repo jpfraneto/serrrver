@@ -1,0 +1,64 @@
+[
+  {
+    "object": "cast",
+    "hash": "0x35e1e34936d6c6175e2380bf895d0fa9c309e21c",
+    "author": {
+      "object": "user",
+      "fid": 269828,
+      "username": "p7",
+      "display_name": "dequay",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8ed910a7-1395-410f-043d-f156bb9da100/original",
+      "custody_address": "0x30c979dcf264dc0497ac6155f6e646ef9a343b66",
+      "profile": {
+        "bio": {
+          "text": "yo"
+        }
+      },
+      "follower_count": 20,
+      "following_count": 41,
+      "verifications": [],
+      "verified_addresses": {
+        "eth_addresses": [],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": null,
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x2a59c4af156a1c0bd5dd17309bd0010adf7d5bac",
+    "parent_hash": "0x2a59c4af156a1c0bd5dd17309bd0010adf7d5bac",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 241316
+    },
+    "text": "When is the coin dropping",
+    "timestamp": "2024-02-04T00:18:21.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  }
+]

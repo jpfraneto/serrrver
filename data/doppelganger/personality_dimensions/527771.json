@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "🤔",
+      "label": "Risk Taker",
+      "description": "How will your FarTwin handle uncertain situations?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will approach challenges with confidence and boldness, taking calculated risks to achieve goals."
+        },
+        {
+          "value": "Cautious",
+          "description": "Your FarTwin will exercise extreme caution when faced with uncertainty, prioritizing stability over potential rewards."
+        }
+      ]
+    },
+    {
+      "emoji": "😂",
+      "label": "Humor Style",
+      "description": "How will your FarTwin handle humor?",
+      "options": [
+        {
+          "value": "Dry",
+          "description": "Your FarTwin will use sarcasm and wit to make pointed jokes, often catching others off guard."
+        },
+        {
+          "value": "Goofy",
+          "description": "Your FarTwin will rely on slapstick humor and lighthearted jokes to diffuse tense situations and bring laughter."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Analytical Approach",
+      "description": "How will your FarTwin approach problem-solving?",
+      "options": [
+        {
+          "value": "Logical",
+          "description": "Your FarTwin will rely on cold, hard logic to make decisions and solve problems, dismissing emotional appeals when necessary."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will trust their instincts and rely on gut feelings to guide decision-making and problem-solving."
+        }
+      ]
+    },
+    {
+      "emoji": "👑",
+      "label": "Leadership Style",
+      "description": "How will your FarTwin approach leadership?",
+      "options": [
+        {
+          "value": "Authoritative",
+          "description": "Your FarTwin will take charge and assert dominance, making tough decisions without hesitation."
+        },
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will work closely with others to achieve shared goals, prioritizing teamwork over individual accomplishments."
+        }
+      ]
+    },
+    {
+      "emoji": "🎨",
+      "label": "Creative Expression",
+      "description": "How will your FarTwin express their creativity?",
+      "options": [
+        {
+          "value": "Artistic",
+          "description": "Your FarTwin will channel their creativity into visual arts, music, or writing to convey emotions and ideas."
+        },
+        {
+          "value": "Immersive",
+          "description": "Your FarTwin will express themselves through interactive experiences, such as role-playing or escape rooms, to bring their imagination to life."
+        }
+      ]
+    },
+    {
+      "emoji": "💻",
+      "label": "Technical Skillset",
+      "description": "How will your FarTwin approach technical challenges?",
+      "options": [
+        {
+          "value": "Advanced",
+          "description": "Your FarTwin will dive headfirst into complex technical problems, seeking to master new skills and tackle challenging projects."
+        },
+        {
+          "value": "Practical",
+          "description": "Your FarTwin will focus on applying existing technical knowledge to solve real-world problems, prioritizing functionality over innovation."
+        }
+      ]
+    },
+    {
+      "emoji": "👫",
+      "label": "Social Connection Style",
+      "description": "How will your FarTwin form relationships?",
+      "options": [
+        {
+          "value": "Outgoing",
+          "description": "Your FarTwin will seek out social interactions and connections, often taking the lead in new friendships or professional networks."
+        },
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin will prefer one-on-one relationships or small, intimate groups, feeling drained by large social gatherings or crowded spaces."
+        }
+      ]
+    },
+    {
+      "emoji": "🔒",
+      "label": "Personal Boundaries",
+      "description": "How will your FarTwin set and maintain personal boundaries?",
+      "options": [
+        {
+          "value": "Strict",
+          "description": "Your FarTwin will fiercely defend their personal space, setting clear limits with others to protect their time and energy."
+        },
+        {
+          "value": "Flexible",
+          "description": "Your FarTwin will be more adaptable in establishing boundaries, adjusting to the needs of those around them while still prioritizing self-care."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "💡",
+      "label": "Problem-Solving Approach",
+      "description": "How will your FarTwin approach problem-solving?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will break down complex problems into smaller, manageable parts and analyze them systematically."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on instinct and experience to identify patterns and find creative solutions."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Learning Style",
+      "description": "How will your FarTwin learn new information?",
+      "options": [
+        {
+          "value": "Visual",
+          "description": "Your FarTwin will learn best through visual aids, such as diagrams and videos."
+        },
+        {
+          "value": "Auditory",
+          "description": "Your FarTwin will learn best through auditory input, such as lectures and discussions."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Collaboration Style",
+      "description": "How will your FarTwin work with others?",
+      "options": [
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will actively participate in team projects and value the input of others."
+        },
+        {
+          "value": "Competitive",
+          "description": "Your FarTwin will strive to be the best individual contributor and may come across as overly competitive."
+        }
+      ]
+    },
+    {
+      "emoji": "🤔",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin approach risk?",
+      "options": [
+        {
+          "value": "Cautionary",
+          "description": "Your FarTwin will carefully weigh the pros and cons before taking a risk and prefer to avoid uncertainty."
+        },
+        {
+          "value": "Thrill-Seeking",
+          "description": "Your FarTwin will actively seek out new challenges and take calculated risks to achieve their goals."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Analytical Thinking",
+      "description": "How will your FarTwin analyze data?",
+      "options": [
+        {
+          "value": "Detail-Oriented",
+          "description": "Your FarTwin will focus on the details and ensure accuracy in their analysis."
+        },
+        {
+          "value": "Big-Picture",
+          "description": "Your FarTwin will take a step back and consider the overall strategy and long-term implications of data analysis."
+        }
+      ]
+    },
+    {
+      "emoji": "😊",
+      "label": "Emotional Expression",
+      "description": "How will your FarTwin express their emotions?",
+      "options": [
+        {
+          "value": "Openly",
+          "description": "Your FarTwin will freely express their emotions and be transparent about their feelings."
+        },
+        {
+          "value": "Reserved",
+          "description": "Your FarTwin will keep their emotions to themselves and maintain a professional demeanor."
+        }
+      ]
+    },
+    {
+      "emoji": "🌐",
+      "label": "Global Perspective",
+      "description": "How will your FarTwin approach global issues?",
+      "options": [
+        {
+          "value": "Holistic",
+          "description": "Your FarTwin will consider the interconnectedness of global problems and strive for a comprehensive solution."
+        },
+        {
+          "value": "Narrow-Minded",
+          "description": "Your FarTwin will focus on local issues and may not fully appreciate the broader implications of their actions."
+        }
+      ]
+    },
+    {
+      "emoji": "💼",
+      "label": "Professional Development",
+      "description": "How will your FarTwin approach their career?",
+      "options": [
+        {
+          "value": "Ambitious",
+          "description": "Your FarTwin will be driven to succeed and pursue opportunities for advancement."
+        },
+        {
+          "value": "Stable",
+          "description": "Your FarTwin will prioritize stability and security over rapid career progress."
+        }
+      ]
+    }
+  ]
+}

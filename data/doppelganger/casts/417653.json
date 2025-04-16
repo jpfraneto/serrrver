@@ -1,0 +1,790 @@
+[
+  {
+    "object": "cast",
+    "hash": "0x7c6bf7b1b479e75bec9a7bc311f129f23d5cb021",
+    "author": {
+      "object": "user",
+      "fid": 417653,
+      "username": "otterxbt",
+      "display_name": "OtterXBT",
+      "pfp_url": "https://i.imgur.com/Mvr1HbD.jpg",
+      "custody_address": "0xa0c0d02603341222a2b1f10d0532d710f7b696f4",
+      "profile": {
+        "bio": {
+          "text": "Degen. \nMemecoin and ordinal lover. \nCrypto class of '21"
+        }
+      },
+      "follower_count": 12,
+      "following_count": 121,
+      "verifications": [
+        "0x5d7425780f475bf22e93dc32fa9b7177b1e10621",
+        "0x71db3531c88878a61269c187f3a728aeb617c085"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5d7425780f475bf22e93dc32fa9b7177b1e10621",
+          "0x71db3531c88878a61269c187f3a728aeb617c085"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x71db3531c88878a61269c187f3a728aeb617c085",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x23b5d115ac9e665bdfce2a5c763b1f65acf827ce",
+    "parent_hash": "0x23b5d115ac9e665bdfce2a5c763b1f65acf827ce",
+    "parent_url": null,
+    "root_parent_url": "https://farcaster.group/founders",
+    "parent_author": {
+      "fid": 864649
+    },
+    "text": "if legit could go crazy",
+    "timestamp": "2025-03-15T16:30:13.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "founders",
+      "name": "Founders",
+      "image_url": "https://warpcast.com/~/channel-images/founders.png"
+    },
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": true
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0x92ac9fa8177b0730e76d94fe1bacdf798260bbbc",
+    "author": {
+      "object": "user",
+      "fid": 417653,
+      "username": "otterxbt",
+      "display_name": "OtterXBT",
+      "pfp_url": "https://i.imgur.com/Mvr1HbD.jpg",
+      "custody_address": "0xa0c0d02603341222a2b1f10d0532d710f7b696f4",
+      "profile": {
+        "bio": {
+          "text": "Degen. \nMemecoin and ordinal lover. \nCrypto class of '21"
+        }
+      },
+      "follower_count": 12,
+      "following_count": 121,
+      "verifications": [
+        "0x5d7425780f475bf22e93dc32fa9b7177b1e10621",
+        "0x71db3531c88878a61269c187f3a728aeb617c085"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5d7425780f475bf22e93dc32fa9b7177b1e10621",
+          "0x71db3531c88878a61269c187f3a728aeb617c085"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x71db3531c88878a61269c187f3a728aeb617c085",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x4eb8cfc5afc77d48831354da10b26030e19d3aa2",
+    "parent_hash": "0x4eb8cfc5afc77d48831354da10b26030e19d3aa2",
+    "parent_url": null,
+    "root_parent_url": "https://warpcast.com/~/channel/replyguys",
+    "parent_author": {
+      "fid": 864649
+    },
+    "text": "big if true",
+    "timestamp": "2025-03-15T16:17:45.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "replyguys",
+      "name": "reply guys",
+      "image_url": "https://i.imgur.com/xDBupZD.jpg"
+    },
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": true
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0xa465146737c284140534848a4bc61d92d1b23df0",
+    "author": {
+      "object": "user",
+      "fid": 417653,
+      "username": "otterxbt",
+      "display_name": "OtterXBT",
+      "pfp_url": "https://i.imgur.com/Mvr1HbD.jpg",
+      "custody_address": "0xa0c0d02603341222a2b1f10d0532d710f7b696f4",
+      "profile": {
+        "bio": {
+          "text": "Degen. \nMemecoin and ordinal lover. \nCrypto class of '21"
+        }
+      },
+      "follower_count": 12,
+      "following_count": 121,
+      "verifications": [
+        "0x5d7425780f475bf22e93dc32fa9b7177b1e10621",
+        "0x71db3531c88878a61269c187f3a728aeb617c085"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5d7425780f475bf22e93dc32fa9b7177b1e10621",
+          "0x71db3531c88878a61269c187f3a728aeb617c085"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x71db3531c88878a61269c187f3a728aeb617c085",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xa465146737c284140534848a4bc61d92d1b23df0",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "whats this",
+    "timestamp": "2025-03-13T16:34:06.000Z",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 539,
+          "hash": "0xc9d2eeef9f709e8a4731a3b3763ec597e3a06b5b"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xc9d2eeef9f709e8a4731a3b3763ec597e3a06b5b",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 539,
+            "username": "ace",
+            "display_name": "Ace",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/53060790-4d49-4d00-d3e1-c871d2a79c00/original",
+            "custody_address": "0x71503b1309d6797bc4c4fbfde973adc2c191834b"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xc9d2eeef9f709e8a4731a3b3763ec597e3a06b5b",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "whats this",
+          "timestamp": "2025-03-13T16:21:46.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 412843,
+                "hash": "0x0c24d4539cb7fc59fdf725e74aa9197d25e2b1af"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x0c24d4539cb7fc59fdf725e74aa9197d25e2b1af",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 412843
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xade947e33c97858986b7a943b88e662a65bcfa18",
+    "author": {
+      "object": "user",
+      "fid": 417653,
+      "username": "otterxbt",
+      "display_name": "OtterXBT",
+      "pfp_url": "https://i.imgur.com/Mvr1HbD.jpg",
+      "custody_address": "0xa0c0d02603341222a2b1f10d0532d710f7b696f4",
+      "profile": {
+        "bio": {
+          "text": "Degen. \nMemecoin and ordinal lover. \nCrypto class of '21"
+        }
+      },
+      "follower_count": 12,
+      "following_count": 121,
+      "verifications": [
+        "0x5d7425780f475bf22e93dc32fa9b7177b1e10621",
+        "0x71db3531c88878a61269c187f3a728aeb617c085"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5d7425780f475bf22e93dc32fa9b7177b1e10621",
+          "0x71db3531c88878a61269c187f3a728aeb617c085"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x71db3531c88878a61269c187f3a728aeb617c085",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x54351b45d8ad552ac6d69243a720ae8e790e0e94",
+    "parent_hash": "0x54351b45d8ad552ac6d69243a720ae8e790e0e94",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 417653
+    },
+    "text": "tried on phantom...'swap failed'. Tried changing rpcs, resetting nonce, everything...someone plz halp",
+    "timestamp": "2024-11-24T23:32:25.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 1,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 256500,
+          "fname": "painx"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x54351b45d8ad552ac6d69243a720ae8e790e0e94",
+    "author": {
+      "object": "user",
+      "fid": 417653,
+      "username": "otterxbt",
+      "display_name": "OtterXBT",
+      "pfp_url": "https://i.imgur.com/Mvr1HbD.jpg",
+      "custody_address": "0xa0c0d02603341222a2b1f10d0532d710f7b696f4",
+      "profile": {
+        "bio": {
+          "text": "Degen. \nMemecoin and ordinal lover. \nCrypto class of '21"
+        }
+      },
+      "follower_count": 12,
+      "following_count": 121,
+      "verifications": [
+        "0x5d7425780f475bf22e93dc32fa9b7177b1e10621",
+        "0x71db3531c88878a61269c187f3a728aeb617c085"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5d7425780f475bf22e93dc32fa9b7177b1e10621",
+          "0x71db3531c88878a61269c187f3a728aeb617c085"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x71db3531c88878a61269c187f3a728aeb617c085",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x54351b45d8ad552ac6d69243a720ae8e790e0e94",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "Base is COMPLETELY bricked for me on all wallets and I'm not sure why. I've tried different RPC nodes, different wallets, have plenty of gas...not sure what's going on.",
+    "timestamp": "2024-11-24T23:23:01.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 1,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 256500,
+          "fname": "painx"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xe8a5c5529328260e466ef79acb9f6dfc7cfdee81",
+    "author": {
+      "object": "user",
+      "fid": 417653,
+      "username": "otterxbt",
+      "display_name": "OtterXBT",
+      "pfp_url": "https://i.imgur.com/Mvr1HbD.jpg",
+      "custody_address": "0xa0c0d02603341222a2b1f10d0532d710f7b696f4",
+      "profile": {
+        "bio": {
+          "text": "Degen. \nMemecoin and ordinal lover. \nCrypto class of '21"
+        }
+      },
+      "follower_count": 12,
+      "following_count": 121,
+      "verifications": [
+        "0x5d7425780f475bf22e93dc32fa9b7177b1e10621",
+        "0x71db3531c88878a61269c187f3a728aeb617c085"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5d7425780f475bf22e93dc32fa9b7177b1e10621",
+          "0x71db3531c88878a61269c187f3a728aeb617c085"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x71db3531c88878a61269c187f3a728aeb617c085",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xe2051ae5f0b736d424bae6deee3384855a9bd9db",
+    "parent_hash": "0xe2051ae5f0b736d424bae6deee3384855a9bd9db",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 417653
+    },
+    "text": "have tried with rabby, metamask and others so far. Anyone know what's causing this? Plz help @jessepollak",
+    "timestamp": "2024-11-24T23:18:08.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 99,
+        "username": "jessepollak",
+        "display_name": "jesse.base.eth 🔵",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1013b0f6-1bf4-4f4e-15fb-34be06fede00/original",
+        "custody_address": "0x4ce34af3378a00c640125e4dbf4c9e64dff4c93b",
+        "profile": {
+          "bio": {
+            "text": "@base builder #001; onchain cities w/ OAK & city3",
+            "mentioned_profiles": [
+              {
+                "object": "user_dehydrated",
+                "fid": 12142,
+                "username": "base",
+                "display_name": "Base",
+                "pfp_url": "https://i.imgur.com/7Q0QBrm.jpg",
+                "custody_address": "0x04e6f111ebf6fd25576d480480962435dc3aa8d8"
+              }
+            ],
+            "mentioned_profiles_ranges": [
+              {
+                "start": 0,
+                "end": 5
+              }
+            ]
+          }
+        },
+        "follower_count": 486035,
+        "following_count": 1759,
+        "verifications": [
+          "0x849151d7d0bf1f34b70d5cad5149d28cc2308bf1",
+          "0xe73f9c181b571cac2bf3173634d04a9921b7ffcf",
+          "0x6e0d9c6dd8a08509bb625caa35dc61a991406f62",
+          "0x2211d1d0020daea8039e46cf1367962070d77da9",
+          "0x8e86e5331d3a020909c9e42ea9051675555f5e49",
+          "0x6adea326faea1b688af33df59e18f7a819bcaa4f",
+          "0x85c0ba9e1456bc755a6ce69e1a85ccaa1faa9e41"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x849151d7d0bf1f34b70d5cad5149d28cc2308bf1",
+            "0xe73f9c181b571cac2bf3173634d04a9921b7ffcf",
+            "0x6e0d9c6dd8a08509bb625caa35dc61a991406f62",
+            "0x2211d1d0020daea8039e46cf1367962070d77da9",
+            "0x8e86e5331d3a020909c9e42ea9051675555f5e49",
+            "0x6adea326faea1b688af33df59e18f7a819bcaa4f",
+            "0x85c0ba9e1456bc755a6ce69e1a85ccaa1faa9e41"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0x849151d7d0bf1f34b70d5cad5149d28cc2308bf1",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [],
+        "power_badge": true
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 93,
+        "end": 105
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xe2051ae5f0b736d424bae6deee3384855a9bd9db",
+    "author": {
+      "object": "user",
+      "fid": 417653,
+      "username": "otterxbt",
+      "display_name": "OtterXBT",
+      "pfp_url": "https://i.imgur.com/Mvr1HbD.jpg",
+      "custody_address": "0xa0c0d02603341222a2b1f10d0532d710f7b696f4",
+      "profile": {
+        "bio": {
+          "text": "Degen. \nMemecoin and ordinal lover. \nCrypto class of '21"
+        }
+      },
+      "follower_count": 12,
+      "following_count": 121,
+      "verifications": [
+        "0x5d7425780f475bf22e93dc32fa9b7177b1e10621",
+        "0x71db3531c88878a61269c187f3a728aeb617c085"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5d7425780f475bf22e93dc32fa9b7177b1e10621",
+          "0x71db3531c88878a61269c187f3a728aeb617c085"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x71db3531c88878a61269c187f3a728aeb617c085",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xe2051ae5f0b736d424bae6deee3384855a9bd9db",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "No matter what I do/what wallet I use my base transactions always say that there are 'not enough funds for gas'. What's the deal?",
+    "timestamp": "2024-11-24T23:17:40.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x507961e27c777c85ae8ae922c611bb17b58d5f7b",
+    "author": {
+      "object": "user",
+      "fid": 417653,
+      "username": "otterxbt",
+      "display_name": "OtterXBT",
+      "pfp_url": "https://i.imgur.com/Mvr1HbD.jpg",
+      "custody_address": "0xa0c0d02603341222a2b1f10d0532d710f7b696f4",
+      "profile": {
+        "bio": {
+          "text": "Degen. \nMemecoin and ordinal lover. \nCrypto class of '21"
+        }
+      },
+      "follower_count": 12,
+      "following_count": 121,
+      "verifications": [
+        "0x5d7425780f475bf22e93dc32fa9b7177b1e10621",
+        "0x71db3531c88878a61269c187f3a728aeb617c085"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5d7425780f475bf22e93dc32fa9b7177b1e10621",
+          "0x71db3531c88878a61269c187f3a728aeb617c085"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x71db3531c88878a61269c187f3a728aeb617c085",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x507961e27c777c85ae8ae922c611bb17b58d5f7b",
+    "parent_hash": null,
+    "parent_url": "https://warpcast.com/~/channel/worldpvp",
+    "root_parent_url": "https://warpcast.com/~/channel/worldpvp",
+    "parent_author": {
+      "fid": null
+    },
+    "text": "Madagascar's mighty Lemurian will shall soon be felt across all nations, in all times. \n\nhttps://youtu.be/GsxsGn0PWh0?si=neNpsaDAr98gTh8M",
+    "timestamp": "2024-05-15T17:51:49.000Z",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5483ead1-3e89-4fa7-b5e0-9378b3fc7b00/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 11629,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 109,
+            "height_px": 194
+          }
+        }
+      },
+      {
+        "url": "https://youtu.be/GsxsGn0PWh0?si=neNpsaDAr98gTh8M",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED"
+        }
+      }
+    ],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "worldpvp",
+      "name": "worldpvp",
+      "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e5722266-2808-4aee-ebbf-d2806a2dc100/original"
+    },
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": true
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0xfd90f8a6013c2aab9e470fa5e11c7d492b44a584",
+    "author": {
+      "object": "user",
+      "fid": 417653,
+      "username": "otterxbt",
+      "display_name": "OtterXBT",
+      "pfp_url": "https://i.imgur.com/Mvr1HbD.jpg",
+      "custody_address": "0xa0c0d02603341222a2b1f10d0532d710f7b696f4",
+      "profile": {
+        "bio": {
+          "text": "Degen. \nMemecoin and ordinal lover. \nCrypto class of '21"
+        }
+      },
+      "follower_count": 12,
+      "following_count": 121,
+      "verifications": [
+        "0x5d7425780f475bf22e93dc32fa9b7177b1e10621",
+        "0x71db3531c88878a61269c187f3a728aeb617c085"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5d7425780f475bf22e93dc32fa9b7177b1e10621",
+          "0x71db3531c88878a61269c187f3a728aeb617c085"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x71db3531c88878a61269c187f3a728aeb617c085",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xfd90f8a6013c2aab9e470fa5e11c7d492b44a584",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "Good morning sers am I late?",
+    "timestamp": "2024-03-29T20:41:02.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  }
+]

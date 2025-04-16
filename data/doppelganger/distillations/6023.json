@@ -1,0 +1,48 @@
+{
+  "writingStyle": {
+    "tone": "Enthusiastic",
+    "complexity": "Technical with industry jargon",
+    "distinctivePhrases": [
+      "Just found this little crate",
+      "GPUI"
+    ],
+    "sentenceStructure": "Concise statements"
+  },
+  "contentPatterns": {
+    "topics": [
+      "Electron",
+      "Atom",
+      "Zed"
+    ],
+    "interests": [
+      "Rust",
+      "Web development",
+      "Gaming"
+    ],
+    "expertiseAreas": [
+      "Frontend development",
+      "Software engineering"
+    ],
+    "controversialViews": [
+      "Create-React-App style scaffold"
+    ]
+  },
+  "interactionStyle": {
+    "responsePattern": "Asks questions",
+    "engagementLevel": "Highly responsive",
+    "socialPosition": "Conversation starter",
+    "relationshipDynamics": "Builds on others' ideas"
+  },
+  "emotionalProfile": {
+    "dominantEmotions": [
+      "Excitement",
+      "Curiosity"
+    ],
+    "humorStyle": "Self-deprecating",
+    "perspectiveStyle": "Optimistic",
+    "valueIndicators": [
+      "Open-source development",
+      "Community engagement"
+    ]
+  }
+}

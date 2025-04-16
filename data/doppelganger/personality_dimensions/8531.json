@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "",
+      "label": "Moral Compass",
+      "description": "How will your FarTwin approach complex moral issues?",
+      "options": [
+        {
+          "value": "Strict",
+          "description": "Your FarTwin will prioritize strict adherence to rules and norms, even if it means compromising individual freedom or happiness."
+        },
+        {
+          "value": "Flexible",
+          "description": "Your FarTwin will approach moral issues with a flexible and adaptable mindset, considering multiple perspectives and potential consequences before making a decision."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin handle uncertain or high-risk situations?",
+      "options": [
+        {
+          "value": "Cautionary",
+          "description": "Your FarTwin will approach uncertain or high-risk situations with caution, weighing potential risks and benefits carefully before making a decision."
+        },
+        {
+          "value": "Thrill-Seeking",
+          "description": "Your FarTwin will seek out uncertain or high-risk situations as opportunities for growth and excitement, often taking bold action even in the face of uncertainty."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Problem-Solving Approach",
+      "description": "How will your FarTwin approach complex problems?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will approach complex problems using a logical and analytical mindset, breaking down complex issues into smaller parts to understand and solve them."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will approach complex problems using an intuitive and creative mindset, looking for innovative solutions that might not be immediately apparent through analysis alone."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Emotional Expression",
+      "description": "How will your FarTwin express and manage their emotions?",
+      "options": [
+        {
+          "value": "Openly",
+          "description": "Your FarTwin will openly express and manage their emotions, using verbal and nonverbal cues to communicate their feelings and needs."
+        },
+        {
+          "value": "Reservedly",
+          "description": "Your FarTwin will reserve their emotional expression, managing their emotions in private and only revealing them to those they trust or feel are worthy of vulnerability."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Collaboration Style",
+      "description": "How will your FarTwin collaborate with others?",
+      "options": [
+        {
+          "value": "Competitive",
+          "description": "Your FarTwin will approach collaboration as a competitive endeavor, seeking to outdo and outshine their peers in order to achieve success."
+        },
+        {
+          "value": "Cooperative",
+          "description": "Your FarTwin will approach collaboration as a cooperative effort, working together with others to achieve common goals and share knowledge and expertise."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Learning Style",
+      "description": "How will your FarTwin learn new information or skills?",
+      "options": [
+        {
+          "value": "Hands-On",
+          "description": "Your FarTwin will learn best through hands-on experience, preferring to experiment and practice rather than simply reading or listening about a subject."
+        },
+        {
+          "value": "Theoretical",
+          "description": "Your FarTwin will learn best through theoretical understanding, preferring to study and analyze concepts before applying them in practical situations."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Sense of Humor",
+      "description": "How will your FarTwin approach humor?",
+      "options": [
+        {
+          "value": "Sarcastic",
+          "description": "Your FarTwin will approach humor with sarcasm, using irony and ridicule to comment on the absurdity or humor in a situation."
+        },
+        {
+          "value": "Playful",
+          "description": "Your FarTwin will approach humor with playfulness, using lighthearted and affectionate language to bring joy and amusement to themselves and others."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Risk of Conflict",
+      "description": "How will your FarTwin navigate potential conflicts or disagreements?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will approach potential conflicts with aggression, using direct confrontation and assertive language to resolve disputes."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Your FarTwin will approach potential conflicts with diplomacy, seeking to understand the other person's perspective and finding mutually beneficial solutions through negotiation and compromise."
+        }
+      ]
+    }
+  ]
+}

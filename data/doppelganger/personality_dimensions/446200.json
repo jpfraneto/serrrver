@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "😊",
+      "label": "Perception of Humor",
+      "description": "How will your FarTwin perceive humor?",
+      "options": [
+        {
+          "value": "Dry",
+          "description": "Your FarTwin will find irony and sarcasm amusing, often responding with witty one-liners."
+        },
+        {
+          "value": "Goofy",
+          "description": "Your FarTwin will enjoy slapstick humor and silly jokes, often laughing at the most absurd things."
+        }
+      ]
+    },
+    {
+      "emoji": "👥",
+      "label": "Group Dynamics",
+      "description": "How will your FarTwin interact with a group?",
+      "options": [
+        {
+          "value": "Assertive",
+          "description": "Your FarTwin will take charge and lead the conversation, often dominating discussions."
+        },
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will listen actively and work together with others to find a collective solution."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Problem-Solving Approach",
+      "description": "How will your FarTwin tackle problems?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will break down complex issues into logical steps, using data and evidence to inform decisions."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on instincts and instincts-based decision-making, often trusting their gut feeling over analysis."
+        }
+      ]
+    },
+    {
+      "emoji": "💼",
+      "label": "Career Ambition",
+      "description": "How will your FarTwin approach career advancement?",
+      "options": [
+        {
+          "value": "Ambitious",
+          "description": "Your FarTwin will set high goals and work hard to achieve them, often taking risks to advance their career."
+        },
+        {
+          "value": "Cautious",
+          "description": "Your FarTwin will prioritize stability and security, often choosing more traditional career paths with predictable outcomes."
+        }
+      ]
+    },
+    {
+      "emoji": "🌎",
+      "label": "Global Perspective",
+      "description": "How will your FarTwin view the world?",
+      "options": [
+        {
+          "value": "Optimistic",
+          "description": "Your FarTwin will believe that the world is a better place, often taking a positive and idealistic approach to global issues."
+        },
+        {
+          "value": "Cynical",
+          "description": "Your FarTwin will be skeptical of global progress and institutions, often viewing the world with a pessimistic lens."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Learning Style",
+      "description": "How will your FarTwin absorb new information?",
+      "options": [
+        {
+          "value": "Visual",
+          "description": "Your FarTwin will learn best through images, videos, and visual aids, often needing to see the material to understand it."
+        },
+        {
+          "value": "Verbal",
+          "description": "Your FarTwin will prefer listening to lectures or discussions, often understanding complex concepts better through auditory explanations."
+        }
+      ]
+    },
+    {
+      "emoji": "💻",
+      "label": "Digital Literacy",
+      "description": "How will your FarTwin navigate technology?",
+      "options": [
+        {
+          "value": "Fluent",
+          "description": "Your FarTwin will be highly comfortable using digital tools and platforms, often using them to enhance their work or daily life."
+        },
+        {
+          "value": "Basic",
+          "description": "Your FarTwin will have a basic understanding of technology, but may struggle with more complex applications or software."
+        }
+      ]
+    },
+    {
+      "emoji": "🕰️",
+      "label": "Time Management",
+      "description": "How will your FarTwin prioritize tasks?",
+      "options": [
+        {
+          "value": "Type-A",
+          "description": "Your FarTwin will be highly structured and organized, often prioritizing efficiency and productivity above all else."
+        },
+        {
+          "value": "Relaxed",
+          "description": "Your FarTwin will have a more flexible approach to time management, often taking breaks and prioritizing personal well-being."
+        }
+      ]
+    }
+  ]
+}

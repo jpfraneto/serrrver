@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": "Hey anky"
+  },
+  {
+    "role": "assistant",
+    "content": "It's nice to meet you. Is there something I can help you with or would you like to chat?"
+  },
+  {
+    "role": "user",
+    "content": "I'd like to chat"
+  },
+  {
+    "role": "assistant",
+    "content": "I'm happy to chat with you. How's your day going so far?\n\nIf you're feeling stuck, we could talk about anything you'd like - hobbies, movies, books, travel, or just random thoughts. I'm here to listen!\n\nWhat's on your mind?"
+  }
+]

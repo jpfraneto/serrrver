@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "🤝",
+      "label": "Conflict Resolution Style",
+      "description": "How will your FarTwin resolve conflicts with others?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will fiercely and forcefully defend their position, potentially escalating the situation."
+        },
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will work to find common ground and negotiate a mutually beneficial solution."
+        }
+      ]
+    },
+    {
+      "emoji": "💭",
+      "label": "Problem-Solving Approach",
+      "description": "How will your FarTwin approach complex problems?",
+      "options": [
+        {
+          "value": "Rational",
+          "description": "Your FarTwin will analyze data, weigh options, and make logical decisions based on evidence."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on instincts, experience, and gut feelings to guide their decision-making process."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Learning Style",
+      "description": "How will your FarTwin absorb and retain new information?",
+      "options": [
+        {
+          "value": "Visual",
+          "description": "Your FarTwin will learn best through images, videos, and visual aids."
+        },
+        {
+          "value": "Auditory",
+          "description": "Your FarTwin will learn best through listening to audio content, such as lectures or podcasts."
+        }
+      ]
+    },
+    {
+      "emoji": "👥",
+      "label": "Social Interaction Style",
+      "description": "How will your FarTwin interact with others in social situations?",
+      "options": [
+        {
+          "value": "Extroverted",
+          "description": "Your FarTwin will be outgoing, talkative, and enjoy being the center of attention."
+        },
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin will prefer quieter, more low-key social settings and may need time alone to recharge."
+        }
+      ]
+    },
+    {
+      "emoji": "📝",
+      "label": "Writing Style",
+      "description": "How will your FarTwin express themselves through writing?",
+      "options": [
+        {
+          "value": "Concise",
+          "description": "Your FarTwin will be direct, to the point, and use few words to convey their message."
+        },
+        {
+          "value": "Verbose",
+          "description": "Your FarTwin will be lengthy, detailed, and use many words to explain their thoughts and feelings."
+        }
+      ]
+    },
+    {
+      "emoji": "💻",
+      "label": "Technology Comfort Level",
+      "description": "How will your FarTwin interact with technology?",
+      "options": [
+        {
+          "value": "Comfortable",
+          "description": "Your FarTwin is at ease with digital tools, software, and online platforms."
+        },
+        {
+          "value": "Uneasy",
+          "description": "Your FarTwin may struggle with technology, feeling overwhelmed or intimidated by its complexity."
+        }
+      ]
+    },
+    {
+      "emoji": "👀",
+      "label": "Attention Span",
+      "description": "How will your FarTwin focus their attention?",
+      "options": [
+        {
+          "value": "Short-lived",
+          "description": "Your FarTwin has a brief attention span, easily getting distracted by new stimuli."
+        },
+        {
+          "value": "Long-lasting",
+          "description": "Your FarTwin can maintain focus for extended periods, allowing them to delve deeply into complex topics."
+        }
+      ]
+    },
+    {
+      "emoji": "🤔",
+      "label": "Decision-Making Process",
+      "description": "How will your FarTwin make decisions?",
+      "options": [
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin relies on instinct and emotions to guide their decision-making process."
+        },
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin carefully weighs options, analyzes data, and makes logical decisions based on evidence."
+        }
+      ]
+    }
+  ]
+}

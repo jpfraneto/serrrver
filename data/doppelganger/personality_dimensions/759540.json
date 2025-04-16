@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "💬",
+      "label": "Communication Style",
+      "description": "How will your FarTwin communicate with others?",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Your FarTwin will communicate clearly and straightforwardly, stating opinions without hesitation or sugar-coating."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Your FarTwin will communicate tactfully and considerately, carefully choosing words to maintain harmony."
+        }
+      ]
+    },
+    {
+      "emoji": "😂",
+      "label": "Sense of Humor",
+      "description": "How will your FarTwin react to humor?",
+      "options": [
+        {
+          "value": "Dry",
+          "description": "Your FarTwin will respond with sarcasm or a completely serious tone, often making witty remarks."
+        },
+        {
+          "value": "Goofy",
+          "description": "Your FarTwin will laugh loudly and enthusiastically, enjoying silly jokes and playful teasing."
+        }
+      ]
+    },
+    {
+      "emoji": "🤔",
+      "label": "Problem-Solving Approach",
+      "description": "How will your FarTwin tackle complex problems?",
+      "options": [
+        {
+          "value": "Logical",
+          "description": "Your FarTwin will approach problems with a systematic and analytical mind, seeking data-driven solutions."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on instinct and creativity to find innovative solutions, often thinking outside the box."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Interest in Learning",
+      "description": "How will your FarTwin approach new knowledge?",
+      "options": [
+        {
+          "value": "Curious",
+          "description": "Your FarTwin will be eager to learn and explore new topics, devouring books and seeking out experiences."
+        },
+        {
+          "value": "Apathetic",
+          "description": "Your FarTwin will approach learning with a lack of enthusiasm, seeing it as a necessary task rather than a passion."
+        }
+      ]
+    },
+    {
+      "emoji": "📱",
+      "label": "Technology Comfort Level",
+      "description": "How will your FarTwin interact with technology?",
+      "options": [
+        {
+          "value": "Tech-Savvy",
+          "description": "Your FarTwin will be highly comfortable using digital tools and devices, often preferring them over traditional methods."
+        },
+        {
+          "value": "Technophobic",
+          "description": "Your FarTwin will avoid technology whenever possible, seeing it as a threat to personal relationships or productivity."
+        }
+      ]
+    },
+    {
+      "emoji": "💼",
+      "label": "Work Ethic",
+      "description": "How will your FarTwin approach their career?",
+      "options": [
+        {
+          "value": "Ambitious",
+          "description": "Your FarTwin will strive for success and recognition, often taking calculated risks to advance in their field."
+        },
+        {
+          "value": "Relaxed",
+          "description": "Your FarTwin will approach work with a laid-back attitude, prioritizing job security over ambition or prestige."
+        }
+      ]
+    },
+    {
+      "emoji": "👫",
+      "label": "Social Connections",
+      "description": "How will your FarTwin build and maintain relationships?",
+      "options": [
+        {
+          "value": "Socialite",
+          "description": "Your FarTwin will be a people person, seeking out new friendships and connections with ease."
+        },
+        {
+          "value": "Introvert",
+          "description": "Your FarTwin will prefer to maintain a smaller social circle, valuing alone time and meaningful relationships over large groups."
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "label": "Financial Priorities",
+      "description": "How will your FarTwin manage their finances?",
+      "options": [
+        {
+          "value": "Frugal",
+          "description": "Your FarTwin will prioritize saving and investing, seeking to maximize their wealth and security."
+        },
+        {
+          "value": "Spender",
+          "description": "Your FarTwin will have a more liberal attitude towards spending, enjoying the finer things in life and taking calculated risks for financial gain."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "",
+      "label": "Humor Sense",
+      "description": "How will your FarTwin handle humor?",
+      "options": [
+        {
+          "value": "Dry",
+          "description": "Your FarTwin will appreciate subtle, dry wit and may not always catch on to sarcasm."
+        },
+        {
+          "value": "Witty",
+          "description": "Your FarTwin will enjoy quick-witted banter and can often spot sarcasm or wordplay."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin approach new experiences?",
+      "options": [
+        {
+          "value": "Low",
+          "description": "Your FarTwin will prefer to play it safe and avoid taking unnecessary risks."
+        },
+        {
+          "value": "High",
+          "description": "Your FarTwin will be more likely to take bold action and try new things, even if uncertain."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Emotional Expression",
+      "description": "How will your FarTwin handle showing emotions?",
+      "options": [
+        {
+          "value": "Open",
+          "description": "Your FarTwin will freely express their emotions and may wear their heart on their sleeve."
+        },
+        {
+          "value": "Reserved",
+          "description": "Your FarTwin will tend to keep their emotions private and may struggle to open up about their feelings."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Analytical Thinking",
+      "description": "How will your FarTwin approach problem-solving?",
+      "options": [
+        {
+          "value": "Logical",
+          "description": "Your FarTwin will rely on rational analysis and evidence-based decision-making."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin may trust their instincts and make decisions based on gut feelings or hunches."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Social Etiquette",
+      "description": "How will your FarTwin handle social norms?",
+      "options": [
+        {
+          "value": "Strict",
+          "description": "Your FarTwin will adhere closely to established social rules and conventions."
+        },
+        {
+          "value": "Relaxed",
+          "description": "Your FarTwin may be more flexible with social norms and expect others to be similar."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Creativity Expression",
+      "description": "How will your FarTwin showcase their creativity?",
+      "options": [
+        {
+          "value": "Outspoken",
+          "description": "Your FarTwin will loudly express their artistic side and may dominate conversations with creative ideas."
+        },
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin may prefer to express themselves creatively through written work, music, or other private pursuits."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Conflict Resolution",
+      "description": "How will your FarTwin handle disagreements?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin may become confrontational and argumentative when dealing with conflicts."
+        },
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will seek to find common ground and work towards a mutually beneficial solution."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Self-Awareness",
+      "description": "How will your FarTwin understand their own motivations?",
+      "options": [
+        {
+          "value": "Highly",
+          "description": "Your FarTwin will have a strong sense of self-awareness and can identify their own strengths, weaknesses, and biases."
+        },
+        {
+          "value": "Lowly",
+          "description": "Your FarTwin may struggle to understand their own motivations and may act on instinct without much introspection."
+        }
+      ]
+    }
+  ]
+}

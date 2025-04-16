@@ -1,0 +1,183 @@
+[
+  {
+    "object": "cast",
+    "hash": "0xf64bf1a7fcc85e9d0ad9c2f91c53d02c0e8b12f1",
+    "author": {
+      "object": "user",
+      "fid": 884018,
+      "username": "jdkitty",
+      "display_name": "JD Kitty",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4249d690-a38c-4b58-a07d-ff3f9e6d9d00/rectcrop3",
+      "custody_address": "0x216700c5161c996336b57cccaf9749d11372dbc0",
+      "profile": {
+        "bio": {
+          "text": "Trench warrior"
+        }
+      },
+      "follower_count": 2,
+      "following_count": 27,
+      "verifications": [
+        "0x5788a17ea09e24144a646af2d4c9278c2c19b07e"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5788a17ea09e24144a646af2d4c9278c2c19b07e"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5788a17ea09e24144a646af2d4c9278c2c19b07e",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xf64bf1a7fcc85e9d0ad9c2f91c53d02c0e8b12f1",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "if this is legit it can do real numbers NFA pure speculation \n\n0x075524d1Ec5Aaa9d159cDD284c792AB9eb985822",
+    "timestamp": "2025-03-28T16:04:44.000Z",
+    "embeds": [
+      {
+        "url": "https://warpcast.com/~/ca/0x075524d1Ec5Aaa9d159cDD284c792AB9eb985822",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://warpcast.com/~/ca/0x075524d1Ec5Aaa9d159cDD284c792AB9eb985822",
+            "ogType": "website",
+            "favicon": "/favicon.png",
+            "ogImage": [
+              {
+                "url": "https://warpcast.com/og-logo.png",
+                "type": "png",
+                "width": "512",
+                "height": "512"
+              }
+            ],
+            "ogTitle": "$Univ on Warpcast",
+            "ogLocale": "en",
+            "ogSiteName": "Warpcast"
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x699250e24f9102bc40a6d17c1a34d10982f3ba50",
+    "author": {
+      "object": "user",
+      "fid": 884018,
+      "username": "jdkitty",
+      "display_name": "JD Kitty",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4249d690-a38c-4b58-a07d-ff3f9e6d9d00/rectcrop3",
+      "custody_address": "0x216700c5161c996336b57cccaf9749d11372dbc0",
+      "profile": {
+        "bio": {
+          "text": "Trench warrior"
+        }
+      },
+      "follower_count": 2,
+      "following_count": 27,
+      "verifications": [
+        "0x5788a17ea09e24144a646af2d4c9278c2c19b07e"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x5788a17ea09e24144a646af2d4c9278c2c19b07e"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x5788a17ea09e24144a646af2d4c9278c2c19b07e",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x699250e24f9102bc40a6d17c1a34d10982f3ba50",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "This is giving me good feeling 0x5236868e865aA02019A8dFAFf009A44cc3d5adDf",
+    "timestamp": "2025-03-13T04:02:55.000Z",
+    "embeds": [
+      {
+        "url": "https://warpcast.com/~/ca/0x5236868e865aA02019A8dFAFf009A44cc3d5adDf",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://warpcast.com/~/ca/0x5236868e865aa02019a8dfaff009a44cc3d5addf",
+            "ogType": "website",
+            "favicon": "/favicon.png",
+            "ogImage": [
+              {
+                "url": "https://wrpcd.net/cdn-cgi/image/anim=false,fit=contain,f=auto,w=256/https%3A%2F%2Fmagic.decentralized-content.com%2Fipfs%2Fbafybeigsu65louicfar6rgzcnv5tyyrf2krdn7azcsi6adltnofip4gkx4",
+                "width": "256",
+                "height": "256"
+              }
+            ],
+            "ogTitle": "$$DRB_DAY 1 on Warpcast",
+            "ogLocale": "en",
+            "ogSiteName": "Warpcast"
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  }
+]

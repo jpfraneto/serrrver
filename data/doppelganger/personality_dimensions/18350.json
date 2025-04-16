@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "",
+      "label": "Communication Style",
+      "description": "How will your FarTwin communicate with others?",
+      "options": [
+        {
+          "value": "Open",
+          "description": "Your FarTwin will be openly honest and transparent in all interactions."
+        },
+        {
+          "value": "Reserved",
+          "description": "Your FarTwin will be more reserved and cautious when communicating with others."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Emotional Expression",
+      "description": "How will your FarTwin express their emotions?",
+      "options": [
+        {
+          "value": "Vivid",
+          "description": "Your FarTwin will openly display their emotions, often wearing their heart on their sleeve."
+        },
+        {
+          "value": "Subtle",
+          "description": "Your FarTwin will carefully control their emotional expression, rarely showing vulnerability."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Problem-Solving Approach",
+      "description": "How will your FarTwin approach problems?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will use a logical and analytical approach to solve problems."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on their intuition and instincts to guide problem-solving decisions."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Social Interaction Style",
+      "description": "How will your FarTwin interact with others in social situations?",
+      "options": [
+        {
+          "value": "Outgoing",
+          "description": "Your FarTwin will be outgoing and sociable, thriving in group settings."
+        },
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin will prefer smaller, more low-key social gatherings or may even choose to avoid them altogether."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Decision-Making Process",
+      "description": "How will your FarTwin make decisions?",
+      "options": [
+        {
+          "value": "Rational",
+          "description": "Your FarTwin will use a rational and evidence-based approach to decision-making."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on their intuition and instincts to guide decision-making choices."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Conflict Resolution Style",
+      "description": "How will your FarTwin resolve conflicts?",
+      "options": [
+        {
+          "value": "Assertive",
+          "description": "Your FarTwin will stand up for themselves and assert their needs in conflict resolution."
+        },
+        {
+          "value": "Avoidant",
+          "description": "Your FarTwin may avoid or sidestep conflicts altogether to maintain harmony."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Learning Style",
+      "description": "How will your FarTwin learn and absorb new information?",
+      "options": [
+        {
+          "value": "Visual",
+          "description": "Your FarTwin is a visual learner, best absorbing information through images and videos."
+        },
+        {
+          "value": "Auditory",
+          "description": "Your FarTwin is an auditory learner, preferring to learn through sound and music."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Risk-Taking Behavior",
+      "description": "How will your FarTwin approach risk-taking?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will take bold and aggressive risks, often pushing boundaries to achieve success."
+        },
+        {
+          "value": "Conservative",
+          "description": "Your FarTwin will prefer to play it safe, taking calculated and cautious risks when necessary."
+        }
+      ]
+    }
+  ]
+}

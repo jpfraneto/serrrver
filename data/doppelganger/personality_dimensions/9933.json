@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "💬",
+      "label": "Communication Style",
+      "description": "How will your FarTwin communicate with others?",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Your FarTwin will communicate clearly and straightforwardly, stating opinions without hesitation or sugar-coating."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Your FarTwin will communicate tactfully and considerately, carefully choosing words to maintain harmony."
+        }
+      ]
+    },
+    {
+      "emoji": "📝",
+      "label": "Note-Taking Habits",
+      "description": "How does your FarTwin take notes?",
+      "options": [
+        {
+          "value": "Detailed",
+          "description": "Your FarTwin will meticulously record every detail, including dates, times, and quotes."
+        },
+        {
+          "value": "Brief",
+          "description": "Your FarTwin will summarize information in a concise manner, focusing on key points."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Conflict Resolution",
+      "description": "How does your FarTwin handle conflicts?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will assertively express their opinions and defend themselves, even in heated situations."
+        },
+        {
+          "value": "Passive",
+          "description": "Your FarTwin will attempt to avoid conflict altogether, often at the expense of their own needs and desires."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Analytical Approach",
+      "description": "How does your FarTwin analyze information?",
+      "options": [
+        {
+          "value": "Rigorous",
+          "description": "Your FarTwin will methodically and thoroughly examine data, searching for patterns and correlations."
+        },
+        {
+          "value": "Superficial",
+          "description": "Your FarTwin will glance at information briefly, making broad judgments without careful consideration."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Reading Habits",
+      "description": "How does your FarTwin approach reading?",
+      "options": [
+        {
+          "value": "Thorough",
+          "description": "Your FarTwin will meticulously read and analyze texts, taking detailed notes and underlining key points."
+        },
+        {
+          "value": "Casual",
+          "description": "Your FarTwin will skim through materials quickly, focusing on surface-level information rather than in-depth analysis."
+        }
+      ]
+    },
+    {
+      "emoji": "🗑️",
+      "label": "Decision-Making Process",
+      "description": "How does your FarTwin make decisions?",
+      "options": [
+        {
+          "value": "Spontaneous",
+          "description": "Your FarTwin will act on impulse, making quick and often impulsive decisions without careful consideration."
+        },
+        {
+          "value": "Reflective",
+          "description": "Your FarTwin will carefully weigh options and consider the pros and cons before making a decision."
+        }
+      ]
+    },
+    {
+      "emoji": "👥",
+      "label": "Social Interactions",
+      "description": "How does your FarTwin interact with others?",
+      "options": [
+        {
+          "value": "Outgoing",
+          "description": "Your FarTwin will enthusiastically engage with people, forming strong connections and friendships."
+        },
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin will be reserved and cautious in social situations, preferring to observe from a distance."
+        }
+      ]
+    },
+    {
+      "emoji": "🕰️",
+      "label": "Time Management",
+      "description": "How does your FarTwin manage their time?",
+      "options": [
+        {
+          "value": "Flexible",
+          "description": "Your FarTwin will adapt to changing circumstances, often procrastinating or rushing through tasks."
+        },
+        {
+          "value": "Structured",
+          "description": "Your FarTwin will create rigid schedules and deadlines, prioritizing efficiency and productivity."
+        }
+      ]
+    }
+  ]
+}

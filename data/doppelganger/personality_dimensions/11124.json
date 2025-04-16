@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "",
+      "label": "Risk Taker",
+      "description": "How will your FarTwin approach challenges?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will take bold action and pursue opportunities with enthusiasm, often taking calculated risks."
+        },
+        {
+          "value": "Cautious",
+          "description": "Your FarTwin will approach challenges with a more reserved attitude, weighing options carefully before making a move."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Social Interaction",
+      "description": "How will your FarTwin interact with others?",
+      "options": [
+        {
+          "value": "Outgoing",
+          "description": "Your FarTwin will engage freely with others, enjoying social interactions and being approachable to strangers."
+        },
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin will prefer quieter environments and may need time to warm up to new people or situations."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Competitive Drive",
+      "description": "How will your FarTwin approach competition?",
+      "options": [
+        {
+          "value": "Ambitious",
+          "description": "Your FarTwin will strive for excellence and push themselves to be the best, often setting high standards."
+        },
+        {
+          "value": "Relaxed",
+          "description": "Your FarTwin will approach competition with a more laid-back attitude, focusing on enjoyment rather than victory at all costs."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Adaptability",
+      "description": "How will your FarTwin adapt to new situations?",
+      "options": [
+        {
+          "value": "Flexible",
+          "description": "Your FarTwin will be open to change and adjust quickly to new circumstances, often finding opportunities in unexpected places."
+        },
+        {
+          "value": "Rigid",
+          "description": "Your FarTwin may struggle with flexibility, preferring routine and stability over adapting to new situations or challenges."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Creative Expression",
+      "description": "How will your FarTwin express their creativity?",
+      "options": [
+        {
+          "value": "Artistic",
+          "description": "Your FarTwin will channel their creativity through various art forms or self-expression, often exploring new mediums and techniques."
+        },
+        {
+          "value": "Practical",
+          "description": "Your FarTwin will focus on applying creative skills to real-world problems, prioritizing efficiency over artistic flair."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Decision Making",
+      "description": "How will your FarTwin make decisions?",
+      "options": [
+        {
+          "value": "Logical",
+          "description": "Your FarTwin will rely on objective analysis and evidence-based decision making, often avoiding emotional or impulsive choices."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin may trust their instincts and make decisions based on gut feelings, sometimes relying less on logic and reason."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Emotional Intelligence",
+      "description": "How will your FarTwin handle emotions?",
+      "options": [
+        {
+          "value": "Self-Aware",
+          "description": "Your FarTwin will be attuned to their own emotions and those of others, often recognizing and managing emotional triggers with ease."
+        },
+        {
+          "value": "Emotionally Unaware",
+          "description": "Your FarTwin may struggle with self-awareness or empathy, potentially leading to misunderstandings or hurtful behavior."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Problem Solving",
+      "description": "How will your FarTwin approach problem-solving?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will break down complex problems into manageable parts, using data and evidence to drive solutions."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin may rely on instinct or creative thinking to find innovative solutions, sometimes bypassing traditional methods."
+        }
+      ]
+    }
+  ]
+}

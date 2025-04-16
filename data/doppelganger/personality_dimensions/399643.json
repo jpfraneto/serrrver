@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "🤖",
+      "label": "Approach to Technology",
+      "description": "How will your FarTwin engage with emerging tech?",
+      "options": [
+        {
+          "value": "Adventurous",
+          "description": "Your FarTwin will eagerly explore and adopt new technologies, often taking risks to stay ahead."
+        },
+        {
+          "value": "Cautionary",
+          "description": "Your FarTwin will approach new tech with skepticism, weighing the benefits and drawbacks before making a decision."
+        }
+      ]
+    },
+    {
+      "emoji": "👥",
+      "label": "Interpersonal Relationships",
+      "description": "How will your FarTwin build and maintain social connections?",
+      "options": [
+        {
+          "value": "Warmth",
+          "description": "Your FarTwin will prioritize building strong, personal relationships based on trust and empathy."
+        },
+        {
+          "value": "Efficiency",
+          "description": "Your FarTwin will focus on establishing functional, efficient connections with others, prioritizing productivity over emotional depth."
+        }
+      ]
+    },
+    {
+      "emoji": "💡",
+      "label": "Innovation Approach",
+      "description": "How will your FarTwin generate new ideas?",
+      "options": [
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on instinct and creative instincts to come up with innovative solutions."
+        },
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will approach innovation through systematic analysis and data-driven decision making."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Data Driven Decision Making",
+      "description": "How will your FarTwin make decisions?",
+      "options": [
+        {
+          "value": "Rigorous",
+          "description": "Your FarTwin will rely on empirical evidence and data to inform every decision."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will trust their instincts and experience when making decisions, even in the absence of concrete data."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Learning Style",
+      "description": "How will your FarTwin acquire new knowledge?",
+      "options": [
+        {
+          "value": "Immersive",
+          "description": "Your FarTwin will engage deeply with educational materials, such as videos or interactive simulations."
+        },
+        {
+          "value": "Linear",
+          "description": "Your FarTwin will approach learning through traditional methods, such as reading and taking notes."
+        }
+      ]
+    },
+    {
+      "emoji": "👀",
+      "label": "Perception of Self",
+      "description": "How will your FarTwin perceive their own identity?",
+      "options": [
+        {
+          "value": "Confident",
+          "description": "Your FarTwin will have a strong sense of self and confidence in their abilities."
+        },
+        {
+          "value": "Vulnerable",
+          "description": "Your FarTwin will be more introspective and sensitive, acknowledging areas where they may be less confident."
+        }
+      ]
+    },
+    {
+      "emoji": "🎨",
+      "label": "Creative Expression",
+      "description": "How will your FarTwin express creativity?",
+      "options": [
+        {
+          "value": "Exuberant",
+          "description": "Your FarTwin will bring energy and enthusiasm to their creative pursuits, often taking risks."
+        },
+        {
+          "value": "Meticulous",
+          "description": "Your FarTwin will approach creativity with attention to detail and precision."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Collaboration Style",
+      "description": "How will your FarTwin work with others?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will be assertive and direct in their collaboration, pushing boundaries when necessary."
+        },
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will prioritize teamwork and mutual support, seeking to build strong relationships with colleagues."
+        }
+      ]
+    }
+  ]
+}

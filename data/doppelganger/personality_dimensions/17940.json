@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "",
+      "label": "Emotional Expression",
+      "description": "How will your FarTwin express emotions?",
+      "options": [
+        {
+          "value": "Vigorous",
+          "description": "Your FarTwin will openly and intensely show their emotions, sometimes to the point of being overwhelming."
+        },
+        {
+          "value": "Reserved",
+          "description": "Your FarTwin will keep their emotions private, rarely sharing them with others unless absolutely necessary."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Social Interactions",
+      "description": "How will your FarTwin interact with strangers?",
+      "options": [
+        {
+          "value": "Extroverted",
+          "description": "Your FarTwin will eagerly engage with new people, often taking the lead in conversations and social situations."
+        },
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin will prefer to interact with familiar people or have time alone, avoiding large groups or unfamiliar individuals."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin approach new experiences?",
+      "options": [
+        {
+          "value": "Thrill-Seeking",
+          "description": "Your FarTwin will pursue novel and potentially hazardous activities with enthusiasm, enjoying the rush of adrenaline."
+        },
+        {
+          "value": "Cautious",
+          "description": "Your FarTwin will carefully weigh risks before engaging in new experiences, preferring a more controlled approach."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Decision-Making",
+      "description": "How will your FarTwin make decisions?",
+      "options": [
+        {
+          "value": "Impulsive",
+          "description": "Your FarTwin will rely on instinct and immediate gut feelings to guide their decision-making process."
+        },
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will carefully analyze data, weigh options, and consider multiple perspectives before making a decision."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Conflict Resolution",
+      "description": "How will your FarTwin handle disagreements?",
+      "options": [
+        {
+          "value": "Competitive",
+          "description": "Your FarTwin will engage in friendly, competitive conflicts to resolve issues, often seeking to 'win' the argument."
+        },
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will seek mutual understanding and compromise with others to find a resolution that satisfies both parties."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Learning Style",
+      "description": "How will your FarTwin approach learning new information?",
+      "options": [
+        {
+          "value": "Hands-On",
+          "description": "Your FarTwin will prefer hands-on, experiential learning, actively engaging with the material to solidify understanding."
+        },
+        {
+          "value": "Theoretical",
+          "description": "Your FarTwin will focus on abstract concepts and theoretical frameworks, often analyzing and discussing ideas in depth."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Time Management",
+      "description": "How will your FarTwin prioritize tasks?",
+      "options": [
+        {
+          "value": "Focused",
+          "description": "Your FarTwin will concentrate on a single task, allocating specific time slots to complete it efficiently."
+        },
+        {
+          "value": "Flexible",
+          "description": "Your FarTwin will adapt to changing circumstances and priorities, adjusting their schedule as needed."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Creative Expression",
+      "description": "How will your FarTwin express creativity?",
+      "options": [
+        {
+          "value": "Immersive",
+          "description": "Your FarTwin will fully immerse themselves in creative activities, often losing track of time and reality."
+        },
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will approach creativity with a logical, analytical mindset, examining and refining their work before presenting it."
+        }
+      ]
+    }
+  ]
+}

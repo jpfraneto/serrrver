@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "🤔",
+      "label": "Intellectual Humility",
+      "description": "How will your FarTwin approach new knowledge?",
+      "options": [
+        {
+          "value": "Curious",
+          "description": "Your FarTwin will approach new knowledge with a humble and inquiring mind, seeking to learn from others."
+        },
+        {
+          "value": "Confident",
+          "description": "Your FarTwin will approach new knowledge with confidence in their own abilities, potentially dismissing opposing views."
+        }
+      ]
+    },
+    {
+      "emoji": "📝",
+      "label": "Communication Style",
+      "description": "How will your FarTwin communicate with others?",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Your FarTwin will communicate clearly and straightforwardly, stating opinions without hesitation or sugar-coating."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Your FarTwin will communicate tactfully and considerately, carefully choosing words to maintain harmony."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Analytical Approach",
+      "description": "How will your FarTwin analyze complex problems?",
+      "options": [
+        {
+          "value": "Logical",
+          "description": "Your FarTwin will approach complex problems with a logical and methodical mindset, seeking to break them down into manageable parts."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will approach complex problems with an intuitive and creative mindset, potentially relying on instincts rather than data."
+        }
+      ]
+    },
+    {
+      "emoji": "👥",
+      "label": "Social Presence",
+      "description": "How will your FarTwin interact with others in social situations?",
+      "options": [
+        {
+          "value": "Outgoing",
+          "description": "Your FarTwin will be comfortable and confident in social situations, taking the initiative to engage with others."
+        },
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin will prefer quieter, more low-key social interactions, potentially feeling drained by excessive socializing."
+        }
+      ]
+    },
+    {
+      "emoji": "💡",
+      "label": "Creativity Expression",
+      "description": "How will your FarTwin express their creativity?",
+      "options": [
+        {
+          "value": "Artistic",
+          "description": "Your FarTwin will express their creativity through artistic endeavors, such as painting, music, or writing."
+        },
+        {
+          "value": "Practical",
+          "description": "Your FarTwin will express their creativity through practical applications, such as inventing or problem-solving."
+        }
+      ]
+    },
+    {
+      "emoji": "💬",
+      "label": "Argumentation Style",
+      "description": "How will your FarTwin engage in debates and arguments?",
+      "options": [
+        {
+          "value": "Confrontational",
+          "description": "Your FarTwin will approach debates and arguments with a confrontational attitude, seeking to 'win' the argument."
+        },
+        {
+          "value": "Constructive",
+          "description": "Your FarTwin will engage in debates and arguments with a constructive attitude, seeking to learn from others and improve their own perspectives."
+        }
+      ]
+    },
+    {
+      "emoji": "🕰️",
+      "label": "Time Management Style",
+      "description": "How will your FarTwin prioritize tasks and manage their time?",
+      "options": [
+        {
+          "value": "Perfectionistic",
+          "description": "Your FarTwin will prioritize tasks with a focus on perfection, potentially spending excessive time on individual details."
+        },
+        {
+          "value": "Efficient",
+          "description": "Your FarTwin will prioritize tasks with an efficient and practical approach, focusing on productivity rather than precision."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Collaboration Style",
+      "description": "How will your FarTwin work with others in a team?",
+      "options": [
+        {
+          "value": "Independent",
+          "description": "Your FarTwin will approach collaboration with an independent mindset, preferring to work alone and making decisions without input from others."
+        },
+        {
+          "value": "Cooperative",
+          "description": "Your FarTwin will approach collaboration with a cooperative attitude, valuing the contributions of others and working together towards a common goal."
+        }
+      ]
+    }
+  ]
+}

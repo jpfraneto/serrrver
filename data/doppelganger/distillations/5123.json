@@ -1,0 +1,26 @@
+{
+  "writingStyle": {
+    "tone": "",
+    "complexity": "",
+    "distinctivePhrases": [],
+    "sentenceStructure": ""
+  },
+  "contentPatterns": {
+    "topics": [],
+    "interests": [],
+    "expertiseAreas": [],
+    "controversialViews": []
+  },
+  "interactionStyle": {
+    "responsePattern": "",
+    "engagementLevel": "",
+    "socialPosition": "",
+    "relationshipDynamics": ""
+  },
+  "emotionalProfile": {
+    "dominantEmotions": [],
+    "humorStyle": "",
+    "perspectiveStyle": "",
+    "valueIndicators": []
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "💬",
+      "label": "Communication Style",
+      "description": "How will your FarTwin communicate with others?",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Your FarTwin will communicate clearly and straightforwardly, stating opinions without hesitation or sugar-coating."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Your FarTwin will communicate tactfully and considerately, carefully choosing words to maintain harmony."
+        }
+      ]
+    },
+    {
+      "emoji": "🤔",
+      "label": "Problem Solving Approach",
+      "description": "How will your FarTwin approach problem-solving?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will analyze data and facts to arrive at a solution."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on instinct and experience to guide their decision-making process."
+        }
+      ]
+    },
+    {
+      "emoji": "📈",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin handle risk?",
+      "options": [
+        {
+          "value": "Conservative",
+          "description": "Your FarTwin will prioritize caution and stability over potential gains."
+        },
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will seek out high-risk, high-reward opportunities with confidence."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Collaboration Style",
+      "description": "How will your FarTwin work with others?",
+      "options": [
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will actively seek input and feedback from peers to improve their work."
+        },
+        {
+          "value": "Competitive",
+          "description": "Your FarTwin will focus on individual achievement, potentially at the expense of teamwork."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Decision Making Process",
+      "description": "How will your FarTwin make decisions?",
+      "options": [
+        {
+          "value": "Data-Driven",
+          "description": "Your FarTwin will rely on evidence and facts to inform their choices."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will trust their instincts and personal values when making decisions."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Learning Style",
+      "description": "How will your FarTwin learn and grow?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will excel in structured, theoretical environments."
+        },
+        {
+          "value": "Experiential",
+          "description": "Your FarTwin will thrive through hands-on experience and practical application."
+        }
+      ]
+    },
+    {
+      "emoji": "👥",
+      "label": "Social Interactions",
+      "description": "How will your FarTwin interact with strangers?",
+      "options": [
+        {
+          "value": "Warm",
+          "description": "Your FarTwin will be friendly, approachable, and welcoming to new people."
+        },
+        {
+          "value": "Reserve",
+          "description": "Your FarTwin may take time to warm up to new individuals or social situations."
+        }
+      ]
+    },
+    {
+      "emoji": "🕒",
+      "label": "Time Management",
+      "description": "How will your FarTwin prioritize tasks?",
+      "options": [
+        {
+          "value": "Punctual",
+          "description": "Your FarTwin will be organized, efficient, and meet deadlines."
+        },
+        {
+          "value": "Flexible",
+          "description": "Your FarTwin may adapt to changing circumstances, adjusting their schedule accordingly."
+        }
+      ]
+    }
+  ]
+}

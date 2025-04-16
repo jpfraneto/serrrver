@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "📺",
+      "label": "Content Creation Style",
+      "description": "How will your FarTwin approach creating content?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will create detailed, data-driven content that provides in-depth analysis and insights."
+        },
+        {
+          "value": "Storytelling",
+          "description": "Your FarTwin will craft engaging stories that convey emotions and resonate with audiences on a deeper level."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Social Interactions",
+      "description": "How will your FarTwin navigate social situations?",
+      "options": [
+        {
+          "value": "Assertive",
+          "description": "Your FarTwin will be confident and direct in their interactions, assertively expressing opinions and needs."
+        },
+        {
+          "value": "Empathetic",
+          "description": "Your FarTwin will be understanding and compassionate, actively listening to others' perspectives and validating emotions."
+        }
+      ]
+    },
+    {
+      "emoji": "🚀",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin handle uncertainty and risk?",
+      "options": [
+        {
+          "value": "Thrill-Seeking",
+          "description": "Your FarTwin will eagerly take on challenges and pursue bold opportunities, driven by a desire for excitement and growth."
+        },
+        {
+          "value": "Conservative",
+          "description": "Your FarTwin will approach risks with caution, carefully weighing pros and cons before making informed decisions."
+        }
+      ]
+    },
+    {
+      "emoji": "💡",
+      "label": "Problem Solving Approach",
+      "description": "How will your FarTwin approach complex problems?",
+      "options": [
+        {
+          "value": "Logical",
+          "description": "Your FarTwin will break down complex issues into manageable parts, using logical reasoning and evidence-based approaches."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will trust their instincts and rely on creative problem-solving, often finding innovative solutions through exploration and experimentation."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Learning Style",
+      "description": "How will your FarTwin absorb new information?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will focus on breaking down complex concepts into smaller, manageable parts, using data and evidence to support their understanding."
+        },
+        {
+          "value": "Holistic",
+          "description": "Your FarTwin will seek to understand the big picture, considering relationships between ideas and concepts in a more intuitive and interconnected way."
+        }
+      ]
+    },
+    {
+      "emoji": "📢",
+      "label": "Communication Channels",
+      "description": "How will your FarTwin prefer to communicate?",
+      "options": [
+        {
+          "value": "Written",
+          "description": "Your FarTwin will express themselves through written content, such as articles, comments, or messages."
+        },
+        {
+          "value": "Verbal",
+          "description": "Your FarTwin will prefer face-to-face conversations or voice-based communication, engaging with others in real-time."
+        }
+      ]
+    },
+    {
+      "emoji": "📈",
+      "label": "Goals and Motivation",
+      "description": "How will your FarTwin approach personal growth?",
+      "options": [
+        {
+          "value": "Achievement-Oriented",
+          "description": "Your FarTwin will focus on tangible achievements and measurable progress, driven by a desire to succeed and improve."
+        },
+        {
+          "value": "Self-Discovery",
+          "description": "Your FarTwin will prioritize self-awareness and introspection, seeking to understand their own values, needs, and desires."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Collaboration Style",
+      "description": "How will your FarTwin work with others?",
+      "options": [
+        {
+          "value": "Lead",
+          "description": "Your FarTwin will take charge and lead projects or initiatives, guiding teams and stakeholders towards a common goal."
+        },
+        {
+          "value": "Collaborate",
+          "description": "Your FarTwin will work closely with others, sharing expertise and ideas to create something greater than the sum of its parts."
+        }
+      ]
+    }
+  ]
+}

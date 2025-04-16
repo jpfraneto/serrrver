@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "💭",
+      "label": "Problem-Solving Approach",
+      "description": "How will your FarTwin tackle complex problems?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will break down complex issues into smaller parts, analyzing data and evidence to find solutions."
+        },
+        {
+          "value": "Creative",
+          "description": "Your FarTwin will approach problems from a more innovative angle, generating novel solutions through intuition and exploration."
+        }
+      ]
+    },
+    {
+      "emoji": "📈",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin handle uncertain or high-risk situations?",
+      "options": [
+        {
+          "value": "Thrill-Seeker",
+          "description": "Your FarTwin will eagerly take on new challenges and risks, embracing uncertainty as an opportunity for growth."
+        },
+        {
+          "value": "Cautious",
+          "description": "Your FarTwin will approach uncertain situations with caution, weighing the potential benefits and risks before making a decision."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Collaboration Style",
+      "description": "How will your FarTwin work with others to achieve common goals?",
+      "options": [
+        {
+          "value": "Loner",
+          "description": "Your FarTwin will prefer to work independently, contributing their expertise and ideas without seeking input from others."
+        },
+        {
+          "value": "Team Player",
+          "description": "Your FarTwin will actively seek out collaboration and feedback from colleagues, valuing diverse perspectives and input."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Data Analysis Skills",
+      "description": "How will your FarTwin interpret and apply data insights?",
+      "options": [
+        {
+          "value": "Detail-Oriented",
+          "description": "Your FarTwin will carefully examine and analyze data, identifying subtle patterns and trends."
+        },
+        {
+          "value": "High-Level",
+          "description": "Your FarTwin will quickly scan and understand large datasets, recognizing key findings and insights."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Learning Preferences",
+      "description": "How will your FarTwin approach new knowledge and skills?",
+      "options": [
+        {
+          "value": "Self-Directed",
+          "description": "Your FarTwin will take initiative to learn through self-study, exploring topics of interest at their own pace."
+        },
+        {
+          "value": "Structured",
+          "description": "Your FarTwin will benefit from structured learning environments, such as courses or mentorship programs."
+        }
+      ]
+    },
+    {
+      "emoji": "🕰️",
+      "label": "Time Management Style",
+      "description": "How will your FarTwin prioritize and manage their time?",
+      "options": [
+        {
+          "value": "Punctual",
+          "description": "Your FarTwin will adhere to strict deadlines and schedules, ensuring timely completion of tasks."
+        },
+        {
+          "value": "Flexible",
+          "description": "Your FarTwin will prioritize flexibility in their schedule, adapting to changing circumstances and unexpected challenges."
+        }
+      ]
+    },
+    {
+      "emoji": "👥",
+      "label": "Social Interaction Style",
+      "description": "How will your FarTwin engage with others in social situations?",
+      "options": [
+        {
+          "value": "Extroverted",
+          "description": "Your FarTwin will actively seek out social interactions, enjoying the company of others and engaging in small talk."
+        },
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin will prefer quieter social settings, preferring to observe and listen before contributing to conversations."
+        }
+      ]
+    },
+    {
+      "emoji": "💼",
+      "label": "Career Goals",
+      "description": "How will your FarTwin pursue their professional aspirations?",
+      "options": [
+        {
+          "value": "Ambitious",
+          "description": "Your FarTwin will set high goals for themselves, striving for leadership positions and recognition."
+        },
+        {
+          "value": "Growth-Oriented",
+          "description": "Your FarTwin will focus on continuous learning and skill-building, seeking to improve their expertise and contribute meaningfully to their field."
+        }
+      ]
+    }
+  ]
+}

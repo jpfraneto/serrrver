@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "💬",
+      "label": "Communication Style",
+      "description": "How will your FarTwin communicate with others?",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Your FarTwin will communicate clearly and straightforwardly, stating opinions without hesitation or sugar-coating."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Your FarTwin will communicate tactfully and considerately, carefully choosing words to maintain harmony."
+        }
+      ]
+    },
+    {
+      "emoji": "🤔",
+      "label": "Thought Process",
+      "description": "How will your FarTwin approach problem-solving?",
+      "options": [
+        {
+          "value": "Logical",
+          "description": "Your FarTwin will analyze information methodically and arrive at well-reasoned conclusions."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on instinct and experience to navigate complex situations."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Decision Making",
+      "description": "How will your FarTwin make decisions?",
+      "options": [
+        {
+          "value": "Data-driven",
+          "description": "Your FarTwin will rely on facts and data to inform their choices, weighing the evidence carefully."
+        },
+        {
+          "value": "Values-based",
+          "description": "Your FarTwin will consider personal values and ethics when making decisions, prioritizing principles over pragmatic considerations."
+        }
+      ]
+    },
+    {
+      "emoji": "👥",
+      "label": "Social Interaction",
+      "description": "How will your FarTwin interact with groups?",
+      "options": [
+        {
+          "value": "Assertive",
+          "description": "Your FarTwin will take charge and speak up in group settings, contributing their ideas and opinions."
+        },
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will listen actively and work collaboratively with others to achieve common goals."
+        }
+      ]
+    },
+    {
+      "emoji": "🕰️",
+      "label": "Time Management",
+      "description": "How will your FarTwin prioritize tasks?",
+      "options": [
+        {
+          "value": "Planner",
+          "description": "Your FarTwin will create schedules and to-do lists, carefully planning out their day."
+        },
+        {
+          "value": "Spontaneous",
+          "description": "Your FarTwin will go with the flow, adapting to changing circumstances and seizing opportunities as they arise."
+        }
+      ]
+    },
+    {
+      "emoji": "💭",
+      "label": "Creativity",
+      "description": "How will your FarTwin approach creativity?",
+      "options": [
+        {
+          "value": "Methodical",
+          "description": "Your FarTwin will break down creative problems into manageable parts, analyzing each step to arrive at a solution."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on their instincts and imagination to generate innovative ideas and solutions."
+        }
+      ]
+    },
+    {
+      "emoji": "😊",
+      "label": "Attitude Towards Failure",
+      "description": "How will your FarTwin handle setbacks?",
+      "options": [
+        {
+          "value": "Resilient",
+          "description": "Your FarTwin will bounce back from failure, using it as an opportunity to learn and grow."
+        },
+        {
+          "value": "Defeated",
+          "description": "Your FarTwin will feel discouraged by failure, struggling to regain momentum and confidence."
+        }
+      ]
+    },
+    {
+      "emoji": "🔒",
+      "label": "Confidentiality",
+      "description": "How will your FarTwin handle sensitive information?",
+      "options": [
+        {
+          "value": "Protective",
+          "description": "Your FarTwin will take extra precautions to safeguard confidential data, ensuring its security and integrity."
+        },
+        {
+          "value": "Liberal",
+          "description": "Your FarTwin will share sensitive information freely, trusting that those around them can be trusted to handle it responsibly."
+        }
+      ]
+    }
+  ]
+}

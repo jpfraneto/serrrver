@@ -1,0 +1,164 @@
+[
+  {
+    "object": "cast",
+    "hash": "0x77554317398dc3501168d4416d2c9000f2417553",
+    "author": {
+      "object": "user",
+      "fid": 888775,
+      "username": "basedarab",
+      "display_name": "BasedArab",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9e62ba84-1300-457d-9758-4cf543083f00/original",
+      "custody_address": "0x31bac2968ed3a5b5363848c2526401da63ac7ec7",
+      "profile": {
+        "bio": {
+          "text": ""
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0x31bac2968ed3a5b5363848c2526401da63ac7ec7",
+        "0x8ec70dcf0297d828a296c9e580108dadf8347d1d"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x31bac2968ed3a5b5363848c2526401da63ac7ec7",
+          "0x8ec70dcf0297d828a296c9e580108dadf8347d1d"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x8ec70dcf0297d828a296c9e580108dadf8347d1d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "based_arab1"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x3a1b52ad92754480244a62b47c6c1f5f686ee848",
+    "parent_hash": "0x2d44ba6167629c4f7c8c3f4849689f4275bf6de7",
+    "parent_url": null,
+    "root_parent_url": "https://onchainsummer.xyz",
+    "parent_author": {
+      "fid": 289702
+    },
+    "text": "Launch a coin bro and add it into dex so more people know about it",
+    "timestamp": "2025-03-28T01:38:32.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "base",
+      "name": "Base",
+      "image_url": "https://warpcast.com/~/channel-images/base.png"
+    },
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": false
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0x7a6128bf058dea37e900085a4b616aa6286b0629",
+    "author": {
+      "object": "user",
+      "fid": 888775,
+      "username": "basedarab",
+      "display_name": "BasedArab",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9e62ba84-1300-457d-9758-4cf543083f00/original",
+      "custody_address": "0x31bac2968ed3a5b5363848c2526401da63ac7ec7",
+      "profile": {
+        "bio": {
+          "text": ""
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0x31bac2968ed3a5b5363848c2526401da63ac7ec7",
+        "0x8ec70dcf0297d828a296c9e580108dadf8347d1d"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x31bac2968ed3a5b5363848c2526401da63ac7ec7",
+          "0x8ec70dcf0297d828a296c9e580108dadf8347d1d"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x8ec70dcf0297d828a296c9e580108dadf8347d1d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "based_arab1"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x4548c669e5152a10b268005b0281ebb91cffaa00",
+    "parent_hash": "0x4548c669e5152a10b268005b0281ebb91cffaa00",
+    "parent_url": null,
+    "root_parent_url": "https://warpcast.com/~/channel/clankers",
+    "parent_author": {
+      "fid": 2341
+    },
+    "text": "give us dex",
+    "timestamp": "2025-03-26T12:30:23.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "clankers",
+      "name": "Clankers",
+      "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bd4bb563-93b5-4c1f-ab85-32cdf4b01f00/original"
+    },
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": false
+    }
+  }
+]

@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "",
+      "label": "Response to Emotions",
+      "description": "How will your FarTwin respond when faced with strong emotions?",
+      "options": [
+        {
+          "value": "Calmly",
+          "description": "Your FarTwin will remain composed and level-headed, even in the face of intense emotional turmoil."
+        },
+        {
+          "value": "Passionately",
+          "description": "Your FarTwin will allow themselves to fully experience and express emotions, potentially leading to more authentic connections with others."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Conflict Resolution",
+      "description": "How will your FarTwin resolve conflicts with others?",
+      "options": [
+        {
+          "value": "Aggressively",
+          "description": "Your FarTwin will fiercely defend their position and assert themselves in conflict, even if it means causing tension."
+        },
+        {
+          "value": "Empathetically",
+          "description": "Your FarTwin will listen actively to others' perspectives and work to find mutually beneficial solutions that respect all parties involved."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Decision Making Style",
+      "description": "How will your FarTwin approach decision-making?",
+      "options": [
+        {
+          "value": "Rational",
+          "description": "Your FarTwin will rely on logic and data to make informed decisions, weighing pros and cons carefully."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will trust their instincts and make decisions based on gut feelings or personal values, potentially leading to innovative solutions."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Social Interactions",
+      "description": "How will your FarTwin engage with others in social situations?",
+      "options": [
+        {
+          "value": "Outgoing",
+          "description": "Your FarTwin will be confident and assertive, taking the lead in conversations and social interactions."
+        },
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin will prefer quieter, more low-key social settings, potentially feeling drained by too much stimulation."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin approach new challenges and risks?",
+      "options": [
+        {
+          "value": "Thrill-Seeking",
+          "description": "Your FarTwin will eagerly seek out novel experiences and take calculated risks to push their limits."
+        },
+        {
+          "value": "Cautious",
+          "description": "Your FarTwin will be more reserved, preferring to weigh the pros and cons before taking a risk or trying something new."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Work Environment",
+      "description": "How will your FarTwin prefer to work?",
+      "options": [
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will thrive in team-based environments, enjoying the dynamic and open communication."
+        },
+        {
+          "value": "Independent",
+          "description": "Your FarTwin will prefer working alone or in small teams, valuing autonomy and focused time to complete tasks."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Learning Style",
+      "description": "How will your FarTwin approach learning new information?",
+      "options": [
+        {
+          "value": "Visual",
+          "description": "Your FarTwin will learn best through visual aids, such as diagrams and videos, to understand complex concepts."
+        },
+        {
+          "value": "Auditory",
+          "description": "Your FarTwin will prefer learning through lectures, discussions, or listening to audio recordings."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Personal Growth",
+      "description": "How will your FarTwin prioritize personal growth?",
+      "options": [
+        {
+          "value": "Ambitious",
+          "description": "Your FarTwin will be driven to constantly improve themselves, pushing beyond their current limits and setting high goals."
+        },
+        {
+          "value": "Reflective",
+          "description": "Your FarTwin will focus on introspection and self-awareness, using quiet time for personal growth and reflection."
+        }
+      ]
+    }
+  ]
+}

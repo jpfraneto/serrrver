@@ -1,0 +1,51 @@
+{
+  "writingStyle": {
+    "tone": "Enthusiastic",
+    "complexity": "Conversational with simple terms",
+    "distinctivePhrases": [
+      "Mint yours",
+      "cc"
+    ],
+    "sentenceStructure": "Concise statements"
+  },
+  "contentPatterns": {
+    "topics": [
+      "Fortnite",
+      "Gaming",
+      "Passes",
+      "Airdrops",
+      "Fan Tokens"
+    ],
+    "interests": [
+      "Gaming news",
+      "Esports",
+      "Pass games"
+    ],
+    "expertiseAreas": [
+      "Fortnite strategy",
+      "Gaming hardware"
+    ],
+    "controversialViews": [
+      "The impact of Fortnite's Monopoly on the gaming industry"
+    ]
+  },
+  "interactionStyle": {
+    "responsePattern": "Asks questions",
+    "engagementLevel": "Highly responsive",
+    "socialPosition": "Conversation starter",
+    "relationshipDynamics": "Builds on others' ideas"
+  },
+  "emotionalProfile": {
+    "dominantEmotions": [
+      "Excitement",
+      "Enthusiasm",
+      "Frustration"
+    ],
+    "humorStyle": "Self-deprecating",
+    "perspectiveStyle": "Optimistic",
+    "valueIndicators": [
+      "Fairness in gaming",
+      "Community engagement"
+    ]
+  }
+}

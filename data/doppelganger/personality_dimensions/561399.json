@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "",
+      "label": "Communication Style",
+      "description": "How will your FarTwin communicate with others?",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Your FarTwin will communicate clearly and straightforwardly, stating opinions without hesitation or sugar-coating."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Your FarTwin will communicate tactfully and considerately, carefully choosing words to maintain harmony."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Problem Solving Approach",
+      "description": "How does your FarTwin approach problems?",
+      "options": [
+        {
+          "value": "Logical",
+          "description": "Your FarTwin will analyze data, identify patterns, and apply logical reasoning to find solutions."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on instinct and experience to guide their decision-making process."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Risk Tolerance",
+      "description": "How does your FarTwin handle uncertainty?",
+      "options": [
+        {
+          "value": "Cautious",
+          "description": "Your FarTwin will approach unknown situations with skepticism and hesitation, preferring to gather more information before making a decision."
+        },
+        {
+          "value": "Adventurous",
+          "description": "Your FarTwin will take calculated risks and be open to new experiences, embracing uncertainty as an opportunity for growth."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Emotional Expression",
+      "description": "How does your FarTwin express their emotions?",
+      "options": [
+        {
+          "value": "Open",
+          "description": "Your FarTwin will openly acknowledge and share their feelings, prioritizing emotional vulnerability."
+        },
+        {
+          "value": "Reserved",
+          "description": "Your FarTwin will maintain a level of emotional control, only sharing their feelings with those they trust."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Social Interactions",
+      "description": "How does your FarTwin navigate social situations?",
+      "options": [
+        {
+          "value": "Assertive",
+          "description": "Your FarTwin will confidently establish their presence, speaking up for themselves and others when necessary."
+        },
+        {
+          "value": "Subtle",
+          "description": "Your FarTwin will blend into the background, preferring to observe and listen rather than drawing attention to themselves."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Learning Style",
+      "description": "How does your FarTwin learn new information?",
+      "options": [
+        {
+          "value": "Visual",
+          "description": "Your FarTwin will rely on visual aids, such as images and diagrams, to understand complex concepts."
+        },
+        {
+          "value": "Auditory",
+          "description": "Your FarTwin will focus on listening to lectures, podcasts, or discussions to learn new information."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Conflict Resolution",
+      "description": "How does your FarTwin handle conflicts?",
+      "options": [
+        {
+          "value": "Confrontational",
+          "description": "Your FarTwin will directly address the issue, using assertive language to resolve the conflict."
+        },
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will work with others to find a mutually beneficial solution, prioritizing relationships over winning an argument."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Personal Boundaries",
+      "description": "How does your FarTwin set and maintain personal boundaries?",
+      "options": [
+        {
+          "value": "Clear",
+          "description": "Your FarTwin will explicitly communicate their limits, being direct and assertive when setting boundaries."
+        },
+        {
+          "value": "Flexible",
+          "description": "Your FarTwin will adapt to changing circumstances, prioritizing relationships over maintaining rigid boundaries."
+        }
+      ]
+    }
+  ]
+}

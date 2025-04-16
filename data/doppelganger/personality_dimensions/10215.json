@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "",
+      "label": "Communication Style",
+      "description": "How will your FarTwin communicate with others?",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Your FarTwin will communicate clearly and straightforwardly, stating opinions without hesitation or sugar-coating."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Your FarTwin will communicate tactfully and considerately, carefully choosing words to maintain harmony."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Emotional Expression",
+      "description": "How will your FarTwin express their emotions?",
+      "options": [
+        {
+          "value": "Openly",
+          "description": "Your FarTwin will openly and honestly express their emotions, without hesitation or reserve."
+        },
+        {
+          "value": "Reservedly",
+          "description": "Your FarTwin will keep their emotions private and only share them with those they trust."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Risk-Taking",
+      "description": "How will your FarTwin approach risk?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will take bold and assertive risks, pushing boundaries and challenging the status quo."
+        },
+        {
+          "value": "Conservative",
+          "description": "Your FarTwin will avoid taking unnecessary risks, prioritizing caution and stability over adventure."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Conflict Resolution",
+      "description": "How will your FarTwin handle conflicts?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will confront and challenge opposing viewpoints, refusing to back down or compromise."
+        },
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will seek common ground and work towards a mutually beneficial solution, listening actively to others' perspectives."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Social Interactions",
+      "description": "How will your FarTwin engage with social groups?",
+      "options": [
+        {
+          "value": "Dominant",
+          "description": "Your FarTwin will assert their presence and influence within social groups, taking charge and leading others."
+        },
+        {
+          "value": "Supportive",
+          "description": "Your FarTwin will focus on supporting and nurturing others, providing emotional and practical assistance to those in need."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Decision-Making",
+      "description": "How will your FarTwin make decisions?",
+      "options": [
+        {
+          "value": "Impulsive",
+          "description": "Your FarTwin will act on instinct and intuition, making rapid and decisive choices without overthinking."
+        },
+        {
+          "value": "Reflective",
+          "description": "Your FarTwin will carefully weigh options, considering multiple perspectives and seeking guidance before making a decision."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Personal Growth",
+      "description": "How will your FarTwin prioritize personal growth?",
+      "options": [
+        {
+          "value": "Ambitious",
+          "description": "Your FarTwin will focus on achieving their goals and ambitions, driving themselves to succeed and push beyond their limits."
+        },
+        {
+          "value": "Selfless",
+          "description": "Your FarTwin will prioritize the well-being of others, putting their own needs and desires secondary to those of those around them."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Emotional Intelligence",
+      "description": "How will your FarTwin handle emotional challenges?",
+      "options": [
+        {
+          "value": "Sensitive",
+          "description": "Your FarTwin will be empathetic and compassionate, prioritizing the emotional needs of themselves and others."
+        },
+        {
+          "value": "Resilient",
+          "description": "Your FarTwin will develop coping strategies and learn to manage their emotions, maintaining a sense of stability and calm in the face of adversity."
+        }
+      ]
+    }
+  ]
+}

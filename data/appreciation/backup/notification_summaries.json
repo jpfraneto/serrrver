@@ -1,0 +1,14 @@
+{
+  "2025-04-07": {
+    "timestamp": "2025-04-07T21:02:11.302Z",
+    "totalUsers": 102,
+    "successfulNotifications": 102,
+    "failedNotifications": 0
+  },
+  "2025-04-16": {
+    "timestamp": "2025-04-16T17:17:57.867Z",
+    "totalUsers": 101,
+    "successfulNotifications": 101,
+    "failedNotifications": 0
+  }
+}

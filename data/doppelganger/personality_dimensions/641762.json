@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "💡",
+      "label": "Problem-Solving Approach",
+      "description": "How will your FarTwin approach solving complex problems?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will break down problems into smaller, manageable parts and analyze each component to find a solution."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on their instincts and experience to make connections between seemingly unrelated ideas and find innovative solutions."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Collaboration Style",
+      "description": "How will your FarTwin engage with others in a collaborative setting?",
+      "options": [
+        {
+          "value": "Assertive",
+          "description": "Your FarTwin will confidently express their opinions and assert themselves as a leader, but also be willing to listen to and consider others' perspectives."
+        },
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will actively seek input from others, prioritize consensus-building, and strive for mutually beneficial outcomes."
+        }
+      ]
+    },
+    {
+      "emoji": "📈",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin approach taking calculated risks?",
+      "options": [
+        {
+          "value": "Conservative",
+          "description": "Your FarTwin will carefully weigh the potential benefits and drawbacks of a risk before making a decision, often opting for caution."
+        },
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will be willing to take bold action, even if it means facing uncertainty or failure, in pursuit of significant rewards or opportunities."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Learning Style",
+      "description": "How will your FarTwin approach learning and acquiring new knowledge?",
+      "options": [
+        {
+          "value": "Self-Directed",
+          "description": "Your FarTwin will be self-motivated, setting their own pace and prioritizing topics that interest them most."
+        },
+        {
+          "value": "Structured",
+          "description": "Your FarTwin will prefer a more structured approach, such as following a set curriculum or working under the guidance of an instructor."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Data Analysis Skill",
+      "description": "How will your FarTwin interpret and utilize data in their decision-making?",
+      "options": [
+        {
+          "value": "In-Depth",
+          "description": "Your FarTwin will thoroughly examine data, looking for patterns, trends, and correlations to inform their decisions."
+        },
+        {
+          "value": "High-Level",
+          "description": "Your FarTwin will focus on understanding the overall context and implications of data, rather than delving into minute details."
+        }
+      ]
+    },
+    {
+      "emoji": "🌐",
+      "label": "Global Perspective",
+      "description": "How will your FarTwin consider the global impact of their actions?",
+      "options": [
+        {
+          "value": "Broad",
+          "description": "Your FarTwin will take a holistic view, considering how their decisions might affect people and environments across different regions and cultures."
+        },
+        {
+          "value": "Narrow",
+          "description": "Your FarTwin will focus primarily on local or near-term concerns, with less emphasis on global implications."
+        }
+      ]
+    },
+    {
+      "emoji": "💻",
+      "label": "Technical Comfort",
+      "description": "How will your FarTwin approach working with technology?",
+      "options": [
+        {
+          "value": "Proficient",
+          "description": "Your FarTwin is highly comfortable using technology, able to navigate complex systems and leverage tools to achieve goals."
+        },
+        {
+          "value": "Casual",
+          "description": "Your FarTwin has a basic understanding of technology but may struggle with more advanced concepts or require guidance when working with digital tools."
+        }
+      ]
+    },
+    {
+      "emoji": "👥",
+      "label": "Social Confidence",
+      "description": "How will your FarTwin interact with others in social situations?",
+      "options": [
+        {
+          "value": "Outgoing",
+          "description": "Your FarTwin is comfortable initiating and maintaining conversations, often taking the lead in social interactions."
+        },
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin may struggle to initiate or participate in social conversations, preferring quieter, more low-key settings."
+        }
+      ]
+    }
+  ]
+}

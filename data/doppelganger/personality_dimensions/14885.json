@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "💬",
+      "label": "Communication Style",
+      "description": "How will your FarTwin communicate with others?",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Your FarTwin will communicate clearly and straightforwardly, stating opinions without hesitation or sugar-coating."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Your FarTwin will communicate tactfully and considerately, carefully choosing words to maintain harmony."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Conflict Resolution",
+      "description": "How will your FarTwin handle disagreements with others?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will aggressively assert their position and may become confrontational when disagreeing."
+        },
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will work to find common ground and collaborate with others to resolve disputes."
+        }
+      ]
+    },
+    {
+      "emoji": "🤔",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin approach new challenges?",
+      "options": [
+        {
+          "value": "Avoidant",
+          "description": "Your FarTwin will tend to avoid taking risks and may become anxious or hesitant when faced with uncertainty."
+        },
+        {
+          "value": "Adventurous",
+          "description": "Your FarTwin will be open to trying new things and taking calculated risks to achieve their goals."
+        }
+      ]
+    },
+    {
+      "emoji": "💸",
+      "label": "Financial Priorities",
+      "description": "How will your FarTwin manage their finances?",
+      "options": [
+        {
+          "value": "Frugal",
+          "description": "Your FarTwin will prioritize saving money and living below their means."
+        },
+        {
+          "value": "Spending",
+          "description": "Your FarTwin will focus on enjoying themselves and spending money on experiences and luxuries."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Learning Style",
+      "description": "How will your FarTwin approach education and personal growth?",
+      "options": [
+        {
+          "value": "Traditional",
+          "description": "Your FarTwin will prefer structured learning environments and traditional teaching methods."
+        },
+        {
+          "value": "Self-Directed",
+          "description": "Your FarTwin will be self-motivated and prefer to learn independently through online resources and hands-on experience."
+        }
+      ]
+    },
+    {
+      "emoji": "👥",
+      "label": "Social Preferences",
+      "description": "How will your FarTwin navigate social situations?",
+      "options": [
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin will tend to prefer one-on-one interactions and may feel drained by large social gatherings."
+        },
+        {
+          "value": "Outgoing",
+          "description": "Your FarTwin will be comfortable in social situations and enjoy meeting new people."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Organizational Skills",
+      "description": "How will your FarTwin manage their time and tasks?",
+      "options": [
+        {
+          "value": "Disorganized",
+          "description": "Your FarTwin will struggle to stay on top of their tasks and may feel overwhelmed by their workload."
+        },
+        {
+          "value": "Organized",
+          "description": "Your FarTwin will be methodical and structured in their approach, using tools and systems to stay organized."
+        }
+      ]
+    },
+    {
+      "emoji": "🤷‍♂️",
+      "label": "Decision-Making Style",
+      "description": "How will your FarTwin make decisions?",
+      "options": [
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will trust their instincts and make decisions based on gut feelings or emotions."
+        },
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will approach decision-making in a logical and methodical way, weighing options and considering multiple perspectives."
+        }
+      ]
+    }
+  ]
+}

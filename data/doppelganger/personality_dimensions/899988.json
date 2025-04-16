@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "💬",
+      "label": "Communication Style",
+      "description": "How will your FarTwin communicate with others?",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Your FarTwin will communicate clearly and straightforwardly, stating opinions without hesitation or sugar-coating."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Your FarTwin will communicate tactfully and considerately, carefully choosing words to maintain harmony."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Conflict Resolution",
+      "description": "How will your FarTwin handle disagreements or conflicts with others?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will assertively defend their position and may become confrontational when necessary."
+        },
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will seek common ground and work to find mutually beneficial solutions."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Problem-Solving Approach",
+      "description": "How will your FarTwin approach solving problems or making decisions?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will methodically analyze data and evaluate options before making a decision."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on their instincts and experience to make decisions, often relying on instinct rather than careful analysis."
+        }
+      ]
+    },
+    {
+      "emoji": "🌎",
+      "label": "Global Perspective",
+      "description": "How will your FarTwin consider the global implications of their actions?",
+      "options": [
+        {
+          "value": "Patriotic",
+          "description": "Your FarTwin will prioritize national interests and may be skeptical of international cooperation."
+        },
+        {
+          "value": "Cosmopolitan",
+          "description": "Your FarTwin will consider the global implications of their actions and strive for a more unified world order."
+        }
+      ]
+    },
+    {
+      "emoji": "💼",
+      "label": "Career Goals",
+      "description": "How will your FarTwin approach their career development?",
+      "options": [
+        {
+          "value": "Ambitious",
+          "description": "Your FarTwin will strive for rapid advancement and may prioritize short-term gains over long-term stability."
+        },
+        {
+          "value": "Stable",
+          "description": "Your FarTwin will prioritize job security and stability, often valuing predictability over personal growth."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Learning Style",
+      "description": "How will your FarTwin approach learning new information or skills?",
+      "options": [
+        {
+          "value": "Experiential",
+          "description": "Your FarTwin will learn best through hands-on experience and direct application."
+        },
+        {
+          "value": "Theoretical",
+          "description": "Your FarTwin will prefer to learn through abstract concepts, theories, and academic study."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Relationship Preferences",
+      "description": "How will your FarTwin approach building and maintaining relationships?",
+      "options": [
+        {
+          "value": "Social",
+          "description": "Your FarTwin will prioritize social connections and may seek out large groups of people to interact with."
+        },
+        {
+          "value": "Intimate",
+          "description": "Your FarTwin will value deep, meaningful relationships and may be more selective about who they open up to."
+        }
+      ]
+    },
+    {
+      "emoji": "🕰️",
+      "label": "Time Management Style",
+      "description": "How will your FarTwin approach managing their time?",
+      "options": [
+        {
+          "value": "Perfectionistic",
+          "description": "Your FarTwin will strive for precision and may become overly focused on time management to avoid mistakes."
+        },
+        {
+          "value": "Flexible",
+          "description": "Your FarTwin will prioritize adaptability and may be more relaxed about meeting deadlines."
+        }
+      ]
+    }
+  ]
+}

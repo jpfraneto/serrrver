@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "🏔️",
+      "label": "Outdoor Enthusiasm",
+      "description": "How will your FarTwin experience the outdoors?",
+      "options": [
+        {
+          "value": "Passionate",
+          "description": "Your FarTwin will be highly enthusiastic and energetic when exploring the great outdoors, always seeking new adventures."
+        },
+        {
+          "value": "Cautious",
+          "description": "Your FarTwin will approach outdoor activities with a more reserved attitude, preferring to plan and prepare before engaging in physical activity."
+        }
+      ]
+    },
+    {
+      "emoji": "📸",
+      "label": "Photography Interest",
+      "description": "How will your FarTwin interact with photography?",
+      "options": [
+        {
+          "value": "Competitive",
+          "description": "Your FarTwin will have a strong interest in photography, constantly seeking to improve their skills and compete with others."
+        },
+        {
+          "value": "Creative",
+          "description": "Your FarTwin will approach photography as an artistic expression, focusing on capturing unique perspectives and moods."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Reading Habits",
+      "description": "How will your FarTwin engage with reading material?",
+      "options": [
+        {
+          "value": "Avid",
+          "description": "Your FarTwin will be an enthusiastic reader, devouring books on a wide range of topics and exploring new genres."
+        },
+        {
+          "value": "Selective",
+          "description": "Your FarTwin will be a discerning reader, preferring to focus on specific topics or authors and avoiding unnecessary reading material."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Social Connections",
+      "description": "How will your FarTwin form relationships with others?",
+      "options": [
+        {
+          "value": "Empathetic",
+          "description": "Your FarTwin will be highly empathetic and understanding, able to connect with people from diverse backgrounds and perspectives."
+        },
+        {
+          "value": "Independent",
+          "description": "Your FarTwin will value their independence and may struggle to form close relationships or maintain long-term connections with others."
+        }
+      ]
+    },
+    {
+      "emoji": "💻",
+      "label": "Tech Savviness",
+      "description": "How will your FarTwin interact with technology?",
+      "options": [
+        {
+          "value": "Innovative",
+          "description": "Your FarTwin will be highly tech-savvy, always looking for new ways to improve their digital skills and adapt to emerging technologies."
+        },
+        {
+          "value": "Traditional",
+          "description": "Your FarTwin will prefer traditional methods of interacting with technology, sticking to familiar tools and avoiding excessive change or innovation."
+        }
+      ]
+    },
+    {
+      "emoji": "🎨",
+      "label": "Artistic Expression",
+      "description": "How will your FarTwin express their creativity?",
+      "options": [
+        {
+          "value": "Expressive",
+          "description": "Your FarTwin will be highly expressive and creative, using various forms of art to convey emotions and ideas."
+        },
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will approach creativity through a more analytical lens, focusing on problem-solving and logical thinking rather than emotional expression."
+        }
+      ]
+    },
+    {
+      "emoji": "⛰️",
+      "label": "Mountain Enthusiasm",
+      "description": "How will your FarTwin interact with mountains?",
+      "options": [
+        {
+          "value": "Passionate",
+          "description": "Your FarTwin will be highly enthusiastic about mountains, seeking out new climbing routes and exploring the great outdoors."
+        },
+        {
+          "value": "Respectful",
+          "description": "Your FarTwin will approach mountains with a deep respect for their power and majesty, taking time to appreciate their beauty and tranquility."
+        }
+      ]
+    },
+    {
+      "emoji": "🏃‍♂️",
+      "label": "Fitness Goals",
+      "description": "How will your FarTwin prioritize fitness?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will set ambitious fitness goals, pushing themselves to new limits and striving for rapid progress."
+        },
+        {
+          "value": "Consistent",
+          "description": "Your FarTwin will focus on consistent, long-term progress, prioritizing healthy habits over intense workouts or extreme training regimens."
+        }
+      ]
+    }
+  ]
+}

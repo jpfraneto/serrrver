@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "what?"
+  },
+  {
+    "role": "assistant",
+    "content": "It looks like you just asked a question, but I didn't quite understand what you were referring to. Could you please rephrase or provide more context about what you're asking? I'm here to help with any questions or topics you'd like to discuss!"
+  }
+]

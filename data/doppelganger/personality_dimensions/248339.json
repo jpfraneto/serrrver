@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "🤝",
+      "label": "Conflict Resolution Style",
+      "description": "How will your FarTwin handle disagreements?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will confront the issue head-on, using strong language to assert their point of view."
+        },
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will seek common ground with the other party, working together to find a mutually beneficial solution."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Learning Approach",
+      "description": "How does your FarTwin prefer to learn new information?",
+      "options": [
+        {
+          "value": "Theoretical",
+          "description": "Your FarTwin will focus on abstract concepts and theoretical frameworks, analyzing ideas before applying them."
+        },
+        {
+          "value": "Practical",
+          "description": "Your FarTwin will prioritize hands-on experience and experimentation, learning by doing rather than reading or listening."
+        }
+      ]
+    },
+    {
+      "emoji": "📱",
+      "label": "Social Media Usage",
+      "description": "How does your FarTwin use social media?",
+      "options": [
+        {
+          "value": "Heavy",
+          "description": "Your FarTwin will frequently check and post on social media, sharing their thoughts and opinions with others."
+        },
+        {
+          "value": "Minimal",
+          "description": "Your FarTwin will limit their social media use to occasional posts or notifications, preferring more private interactions."
+        }
+      ]
+    },
+    {
+      "emoji": "💼",
+      "label": "Career Goals",
+      "description": "What drives your FarTwin's career aspirations?",
+      "options": [
+        {
+          "value": "Financial",
+          "description": "Your FarTwin will prioritize job security and financial stability, aiming for a high-paying position with benefits."
+        },
+        {
+          "value": "Creative",
+          "description": "Your FarTwin will pursue a career that allows them to express their creativity and innovation, whether in art, design, or other fields."
+        }
+      ]
+    },
+    {
+      "emoji": "🌎",
+      "label": "Global Perspective",
+      "description": "How does your FarTwin view the world?",
+      "options": [
+        {
+          "value": "Isolated",
+          "description": "Your FarTwin will focus on local issues and concerns, neglecting global events or perspectives."
+        },
+        {
+          "value": "Cosmopolitan",
+          "description": "Your FarTwin will be aware of global trends and events, valuing diversity and international cooperation."
+        }
+      ]
+    },
+    {
+      "emoji": "🤔",
+      "label": "Problem-Solving Approach",
+      "description": "How does your FarTwin approach complex problems?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will break down problems into smaller, manageable parts, analyzing data and evidence to find a solution."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on instinct and creative thinking, seeking innovative solutions that might not be immediately apparent."
+        }
+      ]
+    },
+    {
+      "emoji": "📝",
+      "label": "Writing Style",
+      "description": "How does your FarTwin express themselves through writing?",
+      "options": [
+        {
+          "value": "Concise",
+          "description": "Your FarTwin will prioritize clarity and efficiency in their writing, using few words to convey a point."
+        },
+        {
+          "value": "Verbose",
+          "description": "Your FarTwin will use elaborate language and detailed descriptions, aiming to paint a vivid picture with words."
+        }
+      ]
+    },
+    {
+      "emoji": "🎨",
+      "label": "Creative Expression",
+      "description": "How does your FarTwin express their creativity?",
+      "options": [
+        {
+          "value": "Visual",
+          "description": "Your FarTwin will focus on visual art forms, such as painting or sculpture, to convey their emotions and ideas."
+        },
+        {
+          "value": "Performative",
+          "description": "Your FarTwin will use performance art, music, or other forms of expression to bring their creativity to life."
+        }
+      ]
+    }
+  ]
+}

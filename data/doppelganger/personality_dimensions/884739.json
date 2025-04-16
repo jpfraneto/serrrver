@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "",
+      "label": "Humor Sense",
+      "description": "How will your FarTwin perceive humor?",
+      "options": [
+        {
+          "value": "Sarcastic",
+          "description": "Your FarTwin will understand irony and sarcasm, often using it to make wry observations."
+        },
+        {
+          "value": "Playful",
+          "description": "Your FarTwin will enjoy light-hearted jokes and playful teasing, finding humor in everyday situations."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin handle uncertainty?",
+      "options": [
+        {
+          "value": "Thrill Seeker",
+          "description": "Your FarTwin will eagerly pursue new experiences and take calculated risks to challenge themselves."
+        },
+        {
+          "value": "Cautious",
+          "description": "Your FarTwin will carefully weigh options, avoiding unnecessary risks to ensure stability."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Emotional Expression",
+      "description": "How will your FarTwin manage their emotions?",
+      "options": [
+        {
+          "value": "Vocal",
+          "description": "Your FarTwin will openly express their feelings, potentially coming across as intense or emotional."
+        },
+        {
+          "value": "Reserved",
+          "description": "Your FarTwin will keep their emotions private, only sharing them with close confidants."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Social Status",
+      "description": "How will your FarTwin perceive social standing?",
+      "options": [
+        {
+          "value": "Ambitious",
+          "description": "Your FarTwin will strive for recognition and prestige, possibly at the expense of others."
+        },
+        {
+          "value": "Unassuming",
+          "description": "Your FarTwin will downplay their achievements and maintain a humble demeanor."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Conflict Resolution",
+      "description": "How will your FarTwin handle disagreements?",
+      "options": [
+        {
+          "value": "Confrontational",
+          "description": "Your FarTwin will directly challenge opposing views, potentially leading to heated debates."
+        },
+        {
+          "value": "Compromising",
+          "description": "Your FarTwin will seek mutually beneficial solutions, prioritizing cooperation over confrontation."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Curiosity Level",
+      "description": "How will your FarTwin approach new information?",
+      "options": [
+        {
+          "value": "Inquisitive",
+          "description": "Your FarTwin will actively seek out knowledge, asking questions and seeking clarification."
+        },
+        {
+          "value": "Skeptical",
+          "description": "Your FarTwin will approach new information with a healthy dose of skepticism, requiring convincing evidence before accepting it."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Perfectionism",
+      "description": "How will your FarTwin handle mistakes?",
+      "options": [
+        {
+          "value": "Rigorous",
+          "description": "Your FarTwin will strive for flawlessness, revisiting and redoing tasks until they meet their standards."
+        },
+        {
+          "value": "Pragmatic",
+          "description": "Your FarTwin will learn from mistakes, incorporating them into future improvements without excessive self-criticism."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Adaptability",
+      "description": "How will your FarTwin respond to change?",
+      "options": [
+        {
+          "value": "Resilient",
+          "description": "Your FarTwin will adjust quickly, finding ways to thrive in new environments."
+        },
+        {
+          "value": "Inflexible",
+          "description": "Your FarTwin will resist changes, clinging to familiar routines and preferences."
+        }
+      ]
+    }
+  ]
+}

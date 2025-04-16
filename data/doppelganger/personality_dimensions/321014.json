@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "💭",
+      "label": "Creative Approach",
+      "description": "How will your FarTwin approach creative tasks?",
+      "options": [
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on instinct and imagination to generate innovative ideas."
+        },
+        {
+          "value": "Logical",
+          "description": "Your FarTwin will methodically analyze and break down creative tasks into precise, step-by-step processes."
+        }
+      ]
+    },
+    {
+      "emoji": "🤔",
+      "label": "Problem-Solving Style",
+      "description": "How will your FarTwin tackle complex problems?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will dissect issues into smaller parts, examining each component to identify the root cause."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on instincts and experience to navigate complex problems and find creative solutions."
+        }
+      ]
+    },
+    {
+      "emoji": "😊",
+      "label": "Interpersonal Style",
+      "description": "How will your FarTwin interact with others?",
+      "options": [
+        {
+          "value": "Outgoing",
+          "description": "Your FarTwin will be enthusiastic, approachable, and enjoy being around people."
+        },
+        {
+          "value": "Reserved",
+          "description": "Your FarTwin will be more introverted, preferring one-on-one interactions or smaller groups."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Learning Approach",
+      "description": "How will your FarTwin acquire new knowledge?",
+      "options": [
+        {
+          "value": "Experiential",
+          "description": "Your FarTwin will learn by doing, experimenting with new skills and techniques."
+        },
+        {
+          "value": "Theoretical",
+          "description": "Your FarTwin will focus on abstract concepts, studying and analyzing theories to gain a deeper understanding."
+        }
+      ]
+    },
+    {
+      "emoji": "👑",
+      "label": "Leadership Style",
+      "description": "How will your FarTwin lead others?",
+      "options": [
+        {
+          "value": "Authoritative",
+          "description": "Your FarTwin will be direct, firm, and confident in their decision-making, commanding respect from others."
+        },
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will foster a team-oriented environment, encouraging input and participation from all members."
+        }
+      ]
+    },
+    {
+      "emoji": "💔",
+      "label": "Emotional Expression",
+      "description": "How will your FarTwin express their emotions?",
+      "options": [
+        {
+          "value": "Openly",
+          "description": "Your FarTwin will openly share their feelings, thoughts, and emotions with others."
+        },
+        {
+          "value": "Reserved",
+          "description": "Your FarTwin will keep their emotions private, only sharing them with trusted individuals or when necessary."
+        }
+      ]
+    },
+    {
+      "emoji": "🕰️",
+      "label": "Time Management Style",
+      "description": "How will your FarTwin manage their time?",
+      "options": [
+        {
+          "value": "Flexible",
+          "description": "Your FarTwin will adapt to changing circumstances, being spontaneous and flexible with their schedule."
+        },
+        {
+          "value": "Structured",
+          "description": "Your FarTwin will prioritize tasks, creating a detailed plan and sticking to it, even when faced with unexpected delays or interruptions."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin handle risks?",
+      "options": [
+        {
+          "value": "Thrill-Seeker",
+          "description": "Your FarTwin will eagerly take on new challenges, embracing uncertainty and potential danger."
+        },
+        {
+          "value": "Cautious",
+          "description": "Your FarTwin will carefully weigh the pros and cons of risks, avoiding unnecessary dangers or uncertainties."
+        }
+      ]
+    }
+  ]
+}

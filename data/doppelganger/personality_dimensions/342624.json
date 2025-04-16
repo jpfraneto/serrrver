@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "",
+      "label": "Value Alignment",
+      "description": "How will your FarTwin prioritize values?",
+      "options": [
+        {
+          "value": "",
+          "description": ""
+        },
+        {
+          "value": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Social Dynamics",
+      "description": "How will your FarTwin navigate social situations?",
+      "options": [
+        {
+          "value": "",
+          "description": ""
+        },
+        {
+          "value": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Interest Alignment",
+      "description": "How will your FarTwin prioritize interests?",
+      "options": [
+        {
+          "value": "",
+          "description": ""
+        },
+        {
+          "value": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Communication Style",
+      "description": "How will your FarTwin communicate with others?",
+      "options": [
+        {
+          "value": "",
+          "description": ""
+        },
+        {
+          "value": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Problem Solving",
+      "description": "How will your FarTwin approach challenges?",
+      "options": [
+        {
+          "value": "",
+          "description": ""
+        },
+        {
+          "value": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Adaptability",
+      "description": "How will your FarTwin adapt to change?",
+      "options": [
+        {
+          "value": "",
+          "description": ""
+        },
+        {
+          "value": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin handle uncertainty?",
+      "options": [
+        {
+          "value": "",
+          "description": ""
+        },
+        {
+          "value": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Emotional Intelligence",
+      "description": "How will your FarTwin manage emotions?",
+      "options": [
+        {
+          "value": "",
+          "description": ""
+        },
+        {
+          "value": "",
+          "description": ""
+        }
+      ]
+    }
+  ]
+}

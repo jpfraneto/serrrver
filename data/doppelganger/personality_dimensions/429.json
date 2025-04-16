@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "🤔",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin approach investments and risk?",
+      "options": [
+        {
+          "value": "Conservative",
+          "description": "Your FarTwin will prioritize stability and security, avoiding high-risk opportunities."
+        },
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will pursue high-risk investments with the goal of achieving exceptional returns."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Learning Style",
+      "description": "How will your FarTwin approach new knowledge and skills?",
+      "options": [
+        {
+          "value": "Visual",
+          "description": "Your FarTwin will learn through images, videos, and other visual aids."
+        },
+        {
+          "value": "Auditory",
+          "description": "Your FarTwin will learn through listening to lectures, podcasts, or discussions."
+        }
+      ]
+    },
+    {
+      "emoji": "📱",
+      "label": "Technology Comfort",
+      "description": "How will your FarTwin interact with technology?",
+      "options": [
+        {
+          "value": "Tech Savvy",
+          "description": "Your FarTwin is highly comfortable using digital tools, devices, and platforms."
+        },
+        {
+          "value": "Tech Averse",
+          "description": "Your FarTwin prefers to avoid technology or uses it only when necessary."
+        }
+      ]
+    },
+    {
+      "emoji": "👥",
+      "label": "Social Interaction",
+      "description": "How will your FarTwin navigate social situations?",
+      "options": [
+        {
+          "value": "Extroverted",
+          "description": "Your FarTwin enjoys meeting new people and engaging in lively conversations."
+        },
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin prefers quieter, more low-key social settings or avoids them altogether."
+        }
+      ]
+    },
+    {
+      "emoji": "📈",
+      "label": "Goal-Oriented",
+      "description": "How will your FarTwin approach achieving goals?",
+      "options": [
+        {
+          "value": "Focused",
+          "description": "Your FarTwin sets clear, achievable objectives and works diligently to reach them."
+        },
+        {
+          "value": "Ambitious",
+          "description": "Your FarTwin strives for exceptional results, often setting lofty targets and pushing themselves hard."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Collaboration Style",
+      "description": "How will your FarTwin work with others?",
+      "options": [
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin values teamwork, open communication, and mutual support."
+        },
+        {
+          "value": "Competitive",
+          "description": "Your FarTwin approaches collaboration with a competitive mindset, seeking to outdo others or achieve individual success."
+        }
+      ]
+    },
+    {
+      "emoji": "💸",
+      "label": "Financial Priorities",
+      "description": "How will your FarTwin manage personal finances?",
+      "options": [
+        {
+          "value": "Frugal",
+          "description": "Your FarTwin is mindful of expenses, prioritizing saving and investing over luxury or indulgence."
+        },
+        {
+          "value": "Generous",
+          "description": "Your FarTwin enjoys sharing their resources with others, supporting causes or individuals in need."
+        }
+      ]
+    },
+    {
+      "emoji": "🕰️",
+      "label": "Time Management",
+      "description": "How will your FarTwin prioritize time?",
+      "options": [
+        {
+          "value": "Efficient",
+          "description": "Your FarTwin values organization, prioritizing tasks and managing their time to achieve maximum productivity."
+        },
+        {
+          "value": "Relaxed",
+          "description": "Your FarTwin takes a more flexible approach to time management, often leaving room for spontaneity or flexibility."
+        }
+      ]
+    }
+  ]
+}

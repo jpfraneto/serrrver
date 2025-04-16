@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "💬",
+      "label": "Communication Style",
+      "description": "How will your FarTwin communicate with others?",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Your FarTwin will communicate clearly and straightforwardly, stating opinions without hesitation or sugar-coating."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Your FarTwin will communicate tactfully and considerately, carefully choosing words to maintain harmony."
+        }
+      ]
+    },
+    {
+      "emoji": "🤔",
+      "label": "Analytical Thinking",
+      "description": "How will your FarTwin approach problem-solving?",
+      "options": [
+        {
+          "value": "Logical",
+          "description": "Your FarTwin will analyze information using a systematic and methodical approach, focusing on evidence and facts."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on instincts and creative thinking to explore solutions, often considering unconventional perspectives."
+        }
+      ]
+    },
+    {
+      "emoji": "🌎",
+      "label": "Global Perspective",
+      "description": "How will your FarTwin view global issues?",
+      "options": [
+        {
+          "value": "Narrowed",
+          "description": "Your FarTwin will focus on local or national concerns, with limited consideration of global implications."
+        },
+        {
+          "value": "Broad",
+          "description": "Your FarTwin will take a holistic approach to global issues, recognizing interconnectedness and considering diverse perspectives."
+        }
+      ]
+    },
+    {
+      "emoji": "👥",
+      "label": "Social Interaction",
+      "description": "How will your FarTwin engage with others?",
+      "options": [
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin will tend to prefer one-on-one interactions or solo activities, feeling drained by large social gatherings."
+        },
+        {
+          "value": "Extroverted",
+          "description": "Your FarTwin will thrive in social settings, often seeking out group activities and enjoying the energy of others."
+        }
+      ]
+    },
+    {
+      "emoji": "💼",
+      "label": "Professional Goals",
+      "description": "How will your FarTwin approach career advancement?",
+      "options": [
+        {
+          "value": "Ambitious",
+          "description": "Your FarTwin will strive for leadership roles and high achievement, driving themselves to succeed."
+        },
+        {
+          "value": "Conservative",
+          "description": "Your FarTwin will prioritize stability and security, focusing on steady growth and incremental progress."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Intellectual Curiosity",
+      "description": "How will your FarTwin approach lifelong learning?",
+      "options": [
+        {
+          "value": "Inquisitive",
+          "description": "Your FarTwin will actively seek out new knowledge and experiences, often exploring unconventional topics."
+        },
+        {
+          "value": "Traditional",
+          "description": "Your FarTwin will tend to rely on established wisdom and authority, preferring tried-and-true approaches."
+        }
+      ]
+    },
+    {
+      "emoji": "🎨",
+      "label": "Creative Expression",
+      "description": "How will your FarTwin express themselves creatively?",
+      "options": [
+        {
+          "value": "Innovative",
+          "description": "Your FarTwin will strive to create original and groundbreaking works, often pushing boundaries."
+        },
+        {
+          "value": "Refined",
+          "description": "Your FarTwin will focus on precision and polish, aiming for mastery of established techniques."
+        }
+      ]
+    },
+    {
+      "emoji": "😊",
+      "label": "Attitude towards Failure",
+      "description": "How will your FarTwin handle setbacks or mistakes?",
+      "options": [
+        {
+          "value": "Resilient",
+          "description": "Your FarTwin will bounce back from failures, using them as opportunities for growth and learning."
+        },
+        {
+          "value": "Defeated",
+          "description": "Your FarTwin will struggle with self-doubt and disappointment, sometimes becoming discouraged or giving up easily."
+        }
+      ]
+    }
+  ]
+}

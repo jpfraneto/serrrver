@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "💭",
+      "label": "Problem-Solving Approach",
+      "description": "How will your FarTwin approach problem-solving?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will break down complex problems into manageable parts and analyze them systematically."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on instinct and experience to guide their problem-solving approach, often thinking outside the box."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Learning Preference",
+      "description": "How will your FarTwin learn new information?",
+      "options": [
+        {
+          "value": "Visual",
+          "description": "Your FarTwin will learn best through visual aids such as images, diagrams, and videos."
+        },
+        {
+          "value": "Auditory",
+          "description": "Your FarTwin will learn best through listening to explanations, lectures, or discussions."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Conflict Resolution Style",
+      "description": "How will your FarTwin resolve conflicts with others?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will confront and assert themselves to resolve conflicts, often taking a strong stance."
+        },
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will work with others to find mutually beneficial solutions, prioritizing harmony over competition."
+        }
+      ]
+    },
+    {
+      "emoji": "💻",
+      "label": "Technology Comfort Level",
+      "description": "How comfortable is your FarTwin with using technology?",
+      "options": [
+        {
+          "value": "Expert",
+          "description": "Your FarTwin will be highly skilled and confident in their ability to use technology, leveraging it to their advantage."
+        },
+        {
+          "value": "Basic",
+          "description": "Your FarTwin will have some basic knowledge of technology, but may feel uncomfortable or uncertain when faced with complex tasks."
+        }
+      ]
+    },
+    {
+      "emoji": "📝",
+      "label": "Communication Style",
+      "description": "How will your FarTwin communicate with others?",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Your FarTwin will communicate clearly and straightforwardly, stating opinions without hesitation or sugar-coating."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Your FarTwin will communicate tactfully and considerately, carefully choosing words to maintain harmony."
+        }
+      ]
+    },
+    {
+      "emoji": "🎨",
+      "label": "Creative Expression",
+      "description": "How does your FarTwin express their creativity?",
+      "options": [
+        {
+          "value": "Visual",
+          "description": "Your FarTwin will express themselves through visual art, music, or other creative outlets."
+        },
+        {
+          "value": "Verbal",
+          "description": "Your FarTwin will express themselves through words, writing stories, poetry, or engaging in debates."
+        }
+      ]
+    },
+    {
+      "emoji": "🕰️",
+      "label": "Time Management Style",
+      "description": "How does your FarTwin manage their time?",
+      "options": [
+        {
+          "value": "Type-A",
+          "description": "Your FarTwin will prioritize tasks and strive for efficiency, often setting high standards for themselves."
+        },
+        {
+          "value": "Flexible",
+          "description": "Your FarTwin will adapt to changing circumstances and prioritize flexibility over strict adherence to schedules."
+        }
+      ]
+    },
+    {
+      "emoji": "😊",
+      "label": "Emotional Expression",
+      "description": "How does your FarTwin express their emotions?",
+      "options": [
+        {
+          "value": "Openly",
+          "description": "Your FarTwin will openly and honestly express their emotions, seeking support from others when needed."
+        },
+        {
+          "value": "Reserve",
+          "description": "Your FarTwin will keep their emotions private, only sharing them with trusted individuals or through subtle cues."
+        }
+      ]
+    }
+  ]
+}

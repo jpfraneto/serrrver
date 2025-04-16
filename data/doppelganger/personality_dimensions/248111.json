@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "💬",
+      "label": "Communication Style",
+      "description": "How will your FarTwin communicate with others?",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Your FarTwin will communicate clearly and straightforwardly, stating opinions without hesitation or sugar-coating."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Your FarTwin will communicate tactfully and considerately, carefully choosing words to maintain harmony."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Social Interactions",
+      "description": "How will your FarTwin interact with others in social situations?",
+      "options": [
+        {
+          "value": "Outgoing",
+          "description": "Your FarTwin will be highly energetic and engaging, actively seeking out social interactions."
+        },
+        {
+          "value": "Reservations",
+          "description": "Your FarTwin will be more cautious in social situations, preferring to observe before participating."
+        }
+      ]
+    },
+    {
+      "emoji": "💭",
+      "label": "Problem Solving",
+      "description": "How will your FarTwin approach problem-solving?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will use logical and methodical approaches to analyze problems."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on instinct and creative thinking to find solutions."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Time Management",
+      "description": "How will your FarTwin prioritize tasks and manage time?",
+      "options": [
+        {
+          "value": "Efficient",
+          "description": "Your FarTwin will be highly organized and focused, maximizing productivity."
+        },
+        {
+          "value": "Relaxed",
+          "description": "Your FarTwin will have a more flexible approach to time management, allowing for flexibility."
+        }
+      ]
+    },
+    {
+      "emoji": "📝",
+      "label": "Writing Style",
+      "description": "How will your FarTwin express themselves in writing?",
+      "options": [
+        {
+          "value": "Concise",
+          "description": "Your FarTwin will be direct and to-the-point in their written communication."
+        },
+        {
+          "value": "Descriptive",
+          "description": "Your FarTwin will use vivid language to paint a picture with words."
+        }
+      ]
+    },
+    {
+      "emoji": "🎨",
+      "label": "Creative Expression",
+      "description": "How will your FarTwin express their creativity?",
+      "options": [
+        {
+          "value": "Imaginative",
+          "description": "Your FarTwin will have a strong visual imagination and enjoy artistic expression."
+        },
+        {
+          "value": "Practical",
+          "description": "Your FarTwin will focus on practical applications of creativity, such as problem-solving."
+        }
+      ]
+    },
+    {
+      "emoji": "🏆",
+      "label": "Achievement Motivation",
+      "description": "How will your FarTwin approach achievement and competition?",
+      "options": [
+        {
+          "value": "Competitive",
+          "description": "Your FarTwin will be driven to succeed and win, often at the expense of others."
+        },
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will prioritize teamwork and cooperation over individual achievement."
+        }
+      ]
+    },
+    {
+      "emoji": "🕰️",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin approach risk and uncertainty?",
+      "options": [
+        {
+          "value": "Thrill-Seeker",
+          "description": "Your FarTwin will be drawn to high-risk activities for the thrill of it."
+        },
+        {
+          "value": "Cautious",
+          "description": "Your FarTwin will approach risk with caution, preferring stability and security."
+        }
+      ]
+    }
+  ]
+}

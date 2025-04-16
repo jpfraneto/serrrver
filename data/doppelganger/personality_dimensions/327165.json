@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "🤝",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin handle new challenges?",
+      "options": [
+        {
+          "value": "Caution",
+          "description": "Your FarTwin will approach new challenges with a cautious and methodical mindset, weighing risks before taking action."
+        },
+        {
+          "value": "Thrill Seeker",
+          "description": "Your FarTwin will eagerly take on new challenges with an adventurous spirit, seeking excitement and thrill in every endeavor."
+        }
+      ]
+    },
+    {
+      "emoji": "📝",
+      "label": "Problem Solving Style",
+      "description": "How will your FarTwin approach complex problems?",
+      "options": [
+        {
+          "value": "Logical",
+          "description": "Your FarTwin will analyze problems systematically, using logic and evidence-based reasoning to find solutions."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on instinct and experience to navigate complex problems, trusting their gut feelings and hunches."
+        }
+      ]
+    },
+    {
+      "emoji": "💻",
+      "label": "Technical Savvy",
+      "description": "How will your FarTwin interact with technology?",
+      "options": [
+        {
+          "value": "Expert",
+          "description": "Your FarTwin will be highly proficient in using technology, leveraging their skills to streamline processes and improve efficiency."
+        },
+        {
+          "value": "Casual User",
+          "description": "Your FarTwin will have basic familiarity with technology, using it as a tool to accomplish tasks but not necessarily being an expert user."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Financial Decision Making",
+      "description": "How will your FarTwin handle financial decisions?",
+      "options": [
+        {
+          "value": "Frugal",
+          "description": "Your FarTwin will prioritize saving and budgeting, making prudent financial decisions to achieve long-term stability."
+        },
+        {
+          "value": "Spender",
+          "description": "Your FarTwin will be more likely to indulge in luxury items and experiences, viewing them as investments in their overall happiness and well-being."
+        }
+      ]
+    },
+    {
+      "emoji": "🌎",
+      "label": "Global Perspective",
+      "description": "How will your FarTwin approach international issues?",
+      "options": [
+        {
+          "value": "Narrow Mindset",
+          "description": "Your FarTwin will focus primarily on local concerns, potentially overlooking broader global implications and consequences."
+        },
+        {
+          "value": "Global Citizen",
+          "description": "Your FarTwin will take a holistic approach to international issues, considering the interconnectedness of global events and their potential impact."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Lifelong Learning",
+      "description": "How will your FarTwin continue to educate themselves?",
+      "options": [
+        {
+          "value": "Rigorous",
+          "description": "Your FarTwin will pursue advanced education and training with dedication, continually seeking to expand their knowledge and skills."
+        },
+        {
+          "value": "Casual Reader",
+          "description": "Your FarTwin will have a general interest in learning new things, but may not prioritize formal education or extensive reading."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Conflict Resolution Style",
+      "description": "How will your FarTwin handle disagreements?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will assertively express their opinions and needs, potentially becoming confrontational if necessary."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Your FarTwin will seek common ground and try to find mutually beneficial solutions, prioritizing harmony over individual interests."
+        }
+      ]
+    },
+    {
+      "emoji": "🏠",
+      "label": "Home Life Preferences",
+      "description": "How will your FarTwin approach domestic responsibilities?",
+      "options": [
+        {
+          "value": "Routines",
+          "description": "Your FarTwin will prioritize establishing routines and maintaining a sense of structure in their home life, valuing stability over spontaneity."
+        },
+        {
+          "value": "Flexible",
+          "description": "Your FarTwin will be more open to adapting to changing circumstances and embracing flexibility in their domestic routine."
+        }
+      ]
+    }
+  ]
+}

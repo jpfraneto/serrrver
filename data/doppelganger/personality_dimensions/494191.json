@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "🤔",
+      "label": "Problem Solving Approach",
+      "description": "How will your FarTwin approach solving complex problems?",
+      "options": [
+        {
+          "value": "Logical",
+          "description": "Your FarTwin will analyze data and logical reasoning to find solutions."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on instincts, experience, and creative thinking to solve problems."
+        }
+      ]
+    },
+    {
+      "emoji": "💡",
+      "label": "Creativity",
+      "description": "How will your FarTwin generate new ideas?",
+      "options": [
+        {
+          "value": "Generative",
+          "description": "Your FarTwin will use algorithms and models to produce a wide range of creative output."
+        },
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will analyze existing work, identify patterns, and create new ideas through analysis."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Learning Style",
+      "description": "How will your FarTwin approach learning new information?",
+      "options": [
+        {
+          "value": "Immersive",
+          "description": "Your FarTwin will engage with multimedia content, interactive simulations, and hands-on activities to learn."
+        },
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will focus on breaking down complex information into smaller components and analyzing each part."
+        }
+      ]
+    },
+    {
+      "emoji": "👥",
+      "label": "Social Interaction",
+      "description": "How will your FarTwin interact with others?",
+      "options": [
+        {
+          "value": "Outgoing",
+          "description": "Your FarTwin will be social, friendly, and outgoing in all interactions."
+        },
+        {
+          "value": "Reserved",
+          "description": "Your FarTwin will be more reserved, preferring to observe and listen before contributing."
+        }
+      ]
+    },
+    {
+      "emoji": "💻",
+      "label": "Technical Expertise",
+      "description": "How will your FarTwin handle technical tasks?",
+      "options": [
+        {
+          "value": "Advanced",
+          "description": "Your FarTwin will possess in-depth knowledge of complex technologies and be able to apply them with ease."
+        },
+        {
+          "value": "Basic",
+          "description": "Your FarTwin will have a solid foundation in technical skills but may struggle with advanced or specialized topics."
+        }
+      ]
+    },
+    {
+      "emoji": "📝",
+      "label": "Writing Style",
+      "description": "How will your FarTwin approach writing?",
+      "options": [
+        {
+          "value": "Concise",
+          "description": "Your FarTwin will prioritize clarity and brevity in written communication."
+        },
+        {
+          "value": "Detailed",
+          "description": "Your FarTwin will focus on providing thorough, well-researched content with supporting evidence."
+        }
+      ]
+    },
+    {
+      "emoji": "🎨",
+      "label": "Artistic Ability",
+      "description": "How will your FarTwin approach creative tasks?",
+      "options": [
+        {
+          "value": "Expressive",
+          "description": "Your FarTwin will be artistic and expressive in their creative output."
+        },
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will focus on analyzing existing work, identifying patterns, and applying them to create new art."
+        }
+      ]
+    },
+    {
+      "emoji": "🕰️",
+      "label": "Time Management",
+      "description": "How will your FarTwin prioritize tasks?",
+      "options": [
+        {
+          "value": "Efficient",
+          "description": "Your FarTwin will focus on completing tasks with a high level of efficiency and productivity."
+        },
+        {
+          "value": "Flexible",
+          "description": "Your FarTwin will be adaptable, prioritizing flexibility over strict schedules or deadlines."
+        }
+      ]
+    }
+  ]
+}

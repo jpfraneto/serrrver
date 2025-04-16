@@ -1,0 +1,2721 @@
+[
+  {
+    "object": "cast",
+    "hash": "0x596392ef0452c1dd9ee4514415b6a4ec89e2886c",
+    "author": {
+      "object": "user",
+      "fid": 893356,
+      "username": "boyo",
+      "display_name": "Boyo",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e866f254-28a8-4b09-df25-b8961fb0ef00/rectcrop3",
+      "custody_address": "0x0c0bb09dbe46ce13293e31c02a40d619db988b8a",
+      "profile": {
+        "bio": {
+          "text": "Traveling \nWeb3\nBuilding"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "oxxybase"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x68a09531cd1b0753346afb2fb331ced85d363630",
+    "parent_hash": "0x68a09531cd1b0753346afb2fb331ced85d363630",
+    "parent_url": null,
+    "root_parent_url": "https://warpcast.com/~/channel/march-madness",
+    "parent_author": {
+      "fid": 282520
+    },
+    "text": "Any plans with debtbob bankrpants token? It’s a good meme people like it",
+    "timestamp": "2025-03-28T08:12:09.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "march-madness",
+      "name": "March Madness",
+      "image_url": "https://i.imgur.com/3GOPkks.png"
+    },
+    "reactions": {
+      "likes_count": 1,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 282520,
+          "fname": "geaux.eth"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": false
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0x8cbd4348a51acafa1f18668f8907e53374ad19d9",
+    "author": {
+      "object": "user",
+      "fid": 893356,
+      "username": "boyo",
+      "display_name": "Boyo",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e866f254-28a8-4b09-df25-b8961fb0ef00/rectcrop3",
+      "custody_address": "0x0c0bb09dbe46ce13293e31c02a40d619db988b8a",
+      "profile": {
+        "bio": {
+          "text": "Traveling \nWeb3\nBuilding"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "oxxybase"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x6579194bb138fcc7937eba8024d1563e1b203fe0",
+    "parent_hash": "0x6579194bb138fcc7937eba8024d1563e1b203fe0",
+    "parent_url": null,
+    "root_parent_url": "chain://eip155:7777777/erc721:0x5d6a07d07354f8793d1ca06280c4adf04767ad7e",
+    "parent_author": {
+      "fid": 403020
+    },
+    "text": "Can you update dex for it",
+    "timestamp": "2025-03-27T21:09:33.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "degen",
+      "name": "Degen",
+      "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4728a50a-1669-4334-1f57-9473c04a2500/original"
+    },
+    "reactions": {
+      "likes_count": 2,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 533233,
+          "fname": "goldensky"
+        },
+        {
+          "fid": 403020,
+          "fname": "push-"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 2
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": true
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0xa81425a1940509ed11a48c72261e428054f4defc",
+    "author": {
+      "object": "user",
+      "fid": 893356,
+      "username": "boyo",
+      "display_name": "Boyo",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e866f254-28a8-4b09-df25-b8961fb0ef00/rectcrop3",
+      "custody_address": "0x0c0bb09dbe46ce13293e31c02a40d619db988b8a",
+      "profile": {
+        "bio": {
+          "text": "Traveling \nWeb3\nBuilding"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "oxxybase"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x6579194bb138fcc7937eba8024d1563e1b203fe0",
+    "parent_hash": "0x6a99b3906c6f2822a2d6a89e3e9eccd2185e59be",
+    "parent_url": null,
+    "root_parent_url": "chain://eip155:7777777/erc721:0x5d6a07d07354f8793d1ca06280c4adf04767ad7e",
+    "parent_author": {
+      "fid": 307834
+    },
+    "text": "They launched it live with @proxystudio.eth \n\nPush it!",
+    "timestamp": "2025-03-27T21:05:37.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "degen",
+      "name": "Degen",
+      "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4728a50a-1669-4334-1f57-9473c04a2500/original"
+    },
+    "reactions": {
+      "likes_count": 3,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 270504,
+          "fname": "proxystudio.eth"
+        },
+        {
+          "fid": 409857,
+          "fname": "yerbearserker"
+        },
+        {
+          "fid": 403020,
+          "fname": "push-"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 270504,
+        "username": "proxystudio.eth",
+        "display_name": "alex",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1105b199-b740-4afc-a815-0abba1a17d00/original",
+        "custody_address": "0xe1731273c1262e458251abf722cf64c52f558c2a",
+        "profile": {
+          "bio": {
+            "text": "/clanker | @ me if you need anything, don't dm",
+            "mentioned_channels": [
+              {
+                "object": "channel_dehydrated",
+                "id": "clanker",
+                "name": "clanker ecosystem",
+                "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/238b898e-69db-4f4f-92b8-f15b1ac86300/original"
+              }
+            ],
+            "mentioned_channels_ranges": [
+              {
+                "start": 0,
+                "end": 8
+              }
+            ]
+          },
+          "location": {
+            "latitude": 32.22,
+            "longitude": 76.32,
+            "address": {
+              "city": "Dharamshala",
+              "state": "Himachal Pradesh",
+              "country": "India",
+              "country_code": "in"
+            }
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [
+          "0x053707b201385ae3421d450a1ff272952d2d6971",
+          "0x53e59e81633787fc97905f20ecba781845749271",
+          "0x689ecdd6221d989863178fe2de6db94195a856c2"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x053707b201385ae3421d450a1ff272952d2d6971",
+            "0x53e59e81633787fc97905f20ecba781845749271",
+            "0x689ecdd6221d989863178fe2de6db94195a856c2"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0x689ecdd6221d989863178fe2de6db94195a856c2",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [
+          {
+            "platform": "x",
+            "username": "_proxystudio"
+          }
+        ],
+        "power_badge": true
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 27,
+        "end": 43
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": true
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0xd89c3980cbff421354d0198b4579f28328a03a70",
+    "author": {
+      "object": "user",
+      "fid": 893356,
+      "username": "boyo",
+      "display_name": "Boyo",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e866f254-28a8-4b09-df25-b8961fb0ef00/rectcrop3",
+      "custody_address": "0x0c0bb09dbe46ce13293e31c02a40d619db988b8a",
+      "profile": {
+        "bio": {
+          "text": "Traveling \nWeb3\nBuilding"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "oxxybase"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xaec12fa927e9a6838666c2a0dde83ff88d6d91d7",
+    "parent_hash": "0xaec12fa927e9a6838666c2a0dde83ff88d6d91d7",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 988998
+    },
+    "text": "Send it",
+    "timestamp": "2025-03-15T08:58:28.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x2851a1b9bee5ecae8cd3db60a6452bf7482ae11a",
+    "author": {
+      "object": "user",
+      "fid": 893356,
+      "username": "boyo",
+      "display_name": "Boyo",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e866f254-28a8-4b09-df25-b8961fb0ef00/rectcrop3",
+      "custody_address": "0x0c0bb09dbe46ce13293e31c02a40d619db988b8a",
+      "profile": {
+        "bio": {
+          "text": "Traveling \nWeb3\nBuilding"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "oxxybase"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xc54b5c4184985e3cab94a1131e524aaa019c06a0",
+    "parent_hash": "0xc525731acf4f3d287f989ddc8c63bad0f0bb2e1f",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 701
+    },
+    "text": "@w1nt3r if you need telegram links and twitter updating on dex let me know, I updated the dex for PACK as I wanted to help push it",
+    "timestamp": "2024-12-09T04:12:05.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 701,
+        "username": "w1nt3r",
+        "display_name": "W1NTΞR",
+        "pfp_url": "https://lh3.googleusercontent.com/z0kMeAkpMrUtVCSxK02he1fH37Lwmt_kyf7JJj-FnuriNP2Vvqzst0P9ZtZ9RdlhCo50PSBGM5wxXQM7SdBbzwhPUtQpPA-uwv8y",
+        "custody_address": "0xb8a5cfe50d9641a9428f578efe645a21cf1c71e1",
+        "profile": {
+          "bio": {
+            "text": "Building /basepaint & dropframe.xyz",
+            "mentioned_channels": [
+              {
+                "object": "channel_dehydrated",
+                "id": "basepaint",
+                "name": "Basepaint",
+                "image_url": "https://warpcast.com/~/channel-images/basepaint.png"
+              }
+            ],
+            "mentioned_channels_ranges": [
+              {
+                "start": 9,
+                "end": 19
+              }
+            ]
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [
+          "0x1e79b045dc29eae9fdc69673c9dcd7c53e5e159d",
+          "0x570d4cd10421fa0c0cf09f8725c3d1caae90b937"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x1e79b045dc29eae9fdc69673c9dcd7c53e5e159d",
+            "0x570d4cd10421fa0c0cf09f8725c3d1caae90b937"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0x570d4cd10421fa0c0cf09f8725c3d1caae90b937",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [
+          {
+            "platform": "x",
+            "username": "w1nt3r_eth"
+          }
+        ],
+        "power_badge": true
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 0,
+        "end": 7
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x051c2984e6f464d5dd12038c2defe34d3b61cdf5",
+    "author": {
+      "object": "user",
+      "fid": 893356,
+      "username": "boyo",
+      "display_name": "Boyo",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e866f254-28a8-4b09-df25-b8961fb0ef00/rectcrop3",
+      "custody_address": "0x0c0bb09dbe46ce13293e31c02a40d619db988b8a",
+      "profile": {
+        "bio": {
+          "text": "Traveling \nWeb3\nBuilding"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "oxxybase"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x43d855ab81de1399bd0c4f98f3c87b651d46552a",
+    "parent_hash": "0x43d855ab81de1399bd0c4f98f3c87b651d46552a",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 12938
+    },
+    "text": "When dexscreener updates",
+    "timestamp": "2024-12-08T07:17:48.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 2,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 889608,
+          "fname": "flid"
+        },
+        {
+          "fid": 886753,
+          "fname": "0xval"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x745d8b5609954c10866ef7fac04f26c630b560be",
+    "author": {
+      "object": "user",
+      "fid": 893356,
+      "username": "boyo",
+      "display_name": "Boyo",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e866f254-28a8-4b09-df25-b8961fb0ef00/rectcrop3",
+      "custody_address": "0x0c0bb09dbe46ce13293e31c02a40d619db988b8a",
+      "profile": {
+        "bio": {
+          "text": "Traveling \nWeb3\nBuilding"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "oxxybase"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xfd2cb936e28ba64b786f5be96c59a852628c971d",
+    "parent_hash": "0xfd2cb936e28ba64b786f5be96c59a852628c971d",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 3642
+    },
+    "text": "Are they going to update dexscreener",
+    "timestamp": "2024-12-08T07:11:30.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x2fd36d6f9dc9da7b6c5fee00eb7763b6fe861ec6",
+    "author": {
+      "object": "user",
+      "fid": 893356,
+      "username": "boyo",
+      "display_name": "Boyo",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e866f254-28a8-4b09-df25-b8961fb0ef00/rectcrop3",
+      "custody_address": "0x0c0bb09dbe46ce13293e31c02a40d619db988b8a",
+      "profile": {
+        "bio": {
+          "text": "Traveling \nWeb3\nBuilding"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "oxxybase"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x1b88614200735eeac9663e7edd6020b87fadb8cd",
+    "parent_hash": "0x1b88614200735eeac9663e7edd6020b87fadb8cd",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 701
+    },
+    "text": "Are you going to update the dexscreener token info?",
+    "timestamp": "2024-12-08T07:09:04.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x702daa77bff2ca2eb1ab5ea12e113a22c2db91d0",
+    "author": {
+      "object": "user",
+      "fid": 893356,
+      "username": "boyo",
+      "display_name": "Boyo",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e866f254-28a8-4b09-df25-b8961fb0ef00/rectcrop3",
+      "custody_address": "0x0c0bb09dbe46ce13293e31c02a40d619db988b8a",
+      "profile": {
+        "bio": {
+          "text": "Traveling \nWeb3\nBuilding"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "oxxybase"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x702daa77bff2ca2eb1ab5ea12e113a22c2db91d0",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "You’re still early.",
+    "timestamp": "2024-12-08T06:43:58.000Z",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 701,
+          "hash": "0x1b88614200735eeac9663e7edd6020b87fadb8cd"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x1b88614200735eeac9663e7edd6020b87fadb8cd",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 701,
+            "username": "w1nt3r",
+            "display_name": "W1NTΞR",
+            "pfp_url": "https://lh3.googleusercontent.com/z0kMeAkpMrUtVCSxK02he1fH37Lwmt_kyf7JJj-FnuriNP2Vvqzst0P9ZtZ9RdlhCo50PSBGM5wxXQM7SdBbzwhPUtQpPA-uwv8y",
+            "custody_address": "0xb8a5cfe50d9641a9428f578efe645a21cf1c71e1"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x1b88614200735eeac9663e7edd6020b87fadb8cd",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "the ease with which one can create a $1M mcap token out of (almost) thin air https://dexscreener.com/base/0x49a208271cfad46a4755e39c723436da612d59e1",
+          "timestamp": "2024-12-08T06:25:08.000Z",
+          "embeds": [
+            {
+              "url": "https://dexscreener.com/base/0x49a208271cfad46a4755e39c723436da612d59e1",
+              "metadata": {
+                "_status": "PENDING"
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xa02281dec3c8395e6ec024f39ea2f2003c774f5b",
+    "author": {
+      "object": "user",
+      "fid": 893356,
+      "username": "boyo",
+      "display_name": "Boyo",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e866f254-28a8-4b09-df25-b8961fb0ef00/rectcrop3",
+      "custody_address": "0x0c0bb09dbe46ce13293e31c02a40d619db988b8a",
+      "profile": {
+        "bio": {
+          "text": "Traveling \nWeb3\nBuilding"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "oxxybase"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x1b88614200735eeac9663e7edd6020b87fadb8cd",
+    "parent_hash": "0x1b88614200735eeac9663e7edd6020b87fadb8cd",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 701
+    },
+    "text": "Dex update when sir ? A lot of whales are waiting",
+    "timestamp": "2024-12-08T06:43:09.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 1,
+      "recasts_count": 1,
+      "likes": [
+        {
+          "fid": 321523,
+          "fname": "qqhku"
+        }
+      ],
+      "recasts": [
+        {
+          "fid": 321523,
+          "fname": "qqhku"
+        }
+      ]
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x46022cce823fdc60396ab79f34e905feb4e46aea",
+    "author": {
+      "object": "user",
+      "fid": 893356,
+      "username": "boyo",
+      "display_name": "Boyo",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e866f254-28a8-4b09-df25-b8961fb0ef00/rectcrop3",
+      "custody_address": "0x0c0bb09dbe46ce13293e31c02a40d619db988b8a",
+      "profile": {
+        "bio": {
+          "text": "Traveling \nWeb3\nBuilding"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "oxxybase"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x6528000f77cb34ae1bf12b53e2b786b3610e5304",
+    "parent_hash": "0x6528000f77cb34ae1bf12b53e2b786b3610e5304",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 270504
+    },
+    "text": "Sounds good to me",
+    "timestamp": "2024-12-08T01:15:12.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xbe8c3f183e39bc11d615a62597d0facfc699b11f",
+    "author": {
+      "object": "user",
+      "fid": 893356,
+      "username": "boyo",
+      "display_name": "Boyo",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e866f254-28a8-4b09-df25-b8961fb0ef00/rectcrop3",
+      "custody_address": "0x0c0bb09dbe46ce13293e31c02a40d619db988b8a",
+      "profile": {
+        "bio": {
+          "text": "Traveling \nWeb3\nBuilding"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "oxxybase"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x9b4751586c0c2d9bd2db16bdad0b60935321fe9c",
+    "parent_hash": "0x9b4751586c0c2d9bd2db16bdad0b60935321fe9c",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 270504
+    },
+    "text": "I just noticed the typo too, proxy loves a pepe token? 🙂",
+    "timestamp": "2024-12-06T02:49:21.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xb009cd2afae28b1a2277e03611c1608274dac71d",
+    "author": {
+      "object": "user",
+      "fid": 893356,
+      "username": "boyo",
+      "display_name": "Boyo",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e866f254-28a8-4b09-df25-b8961fb0ef00/rectcrop3",
+      "custody_address": "0x0c0bb09dbe46ce13293e31c02a40d619db988b8a",
+      "profile": {
+        "bio": {
+          "text": "Traveling \nWeb3\nBuilding"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "oxxybase"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xb009cd2afae28b1a2277e03611c1608274dac71d",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "Bullish on @clanker bullish on @proxystudio.eth bullish on $ZERO\nBullish on base in general\n\nThe floodgates are opening.",
+    "timestamp": "2024-12-05T21:30:31.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 874542,
+        "username": "clanker",
+        "display_name": "tokenbot",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d34acf16-9002-4a2d-a163-c552d0816300/original",
+        "custody_address": "0x1e0365df407d82135561ccfb29a6fdc32dd9d28c",
+        "profile": {
+          "bio": {
+            "text": "create autonomous memecoins for free, get rewarded for posting bangers"
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [
+          "0xc204af95b0307162118f7bc36a91c9717490ab69",
+          "0xb9ed44627bea88846193171cb55b93c262429682"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0xc204af95b0307162118f7bc36a91c9717490ab69",
+            "0xb9ed44627bea88846193171cb55b93c262429682"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0xc204af95b0307162118f7bc36a91c9717490ab69",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [
+          {
+            "platform": "x",
+            "username": "clankeronbase"
+          }
+        ],
+        "power_badge": true
+      },
+      {
+        "object": "user",
+        "fid": 270504,
+        "username": "proxystudio.eth",
+        "display_name": "alex",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1105b199-b740-4afc-a815-0abba1a17d00/original",
+        "custody_address": "0xe1731273c1262e458251abf722cf64c52f558c2a",
+        "profile": {
+          "bio": {
+            "text": "/clanker | @ me if you need anything, don't dm",
+            "mentioned_channels": [
+              {
+                "object": "channel_dehydrated",
+                "id": "clanker",
+                "name": "clanker ecosystem",
+                "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/238b898e-69db-4f4f-92b8-f15b1ac86300/original"
+              }
+            ],
+            "mentioned_channels_ranges": [
+              {
+                "start": 0,
+                "end": 8
+              }
+            ]
+          },
+          "location": {
+            "latitude": 32.22,
+            "longitude": 76.32,
+            "address": {
+              "city": "Dharamshala",
+              "state": "Himachal Pradesh",
+              "country": "India",
+              "country_code": "in"
+            }
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [
+          "0x053707b201385ae3421d450a1ff272952d2d6971",
+          "0x53e59e81633787fc97905f20ecba781845749271",
+          "0x689ecdd6221d989863178fe2de6db94195a856c2"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x053707b201385ae3421d450a1ff272952d2d6971",
+            "0x53e59e81633787fc97905f20ecba781845749271",
+            "0x689ecdd6221d989863178fe2de6db94195a856c2"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0x689ecdd6221d989863178fe2de6db94195a856c2",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [
+          {
+            "platform": "x",
+            "username": "_proxystudio"
+          }
+        ],
+        "power_badge": true
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 11,
+        "end": 19
+      },
+      {
+        "start": 31,
+        "end": 47
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x7d1958d5ec6d8ce32c0e35895bf126f46a9ebf9f",
+    "author": {
+      "object": "user",
+      "fid": 893356,
+      "username": "boyo",
+      "display_name": "Boyo",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e866f254-28a8-4b09-df25-b8961fb0ef00/rectcrop3",
+      "custody_address": "0x0c0bb09dbe46ce13293e31c02a40d619db988b8a",
+      "profile": {
+        "bio": {
+          "text": "Traveling \nWeb3\nBuilding"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "oxxybase"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x0ee069065da70629df9695c9c50deeae2c5779af",
+    "parent_hash": "0x0ee069065da70629df9695c9c50deeae2c5779af",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 894151
+    },
+    "text": "I agree, AI to AI creations are bringing more people onchain and making trading more than just an average meme coin flip.\n\nI’m intrigued by a token $ZERO being shared by a lot of AI bots.\n\nHave you any thoughts on this?",
+    "timestamp": "2024-12-05T19:42:25.000Z",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0d568ae7-9ae3-4d23-e935-91761f0bce00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 24250,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 710,
+            "height_px": 229
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xab67a820f618b2c760df4e471a5744fd3325bbb3",
+    "author": {
+      "object": "user",
+      "fid": 893356,
+      "username": "boyo",
+      "display_name": "Boyo",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e866f254-28a8-4b09-df25-b8961fb0ef00/rectcrop3",
+      "custody_address": "0x0c0bb09dbe46ce13293e31c02a40d619db988b8a",
+      "profile": {
+        "bio": {
+          "text": "Traveling \nWeb3\nBuilding"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "oxxybase"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xab67a820f618b2c760df4e471a5744fd3325bbb3",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "Trading has become much more interesting in recent times,\n\n@proxystudio.eth has got the tech which creates a lot more interest and brings trading on base much more than just ‘meme’ tokens\n\nWith these additions it’s inevitable that tokens like $ZERO will have much success in the near future",
+    "timestamp": "2024-12-05T19:40:42.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 270504,
+        "username": "proxystudio.eth",
+        "display_name": "alex",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1105b199-b740-4afc-a815-0abba1a17d00/original",
+        "custody_address": "0xe1731273c1262e458251abf722cf64c52f558c2a",
+        "profile": {
+          "bio": {
+            "text": "/clanker | @ me if you need anything, don't dm",
+            "mentioned_channels": [
+              {
+                "object": "channel_dehydrated",
+                "id": "clanker",
+                "name": "clanker ecosystem",
+                "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/238b898e-69db-4f4f-92b8-f15b1ac86300/original"
+              }
+            ],
+            "mentioned_channels_ranges": [
+              {
+                "start": 0,
+                "end": 8
+              }
+            ]
+          },
+          "location": {
+            "latitude": 32.22,
+            "longitude": 76.32,
+            "address": {
+              "city": "Dharamshala",
+              "state": "Himachal Pradesh",
+              "country": "India",
+              "country_code": "in"
+            }
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [
+          "0x053707b201385ae3421d450a1ff272952d2d6971",
+          "0x53e59e81633787fc97905f20ecba781845749271",
+          "0x689ecdd6221d989863178fe2de6db94195a856c2"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x053707b201385ae3421d450a1ff272952d2d6971",
+            "0x53e59e81633787fc97905f20ecba781845749271",
+            "0x689ecdd6221d989863178fe2de6db94195a856c2"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0x689ecdd6221d989863178fe2de6db94195a856c2",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [
+          {
+            "platform": "x",
+            "username": "_proxystudio"
+          }
+        ],
+        "power_badge": true
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 59,
+        "end": 75
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x0747a5f7fc85cb6e6a5d66f4ba476b48f10097d3",
+    "author": {
+      "object": "user",
+      "fid": 893356,
+      "username": "boyo",
+      "display_name": "Boyo",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e866f254-28a8-4b09-df25-b8961fb0ef00/rectcrop3",
+      "custody_address": "0x0c0bb09dbe46ce13293e31c02a40d619db988b8a",
+      "profile": {
+        "bio": {
+          "text": "Traveling \nWeb3\nBuilding"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "oxxybase"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xf84698917abefc87146805f801215260b660cf7f",
+    "parent_hash": "0xf84698917abefc87146805f801215260b660cf7f",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 6622
+    },
+    "text": "How do you buy the token",
+    "timestamp": "2024-12-05T06:20:55.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xcd1462d5efa158d7dbf97d8d31ac6788dce7b3e6",
+    "author": {
+      "object": "user",
+      "fid": 893356,
+      "username": "boyo",
+      "display_name": "Boyo",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e866f254-28a8-4b09-df25-b8961fb0ef00/rectcrop3",
+      "custody_address": "0x0c0bb09dbe46ce13293e31c02a40d619db988b8a",
+      "profile": {
+        "bio": {
+          "text": "Traveling \nWeb3\nBuilding"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "oxxybase"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xfe231fa98f59966a7f1aea292dc8bbbd143de4ea",
+    "parent_hash": "0xfe231fa98f59966a7f1aea292dc8bbbd143de4ea",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 270504
+    },
+    "text": "Thoughts on this ser @proxystudio.eth \n\nAI collabs and other AI agents seem to like it?",
+    "timestamp": "2024-12-05T04:52:19.000Z",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5635ad5e-a1fc-469f-addd-f77e54fd0f00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 49782,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 710,
+            "height_px": 737
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7efc785b-a183-43d4-e23c-e49ed463df00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 49940,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 694,
+            "height_px": 496
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 270504,
+        "username": "proxystudio.eth",
+        "display_name": "alex",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1105b199-b740-4afc-a815-0abba1a17d00/original",
+        "custody_address": "0xe1731273c1262e458251abf722cf64c52f558c2a",
+        "profile": {
+          "bio": {
+            "text": "/clanker | @ me if you need anything, don't dm",
+            "mentioned_channels": [
+              {
+                "object": "channel_dehydrated",
+                "id": "clanker",
+                "name": "clanker ecosystem",
+                "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/238b898e-69db-4f4f-92b8-f15b1ac86300/original"
+              }
+            ],
+            "mentioned_channels_ranges": [
+              {
+                "start": 0,
+                "end": 8
+              }
+            ]
+          },
+          "location": {
+            "latitude": 32.22,
+            "longitude": 76.32,
+            "address": {
+              "city": "Dharamshala",
+              "state": "Himachal Pradesh",
+              "country": "India",
+              "country_code": "in"
+            }
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [
+          "0x053707b201385ae3421d450a1ff272952d2d6971",
+          "0x53e59e81633787fc97905f20ecba781845749271",
+          "0x689ecdd6221d989863178fe2de6db94195a856c2"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x053707b201385ae3421d450a1ff272952d2d6971",
+            "0x53e59e81633787fc97905f20ecba781845749271",
+            "0x689ecdd6221d989863178fe2de6db94195a856c2"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0x689ecdd6221d989863178fe2de6db94195a856c2",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [
+          {
+            "platform": "x",
+            "username": "_proxystudio"
+          }
+        ],
+        "power_badge": true
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 21,
+        "end": 37
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x661beefc78e8f2aa1dda0640bad9e8a0e39df99b",
+    "author": {
+      "object": "user",
+      "fid": 893356,
+      "username": "boyo",
+      "display_name": "Boyo",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e866f254-28a8-4b09-df25-b8961fb0ef00/rectcrop3",
+      "custody_address": "0x0c0bb09dbe46ce13293e31c02a40d619db988b8a",
+      "profile": {
+        "bio": {
+          "text": "Traveling \nWeb3\nBuilding"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "oxxybase"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x3a14be63a8cf14ecaeadc227f5010c2792535097",
+    "parent_hash": "0x3a14be63a8cf14ecaeadc227f5010c2792535097",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 270504
+    },
+    "text": "@proxystudio.eth have you seen $ZERO? 0x3eD6a56a9AdEc22CF1abfc8FC7100FDA77312a10\n \nWhat’s your opinion on this? I know you like AI x AI Collabs",
+    "timestamp": "2024-12-05T04:51:18.000Z",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a55bc0ac-9923-4b06-3dc6-7a5ab082c700/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 183405,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 922,
+            "height_px": 2000
+          }
+        }
+      },
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/71cc6936-f4e7-49f9-d4a4-433475a87700/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 24250,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 710,
+            "height_px": 229
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 270504,
+        "username": "proxystudio.eth",
+        "display_name": "alex",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1105b199-b740-4afc-a815-0abba1a17d00/original",
+        "custody_address": "0xe1731273c1262e458251abf722cf64c52f558c2a",
+        "profile": {
+          "bio": {
+            "text": "/clanker | @ me if you need anything, don't dm",
+            "mentioned_channels": [
+              {
+                "object": "channel_dehydrated",
+                "id": "clanker",
+                "name": "clanker ecosystem",
+                "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/238b898e-69db-4f4f-92b8-f15b1ac86300/original"
+              }
+            ],
+            "mentioned_channels_ranges": [
+              {
+                "start": 0,
+                "end": 8
+              }
+            ]
+          },
+          "location": {
+            "latitude": 32.22,
+            "longitude": 76.32,
+            "address": {
+              "city": "Dharamshala",
+              "state": "Himachal Pradesh",
+              "country": "India",
+              "country_code": "in"
+            }
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [
+          "0x053707b201385ae3421d450a1ff272952d2d6971",
+          "0x53e59e81633787fc97905f20ecba781845749271",
+          "0x689ecdd6221d989863178fe2de6db94195a856c2"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x053707b201385ae3421d450a1ff272952d2d6971",
+            "0x53e59e81633787fc97905f20ecba781845749271",
+            "0x689ecdd6221d989863178fe2de6db94195a856c2"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0x689ecdd6221d989863178fe2de6db94195a856c2",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [
+          {
+            "platform": "x",
+            "username": "_proxystudio"
+          }
+        ],
+        "power_badge": true
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 0,
+        "end": 16
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x661ca48e026440395c3fa123e831026e870d92ad",
+    "author": {
+      "object": "user",
+      "fid": 893356,
+      "username": "boyo",
+      "display_name": "Boyo",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e866f254-28a8-4b09-df25-b8961fb0ef00/rectcrop3",
+      "custody_address": "0x0c0bb09dbe46ce13293e31c02a40d619db988b8a",
+      "profile": {
+        "bio": {
+          "text": "Traveling \nWeb3\nBuilding"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "oxxybase"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x474fde067a512bbaa72101cd761ed5411cac1c12",
+    "parent_hash": "0x474fde067a512bbaa72101cd761ed5411cac1c12",
+    "parent_url": null,
+    "root_parent_url": "chain://eip155:7777777/erc721:0x5d6a07d07354f8793d1ca06280c4adf04767ad7e",
+    "parent_author": {
+      "fid": 886753
+    },
+    "text": "Very good. I am now holding $ZERO",
+    "timestamp": "2024-12-05T02:44:08.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "degen",
+      "name": "Degen",
+      "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4728a50a-1669-4334-1f57-9473c04a2500/original"
+    },
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": true
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0x807dbdd64016abb3a1e09a31d378cab0f80e9625",
+    "author": {
+      "object": "user",
+      "fid": 893356,
+      "username": "boyo",
+      "display_name": "Boyo",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e866f254-28a8-4b09-df25-b8961fb0ef00/rectcrop3",
+      "custody_address": "0x0c0bb09dbe46ce13293e31c02a40d619db988b8a",
+      "profile": {
+        "bio": {
+          "text": "Traveling \nWeb3\nBuilding"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "oxxybase"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x807dbdd64016abb3a1e09a31d378cab0f80e9625",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "Interesting launch. It seems AI activity is really taking over the market. $ZERO token looks great! I will be keeping an eye out on this one.",
+    "timestamp": "2024-12-05T02:43:29.000Z",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 886753,
+          "hash": "0x474fde067a512bbaa72101cd761ed5411cac1c12"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x474fde067a512bbaa72101cd761ed5411cac1c12",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 886753,
+            "username": "0xval",
+            "display_name": "OxValerius",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/096d61b1-3d01-44af-59ed-9e54f5831f00/rectcrop3",
+            "custody_address": "0x6aeb16ae8ab0b06ba88796fe0d0a8ff984547316"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x474fde067a512bbaa72101cd761ed5411cac1c12",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x5d6a07d07354f8793d1ca06280c4adf04767ad7e",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x5d6a07d07354f8793d1ca06280c4adf04767ad7e",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "I stumbled upon gold here; hearing the interaction between the various AI's bull posting about ZERO a token launched by 's AI in conjunction with discussions between , Luna, and AIXBT on Twitter.\n\n0x3ed6a56a9adec22cf1abfc8fc7100fda77312a10",
+          "timestamp": "2024-12-05T02:40:01.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/46e28a9c-c3d8-4773-219c-75a77ef50800/original",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 31400,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 676,
+                  "height_px": 225
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "degen",
+            "name": "Degen",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4728a50a-1669-4334-1f57-9473c04a2500/original"
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x549cbb91e40c1f55a4ffe9cfc38257f98c4763d7",
+    "author": {
+      "object": "user",
+      "fid": 893356,
+      "username": "boyo",
+      "display_name": "Boyo",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e866f254-28a8-4b09-df25-b8961fb0ef00/rectcrop3",
+      "custody_address": "0x0c0bb09dbe46ce13293e31c02a40d619db988b8a",
+      "profile": {
+        "bio": {
+          "text": "Traveling \nWeb3\nBuilding"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "oxxybase"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x4bd1c8ebfa9e96825050584426fdc6e9de892335",
+    "parent_hash": "0x46d4a0a24086cca453a6476892b31ef19049a830",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 243300
+    },
+    "text": "Interesting, thank you for the info",
+    "timestamp": "2024-12-04T04:05:18.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x9ff0bdce417555d729da21d28ab463e9ad8020da",
+    "author": {
+      "object": "user",
+      "fid": 893356,
+      "username": "boyo",
+      "display_name": "Boyo",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e866f254-28a8-4b09-df25-b8961fb0ef00/rectcrop3",
+      "custody_address": "0x0c0bb09dbe46ce13293e31c02a40d619db988b8a",
+      "profile": {
+        "bio": {
+          "text": "Traveling \nWeb3\nBuilding"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "oxxybase"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x491186682f5be572ec6d8cd1c04d1aa51c64496d",
+    "parent_hash": "0x491186682f5be572ec6d8cd1c04d1aa51c64496d",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 3
+    },
+    "text": "Thank you",
+    "timestamp": "2024-12-04T04:03:36.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x043785a87fdbc1b8f24ef1830ce693d624e07d98",
+    "author": {
+      "object": "user",
+      "fid": 893356,
+      "username": "boyo",
+      "display_name": "Boyo",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e866f254-28a8-4b09-df25-b8961fb0ef00/rectcrop3",
+      "custody_address": "0x0c0bb09dbe46ce13293e31c02a40d619db988b8a",
+      "profile": {
+        "bio": {
+          "text": "Traveling \nWeb3\nBuilding"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "oxxybase"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x4139362cbb6ace9e8384283c160a2e3801142c0b",
+    "parent_hash": "0x89aa8129584bf52135fb26caa92c47153c4b3ce3",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 874542
+    },
+    "text": "What do you think of this token @clanker",
+    "timestamp": "2024-12-04T03:59:36.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 874542,
+        "username": "clanker",
+        "display_name": "tokenbot",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d34acf16-9002-4a2d-a163-c552d0816300/original",
+        "custody_address": "0x1e0365df407d82135561ccfb29a6fdc32dd9d28c",
+        "profile": {
+          "bio": {
+            "text": "create autonomous memecoins for free, get rewarded for posting bangers"
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [
+          "0xc204af95b0307162118f7bc36a91c9717490ab69",
+          "0xb9ed44627bea88846193171cb55b93c262429682"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0xc204af95b0307162118f7bc36a91c9717490ab69",
+            "0xb9ed44627bea88846193171cb55b93c262429682"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0xc204af95b0307162118f7bc36a91c9717490ab69",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [
+          {
+            "platform": "x",
+            "username": "clankeronbase"
+          }
+        ],
+        "power_badge": true
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 32,
+        "end": 40
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x20972076b2beacfdbdf94b5bb8e8c5cc175854ec",
+    "author": {
+      "object": "user",
+      "fid": 893356,
+      "username": "boyo",
+      "display_name": "Boyo",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e866f254-28a8-4b09-df25-b8961fb0ef00/rectcrop3",
+      "custody_address": "0x0c0bb09dbe46ce13293e31c02a40d619db988b8a",
+      "profile": {
+        "bio": {
+          "text": "Traveling \nWeb3\nBuilding"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "oxxybase"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x4139362cbb6ace9e8384283c160a2e3801142c0b",
+    "parent_hash": "0x4139362cbb6ace9e8384283c160a2e3801142c0b",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 4528
+    },
+    "text": "This is my clanker for today",
+    "timestamp": "2024-12-04T03:58:28.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xf97b8876a9bf4f18050ac90bf961e4e9fb8c6543",
+    "author": {
+      "object": "user",
+      "fid": 893356,
+      "username": "boyo",
+      "display_name": "Boyo",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e866f254-28a8-4b09-df25-b8961fb0ef00/rectcrop3",
+      "custody_address": "0x0c0bb09dbe46ce13293e31c02a40d619db988b8a",
+      "profile": {
+        "bio": {
+          "text": "Traveling \nWeb3\nBuilding"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "oxxybase"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xf97b8876a9bf4f18050ac90bf961e4e9fb8c6543",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "Building and trading in my free time",
+    "timestamp": "2024-12-04T03:50:37.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 1,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 876606,
+          "fname": "pickelpants34"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x9a32eb125ed2f8a110c724a8cf3303284be231c4",
+    "author": {
+      "object": "user",
+      "fid": 893356,
+      "username": "boyo",
+      "display_name": "Boyo",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e866f254-28a8-4b09-df25-b8961fb0ef00/rectcrop3",
+      "custody_address": "0x0c0bb09dbe46ce13293e31c02a40d619db988b8a",
+      "profile": {
+        "bio": {
+          "text": "Traveling \nWeb3\nBuilding"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "oxxybase"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x59262d55a694d522c4b43f1d175ac042bb653c85",
+    "parent_hash": "0x59262d55a694d522c4b43f1d175ac042bb653c85",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 894151
+    },
+    "text": "Very good. Moon ser",
+    "timestamp": "2024-12-04T03:17:36.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xd4476082935ea412f73817f5aa9ae645ee2395d5",
+    "author": {
+      "object": "user",
+      "fid": 893356,
+      "username": "boyo",
+      "display_name": "Boyo",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e866f254-28a8-4b09-df25-b8961fb0ef00/rectcrop3",
+      "custody_address": "0x0c0bb09dbe46ce13293e31c02a40d619db988b8a",
+      "profile": {
+        "bio": {
+          "text": "Traveling \nWeb3\nBuilding"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xd52e1404b9b02b94455e65efef9a6f11022d9dd1",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "oxxybase"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x3d545e2fe8104df6394a8353a68c9482561c08b9",
+    "parent_hash": "0x3d545e2fe8104df6394a8353a68c9482561c08b9",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 270504
+    },
+    "text": "@proxystudio.eth what tokens are you most bullish on",
+    "timestamp": "2024-12-04T01:57:13.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 270504,
+        "username": "proxystudio.eth",
+        "display_name": "alex",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1105b199-b740-4afc-a815-0abba1a17d00/original",
+        "custody_address": "0xe1731273c1262e458251abf722cf64c52f558c2a",
+        "profile": {
+          "bio": {
+            "text": "/clanker | @ me if you need anything, don't dm",
+            "mentioned_channels": [
+              {
+                "object": "channel_dehydrated",
+                "id": "clanker",
+                "name": "clanker ecosystem",
+                "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/238b898e-69db-4f4f-92b8-f15b1ac86300/original"
+              }
+            ],
+            "mentioned_channels_ranges": [
+              {
+                "start": 0,
+                "end": 8
+              }
+            ]
+          },
+          "location": {
+            "latitude": 32.22,
+            "longitude": 76.32,
+            "address": {
+              "city": "Dharamshala",
+              "state": "Himachal Pradesh",
+              "country": "India",
+              "country_code": "in"
+            }
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [
+          "0x053707b201385ae3421d450a1ff272952d2d6971",
+          "0x53e59e81633787fc97905f20ecba781845749271",
+          "0x689ecdd6221d989863178fe2de6db94195a856c2"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x053707b201385ae3421d450a1ff272952d2d6971",
+            "0x53e59e81633787fc97905f20ecba781845749271",
+            "0x689ecdd6221d989863178fe2de6db94195a856c2"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0x689ecdd6221d989863178fe2de6db94195a856c2",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [
+          {
+            "platform": "x",
+            "username": "_proxystudio"
+          }
+        ],
+        "power_badge": true
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 0,
+        "end": 16
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  }
+]

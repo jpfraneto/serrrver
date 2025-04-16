@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "🤔",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin approach new challenges?",
+      "options": [
+        {
+          "value": "Bold",
+          "description": "Your FarTwin will eagerly take on bold and potentially high-risk challenges with enthusiasm."
+        },
+        {
+          "value": "Cautious",
+          "description": "Your FarTwin will carefully weigh the risks and consider alternatives before making a decision."
+        }
+      ]
+    },
+    {
+      "emoji": "😂",
+      "label": "Sense of Humor",
+      "description": "How will your FarTwin handle difficult situations?",
+      "options": [
+        {
+          "value": "Playful",
+          "description": "Your FarTwin will often use humor to diffuse tension and make light of a situation."
+        },
+        {
+          "value": "Sarcastic",
+          "description": "Your FarTwin may employ sarcasm as a defense mechanism or to critique situations."
+        }
+      ]
+    },
+    {
+      "emoji": "💸",
+      "label": "Financial Priorities",
+      "description": "How will your FarTwin manage their finances?",
+      "options": [
+        {
+          "value": "Frugal",
+          "description": "Your FarTwin prioritizes saving and frugality, seeking to minimize unnecessary expenses."
+        },
+        {
+          "value": "Spending",
+          "description": "Your FarTwin tends to prioritize spending and indulging in luxuries when resources allow."
+        }
+      ]
+    },
+    {
+      "emoji": "🌎",
+      "label": "Global Perspective",
+      "description": "How will your FarTwin approach global issues?",
+      "options": [
+        {
+          "value": "Cosmopolitan",
+          "description": "Your FarTwin tends to see the world as a single, interconnected system and seeks to understand diverse perspectives."
+        },
+        {
+          "value": "Nationalistic",
+          "description": "Your FarTwin prioritizes national interests over global concerns and may be skeptical of international cooperation."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Social Connections",
+      "description": "How will your FarTwin form relationships?",
+      "options": [
+        {
+          "value": "Outgoing",
+          "description": "Your FarTwin is naturally sociable and enjoys meeting new people, forming connections with ease."
+        },
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin prefers quieter environments and may need time to warm up to new social interactions."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Learning Style",
+      "description": "How will your FarTwin approach learning?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin tends to analyze and break down complex information into manageable parts."
+        },
+        {
+          "value": "Exploratory",
+          "description": "Your FarTwin is more likely to explore new concepts through hands-on experience or intuition."
+        }
+      ]
+    },
+    {
+      "emoji": "🏋️‍♀️",
+      "label": "Physical Activity",
+      "description": "How will your FarTwin prioritize physical health?",
+      "options": [
+        {
+          "value": "Athletic",
+          "description": "Your FarTwin tends to value intense physical activity and exercise as a way to improve themselves."
+        },
+        {
+          "value": "Relaxed",
+          "description": "Your FarTwin prioritizes maintaining a healthy lifestyle, but doesn't necessarily push themselves to extreme levels of physical exertion."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Conflict Resolution",
+      "description": "How will your FarTwin handle disagreements?",
+      "options": [
+        {
+          "value": "Assertive",
+          "description": "Your FarTwin tends to express their opinions clearly and assertively, even in confrontational situations."
+        },
+        {
+          "value": "Avoidant",
+          "description": "Your FarTwin may shy away from conflict or try to diffuse tense situations with tact rather than confrontation."
+        }
+      ]
+    }
+  ]
+}

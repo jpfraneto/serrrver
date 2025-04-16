@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "💬",
+      "label": "Communication Style",
+      "description": "How will your FarTwin communicate with others?",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Your FarTwin will communicate clearly and straightforwardly, stating opinions without hesitation or sugar-coating."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Your FarTwin will communicate tactfully and considerately, carefully choosing words to maintain harmony."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin approach financial risk?",
+      "options": [
+        {
+          "value": "High",
+          "description": "Your FarTwin will be aggressive in their pursuit of gains, taking calculated risks to achieve success."
+        },
+        {
+          "value": "Low",
+          "description": "Your FarTwin will prioritize stability and security, avoiding high-risk investments whenever possible."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Social Interaction",
+      "description": "How will your FarTwin interact with new people?",
+      "options": [
+        {
+          "value": "Outgoing",
+          "description": "Your FarTwin will be confident and charismatic in social situations, easily making connections."
+        },
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin will prefer to observe from a distance, taking time to warm up to new people."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Emotional Expression",
+      "description": "How will your FarTwin handle emotions?",
+      "options": [
+        {
+          "value": "Expressive",
+          "description": "Your FarTwin will openly express their emotions, using them to guide decision-making and relationships."
+        },
+        {
+          "value": "Reserved",
+          "description": "Your FarTwin will keep their emotions private, only sharing them with trusted individuals."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Problem-Solving Approach",
+      "description": "How will your FarTwin approach problems?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will break down complex issues into manageable parts, using data and logic to find solutions."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on instincts and gut feelings to guide their problem-solving approach."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Learning Style",
+      "description": "How will your FarTwin prefer to learn new information?",
+      "options": [
+        {
+          "value": "Visual",
+          "description": "Your FarTwin will learn best through visual aids, such as images and videos."
+        },
+        {
+          "value": "Hands-On",
+          "description": "Your FarTwin will learn best through practical experience, preferring hands-on training and experimentation."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Decision-Making Process",
+      "description": "How will your FarTwin make decisions?",
+      "options": [
+        {
+          "value": "Rational",
+          "description": "Your FarTwin will weigh options carefully, using logic and evidence to guide their choices."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will trust their instincts and make decisions based on gut feelings or personal values."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Conflict Resolution",
+      "description": "How will your FarTwin handle conflicts?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will stand their ground and assert themselves in conflicts, using direct confrontation to resolve issues."
+        },
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will seek common ground with the opposing party, working together to find a mutually beneficial solution."
+        }
+      ]
+    }
+  ]
+}

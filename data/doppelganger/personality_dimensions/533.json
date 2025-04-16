@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "💬",
+      "label": "Communication Style",
+      "description": "How will your FarTwin communicate with others?",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Your FarTwin will communicate clearly and straightforwardly, stating opinions without hesitation or sugar-coating."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Your FarTwin will communicate tactfully and considerately, carefully choosing words to maintain harmony."
+        }
+      ]
+    },
+    {
+      "emoji": "🤔",
+      "label": "Problem-Solving Approach",
+      "description": "How will your FarTwin tackle problems?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will break down complex issues into manageable parts and analyze them step by step."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on instinct and experience to guide their approach, often making rapid decisions based on gut feelings."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Data Analysis Preference",
+      "description": "How does your FarTwin prefer to handle data?",
+      "options": [
+        {
+          "value": "Visual",
+          "description": "Your FarTwin will focus on visual representations of data, such as charts and graphs, to understand trends and patterns."
+        },
+        {
+          "value": "Quantitative",
+          "description": "Your FarTwin will prefer to work with numerical data, using statistical analysis and mathematical models to extract insights."
+        }
+      ]
+    },
+    {
+      "emoji": "📝",
+      "label": "Writing Style",
+      "description": "How does your FarTwin express themselves through writing?",
+      "options": [
+        {
+          "value": "Concise",
+          "description": "Your FarTwin will write clearly and directly, getting straight to the point without unnecessary embellishments."
+        },
+        {
+          "value": "Narrative",
+          "description": "Your FarTwin will focus on storytelling and using vivid descriptions to engage their audience."
+        }
+      ]
+    },
+    {
+      "emoji": "🎨",
+      "label": "Artistic Expression",
+      "description": "How does your FarTwin express themselves through art?",
+      "options": [
+        {
+          "value": "Realistic",
+          "description": "Your FarTwin will focus on creating realistic depictions of subjects, often striving for precision and accuracy."
+        },
+        {
+          "value": "Abstract",
+          "description": "Your FarTwin will explore abstract concepts and ideas through art, using color and texture to evoke emotions and moods."
+        }
+      ]
+    },
+    {
+      "emoji": "🚀",
+      "label": "Ambition Level",
+      "description": "How ambitious is your FarTwin?",
+      "options": [
+        {
+          "value": "High",
+          "description": "Your FarTwin will have high goals and aspirations, striving to achieve greatness in their chosen field."
+        },
+        {
+          "value": "Low",
+          "description": "Your FarTwin will be more laid-back and realistic about their goals, prioritizing stability over ambition."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Collaboration Style",
+      "description": "How does your FarTwin approach collaboration?",
+      "options": [
+        {
+          "value": " assertive",
+          "description": "Your FarTwin will take an active role in leading and directing collaborations, ensuring their ideas are heard."
+        },
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will work closely with others to achieve a shared goal, listening actively and adapting to changing circumstances."
+        }
+      ]
+    },
+    {
+      "emoji": "🕰️",
+      "label": "Time Management Style",
+      "description": "How does your FarTwin manage their time?",
+      "options": [
+        {
+          "value": "Strictly",
+          "description": "Your FarTwin will prioritize punctuality and adhering to schedules, often becoming quite rigid in their time management."
+        },
+        {
+          "value": "Flexible",
+          "description": "Your FarTwin will be more adaptable with their time management, allowing for flexibility and spontaneity when needed."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "💬",
+      "label": "Communication Style",
+      "description": "How will your FarTwin communicate with others?",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Your FarTwin will communicate clearly and straightforwardly, stating opinions without hesitation or sugar-coating."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Your FarTwin will communicate tactfully and considerately, carefully choosing words to maintain harmony."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin approach financial risks?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will take bold, high-risk actions to maximize gains."
+        },
+        {
+          "value": "Conservative",
+          "description": "Your FarTwin will prioritize stability and security over potential for higher returns."
+        }
+      ]
+    },
+    {
+      "emoji": "📈",
+      "label": "Growth Mindset",
+      "description": "How will your FarTwin approach personal growth?",
+      "options": [
+        {
+          "value": "Optimistic",
+          "description": "Your FarTwin believes that abilities can be developed and will actively work to improve themselves."
+        },
+        {
+          "value": "Pessimistic",
+          "description": "Your FarTwin has a fixed mindset, believing that their abilities are innate and unchangeable."
+        }
+      ]
+    },
+    {
+      "emoji": "💻",
+      "label": "Technical Savviness",
+      "description": "How will your FarTwin handle technical tasks?",
+      "options": [
+        {
+          "value": "Expert",
+          "description": "Your FarTwin is highly skilled and proficient in using technology to solve problems."
+        },
+        {
+          "value": "Beginner",
+          "description": "Your FarTwin has limited experience with technology, but is eager to learn and improve their skills."
+        }
+      ]
+    },
+    {
+      "emoji": "🎨",
+      "label": "Creative Expression",
+      "description": "How will your FarTwin express themselves creatively?",
+      "options": [
+        {
+          "value": "Artistic",
+          "description": "Your FarTwin is highly creative and enjoys expressing themselves through various art forms."
+        },
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin prefers to analyze and evaluate information before creating or expressing themselves."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Learning Style",
+      "description": "How will your FarTwin approach learning new concepts?",
+      "options": [
+        {
+          "value": "Visual",
+          "description": "Your FarTwin is a visual learner, preferring to understand and absorb information through images and videos."
+        },
+        {
+          "value": "Auditory",
+          "description": "Your FarTwin is an auditory learner, relying on sound and music to help them understand and retain information."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Social Connection",
+      "description": "How will your FarTwin form and maintain relationships?",
+      "options": [
+        {
+          "value": "Outgoing",
+          "description": "Your FarTwin is highly social and enjoys meeting new people and forming connections."
+        },
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin prefers to maintain a smaller social circle and may feel overwhelmed by large groups or events."
+        }
+      ]
+    },
+    {
+      "emoji": "🏆",
+      "label": "Competitive Drive",
+      "description": "How will your FarTwin approach challenges and competitions?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will take bold, competitive actions to achieve success and prove themselves."
+        },
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin prefers to work with others, building strong teams and networks to achieve shared goals."
+        }
+      ]
+    }
+  ]
+}

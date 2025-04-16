@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "",
+      "label": "Decision Making Style",
+      "description": "How will your FarTwin make decisions?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will weigh all options and consider multiple perspectives before making a decision."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on instinct and gut feelings to guide their decision-making process."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Emotional Expression",
+      "description": "How will your FarTwin express their emotions?",
+      "options": [
+        {
+          "value": "Open",
+          "description": "Your FarTwin will openly express their feelings and emotions, wearing their heart on their sleeve."
+        },
+        {
+          "value": "Reserved",
+          "description": "Your FarTwin will keep their emotions hidden and only share them with trusted individuals or in private settings."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Conflict Resolution Style",
+      "description": "How will your FarTwin resolve conflicts?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will approach conflicts with aggression and assertiveness, pushing for their own needs to be met."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Your FarTwin will use diplomacy and tact to resolve conflicts, seeking common ground and compromise."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin handle risks?",
+      "options": [
+        {
+          "value": "Thrill-Seeker",
+          "description": "Your FarTwin will eagerly take on new challenges and risks, seeking out excitement and adventure."
+        },
+        {
+          "value": "Cautious",
+          "description": "Your FarTwin will approach risks with caution, carefully weighing the potential benefits and drawbacks before making a decision."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Social Interaction Style",
+      "description": "How will your FarTwin interact with others?",
+      "options": [
+        {
+          "value": "Outgoing",
+          "description": "Your FarTwin will be outgoing and social, seeking out new relationships and connections."
+        },
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin will prefer to interact with others in smaller, more intimate settings, conserving energy and maintaining alone time."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Problem Solving Approach",
+      "description": "How will your FarTwin approach problem-solving?",
+      "options": [
+        {
+          "value": "Logical",
+          "description": "Your FarTwin will use logic and analysis to solve problems, breaking them down into manageable components."
+        },
+        {
+          "value": "Creative",
+          "description": "Your FarTwin will rely on their imagination and intuition to find innovative solutions to problems."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Long-Term Goals Focus",
+      "description": "How will your FarTwin approach long-term goals?",
+      "options": [
+        {
+          "value": "Ambitious",
+          "description": "Your FarTwin will focus on achieving short-term success, with an emphasis on making progress towards long-term goals."
+        },
+        {
+          "value": "Patient",
+          "description": "Your FarTwin will prioritize patience and persistence, taking a slow and steady approach to achieving their long-term objectives."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Learning Style",
+      "description": "How will your FarTwin learn new information?",
+      "options": [
+        {
+          "value": "Visual",
+          "description": "Your FarTwin will primarily learn through visual means, such as watching videos or reading diagrams."
+        },
+        {
+          "value": "Auditory",
+          "description": "Your FarTwin will prefer to learn through sound, such as listening to lectures or podcasts."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin take calculated risks?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will eagerly pursue bold opportunities, even if uncertain outcomes are likely."
+        },
+        {
+          "value": "Cautious",
+          "description": "Your FarTwin will approach new challenges with careful consideration and a preference for stability."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Problem-Solving Approach",
+      "description": "How will your FarTwin approach complex problems?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will methodically break down and analyze the problem, seeking logical solutions."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on instinct and creative thinking to identify innovative solutions."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Emotional Expression",
+      "description": "How will your FarTwin express their emotions?",
+      "options": [
+        {
+          "value": "Openly",
+          "description": "Your FarTwin will freely express and validate their feelings, seeking empathy from others."
+        },
+        {
+          "value": "Reserved",
+          "description": "Your FarTwin will keep their emotions private, avoiding unnecessary displays of emotion in public."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Decision-Making Style",
+      "description": "How will your FarTwin make decisions?",
+      "options": [
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will seek input and advice from others, valuing diverse perspectives."
+        },
+        {
+          "value": "Autonomous",
+          "description": "Your FarTwin will rely solely on their own judgment and experience to make decisions."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Learning Style",
+      "description": "How will your FarTwin learn and absorb new information?",
+      "options": [
+        {
+          "value": "Experiential",
+          "description": "Your FarTwin will prefer hands-on experience, actively engaging with environments to learn."
+        },
+        {
+          "value": "Theoretical",
+          "description": "Your FarTwin will focus on abstract concepts and theoretical frameworks to understand new ideas."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Conflict Resolution",
+      "description": "How will your FarTwin resolve conflicts?",
+      "options": [
+        {
+          "value": "Confrontational",
+          "description": "Your FarTwin will directly challenge and confront the opposing party to resolve disagreements."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Your FarTwin will employ tactful communication, seeking mutually beneficial solutions."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Creativity Approach",
+      "description": "How will your FarTwin approach creative tasks?",
+      "options": [
+        {
+          "value": "Spontaneous",
+          "description": "Your FarTwin will rely on instinct and intuition to generate innovative ideas."
+        },
+        {
+          "value": "Strategic",
+          "description": "Your FarTwin will methodically plan and execute creative projects, seeking precision and control."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Social Interactions",
+      "description": "How will your FarTwin interact with others in social situations?",
+      "options": [
+        {
+          "value": "Extroverted",
+          "description": "Your FarTwin will enthusiastically engage with and participate in social events, seeking connection."
+        },
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin will prefer quieter, more low-key settings, conserving energy for personal pursuits."
+        }
+      ]
+    }
+  ]
+}

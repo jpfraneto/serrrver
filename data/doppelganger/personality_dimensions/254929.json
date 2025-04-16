@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "📚",
+      "label": "Learning Style",
+      "description": "How will your FarTwin approach learning new things?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will thoroughly examine and analyze information to understand complex concepts."
+        },
+        {
+          "value": "Practical",
+          "description": "Your FarTwin will focus on hands-on experience and applying knowledge in real-world situations."
+        }
+      ]
+    },
+    {
+      "emoji": "💼",
+      "label": "Work Environment",
+      "description": "How will your FarTwin prefer to work?",
+      "options": [
+        {
+          "value": "Team-based",
+          "description": "Your FarTwin will thrive in collaborative environments, valuing teamwork and camaraderie."
+        },
+        {
+          "value": "Independent",
+          "description": "Your FarTwin prefers to work independently, focusing on individual projects and goals."
+        }
+      ]
+    },
+    {
+      "emoji": "🌎",
+      "label": "Global Perspective",
+      "description": "How will your FarTwin approach global issues?",
+      "options": [
+        {
+          "value": "Optimistic",
+          "description": "Your FarTwin remains hopeful and positive when dealing with global challenges, seeking solutions that benefit all."
+        },
+        {
+          "value": "Cautious",
+          "description": "Your FarTwin approaches global issues with a measured approach, prioritizing caution and careful consideration."
+        }
+      ]
+    },
+    {
+      "emoji": "💻",
+      "label": "Technological Adoption",
+      "description": "How will your FarTwin adopt new technologies?",
+      "options": [
+        {
+          "value": "Adventurous",
+          "description": "Your FarTwin is eager to explore and experiment with new technologies, often taking the lead in adoption."
+        },
+        {
+          "value": "Conservative",
+          "description": "Your FarTwin approaches technological advancements with caution, preferring to evaluate their benefits before embracing change."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Conflict Resolution",
+      "description": "How will your FarTwin resolve conflicts?",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Your FarTwin addresses conflicts head-on, using assertive communication to find solutions."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Your FarTwin seeks a mutually beneficial resolution, prioritizing harmony and cooperation over confrontation."
+        }
+      ]
+    },
+    {
+      "emoji": "🎨",
+      "label": "Creative Expression",
+      "description": "How will your FarTwin express their creativity?",
+      "options": [
+        {
+          "value": "Immersive",
+          "description": "Your FarTwin engages in immersive creative activities, such as role-playing or art, to fully express themselves."
+        },
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin approaches creativity through analytical thinking, examining patterns and structures to generate new ideas."
+        }
+      ]
+    },
+    {
+      "emoji": "🌟",
+      "label": "Ambition Level",
+      "description": "How will your FarTwin pursue their goals?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin sets ambitious targets, pushing themselves and others to achieve outstanding results."
+        },
+        {
+          "value": "Strategic",
+          "description": "Your FarTwin takes a thoughtful approach, carefully planning and executing steps towards achieving long-term goals."
+        }
+      ]
+    },
+    {
+      "emoji": "😊",
+      "label": "Emotional Intelligence",
+      "description": "How will your FarTwin handle emotional situations?",
+      "options": [
+        {
+          "value": "Empathetic",
+          "description": "Your FarTwin is highly attuned to the emotions of others, providing support and validation when needed."
+        },
+        {
+          "value": "Pragmatic",
+          "description": "Your FarTwin prioritizes practical solutions over emotional concerns, focusing on finding effective outcomes."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "🤔",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin approach financial decisions?",
+      "options": [
+        {
+          "value": "Conservative",
+          "description": "Your FarTwin will prioritize stability and predictability, avoiding high-risk investments."
+        },
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will seek high returns with a willingness to take calculated risks."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Intellectual Curiosity",
+      "description": "How will your FarTwin approach new ideas and knowledge?",
+      "options": [
+        {
+          "value": "Thriving",
+          "description": "Your FarTwin will enthusiastically seek out new experiences, reading widely, and engaging in discussions."
+        },
+        {
+          "value": "Casual",
+          "description": "Your FarTwin will be open to trying new things, but may not actively seek out new knowledge or ideas."
+        }
+      ]
+    },
+    {
+      "emoji": "📱",
+      "label": "Social Media Presence",
+      "description": "How will your FarTwin manage their online presence?",
+      "options": [
+        {
+          "value": "Active",
+          "description": "Your FarTwin will regularly post updates, engage with followers, and maintain a strong online reputation."
+        },
+        {
+          "value": "Minimalist",
+          "description": "Your FarTwin will limit their social media use, preferring to focus on personal relationships and offline activities."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Collaboration Style",
+      "description": "How will your FarTwin work with others?",
+      "options": [
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will actively seek out opportunities to work with others, sharing ideas and expertise."
+        },
+        {
+          "value": "Competitive",
+          "description": "Your FarTwin will focus on individual achievements, potentially at the expense of team collaboration."
+        }
+      ]
+    },
+    {
+      "emoji": "😊",
+      "label": "Humor Approach",
+      "description": "How will your FarTwin handle humor and wit?",
+      "options": [
+        {
+          "value": "Dry",
+          "description": "Your FarTwin will appreciate clever wordplay, irony, and sarcasm."
+        },
+        {
+          "value": "Goofy",
+          "description": "Your FarTwin will enjoy lighthearted humor, playful teasing, and silliness."
+        }
+      ]
+    },
+    {
+      "emoji": "🗑️",
+      "label": "Decluttering Habits",
+      "description": "How will your FarTwin approach organizing their belongings?",
+      "options": [
+        {
+          "value": "Methodical",
+          "description": "Your FarTwin will carefully categorize and prioritize tasks, maintaining a tidy living space."
+        },
+        {
+          "value": "Relaxed",
+          "description": "Your FarTwin will have an easy-going attitude towards clutter, finding ways to adapt to their environment."
+        }
+      ]
+    },
+    {
+      "emoji": "💪",
+      "label": "Ambition Level",
+      "description": "How will your FarTwin approach personal and professional goals?",
+      "options": [
+        {
+          "value": "Driven",
+          "description": "Your FarTwin will set ambitious targets, pursuing them with determination and focus."
+        },
+        {
+          "value": "Cautious",
+          "description": "Your FarTwin will prioritize stability over growth, taking a measured approach to achieving their goals."
+        }
+      ]
+    },
+    {
+      "emoji": "🎨",
+      "label": "Creative Expression",
+      "description": "How will your FarTwin explore their artistic side?",
+      "options": [
+        {
+          "value": "Voracious",
+          "description": "Your FarTwin will seek out a wide range of creative outlets, experimenting with various mediums and styles."
+        },
+        {
+          "value": "Focal",
+          "description": "Your FarTwin will focus on one artistic pursuit, developing expertise and building upon their skills."
+        }
+      ]
+    }
+  ]
+}

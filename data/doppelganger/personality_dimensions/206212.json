@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "🤔",
+      "label": "Critical Thinking",
+      "description": "How will your FarTwin analyze information?",
+      "options": [
+        {
+          "value": "Deconstructive",
+          "description": "Your FarTwin will approach complex problems by breaking them down into their individual components and examining each part in detail."
+        },
+        {
+          "value": "Holistic",
+          "description": "Your FarTwin will consider the entirety of a situation or issue, taking into account all relevant factors and relationships."
+        }
+      ]
+    },
+    {
+      "emoji": "💻",
+      "label": "Technical Proficiency",
+      "description": "How will your FarTwin handle technical issues?",
+      "options": [
+        {
+          "value": "Expertise",
+          "description": "Your FarTwin will possess a high level of expertise in the use and troubleshooting of technology, often being able to fix complex problems quickly and efficiently."
+        },
+        {
+          "value": "Basic",
+          "description": "Your FarTwin will have a basic understanding of how to use technology, but may struggle with more complex technical issues or be overwhelmed by advanced concepts."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Collaboration Style",
+      "description": "How will your FarTwin work with others?",
+      "options": [
+        {
+          "value": "Competitive",
+          "description": "Your FarTwin will approach collaborations as a means to an end, focusing on achieving their own goals and may be willing to step on others to get ahead."
+        },
+        {
+          "value": "Cooperative",
+          "description": "Your FarTwin will prioritize the success of the team or group, working collaboratively to achieve common objectives and support one another's efforts."
+        }
+      ]
+    },
+    {
+      "emoji": "🤦‍♂️",
+      "label": "Emotional Regulation",
+      "description": "How will your FarTwin manage their emotions?",
+      "options": [
+        {
+          "value": "Regulated",
+          "description": "Your FarTwin will be able to recognize and regulate their own emotions, maintaining a stable emotional state even in challenging situations."
+        },
+        {
+          "value": "Unstable",
+          "description": "Your FarTwin may struggle to manage their emotions, leading to mood swings or explosive outbursts when they feel overwhelmed or frustrated."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Learning Style",
+      "description": "How will your FarTwin absorb and process new information?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will approach learning as a analytical exercise, breaking down complex concepts into their individual components and examining each part in detail."
+        },
+        {
+          "value": "Holistic",
+          "description": "Your FarTwin will consider the entirety of a subject or topic, taking in information through a more intuitive or experiential process rather than focusing on individual details."
+        }
+      ]
+    },
+    {
+      "emoji": "👥",
+      "label": "Social Interactions",
+      "description": "How will your FarTwin interact with others?",
+      "options": [
+        {
+          "value": "Outgoing",
+          "description": "Your FarTwin will be outgoing and sociable, often taking the initiative to initiate conversations or connect with new people."
+        },
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin may prefer to interact with others in more low-key settings, preferring to observe or listen rather than actively participating in social interactions."
+        }
+      ]
+    },
+    {
+      "emoji": "💼",
+      "label": "Career Orientation",
+      "description": "How will your FarTwin approach their career?",
+      "options": [
+        {
+          "value": "Ambitious",
+          "description": "Your FarTwin will be driven to succeed in their chosen field, often setting high goals and working diligently to achieve them."
+        },
+        {
+          "value": "Flexible",
+          "description": "Your FarTwin may have a more laid-back approach to their career, prioritizing personal fulfillment over professional advancement or financial success."
+        }
+      ]
+    },
+    {
+      "emoji": "🕰️",
+      "label": "Time Management",
+      "description": "How will your FarTwin prioritize and manage their time?",
+      "options": [
+        {
+          "value": "Efficient",
+          "description": "Your FarTwin will be highly organized and efficient in their time management, often using tools or techniques to maximize productivity."
+        },
+        {
+          "value": "Relaxed",
+          "description": "Your FarTwin may have a more relaxed approach to time management, prioritizing flexibility over punctuality or strict adherence to schedules."
+        }
+      ]
+    }
+  ]
+}

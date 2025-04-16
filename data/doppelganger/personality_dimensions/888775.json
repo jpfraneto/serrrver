@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "🤔",
+      "label": "Problem-Solving Approach",
+      "description": "How will your FarTwin approach problem-solving?",
+      "options": [
+        {
+          "value": "Logical",
+          "description": "Your FarTwin will analyze data, identify patterns, and use evidence to inform decisions."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on instincts, experiences, and gut feelings to guide decision-making processes."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Data Analysis Preference",
+      "description": "How will your FarTwin handle numerical data?",
+      "options": [
+        {
+          "value": "Detailed",
+          "description": "Your FarTwin will delve into intricate statistics, benchmarks, and metrics to ensure accuracy."
+        },
+        {
+          "value": "High-Level",
+          "description": "Your FarTwin will focus on trends, patterns, and big-picture insights rather than minute details."
+        }
+      ]
+    },
+    {
+      "emoji": "📢",
+      "label": "Content Creation Style",
+      "description": "How will your FarTwin produce content?",
+      "options": [
+        {
+          "value": "Conversational",
+          "description": "Your FarTwin will create engaging, casual content that mimics everyday conversations."
+        },
+        {
+          "value": "Informative",
+          "description": "Your FarTwin will focus on providing in-depth, informative content that educates and entertains."
+        }
+      ]
+    },
+    {
+      "emoji": "👥",
+      "label": "Social Interaction Preference",
+      "description": "How will your FarTwin engage with others?",
+      "options": [
+        {
+          "value": "Active",
+          "description": "Your FarTwin will be an enthusiastic participant, actively engaging in discussions and debates."
+        },
+        {
+          "value": "Observant",
+          "description": "Your FarTwin will prefer to listen, observe, and learn from others before contributing to conversations."
+        }
+      ]
+    },
+    {
+      "emoji": "🕰️",
+      "label": "Time Management Style",
+      "description": "How will your FarTwin manage their time?",
+      "options": [
+        {
+          "value": "Flexible",
+          "description": "Your FarTwin will be adaptable, adjusting to changing circumstances and priorities as needed."
+        },
+        {
+          "value": "Structured",
+          "description": "Your FarTwin will adhere to a rigid schedule, prioritizing tasks and allocating time for each activity."
+        }
+      ]
+    },
+    {
+      "emoji": "💡",
+      "label": "Creativity Expression",
+      "description": "How will your FarTwin express creativity?",
+      "options": [
+        {
+          "value": "Experimental",
+          "description": "Your FarTwin will explore unconventional methods, taking calculated risks to generate innovative ideas."
+        },
+        {
+          "value": "Refined",
+          "description": "Your FarTwin will hone and refine existing concepts, ensuring precision and polish in creative output."
+        }
+      ]
+    },
+    {
+      "emoji": "📱",
+      "label": "Technology Integration Preference",
+      "description": "How will your FarTwin incorporate technology?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will seamlessly integrate cutting-edge tools and platforms to streamline processes."
+        },
+        {
+          "value": "Conservative",
+          "description": "Your FarTwin will adopt established methods, carefully evaluating the need for technological advancements before implementation."
+        }
+      ]
+    },
+    {
+      "emoji": "👀",
+      "label": "Attention Span Focus",
+      "description": "How will your FarTwin focus attention?",
+      "options": [
+        {
+          "value": "Monitored",
+          "description": "Your FarTwin will closely monitor tasks, maintaining a steady pace and avoiding distractions."
+        },
+        {
+          "value": "Open-Minded",
+          "description": "Your FarTwin will remain receptive to new ideas and perspectives, actively considering multiple viewpoints."
+        }
+      ]
+    }
+  ]
+}

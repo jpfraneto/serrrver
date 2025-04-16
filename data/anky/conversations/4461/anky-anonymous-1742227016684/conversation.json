@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": "hello"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello! How can I assist you today?"
+  },
+  {
+    "role": "user",
+    "content": "build a frame"
+  },
+  {
+    "role": "assistant",
+    "content": "You'd like me to help you build a frame. Can you please provide more information about the type of frame you want to build and what it will be used for? Here are some questions to consider:\n\n1. What type of frame do you want to build (e.g. picture frame, photo frame, mirror frame, etc.)?\n2. What is the size of the frame?\n3. Do you have any specific design or style in mind?\n4. Are there any materials you would like to use for the frame?\n5. Do you need help with measuring, cutting, and assembling the frame?\n\nLet me know and I'll do my best to guide you through the process!"
+  }
+]

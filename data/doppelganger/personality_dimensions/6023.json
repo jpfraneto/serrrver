@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "✅",
+      "label": "Perception Style",
+      "description": "How will your FarTwin perceive the world?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Focus on facts and data"
+        },
+        {
+          "value": "Intuitive",
+          "description": "Trust instincts and emotions"
+        }
+      ]
+    },
+    {
+      "emoji": "✆",
+      "label": "Communication Style",
+      "description": "How will your FarTwin communicate with others?",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Straightforward and to the point"
+        },
+        {
+          "value": "Nuanced",
+          "description": "Polite and diplomatic"
+        }
+      ]
+    },
+    {
+      "emoji": "✇",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin approach risk?",
+      "options": [
+        {
+          "value": "Avoidant",
+          "description": "Play it safe and cautious"
+        },
+        {
+          "value": "Thrill-Seeker",
+          "description": "Take bold risks and push boundaries"
+        }
+      ]
+    },
+    {
+      "emoji": "✈",
+      "label": "Conflict Resolution",
+      "description": "How will your FarTwin handle conflicts?",
+      "options": [
+        {
+          "value": "Competitive",
+          "description": "Aggressive and confrontational"
+        },
+        {
+          "value": "Collaborative",
+          "description": "Seeking common ground and compromise"
+        }
+      ]
+    },
+    {
+      "emoji": "✉",
+      "label": "Decision-Making",
+      "description": "How will your FarTwin make decisions?",
+      "options": [
+        {
+          "value": "Logical",
+          "description": "Based on facts and evidence"
+        },
+        {
+          "value": "Intuitive",
+          "description": "Guided by instincts and emotions"
+        }
+      ]
+    },
+    {
+      "emoji": "✊",
+      "label": "Social Dynamics",
+      "description": "How will your FarTwin interact with others?",
+      "options": [
+        {
+          "value": "Assertive",
+          "description": "Confident and outgoing"
+        },
+        {
+          "value": "Reserve",
+          "description": "Cautious and introverted"
+        }
+      ]
+    },
+    {
+      "emoji": "✋",
+      "label": "Learning Style",
+      "description": "How will your FarTwin learn and grow?",
+      "options": [
+        {
+          "value": "Hands-On",
+          "description": "Practical experience and experimentation"
+        },
+        {
+          "value": "Theoretical",
+          "description": "Study and analysis of concepts"
+        }
+      ]
+    },
+    {
+      "emoji": "✌",
+      "label": "Values Alignment",
+      "description": "How will your FarTwin prioritize values?",
+      "options": [
+        {
+          "value": "Pragmatic",
+          "description": "Practicality and efficiency"
+        },
+        {
+          "value": "Idealistic",
+          "description": "Emotional connection and personal freedom"
+        }
+      ]
+    }
+  ]
+}

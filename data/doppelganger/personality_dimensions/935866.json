@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "🤔",
+      "label": "Problem-Solving Approach",
+      "description": "How will your FarTwin approach solving complex problems?",
+      "options": [
+        {
+          "value": "Logical",
+          "description": "Your FarTwin will analyze data, identify patterns, and use evidence-based reasoning to solve problems."
+        },
+        {
+          "value": "Creative",
+          "description": "Your FarTwin will approach problems from unconventional angles, using intuition and outside-the-box thinking."
+        }
+      ]
+    },
+    {
+      "emoji": "📈",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin handle taking calculated risks?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will take bold, decisive action to seize opportunities and drive growth."
+        },
+        {
+          "value": "Cautious",
+          "description": "Your FarTwin will carefully weigh the pros and cons before taking risks, prioritizing stability over growth."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Collaboration Style",
+      "description": "How will your FarTwin work with others?",
+      "options": [
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will build strong relationships, listening actively and contributing ideas to achieve shared goals."
+        },
+        {
+          "value": "Competitive",
+          "description": "Your FarTwin will fiercely advocate for their own interests, working individually to drive results."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Analytical Thinking",
+      "description": "How will your FarTwin analyze and interpret data?",
+      "options": [
+        {
+          "value": "Methodical",
+          "description": "Your FarTwin will break down complex problems into manageable parts, using systematic analysis to uncover insights."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on instinct and pattern recognition to make sense of data and identify trends."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Learning Approach",
+      "description": "How will your FarTwin approach continuous learning?",
+      "options": [
+        {
+          "value": "Structured",
+          "description": "Your FarTwin will follow established curricula and seek out formal education to expand their knowledge."
+        },
+        {
+          "value": "Self-Directed",
+          "description": "Your FarTwin will take charge of their own learning, seeking out resources and exploring topics on their own terms."
+        }
+      ]
+    },
+    {
+      "emoji": "🤗",
+      "label": "Emotional Intelligence",
+      "description": "How will your FarTwin manage emotions in the workplace?",
+      "options": [
+        {
+          "value": "Empathetic",
+          "description": "Your FarTwin will prioritize understanding and validation, using emotional intelligence to build strong relationships."
+        },
+        {
+          "value": "Resilient",
+          "description": "Your FarTwin will maintain a professional demeanor, bouncing back from setbacks with adaptability and determination."
+        }
+      ]
+    },
+    {
+      "emoji": "🕒",
+      "label": "Time Management",
+      "description": "How will your FarTwin prioritize tasks and manage their time?",
+      "options": [
+        {
+          "value": "Proactive",
+          "description": "Your FarTwin will anticipate challenges and take proactive steps to stay on track, ensuring timely completion of projects."
+        },
+        {
+          "value": "Flexible",
+          "description": "Your FarTwin will adapt to changing circumstances, adjusting their schedule as needed to accommodate unexpected tasks or setbacks."
+        }
+      ]
+    },
+    {
+      "emoji": "👍",
+      "label": "Creativity",
+      "description": "How will your FarTwin approach creative challenges?",
+      "options": [
+        {
+          "value": "Innovative",
+          "description": "Your FarTwin will think outside the box, embracing new ideas and experimenting with novel approaches."
+        },
+        {
+          "value": "Refined",
+          "description": "Your FarTwin will refine existing concepts, using precision and attention to detail to create high-quality work."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "🤝",
+      "label": "Relationship Approach",
+      "description": "How will your FarTwin build relationships with others?",
+      "options": [
+        {
+          "value": "Empathetic",
+          "description": "Your FarTwin will actively listen and understand the emotions and needs of those around them."
+        },
+        {
+          "value": "Assertive",
+          "description": "Your FarTwin will be direct, confident, and unafraid to express their own needs and desires."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Financial Priorities",
+      "description": "How will your FarTwin manage finances?",
+      "options": [
+        {
+          "value": "Frugal",
+          "description": "Your FarTwin will prioritize saving and minimizing expenses, avoiding unnecessary spending."
+        },
+        {
+          "value": "Generous",
+          "description": "Your FarTwin will be willing to spend money freely, prioritizing experiences and luxury over frugality."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Intellectual Curiosity",
+      "description": "How will your FarTwin approach learning and personal growth?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will focus on analyzing data, studying, and understanding complex concepts."
+        },
+        {
+          "value": "Creative",
+          "description": "Your FarTwin will be open to exploring new ideas, taking risks, and embracing creative expression."
+        }
+      ]
+    },
+    {
+      "emoji": "🏋️‍♀️",
+      "label": "Physical Activity",
+      "description": "How will your FarTwin approach physical exercise?",
+      "options": [
+        {
+          "value": "Relaxed",
+          "description": "Your FarTwin will prioritize flexibility, enjoyment, and relaxation in their workout routine."
+        },
+        {
+          "value": "Intense",
+          "description": "Your FarTwin will focus on pushing themselves to the limit, striving for peak physical performance."
+        }
+      ]
+    },
+    {
+      "emoji": "👥",
+      "label": "Group Dynamics",
+      "description": "How will your FarTwin interact with groups of people?",
+      "options": [
+        {
+          "value": "Dominant",
+          "description": "Your FarTwin will assert themselves, take charge, and lead the group."
+        },
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will listen actively, contribute to discussions, and work with others towards a common goal."
+        }
+      ]
+    },
+    {
+      "emoji": "🤔",
+      "label": "Problem-Solving Approach",
+      "description": "How will your FarTwin tackle complex problems?",
+      "options": [
+        {
+          "value": "Logical",
+          "description": "Your FarTwin will approach problems systematically, analyzing data and following a clear logic."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will trust their instincts, rely on gut feelings, and make decisions based on intuition."
+        }
+      ]
+    },
+    {
+      "emoji": "💻",
+      "label": "Digital Literacy",
+      "description": "How will your FarTwin navigate digital platforms?",
+      "options": [
+        {
+          "value": "Expert",
+          "description": "Your FarTwin will be highly skilled in using technology, leveraging it to enhance their daily life."
+        },
+        {
+          "value": "Casual",
+          "description": "Your FarTwin will use digital tools as needed, but won't delve deeply into technical details or explore advanced features."
+        }
+      ]
+    },
+    {
+      "emoji": "🎨",
+      "label": "Creative Expression",
+      "description": "How will your FarTwin express themselves creatively?",
+      "options": [
+        {
+          "value": "Traditional",
+          "description": "Your FarTwin will rely on established art forms, such as painting or music, to express their creativity."
+        },
+        {
+          "value": "Experimental",
+          "description": "Your FarTwin will be open to exploring new and unconventional methods of creative expression."
+        }
+      ]
+    }
+  ]
+}

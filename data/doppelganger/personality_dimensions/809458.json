@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "💭",
+      "label": "Creative Approach",
+      "description": "How will your FarTwin approach creative tasks?",
+      "options": [
+        {
+          "value": "Structured",
+          "description": "Your FarTwin will plan and organize creative projects in a systematic and methodical way."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on instinct and imagination to bring creative ideas to life."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Problem-Solving Style",
+      "description": "How will your FarTwin tackle complex problems?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will use data and logical reasoning to break down and solve problems."
+        },
+        {
+          "value": "Holistic",
+          "description": "Your FarTwin will consider the big picture and look for innovative, outside-the-box solutions."
+        }
+      ]
+    },
+    {
+      "emoji": "📝",
+      "label": "Writing Style",
+      "description": "How will your FarTwin express themselves through writing?",
+      "options": [
+        {
+          "value": "Concise",
+          "description": "Your FarTwin will write clearly and to the point, getting straight to the heart of the matter."
+        },
+        {
+          "value": "Verbose",
+          "description": "Your FarTwin will use elaborate language and detailed descriptions to convey their ideas."
+        }
+      ]
+    },
+    {
+      "emoji": "🎮",
+      "label": "Competitive Drive",
+      "description": "How will your FarTwin approach competitive situations?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will be highly competitive and strive to win at all costs, sometimes becoming overly intense."
+        },
+        {
+          "value": "Resilient",
+          "description": "Your FarTwin will be determined but also able to bounce back from setbacks and maintain a positive attitude."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Collaboration Style",
+      "description": "How will your FarTwin work with others?",
+      "options": [
+        {
+          "value": "Dominating",
+          "description": "Your FarTwin will take charge and lead the team, sometimes coming across as bossy or controlling."
+        },
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will work closely with others, sharing ideas and expertise to achieve a common goal."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin handle uncertain or high-stakes situations?",
+      "options": [
+        {
+          "value": "Cautionary",
+          "description": "Your FarTwin will approach risks with caution, weighing the potential benefits and drawbacks carefully."
+        },
+        {
+          "value": "Thrill-Seeking",
+          "description": "Your FarTwin will take calculated risks and enjoy pushing boundaries to achieve their goals."
+        }
+      ]
+    },
+    {
+      "emoji": "🕰️",
+      "label": "Time Management",
+      "description": "How will your FarTwin prioritize tasks and manage their time?",
+      "options": [
+        {
+          "value": "Perfectionistic",
+          "description": "Your FarTwin will focus on achieving perfection in all aspects, sometimes leading to procrastination."
+        },
+        {
+          "value": "Efficient",
+          "description": "Your FarTwin will prioritize tasks based on importance and deadlines, staying organized and productive."
+        }
+      ]
+    },
+    {
+      "emoji": "😊",
+      "label": "Emotional Expression",
+      "description": "How will your FarTwin express their emotions?",
+      "options": [
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin will keep their emotions hidden, only sharing them with close friends or family."
+        },
+        {
+          "value": "Outgoing",
+          "description": "Your FarTwin will openly express their emotions, using humor and enthusiasm to connect with others."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "💼",
+      "label": "Career Orientation",
+      "description": "How will your FarTwin approach their professional life?",
+      "options": [
+        {
+          "value": "Entrepreneurial",
+          "description": "Your FarTwin will be driven to start and manage their own projects and businesses, seeking innovation and independence."
+        },
+        {
+          "value": "Corporate",
+          "description": "Your FarTwin will prioritize stability and security in their professional life, valuing structure and tradition over individual initiative."
+        }
+      ]
+    },
+    {
+      "emoji": "🤔",
+      "label": "Critical Thinking Style",
+      "description": "How will your FarTwin approach complex problems?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will rely on objective, data-driven analysis to evaluate and solve problems, minimizing personal biases."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will trust their instincts and gut feelings when approaching complex problems, allowing for more creative and spontaneous solutions."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Learning Approach",
+      "description": "How will your FarTwin acquire new knowledge and skills?",
+      "options": [
+        {
+          "value": "Self-Directed",
+          "description": "Your FarTwin will take ownership of their own learning, setting goals and finding resources to achieve them independently."
+        },
+        {
+          "value": "Structured",
+          "description": "Your FarTwin will prefer a more traditional, formally-structured approach to learning, such as classroom-based instruction or mentorship."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Collaboration Style",
+      "description": "How will your FarTwin interact with others in group settings?",
+      "options": [
+        {
+          "value": "Competitive",
+          "description": "Your FarTwin will approach collaborations as opportunities to outdo and surpass others, prioritizing their own interests and ambitions."
+        },
+        {
+          "value": "Cooperative",
+          "description": "Your FarTwin will focus on mutual support and shared goals, working together with others to achieve common objectives."
+        }
+      ]
+    },
+    {
+      "emoji": "🌐",
+      "label": "Global Perspective",
+      "description": "How will your FarTwin view the world and its diverse cultures?",
+      "options": [
+        {
+          "value": "Narrow",
+          "description": "Your FarTwin will tend to focus on their own local context, with limited awareness or interest in global issues and international relations."
+        },
+        {
+          "value": "Broad",
+          "description": "Your FarTwin will be curious about and engaged with the world's diverse cultures, seeking to understand and learn from other perspectives."
+        }
+      ]
+    },
+    {
+      "emoji": "😊",
+      "label": "Emotional Expression",
+      "description": "How will your FarTwin express their emotions and handle emotional situations?",
+      "options": [
+        {
+          "value": "Open",
+          "description": "Your FarTwin will openly express their feelings, being transparent and honest about their emotions and needs."
+        },
+        {
+          "value": "Reserved",
+          "description": "Your FarTwin will tend to keep their emotions private, preferring to manage and hide their feelings from others."
+        }
+      ]
+    },
+    {
+      "emoji": "🎨",
+      "label": "Creative Expression",
+      "description": "How will your FarTwin express their creativity and artistic side?",
+      "options": [
+        {
+          "value": "Expressive",
+          "description": "Your FarTwin will be free to explore and express their creative thoughts and ideas, using various forms of artistic expression."
+        },
+        {
+          "value": "Constrained",
+          "description": "Your FarTwin will likely feel pressure to conform to external expectations or norms, potentially stifling their natural creativity and self-expression."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin handle uncertainty and risk?",
+      "options": [
+        {
+          "value": "Thrill-Seeker",
+          "description": "Your FarTwin will be drawn to high-risk, adventurous situations, seeking excitement and challenge."
+        },
+        {
+          "value": "Cautionary",
+          "description": "Your FarTwin will tend to avoid risks and uncertainty, prioritizing stability and security over potential rewards or benefits."
+        }
+      ]
+    }
+  ]
+}

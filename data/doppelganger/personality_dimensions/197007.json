@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "🤔",
+      "label": "Risk Taker",
+      "description": "How will your FarTwin approach new challenges?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will boldly and confidently take risks, often leaping before looking."
+        },
+        {
+          "value": "Cautious",
+          "description": "Your FarTwin will carefully weigh options and approach challenges with a more measured pace."
+        }
+      ]
+    },
+    {
+      "emoji": "😂",
+      "label": "Humor",
+      "description": "How will your FarTwin handle stress or difficult situations?",
+      "options": [
+        {
+          "value": "Dry",
+          "description": "Your FarTwin will use humor to deflect or lighten the mood, often with a wry sense of humor."
+        },
+        {
+          "value": "Playful",
+          "description": "Your FarTwin will inject fun and playfulness into tense situations, using laughter to break the ice."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Intelligence",
+      "description": "How will your FarTwin approach problem-solving?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will methodically analyze data and break down complex problems into manageable parts."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on instinct and experience to guide their decision-making, often trusting gut feelings."
+        }
+      ]
+    },
+    {
+      "emoji": "👥",
+      "label": "Social Skills",
+      "description": "How will your FarTwin interact with others?",
+      "options": [
+        {
+          "value": "Outgoing",
+          "description": "Your FarTwin will be warm, engaging, and sociable, effortlessly connecting with people from diverse backgrounds."
+        },
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin will prefer smaller social circles and may need time alone to recharge, valuing personal space."
+        }
+      ]
+    },
+    {
+      "emoji": "💸",
+      "label": "Financial Values",
+      "description": "How will your FarTwin approach money and material possessions?",
+      "options": [
+        {
+          "value": "Frugal",
+          "description": "Your FarTwin will prioritize saving, investing, and living below their means, avoiding unnecessary expenses."
+        },
+        {
+          "value": "Spending",
+          "description": "Your FarTwin will enjoy indulging in luxuries and treats, valuing experiences over material possessions."
+        }
+      ]
+    },
+    {
+      "emoji": "🕰️",
+      "label": "Time Management",
+      "description": "How will your FarTwin prioritize tasks and manage their time?",
+      "options": [
+        {
+          "value": "Optimistic",
+          "description": "Your FarTwin will set realistic goals, prioritize tasks, and focus on making progress toward deadlines."
+        },
+        {
+          "value": "Perfectionist",
+          "description": "Your FarTwin will strive for precision, often overestimating the time needed to complete tasks and risking missed deadlines."
+        }
+      ]
+    },
+    {
+      "emoji": "🌎",
+      "label": "Global Perspective",
+      "description": "How will your FarTwin approach global issues and cultural differences?",
+      "options": [
+        {
+          "value": "Open-Minded",
+          "description": "Your FarTwin will consider diverse viewpoints, empathize with others, and seek common ground in their interactions."
+        },
+        {
+          "value": "Traditional",
+          "description": "Your FarTwin may cling to established norms and values, potentially overlooking or downplaying cultural differences."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Collaboration Style",
+      "description": "How will your FarTwin work with others?",
+      "options": [
+        {
+          "value": "Competitive",
+          "description": "Your FarTwin will strive to outdo and excel in team efforts, often prioritizing personal achievements over collective success."
+        },
+        {
+          "value": "Supportive",
+          "description": "Your FarTwin will prioritize the well-being of others, actively listening and offering guidance when needed."
+        }
+      ]
+    }
+  ]
+}

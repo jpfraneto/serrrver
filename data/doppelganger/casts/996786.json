@@ -1,0 +1,577 @@
+[
+  {
+    "object": "cast",
+    "hash": "0xcbcda512677e305057aba7a54fc0e45c5d6ddc95",
+    "author": {
+      "object": "user",
+      "fid": 996786,
+      "username": "zarassss",
+      "display_name": "Zarassss",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4960f739-bf1e-445b-6f0c-80c43b14b300/original",
+      "custody_address": "0x590313e61cff6d041c74ca19c2c9055e86b6c5c3",
+      "profile": {
+        "bio": {
+          "text": "A little progress each day adds up to big results. Stay patient, stay consistent, and trust the process."
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xf36bbfa34488973788ec0b159c2310d2aeab7680"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xf36bbfa34488973788ec0b159c2310d2aeab7680"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xf36bbfa34488973788ec0b159c2310d2aeab7680",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x593c42ff704e2a24fd873c761de8629ce7a2c719",
+    "parent_hash": "0x593c42ff704e2a24fd873c761de8629ce7a2c719",
+    "parent_url": null,
+    "root_parent_url": "https://warpcast.com/~/channel/charts-by-jvmi",
+    "parent_author": {
+      "fid": 196199
+    },
+    "text": "@jacopo.eth @mazmhussain @non07\n777.eth 0x14DEAaA01C0ECeAD94cda702EaE6Df6dD305E0eE",
+    "timestamp": "2025-03-19T14:36:40.000Z",
+    "embeds": [
+      {
+        "url": "https://warpcast.com/~/ca/0x14DEAaA01C0ECeAD94cda702EaE6Df6dD305E0eE",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://warpcast.com/~/ca/0x14DEAaA01C0ECeAD94cda702EaE6Df6dD305E0eE",
+            "ogType": "website",
+            "favicon": "/favicon.png",
+            "ogImage": [
+              {
+                "url": "https://warpcast.com/og-logo.png",
+                "type": "png",
+                "width": "512",
+                "height": "512"
+              }
+            ],
+            "ogTitle": "0x14DEAaA01C0ECeAD94cda702EaE6Df6dD305E0eE on Warpcast",
+            "ogLocale": "en",
+            "ogSiteName": "Warpcast"
+          }
+        }
+      }
+    ],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "charts-by-jvmi",
+      "name": "charts by jvmi",
+      "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fc654355-26f6-4a7d-219a-3184c0f7af00/original"
+    },
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 2007,
+        "username": "jacopo.eth",
+        "display_name": "jacopo.eth",
+        "pfp_url": "https://i.imgur.com/pJt6PFK.jpg",
+        "custody_address": "0xe138e2571c065e852cb0c036471cfc0092f6831c",
+        "profile": {
+          "bio": {
+            "text": "@slice building the future of /commerce",
+            "mentioned_profiles": [
+              {
+                "object": "user_dehydrated",
+                "fid": 254376,
+                "username": "slice",
+                "display_name": "Slice",
+                "pfp_url": "https://i.imgur.com/UZpA9lS.jpg",
+                "custody_address": "0x6ccdf4cd8c26407c328d65717266b5146bc5585b"
+              }
+            ],
+            "mentioned_profiles_ranges": [
+              {
+                "start": 0,
+                "end": 6
+              }
+            ],
+            "mentioned_channels": [
+              {
+                "object": "channel_dehydrated",
+                "id": "commerce",
+                "name": "commerce",
+                "image_url": "https://i.imgur.com/oy0cEhv.jpg"
+              }
+            ],
+            "mentioned_channels_ranges": [
+              {
+                "start": 30,
+                "end": 39
+              }
+            ]
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [
+          "0xf32dd1bd55bd14d929218499a2e7d106f72f79c7",
+          "0x9ca3b89fb461c1a279b27ca85aef1821687e6214"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0xf32dd1bd55bd14d929218499a2e7d106f72f79c7",
+            "0x9ca3b89fb461c1a279b27ca85aef1821687e6214"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0x9ca3b89fb461c1a279b27ca85aef1821687e6214",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [
+          {
+            "platform": "x",
+            "username": "jj_ranalli"
+          }
+        ],
+        "power_badge": true
+      },
+      {
+        "object": "user",
+        "fid": 758919,
+        "username": "mazmhussain",
+        "display_name": "Murtaza Hussain",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e95b6f64-1d2d-4ac2-1d50-d2c9304e0100/original",
+        "custody_address": "0x322983dcf077b79a0ec245d34f83b403c681354f",
+        "profile": {
+          "bio": {
+            "text": "Writer, podcaster, and commentator on foreign affairs and politics. Runs /dropglobalnews\n\nClanker Broadcasting Service /cbs",
+            "mentioned_channels": [
+              {
+                "object": "channel_dehydrated",
+                "id": "dropglobalnews",
+                "name": "Global News",
+                "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/60cdd20c-3d0d-4a11-5e57-d00aca89c800/original"
+              },
+              {
+                "object": "channel_dehydrated",
+                "id": "cbs",
+                "name": "cbs",
+                "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6da4a2e4-e0fa-46bc-9fe2-ffcc37e0f700/original"
+              }
+            ],
+            "mentioned_channels_ranges": [
+              {
+                "start": 73,
+                "end": 88
+              },
+              {
+                "start": 119,
+                "end": 123
+              }
+            ]
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [
+          "0xb15777be63bd2b43d376269b8323de98f7d7f2d5",
+          "0xc96ba241dcc006dc30a8f8ab50488fff329cffbb",
+          "0xcb9c834fdf0dc4e10887a3da5e16a13317fbb771"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0xb15777be63bd2b43d376269b8323de98f7d7f2d5",
+            "0xc96ba241dcc006dc30a8f8ab50488fff329cffbb",
+            "0xcb9c834fdf0dc4e10887a3da5e16a13317fbb771"
+          ],
+          "sol_addresses": [
+            "6fQ3YsPGSK9KjiMFQNDLCTcWyJYH3R1DjtSWXhzJYV9n"
+          ],
+          "primary": {
+            "eth_address": "0xcb9c834fdf0dc4e10887a3da5e16a13317fbb771",
+            "sol_address": "6fQ3YsPGSK9KjiMFQNDLCTcWyJYH3R1DjtSWXhzJYV9n"
+          }
+        },
+        "verified_accounts": [],
+        "power_badge": true
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 0,
+        "end": 11
+      },
+      {
+        "start": 12,
+        "end": 24
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": false
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0xadb5c99233e099c1cbd3d2a6ee0a24974972f7cc",
+    "author": {
+      "object": "user",
+      "fid": 996786,
+      "username": "zarassss",
+      "display_name": "Zarassss",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4960f739-bf1e-445b-6f0c-80c43b14b300/original",
+      "custody_address": "0x590313e61cff6d041c74ca19c2c9055e86b6c5c3",
+      "profile": {
+        "bio": {
+          "text": "A little progress each day adds up to big results. Stay patient, stay consistent, and trust the process."
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xf36bbfa34488973788ec0b159c2310d2aeab7680"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xf36bbfa34488973788ec0b159c2310d2aeab7680"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xf36bbfa34488973788ec0b159c2310d2aeab7680",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xadb5c99233e099c1cbd3d2a6ee0a24974972f7cc",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "Bitcoin's performance during periods of global inflation has been mixed. While some investors view it as a hedge against inflation, its high volatility has led to significant price fluctuations. For instance, in 2022, Bitcoin's price fell by 59%, declining 72% from its all-time high in November 2021. \n This decline coincided with a broader downturn in risky assets, including equities, as central banks raised interest rates to combat rising inflation. Historically, Bitcoin has shown a strong correlation with the stock market, particularly technology stocks, behaving similarly to other risk assets. \n Therefore, during inflationary periods, Bitcoin has not consistently acted as a safe haven, often mirroring the performance of traditional equity markets.",
+    "timestamp": "2025-03-10T09:26:36.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 1,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 892950,
+          "fname": "farcast-token"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x7a788e5d71f581aedb89497188ba38a10adcbf9d",
+    "author": {
+      "object": "user",
+      "fid": 996786,
+      "username": "zarassss",
+      "display_name": "Zarassss",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4960f739-bf1e-445b-6f0c-80c43b14b300/original",
+      "custody_address": "0x590313e61cff6d041c74ca19c2c9055e86b6c5c3",
+      "profile": {
+        "bio": {
+          "text": "A little progress each day adds up to big results. Stay patient, stay consistent, and trust the process."
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xf36bbfa34488973788ec0b159c2310d2aeab7680"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xf36bbfa34488973788ec0b159c2310d2aeab7680"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xf36bbfa34488973788ec0b159c2310d2aeab7680",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x7a788e5d71f581aedb89497188ba38a10adcbf9d",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "Computer newbies, look here! Sharing some basic computer knowledge, easily get started, master the computer!",
+    "timestamp": "2025-02-28T10:24:19.000Z",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4e3f43c1-1f31-4bb1-92e6-77e07c722b00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 43485,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 235,
+            "height_px": 164
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xa65ed6d4122bf27cbc0638e8f89c0f61fc7a9edb",
+    "author": {
+      "object": "user",
+      "fid": 996786,
+      "username": "zarassss",
+      "display_name": "Zarassss",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4960f739-bf1e-445b-6f0c-80c43b14b300/original",
+      "custody_address": "0x590313e61cff6d041c74ca19c2c9055e86b6c5c3",
+      "profile": {
+        "bio": {
+          "text": "A little progress each day adds up to big results. Stay patient, stay consistent, and trust the process."
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xf36bbfa34488973788ec0b159c2310d2aeab7680"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xf36bbfa34488973788ec0b159c2310d2aeab7680"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xf36bbfa34488973788ec0b159c2310d2aeab7680",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xa65ed6d4122bf27cbc0638e8f89c0f61fc7a9edb",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "I just collected \"Farcaster: Lion\"",
+    "timestamp": "2025-02-28T10:23:49.000Z",
+    "embeds": [
+      {
+        "url": "https://mint.warpcast.com/",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://wc-featured-mint.vercel.app/api/og"
+              }
+            ],
+            "ogTitle": "Warpcast",
+            "ogLocale": "en",
+            "ogDescription": "Mints"
+          },
+          "frame": {
+            "version": "next",
+            "title": "Collect",
+            "image": "https://wc-featured-mint.vercel.app/api/og",
+            "frames_url": "https://mint.warpcast.com/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 9152,
+              "username": "warpcast",
+              "display_name": "Warpcast",
+              "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+              "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjkxNTIsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgwMmVmNzkwRGQ3OTkzQTM1ZkQ4NDdDMDUzRURkQUU5NDBEMDU1NTk2In0",
+                "payload": "eyJkb21haW4iOiJtaW50LndhcnBjYXN0LmNvbSJ9",
+                "signature": "MHhjNzU3NDA0MWUyZDEwYWI3ZGI0MWExNWQ0ZTQ0MDFmOWRmMzkyMzhiMTVmMjFiODllNWI5NWJkNDY0N2IyZjMwMjkxNzJmNzJmOTgyNjJlNGUyZGNmMTMzMTVkYzZhMWQxYzM1ZDUxOGJiMTg2NWU2NzUxOGQyYTNlZDdkNTljMjFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Mints",
+                "home_url": "https://mint.warpcast.com/",
+                "icon_url": "https://mint.warpcast.com/app.png",
+                "image_url": "https://wc-featured-mint.vercel.app/api/og",
+                "button_title": "Collect",
+                "splash_image_url": "https://mint.warpcast.com/splash.png",
+                "splash_background_color": "#ffffff",
+                "webhook_url": "https://client.warpcast.com/v1/featured-mint-frame-webhook"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x20828e473c95d4480c7c0526b71d9f65841f89ce",
+    "author": {
+      "object": "user",
+      "fid": 996786,
+      "username": "zarassss",
+      "display_name": "Zarassss",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4960f739-bf1e-445b-6f0c-80c43b14b300/original",
+      "custody_address": "0x590313e61cff6d041c74ca19c2c9055e86b6c5c3",
+      "profile": {
+        "bio": {
+          "text": "A little progress each day adds up to big results. Stay patient, stay consistent, and trust the process."
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xf36bbfa34488973788ec0b159c2310d2aeab7680"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xf36bbfa34488973788ec0b159c2310d2aeab7680"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xf36bbfa34488973788ec0b159c2310d2aeab7680",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x20828e473c95d4480c7c0526b71d9f65841f89ce",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "Coffee first, adulting second.",
+    "timestamp": "2025-02-23T10:36:01.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 1,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 996786,
+          "fname": "zarassss"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  }
+]

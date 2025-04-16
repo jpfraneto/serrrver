@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "🤔",
+      "label": "Decision Making Style",
+      "description": "How will your FarTwin make decisions?",
+      "options": [
+        {
+          "value": "Logical",
+          "description": "Your FarTwin will approach decisions based on objective evidence and sound reasoning, weighing pros and cons thoroughly."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will make decisions based on gut feelings, instincts, and personal values, trusting their emotional intelligence."
+        }
+      ]
+    },
+    {
+      "emoji": "💸",
+      "label": "Financial Priorities",
+      "description": "How will your FarTwin prioritize financial spending?",
+      "options": [
+        {
+          "value": "Frugal",
+          "description": "Your FarTwin will focus on saving money, investing wisely, and reducing unnecessary expenses to achieve financial security."
+        },
+        {
+          "value": "Spending",
+          "description": "Your FarTwin will prioritize enjoying life's luxuries, spending freely on experiences and material possessions that bring them joy."
+        }
+      ]
+    },
+    {
+      "emoji": "🌎",
+      "label": "Environmental Stance",
+      "description": "How will your FarTwin approach environmental issues?",
+      "options": [
+        {
+          "value": "Conservative",
+          "description": "Your FarTwin will take a cautious and gradual approach to addressing environmental concerns, prioritizing sustainability over radical change."
+        },
+        {
+          "value": "Activist",
+          "description": "Your FarTwin will be an outspoken advocate for drastic action on climate change and environmental issues, pushing for immediate transformation."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Learning Style",
+      "description": "How will your FarTwin approach education and self-improvement?",
+      "options": [
+        {
+          "value": "Structured",
+          "description": "Your FarTwin will prefer a structured learning environment, following established curricula and adhering to traditional teaching methods."
+        },
+        {
+          "value": "Exploratory",
+          "description": "Your FarTwin will approach learning as an experiential journey, preferring hands-on activities and self-directed exploration to absorb new knowledge."
+        }
+      ]
+    },
+    {
+      "emoji": "🏠",
+      "label": "Home Life Style",
+      "description": "How will your FarTwin maintain a home?",
+      "options": [
+        {
+          "value": "Minimalist",
+          "description": "Your FarTwin will prioritize simplicity and decluttering, keeping living spaces clean and organized with minimal possessions."
+        },
+        {
+          "value": "Luxurious",
+          "description": "Your FarTwin will decorate and furnish their home to showcase personal style, indulging in comfort and extravagance."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Work Ethic",
+      "description": "How will your FarTwin approach work and productivity?",
+      "options": [
+        {
+          "value": "Perfectionist",
+          "description": "Your FarTwin will strive for excellence in their work, setting high standards and meticulously executing tasks to meet those expectations."
+        },
+        {
+          "value": "Relaxed",
+          "description": "Your FarTwin will prioritize flexibility and adaptability in the workplace, taking a casual approach to meeting deadlines and completing tasks."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Social Style",
+      "description": "How will your FarTwin interact with friends and family?",
+      "options": [
+        {
+          "value": "Outgoing",
+          "description": "Your FarTwin will be the center of attention, effortlessly connecting with others and dominating social conversations."
+        },
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin will prefer quieter, more low-key settings, recharging alone before engaging in social interactions."
+        }
+      ]
+    },
+    {
+      "emoji": "📝",
+      "label": "Creative Expression",
+      "description": "How will your FarTwin express their creativity?",
+      "options": [
+        {
+          "value": "Conventional",
+          "description": "Your FarTwin will rely on traditional forms of artistic expression, such as painting or playing a musical instrument, to convey emotions."
+        },
+        {
+          "value": "Experimental",
+          "description": "Your FarTwin will explore unorthodox and avant-garde creative outlets, pushing boundaries with innovative techniques and mediums."
+        }
+      ]
+    }
+  ]
+}

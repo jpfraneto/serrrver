@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "💬",
+      "label": "Communication Style",
+      "description": "How will your FarTwin communicate with others?",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Your FarTwin will communicate clearly and straightforwardly, stating opinions without hesitation or sugar-coating."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Your FarTwin will communicate tactfully and considerately, carefully choosing words to maintain harmony."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Interpersonal Skills",
+      "description": "How will your FarTwin build relationships with others?",
+      "options": [
+        {
+          "value": "Empathetic",
+          "description": "Your FarTwin will be highly attuned to the emotions and needs of those around them, fostering deep connections."
+        },
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will approach relationships with a logical and detached mindset, often valuing efficiency over emotional connection."
+        }
+      ]
+    },
+    {
+      "emoji": "🤔",
+      "label": "Problem-Solving Approach",
+      "description": "How will your FarTwin tackle challenges?",
+      "options": [
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on instinct and creative thinking to find innovative solutions."
+        },
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will approach problems with a systematic and methodical mindset, weighing data and evidence."
+        }
+      ]
+    },
+    {
+      "emoji": "📈",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin handle uncertainty?",
+      "options": [
+        {
+          "value": "Thrill-Seeker",
+          "description": "Your FarTwin will eagerly embrace risk and uncertainty, often seeking out new challenges and experiences."
+        },
+        {
+          "value": "Conservative",
+          "description": "Your FarTwin will prefer to avoid risk and uncertainty, opting for stability and predictability."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Time Management",
+      "description": "How will your FarTwin prioritize tasks?",
+      "options": [
+        {
+          "value": "Organized",
+          "description": "Your FarTwin will maintain a structured and efficient schedule, prioritizing tasks based on importance."
+        },
+        {
+          "value": "Flexible",
+          "description": "Your FarTwin will adapt to changing circumstances and priorities, often going with the flow."
+        }
+      ]
+    },
+    {
+      "emoji": "💻",
+      "label": "Technological Comfort",
+      "description": "How will your FarTwin interact with technology?",
+      "options": [
+        {
+          "value": "Informed",
+          "description": "Your FarTwin will be well-versed in the latest technological advancements and trends, often embracing new tools and platforms."
+        },
+        {
+          "value": "Traditional",
+          "description": "Your FarTwin will prefer to rely on established methods and tools, sometimes resisting change or innovation."
+        }
+      ]
+    },
+    {
+      "emoji": "👥",
+      "label": "Social Environment",
+      "description": "How will your FarTwin thrive in social situations?",
+      "options": [
+        {
+          "value": "Outgoing",
+          "description": "Your FarTwin will naturally be the center of attention, effortlessly navigating large groups and networking with ease."
+        },
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin will prefer to maintain a low profile, often preferring one-on-one interactions or small gatherings."
+        }
+      ]
+    },
+    {
+      "emoji": "📝",
+      "label": "Writing Style",
+      "description": "How will your FarTwin express themselves in writing?",
+      "options": [
+        {
+          "value": "Poetic",
+          "description": "Your FarTwin will use vivid imagery and creative language to convey their thoughts and emotions."
+        },
+        {
+          "value": "Concise",
+          "description": "Your FarTwin will prefer clear and direct writing, avoiding flowery or unnecessary descriptions."
+        }
+      ]
+    }
+  ]
+}

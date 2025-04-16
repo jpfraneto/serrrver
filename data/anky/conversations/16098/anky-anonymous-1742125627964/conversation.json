@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "aca vamos de nuevo. escribiendo. i am writing on this interface that shows me "
+  },
+  {
+    "role": "assistant",
+    "content": "¡Genial! Estoy listo para empezar. ¿Cuál es el tema o el tipo de contenido que deseas escribir sobre? ¿O prefieres que comencemos con un ejercicio o un prompt específico? Estoy aquí para ayudarte."
+  }
+]

@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "",
+      "label": "Work Ethic",
+      "description": "How will your FarTwin handle work deadlines?",
+      "options": [
+        {
+          "value": "Relaxed",
+          "description": "Your FarTwin will approach deadlines with a laid-back attitude, prioritizing flexibility over strict timelines."
+        },
+        {
+          "value": "Driven",
+          "description": "Your FarTwin will tackle deadlines with an aggressive and driven mindset, pushing through obstacles to meet goals."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin handle uncertainty?",
+      "options": [
+        {
+          "value": "Cautious",
+          "description": "Your FarTwin will approach uncertain situations with a cautious and conservative mindset, weighing risks before making decisions."
+        },
+        {
+          "value": "Adventurous",
+          "description": "Your FarTwin will face uncertainty with an adventurous and open-minded attitude, seeking out new experiences and challenges."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Social Interactions",
+      "description": "How will your FarTwin interact with strangers?",
+      "options": [
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin will prefer to engage in social interactions with people they know well, taking time to warm up to new acquaintances."
+        },
+        {
+          "value": "Outgoing",
+          "description": "Your FarTwin will approach strangers with confidence and enthusiasm, seeking out opportunities for conversation and connection."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Goal Setting",
+      "description": "How will your FarTwin set goals?",
+      "options": [
+        {
+          "value": "Ambitious",
+          "description": "Your FarTwin will set ambitious and challenging goals, striving to push beyond their limits and achieve exceptional results."
+        },
+        {
+          "value": "Pragmatic",
+          "description": "Your FarTwin will set realistic and achievable goals, prioritizing progress over perfection and taking a practical approach to success."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Emotional Expression",
+      "description": "How will your FarTwin express emotions?",
+      "options": [
+        {
+          "value": "Open",
+          "description": "Your FarTwin will openly and honestly express their emotions, using words to convey feelings and thoughts."
+        },
+        {
+          "value": "Reserved",
+          "description": "Your FarTwin will keep their emotions private, preferring to internalize feelings before sharing them with others."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Decision Making",
+      "description": "How will your FarTwin make decisions?",
+      "options": [
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will trust their intuition, making decisions based on gut feelings and instinct rather than logical analysis."
+        },
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will approach decision-making with a systematic and analytical mindset, weighing options and considering multiple perspectives before acting."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Time Management",
+      "description": "How will your FarTwin manage their time?",
+      "options": [
+        {
+          "value": "Flexible",
+          "description": "Your FarTwin will prioritize flexibility and adaptability when managing time, allowing for spontaneity and changes in plans."
+        },
+        {
+          "value": "Structured",
+          "description": "Your FarTwin will approach time management with a structured and organized mindset, creating schedules and sticking to routines."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Conflict Resolution",
+      "description": "How will your FarTwin handle conflicts?",
+      "options": [
+        {
+          "value": "Confrontational",
+          "description": "Your FarTwin will approach conflicts with a confrontational attitude, directly challenging opposing views and assertively expressing their own opinions."
+        },
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will handle conflicts with a collaborative mindset, seeking common ground and working towards mutually beneficial solutions."
+        }
+      ]
+    }
+  ]
+}

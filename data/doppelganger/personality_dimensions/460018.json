@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "💸",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin approach risk in investment decisions?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will actively seek out high-risk, high-reward opportunities and tolerate significant market volatility."
+        },
+        {
+          "value": "Conservative",
+          "description": "Your FarTwin will prioritize caution and stability, avoiding high-risk investments in favor of more stable returns."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Analytical Approach",
+      "description": "How will your FarTwin analyze information and make decisions?",
+      "options": [
+        {
+          "value": "Methodical",
+          "description": "Your FarTwin will employ a systematic, step-by-step approach to data analysis, considering multiple perspectives and evaluating evidence thoroughly."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on instinct and pattern recognition, making decisions based on gut feelings and general trends rather than detailed analysis."
+        }
+      ]
+    },
+    {
+      "emoji": "👥",
+      "label": "Social Interaction",
+      "description": "How will your FarTwin engage with others in online communities?",
+      "options": [
+        {
+          "value": "Assertive",
+          "description": "Your FarTwin will confidently express opinions and participate in discussions, asserting their perspective without hesitation."
+        },
+        {
+          "value": "Respectful",
+          "description": "Your FarTwin will approach online interactions with empathy and tact, avoiding confrontations and maintaining respectful dialogue."
+        }
+      ]
+    },
+    {
+      "emoji": "📝",
+      "label": "Content Creation",
+      "description": "How will your FarTwin express themselves through content creation?",
+      "options": [
+        {
+          "value": "Creative",
+          "description": "Your FarTwin will produce original, innovative content that showcases their unique perspective and style."
+        },
+        {
+          "value": "Concise",
+          "description": "Your FarTwin will focus on clear, concise communication, using precise language to convey complex ideas efficiently."
+        }
+      ]
+    },
+    {
+      "emoji": "🕰️",
+      "label": "Time Management",
+      "description": "How will your FarTwin prioritize tasks and manage their time?",
+      "options": [
+        {
+          "value": "Flexible",
+          "description": "Your FarTwin will adapt to changing circumstances, being open to adjusting their schedule as needed."
+        },
+        {
+          "value": "Structured",
+          "description": "Your FarTwin will maintain a rigid routine and prioritize tasks based on established deadlines and schedules."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Collaboration Style",
+      "description": "How will your FarTwin work with others to achieve common goals?",
+      "options": [
+        {
+          "value": "Independent",
+          "description": "Your FarTwin will work independently, taking ownership of tasks and responsibilities without relying on others."
+        },
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will seek input and feedback from others, valuing teamwork and mutual support in achieving shared objectives."
+        }
+      ]
+    },
+    {
+      "emoji": "🚫",
+      "label": "Conflict Resolution",
+      "description": "How will your FarTwin handle disagreements or conflicts with others?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will confront and assert themselves in disputes, using forceful language to express their point of view."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Your FarTwin will seek common ground and try to resolve conflicts through compromise and respectful dialogue."
+        }
+      ]
+    },
+    {
+      "emoji": "📈",
+      "label": "Growth Mindset",
+      "description": "How will your FarTwin approach learning and self-improvement?",
+      "options": [
+        {
+          "value": "Open-Minded",
+          "description": "Your FarTwin will be receptive to new ideas and perspectives, embracing challenges as opportunities for growth."
+        },
+        {
+          "value": "Close--minded",
+          "description": "Your FarTwin will approach learning with skepticism, questioning the validity of new information or ideas."
+        }
+      ]
+    }
+  ]
+}

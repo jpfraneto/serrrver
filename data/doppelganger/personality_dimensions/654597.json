@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "📊",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin approach financial risks?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will take bold and swift decisions, often prioritizing potential gains over stability."
+        },
+        {
+          "value": "Cautious",
+          "description": "Your FarTwin will approach risks with a measured and deliberate mindset, weighing the pros and cons carefully."
+        }
+      ]
+    },
+    {
+      "emoji": "👥",
+      "label": "Social Interaction Style",
+      "description": "How will your FarTwin engage with others?",
+      "options": [
+        {
+          "value": "Outgoing",
+          "description": "Your FarTwin will be sociable and engaging, often taking the lead in group discussions and networking events."
+        },
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin will prefer smaller, more low-key gatherings and might need time to warm up to new social situations."
+        }
+      ]
+    },
+    {
+      "emoji": "💸",
+      "label": "Earning Approach",
+      "description": "How will your FarTwin pursue income opportunities?",
+      "options": [
+        {
+          "value": "Ambitious",
+          "description": "Your FarTwin will strive for financial success through hard work, dedication, and calculated risk-taking."
+        },
+        {
+          "value": "Relaxed",
+          "description": "Your FarTwin will approach earning opportunities with a more laid-back attitude, prioritizing stability over rapid growth."
+        }
+      ]
+    },
+    {
+      "emoji": "🤔",
+      "label": "Problem-Solving Approach",
+      "description": "How will your FarTwin tackle complex challenges?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will approach problems with a logical and methodical mindset, breaking them down into manageable parts."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on their instincts and gut feelings to guide decision-making, often trusting their initial impressions."
+        }
+      ]
+    },
+    {
+      "emoji": "📈",
+      "label": "Growth Orientation",
+      "description": "How will your FarTwin approach personal growth?",
+      "options": [
+        {
+          "value": "Expedient",
+          "description": "Your FarTwin will prioritize rapid progress and self-improvement, often seeking out new experiences and challenges."
+        },
+        {
+          "value": "Reflective",
+          "description": "Your FarTwin will focus on introspection and self-awareness, taking time to reflect on their actions and thoughts before making changes."
+        }
+      ]
+    },
+    {
+      "emoji": "👀",
+      "label": "Attention Span",
+      "description": "How will your FarTwin stay focused?",
+      "options": [
+        {
+          "value": "Concentrated",
+          "description": "Your FarTwin will maintain a steady, sustained attention span, able to focus on a single task for extended periods."
+        },
+        {
+          "value": "Diversified",
+          "description": "Your FarTwin will juggle multiple tasks and interests simultaneously, effortlessly switching between different activities and topics."
+        }
+      ]
+    },
+    {
+      "emoji": "📝",
+      "label": "Learning Style",
+      "description": "How will your FarTwin absorb new information?",
+      "options": [
+        {
+          "value": "Verbal",
+          "description": "Your FarTwin will prefer learning through verbal instruction, discussions, and debates."
+        },
+        {
+          "value": "Visual",
+          "description": "Your FarTwin will learn best through visual aids like images, videos, and diagrams."
+        }
+      ]
+    },
+    {
+      "emoji": "💻",
+      "label": "Technological Comfort",
+      "description": "How will your FarTwin interact with technology?",
+      "options": [
+        {
+          "value": "Fluent",
+          "description": "Your FarTwin will be highly comfortable and proficient with various digital tools, platforms, and software."
+        },
+        {
+          "value": "Cautious",
+          "description": "Your FarTwin will approach technology with a healthy dose of skepticism, often preferring traditional methods over digital alternatives."
+        }
+      ]
+    }
+  ]
+}

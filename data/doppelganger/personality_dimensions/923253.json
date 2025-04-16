@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin handle uncertainty?",
+      "options": [
+        {
+          "value": "Thrill-Seeker",
+          "description": "Your FarTwin will take bold risks and face challenges head-on, always seeking the next adrenaline rush."
+        },
+        {
+          "value": "Cautious",
+          "description": "Your FarTwin will approach uncertainty with caution, weighing risks and considering multiple outcomes before making a decision."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Confidence Level",
+      "description": "How will your FarTwin present themselves to others?",
+      "options": [
+        {
+          "value": "Outspoken",
+          "description": "Your FarTwin will assertively express their opinions and showcase their skills, commanding attention without apology."
+        },
+        {
+          "value": "Reserved",
+          "description": "Your FarTwin will maintain a low profile, speaking only when necessary and preferring to listen rather than speak."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Decision Making",
+      "description": "How will your FarTwin approach problem-solving?",
+      "options": [
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on gut instincts and instincts to make decisions, trusting their inner voice without overthinking."
+        },
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will methodically evaluate options, weighing pros and cons before making a rational decision based on data and logic."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Emotional Expression",
+      "description": "How will your FarTwin express their emotions?",
+      "options": [
+        {
+          "value": "Vocal",
+          "description": "Your FarTwin will openly and authentically express their feelings, wearing their heart on their sleeve."
+        },
+        {
+          "value": "Reserved",
+          "description": "Your FarTwin will keep their emotions private, only sharing them with those they trust or when necessary."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Social Interaction",
+      "description": "How will your FarTwin engage with others?",
+      "options": [
+        {
+          "value": "Social Butterfly",
+          "description": "Your FarTwin will effortlessly charm and connect with people from all walks of life, forging strong bonds and networks."
+        },
+        {
+          "value": "Introvert",
+          "description": "Your FarTwin will prefer to interact with a smaller circle of close friends or acquaintances, valuing depth over breadth in their relationships."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Adaptability",
+      "description": "How will your FarTwin respond to change?",
+      "options": [
+        {
+          "value": "Adaptable",
+          "description": "Your FarTwin will quickly adjust to new situations, embracing challenges as opportunities for growth and learning."
+        },
+        {
+          "value": "Rigid",
+          "description": "Your FarTwin will struggle with change, resisting or refusing to adapt to new circumstances or expectations."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Creativity",
+      "description": "How will your FarTwin approach creative pursuits?",
+      "options": [
+        {
+          "value": "Visionary",
+          "description": "Your FarTwin will envision innovative solutions, pushing boundaries and exploring new frontiers in their creative endeavors."
+        },
+        {
+          "value": "Practical",
+          "description": "Your FarTwin will focus on refining existing ideas, ensuring that their creative output is practical, functional, and meets real-world needs."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Perseverance",
+      "description": "How will your FarTwin handle obstacles?",
+      "options": [
+        {
+          "value": "Determined",
+          "description": "Your FarTwin will persistently push forward, driven by a strong work ethic and unwavering commitment to achieving their goals."
+        },
+        {
+          "value": "Defeated",
+          "description": "Your FarTwin will often become discouraged and disheartened by setbacks, potentially giving up or losing motivation when faced with obstacles."
+        }
+      ]
+    }
+  ]
+}

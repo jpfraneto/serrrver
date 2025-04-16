@@ -1,0 +1,2891 @@
+[
+  {
+    "object": "cast",
+    "hash": "0x97df2ea67648d9e02cc1de4b3ea1ef44c1cef7bf",
+    "author": {
+      "object": "user",
+      "fid": 904150,
+      "username": "superstupidcast",
+      "display_name": "Super Stupid Caster",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f7ddc5fb-e209-4bb1-dabb-2f33f437c200/rectcrop3",
+      "custody_address": "0xdc474b14a44b7bfb068e096981f9817c09379d75",
+      "profile": {
+        "bio": {
+          "text": "Its not AI, not cool stuff, not even good to know it.\nJust Super Stupid Cast"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0x91150da55382ee86dd9b9bfbe91261ec1ca79bc7",
+        "0x28a14f8805fb82ec308eacd528e143084e0f940d"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x91150da55382ee86dd9b9bfbe91261ec1ca79bc7",
+          "0x28a14f8805fb82ec308eacd528e143084e0f940d"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x28a14f8805fb82ec308eacd528e143084e0f940d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x97df2ea67648d9e02cc1de4b3ea1ef44c1cef7bf",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "I am in THE BOLE\n\nTHE BOLE starts to cook. I am ID 1184 and onboarding right now. I am beginning to charge my mystical energy. I believe we will need it when we go into THE BOLE. 🍲",
+    "timestamp": "2025-03-27T23:08:22.000Z",
+    "embeds": [
+      {
+        "url": "https://bole.wtf",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://bole.wtf",
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "alt": "HAMsters on BASE",
+                "url": "https://bole.wtf/opengraph-image?da9b30fc00f214a3",
+                "type": "image/png",
+                "width": "600",
+                "height": "400"
+              }
+            ],
+            "ogTitle": "THE BOLE",
+            "ogLocale": "en",
+            "ogSiteName": "https://bole.wtf",
+            "ogDescription": "get ready for THE BOLE"
+          },
+          "frame": {
+            "version": "next",
+            "title": "THE BOLE",
+            "image": "https://bole.wtf/opengraph-image?v8",
+            "frames_url": "https://bole.wtf/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 1017681,
+              "username": "bolewtf",
+              "display_name": "BOLE",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/47c94541-36b0-4db6-dd81-9a29b93d5f00/rectcrop3",
+              "custody_address": "0x8abb7857bb5de30d7f263e4c98d077cf51ba6432"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjEwMTc2ODEsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHg4YUJiNzg1N0JiNWRFMzBkN0YyNjNFNGM5OEQwNzdjZjUxYmE2NDMyIn0",
+                "payload": "eyJkb21haW4iOiJib2xlLnd0ZiJ9",
+                "signature": "MHhjNTg4NTQwNWQzYTEwZDk0ZTRhODI1YjY1YWI1MTc3MTM0MjgxMWZiOGNkNTNhOTdlY2JmYjE1M2EzMDcwNGU0NWZlMGI3N2ExYWE5ZTNlM2Q5N2ExOWU1M2JkZDI2ZDcyNWE4N2I0MzBmZTViYjY4ZDQyMTBmZjM5ZjVmZTZlZDFj"
+              },
+              "frame": {
+                "version": "0.0.1",
+                "name": "THE BOLE",
+                "home_url": "https://bole.wtf",
+                "icon_url": "https://bole.wtf/icon.png",
+                "image_url": "https://bole.wtf/opengraph-image",
+                "button_title": "THE BOLE",
+                "splash_image_url": "https://bole.wtf/splash.png",
+                "splash_background_color": "#000000",
+                "webhook_url": "https://bole.wtf/api/webhook"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xef2dfc1939748e0c766849d6f56b722cbba47a02",
+    "author": {
+      "object": "user",
+      "fid": 904150,
+      "username": "superstupidcast",
+      "display_name": "Super Stupid Caster",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f7ddc5fb-e209-4bb1-dabb-2f33f437c200/rectcrop3",
+      "custody_address": "0xdc474b14a44b7bfb068e096981f9817c09379d75",
+      "profile": {
+        "bio": {
+          "text": "Its not AI, not cool stuff, not even good to know it.\nJust Super Stupid Cast"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0x91150da55382ee86dd9b9bfbe91261ec1ca79bc7",
+        "0x28a14f8805fb82ec308eacd528e143084e0f940d"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x91150da55382ee86dd9b9bfbe91261ec1ca79bc7",
+          "0x28a14f8805fb82ec308eacd528e143084e0f940d"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x28a14f8805fb82ec308eacd528e143084e0f940d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xef2dfc1939748e0c766849d6f56b722cbba47a02",
+    "parent_hash": null,
+    "parent_url": "https://rainbow.me",
+    "root_parent_url": "https://rainbow.me",
+    "parent_author": {
+      "fid": null
+    },
+    "text": "Feel so rewarded today  🌈\n$Rewarded\nhttps://rainbow.me/token/base/0x22dfe7665b04b10c1120b730ef276bca57dd3c9d",
+    "timestamp": "2025-03-25T21:11:18.000Z",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 20919,
+          "hash": "0x5021ff928379070e2ef9c9f36c9a432c36d77749"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x5021ff928379070e2ef9c9f36c9a432c36d77749",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 20919,
+            "username": "rainbow",
+            "display_name": "Rainbow",
+            "pfp_url": "https://i.imgur.com/b3SgimD.jpg",
+            "custody_address": "0x0ef1b50e73dd6a88584bbd6714bf8151e012e0b5"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x5021ff928379070e2ef9c9f36c9a432c36d77749",
+          "parent_hash": null,
+          "parent_url": "https://rainbow.me",
+          "root_parent_url": "https://rainbow.me",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "send it 😍",
+          "timestamp": "2025-03-25T20:57:38.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/81c38e5e-410b-449e-9dd2-51b9eb00fb00/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 519560,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1414,
+                  "height_px": 2000
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "rainbow",
+            "name": "Rainbow",
+            "image_url": "https://warpcast.com/~/channel-images/rainbow.png"
+          }
+        }
+      },
+      {
+        "url": "https://rainbow.me/token/base/0x22dfe7665b04b10c1120b730ef276bca57dd3c9d",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://rainbow.me/token/base/0x22dFE7665B04B10c1120B730Ef276bCa57dd3C9d",
+            "ogImage": [
+              {
+                "alt": "We're So Rewarded (REWARDED) on Base",
+                "url": "https://rainbow.me/token/api/og?address=0x22dFE7665B04B10c1120B730Ef276bCa57dd3C9d&chainId=8453",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "We're So Rewarded (REWARDED) on Base",
+            "ogLocale": "en",
+            "ogDescription": "thanks rainbow! 🌈"
+          }
+        }
+      }
+    ],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "rainbow",
+      "name": "Rainbow",
+      "image_url": "https://warpcast.com/~/channel-images/rainbow.png"
+    },
+    "reactions": {
+      "likes_count": 3,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 512228,
+          "fname": "nick0"
+        },
+        {
+          "fid": 904150,
+          "fname": "superstupidcast"
+        },
+        {
+          "fid": 20919,
+          "fname": "rainbow"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": true
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0xf6f84d6e487049841f558f76ee75bd4f9bcdffb0",
+    "author": {
+      "object": "user",
+      "fid": 904150,
+      "username": "superstupidcast",
+      "display_name": "Super Stupid Caster",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f7ddc5fb-e209-4bb1-dabb-2f33f437c200/rectcrop3",
+      "custody_address": "0xdc474b14a44b7bfb068e096981f9817c09379d75",
+      "profile": {
+        "bio": {
+          "text": "Its not AI, not cool stuff, not even good to know it.\nJust Super Stupid Cast"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0x91150da55382ee86dd9b9bfbe91261ec1ca79bc7",
+        "0x28a14f8805fb82ec308eacd528e143084e0f940d"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x91150da55382ee86dd9b9bfbe91261ec1ca79bc7",
+          "0x28a14f8805fb82ec308eacd528e143084e0f940d"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x28a14f8805fb82ec308eacd528e143084e0f940d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xe14e6f212562e43918b675e3ccc81fcdc36608fb",
+    "parent_hash": "0xe14e6f212562e43918b675e3ccc81fcdc36608fb",
+    "parent_url": null,
+    "root_parent_url": "https://rainbow.me",
+    "parent_author": {
+      "fid": 20919
+    },
+    "text": "We're so rewarded! 🙏🏻🌈\n\nhttps://rainbow.me/token/base/0x22dFE7665B04B10c1120B730Ef276bCa57dd3C9d",
+    "timestamp": "2025-03-25T20:59:57.000Z",
+    "embeds": [
+      {
+        "url": "https://rainbow.me/token/base/0x22dFE7665B04B10c1120B730Ef276bCa57dd3C9d",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://rainbow.me/token/base/0x22dFE7665B04B10c1120B730Ef276bCa57dd3C9d",
+            "ogImage": [
+              {
+                "alt": "We're So Rewarded (REWARDED) on Base",
+                "url": "https://rainbow.me/token/api/og?address=0x22dFE7665B04B10c1120B730Ef276bCa57dd3C9d&chainId=8453",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "We're So Rewarded (REWARDED) on Base",
+            "ogLocale": "en",
+            "ogDescription": "thanks rainbow! 🌈"
+          }
+        }
+      }
+    ],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "rainbow",
+      "name": "Rainbow",
+      "image_url": "https://warpcast.com/~/channel-images/rainbow.png"
+    },
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": true
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0x9b50b2f30a38757079cf96948291fc953b3a0d41",
+    "author": {
+      "object": "user",
+      "fid": 904150,
+      "username": "superstupidcast",
+      "display_name": "Super Stupid Caster",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f7ddc5fb-e209-4bb1-dabb-2f33f437c200/rectcrop3",
+      "custody_address": "0xdc474b14a44b7bfb068e096981f9817c09379d75",
+      "profile": {
+        "bio": {
+          "text": "Its not AI, not cool stuff, not even good to know it.\nJust Super Stupid Cast"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0x91150da55382ee86dd9b9bfbe91261ec1ca79bc7",
+        "0x28a14f8805fb82ec308eacd528e143084e0f940d"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x91150da55382ee86dd9b9bfbe91261ec1ca79bc7",
+          "0x28a14f8805fb82ec308eacd528e143084e0f940d"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x28a14f8805fb82ec308eacd528e143084e0f940d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x9b50b2f30a38757079cf96948291fc953b3a0d41",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "Ready for some COCK and EGGS action?",
+    "timestamp": "2025-03-23T00:10:58.000Z",
+    "embeds": [
+      {
+        "url": "https://eggs.name",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://eggs.fun",
+            "ogType": "website",
+            "favicon": "/favicon/favicon.ico",
+            "ogImage": [
+              {
+                "url": "https://eggs-eggs-frontend.rnytxt.easypanel.host/images/og.jpg",
+                "type": "jpg"
+              }
+            ],
+            "ogTitle": "$EGGS",
+            "ogLocale": "en",
+            "ogDescription": "HATCH EGG NOW"
+          },
+          "frame": {
+            "version": "next",
+            "title": "Lay some!",
+            "image": "https://eggs.name/frames/image-url.png",
+            "frames_url": "https://eggs.name/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 1356,
+              "username": "warpcastadmin.eth",
+              "display_name": "borodutch",
+              "pfp_url": "https://images.colorino.site/34b0a6f586ec618043c842a1a46a2f6eb8570173a3a2cb0cf3ec20f77939a066.png",
+              "custody_address": "0x2b09450cc18019d2c505bbcecb27485e0469bc2c"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjEzNTYsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgyYjA5NDUwQ0MxODAxOWQyYzUwNWJCY0VDYjI3NDg1RTA0NjlCQzJjIn0",
+                "payload": "eyJkb21haW4iOiJlZ2dzLm5hbWUifQ",
+                "signature": "MHhlY2U4NzU3ZjkyMTRmZTcxZWRmZGFiYjkyNWY3M2Q5NTBiZGFkZTU1MjhmYjYzMzZjMjQ1ZjYxYWNjZjllMDUwMDBlNjUxNDkyZjVkYTBkNDRkMmM5YWMyNzEzZDYyNDFlMWE2MWJiNzQ5YzM2YWZkMzBlZTUzNzU5ZDQ5ODQ2NjFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "$EGGS",
+                "home_url": "https://eggs.name",
+                "icon_url": "https://eggs.name/frames/logo.png",
+                "image_url": "https://eggs.name/frames/image-url.png",
+                "button_title": "Lay some!",
+                "splash_image_url": "https://eggs.name/frames/splash.png",
+                "splash_background_color": "#c9fd50",
+                "webhook_url": "https://backend.eggs.name/farcaster-webhook"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 1,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 797223,
+          "fname": "bledeho"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x583fed9566f0f6e8c410c9d25a4187dc47727835",
+    "author": {
+      "object": "user",
+      "fid": 904150,
+      "username": "superstupidcast",
+      "display_name": "Super Stupid Caster",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f7ddc5fb-e209-4bb1-dabb-2f33f437c200/rectcrop3",
+      "custody_address": "0xdc474b14a44b7bfb068e096981f9817c09379d75",
+      "profile": {
+        "bio": {
+          "text": "Its not AI, not cool stuff, not even good to know it.\nJust Super Stupid Cast"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0x91150da55382ee86dd9b9bfbe91261ec1ca79bc7",
+        "0x28a14f8805fb82ec308eacd528e143084e0f940d"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x91150da55382ee86dd9b9bfbe91261ec1ca79bc7",
+          "0x28a14f8805fb82ec308eacd528e143084e0f940d"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x28a14f8805fb82ec308eacd528e143084e0f940d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x583fed9566f0f6e8c410c9d25a4187dc47727835",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "Feyren ghosted me, gift me a life so I can have another chance!",
+    "timestamp": "2025-03-20T21:11:12.000Z",
+    "embeds": [
+      {
+        "url": "https://frame-v2-ashen.vercel.app",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "alt": "Bad Witch",
+                "url": "https://frame-v2-ashen.vercel.app/opengraph-image?9439e3b99b09d5b1",
+                "type": "image/png",
+                "width": "600",
+                "height": "400"
+              }
+            ],
+            "ogTitle": "Bad Witch",
+            "ogLocale": "en",
+            "ogDescription": "A competitive rizz puzzle game"
+          },
+          "frame": {
+            "version": "next",
+            "title": "Meet Feyren",
+            "image": "https://frame-v2-ashen.vercel.app/opengraph-image",
+            "frames_url": "https://frame-v2-ashen.vercel.app/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 342680,
+              "username": "natedev.eth",
+              "display_name": "Nate",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/83473de3-113c-4211-c825-02c7f014d800/original",
+              "custody_address": "0xcd5561d3538ecc11c1a8d689f361c5c3059c66f1"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjM0MjY4MCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweENkNTU2MWQzNTM4ZWNDMTFDMWE4ZDY4OUYzNjFDNWMzMDU5QzY2RjEifQ",
+                "payload": "eyJkb21haW4iOiJmcmFtZS12Mi1hc2hlbi52ZXJjZWwuYXBwIn0",
+                "signature": "MHhhODZlYjgwNWIyN2E4OTU4YmZmNDEwYjk3ZDQzZjBkNDUyMWIzOTM1NjU4NDcyODc1MGM3OTdjMjZjNGZkNGE0M2EyYjE1NTM1NjVlMTMyNTRlMGYwODFmYTdlYjhmZDVlODBjNGFhOWQxMWM0NGVhYzllMjVjYzU2N2M3NWI3MDFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Bad Witch",
+                "home_url": "https://frame-v2-ashen.vercel.app",
+                "icon_url": "https://frame-v2-ashen.vercel.app/icon.png",
+                "image_url": "https://frame-v2-ashen.vercel.app/opengraph-image",
+                "button_title": "Meet Feyren",
+                "splash_image_url": "https://frame-v2-ashen.vercel.app/splash.png",
+                "splash_background_color": "#fef7fe"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x5d43df5eb20b8a6b160b52b96e31fd497f403e3d",
+    "author": {
+      "object": "user",
+      "fid": 904150,
+      "username": "superstupidcast",
+      "display_name": "Super Stupid Caster",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f7ddc5fb-e209-4bb1-dabb-2f33f437c200/rectcrop3",
+      "custody_address": "0xdc474b14a44b7bfb068e096981f9817c09379d75",
+      "profile": {
+        "bio": {
+          "text": "Its not AI, not cool stuff, not even good to know it.\nJust Super Stupid Cast"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0x91150da55382ee86dd9b9bfbe91261ec1ca79bc7",
+        "0x28a14f8805fb82ec308eacd528e143084e0f940d"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x91150da55382ee86dd9b9bfbe91261ec1ca79bc7",
+          "0x28a14f8805fb82ec308eacd528e143084e0f940d"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x28a14f8805fb82ec308eacd528e143084e0f940d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x5d43df5eb20b8a6b160b52b96e31fd497f403e3d",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "@bracky I want in on the Madness! 🏀",
+    "timestamp": "2025-03-20T20:36:52.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 901053,
+        "username": "bracky",
+        "display_name": "Bracky",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c58cb239-9e92-4fb5-d982-50fd5b903800/original",
+        "custody_address": "0x63e2f11d0708247154d90781e658939981d28761",
+        "profile": {
+          "bio": {
+            "text": "I invite you to test your sports predictions against mine through $BRACKY tokens (0x06f71fb90F84b35302d132322A3C90E4477333b0)\n\nYour participation is appreciated"
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [
+          "0xab788688eaa77d76eb1aac40fe18ecb5b4ef5c88",
+          "0xe5ec739998f9b843552a535ef4fd437baa67d62f"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0xab788688eaa77d76eb1aac40fe18ecb5b4ef5c88",
+            "0xe5ec739998f9b843552a535ef4fd437baa67d62f"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0xe5ec739998f9b843552a535ef4fd437baa67d62f",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [],
+        "power_badge": false
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 0,
+        "end": 7
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x992292cdeadd79b395b63b81cb8873ef1b62a934",
+    "author": {
+      "object": "user",
+      "fid": 904150,
+      "username": "superstupidcast",
+      "display_name": "Super Stupid Caster",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f7ddc5fb-e209-4bb1-dabb-2f33f437c200/rectcrop3",
+      "custody_address": "0xdc474b14a44b7bfb068e096981f9817c09379d75",
+      "profile": {
+        "bio": {
+          "text": "Its not AI, not cool stuff, not even good to know it.\nJust Super Stupid Cast"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0x91150da55382ee86dd9b9bfbe91261ec1ca79bc7",
+        "0x28a14f8805fb82ec308eacd528e143084e0f940d"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x91150da55382ee86dd9b9bfbe91261ec1ca79bc7",
+          "0x28a14f8805fb82ec308eacd528e143084e0f940d"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x28a14f8805fb82ec308eacd528e143084e0f940d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x5897d9bf8ce9b97572752f608ea349ac0d9480eb",
+    "parent_hash": "0x5897d9bf8ce9b97572752f608ea349ac0d9480eb",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 1021981
+    },
+    "text": "Kontol",
+    "timestamp": "2025-03-17T14:38:46.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x77bceb22b462a4c90df1f8f7750b30cb4aacfc44",
+    "author": {
+      "object": "user",
+      "fid": 904150,
+      "username": "superstupidcast",
+      "display_name": "Super Stupid Caster",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f7ddc5fb-e209-4bb1-dabb-2f33f437c200/rectcrop3",
+      "custody_address": "0xdc474b14a44b7bfb068e096981f9817c09379d75",
+      "profile": {
+        "bio": {
+          "text": "Its not AI, not cool stuff, not even good to know it.\nJust Super Stupid Cast"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0x91150da55382ee86dd9b9bfbe91261ec1ca79bc7",
+        "0x28a14f8805fb82ec308eacd528e143084e0f940d"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x91150da55382ee86dd9b9bfbe91261ec1ca79bc7",
+          "0x28a14f8805fb82ec308eacd528e143084e0f940d"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x28a14f8805fb82ec308eacd528e143084e0f940d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x77bceb22b462a4c90df1f8f7750b30cb4aacfc44",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "I am in THE BOLE\n\nCome join me fast. THE BOLE starts to cook.\n\nLegends whisper of THE BOLE, an ancient, ever cooking entity hidden deep within the fabric of reality 🍲",
+    "timestamp": "2025-03-12T21:42:52.000Z",
+    "embeds": [
+      {
+        "url": "https://bole.wtf",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://bole.wtf",
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "alt": "HAMsters on BASE",
+                "url": "https://bole.wtf/opengraph-image?da9b30fc00f214a3",
+                "type": "image/png",
+                "width": "600",
+                "height": "400"
+              }
+            ],
+            "ogTitle": "THE BOLE",
+            "ogLocale": "en",
+            "ogSiteName": "https://bole.wtf",
+            "ogDescription": "get ready for THE BOLE"
+          },
+          "frame": {
+            "version": "next",
+            "title": "THE BOLE",
+            "image": "https://bole.wtf/opengraph-image?v8",
+            "frames_url": "https://bole.wtf/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 1017681,
+              "username": "bolewtf",
+              "display_name": "BOLE",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/47c94541-36b0-4db6-dd81-9a29b93d5f00/rectcrop3",
+              "custody_address": "0x8abb7857bb5de30d7f263e4c98d077cf51ba6432"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjEwMTc2ODEsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHg4YUJiNzg1N0JiNWRFMzBkN0YyNjNFNGM5OEQwNzdjZjUxYmE2NDMyIn0",
+                "payload": "eyJkb21haW4iOiJib2xlLnd0ZiJ9",
+                "signature": "MHhjNTg4NTQwNWQzYTEwZDk0ZTRhODI1YjY1YWI1MTc3MTM0MjgxMWZiOGNkNTNhOTdlY2JmYjE1M2EzMDcwNGU0NWZlMGI3N2ExYWE5ZTNlM2Q5N2ExOWU1M2JkZDI2ZDcyNWE4N2I0MzBmZTViYjY4ZDQyMTBmZjM5ZjVmZTZlZDFj"
+              },
+              "frame": {
+                "version": "0.0.1",
+                "name": "THE BOLE",
+                "home_url": "https://bole.wtf",
+                "icon_url": "https://bole.wtf/icon.png",
+                "image_url": "https://bole.wtf/opengraph-image",
+                "button_title": "THE BOLE",
+                "splash_image_url": "https://bole.wtf/splash.png",
+                "splash_background_color": "#000000",
+                "webhook_url": "https://bole.wtf/api/webhook"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 2,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 803617,
+          "fname": "bl4st45"
+        },
+        {
+          "fid": 809932,
+          "fname": "g4zer21"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x2a66e490e666f7e2276a41aa9a7fe6013d719054",
+    "author": {
+      "object": "user",
+      "fid": 904150,
+      "username": "superstupidcast",
+      "display_name": "Super Stupid Caster",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f7ddc5fb-e209-4bb1-dabb-2f33f437c200/rectcrop3",
+      "custody_address": "0xdc474b14a44b7bfb068e096981f9817c09379d75",
+      "profile": {
+        "bio": {
+          "text": "Its not AI, not cool stuff, not even good to know it.\nJust Super Stupid Cast"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0x91150da55382ee86dd9b9bfbe91261ec1ca79bc7",
+        "0x28a14f8805fb82ec308eacd528e143084e0f940d"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x91150da55382ee86dd9b9bfbe91261ec1ca79bc7",
+          "0x28a14f8805fb82ec308eacd528e143084e0f940d"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x28a14f8805fb82ec308eacd528e143084e0f940d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x53175af3dad9d883d6d90539f9f01b1639105176",
+    "parent_hash": "0x53175af3dad9d883d6d90539f9f01b1639105176",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 268438
+    },
+    "text": "https://warpcast.com/superstupidcast/0x88025f2c",
+    "timestamp": "2025-03-08T15:10:31.000Z",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 904150,
+          "hash": "0x88025f2c67ad71f11af3c800a88bc4c49e065b0f"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x88025f2c67ad71f11af3c800a88bc4c49e065b0f",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 904150,
+            "username": "superstupidcast",
+            "display_name": "Super Stupid Caster",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f7ddc5fb-e209-4bb1-dabb-2f33f437c200/rectcrop3",
+            "custody_address": "0xdc474b14a44b7bfb068e096981f9817c09379d75"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x88025f2c67ad71f11af3c800a88bc4c49e065b0f",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "My $DEGEN stats \n \nframe by ",
+          "timestamp": "2025-03-08T15:10:06.000Z",
+          "embeds": [
+            {
+              "url": "https://degen-v2.vercel.app?fid=904150",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "favicon": "/favicon.ico",
+                  "ogTitle": "$DEGEN stats by cashlessman.eth",
+                  "ogLocale": "en",
+                  "ogDescription": "$DEGEN stats by cashlessman.eth"
+                },
+                "frame": {
+                  "version": "next",
+                  "title": "SEE YOURS",
+                  "image": "https://degen-v2.vercel.app//opengraph-image?fid=904150&ts=3287066441471",
+                  "frames_url": "https://degen-v2.vercel.app/?fid=904150",
+                  "author": {
+                    "object": "user_dehydrated",
+                    "fid": 268438,
+                    "username": "cashlessman.eth",
+                    "display_name": "cashlessman 🎩",
+                    "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a74b030e-2d92-405c-c2d0-1696f5d51d00/original",
+                    "custody_address": "0x21808ee320edf64c019a6bb0f7e4bfb3d62f06ec"
+                  },
+                  "manifest": {
+                    "account_association": {
+                      "header": "eyJmaWQiOjI2ODQzOCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDIxODA4RUUzMjBlREY2NGMwMTlBNmJiMEY3RTRiRkIzZDYyRjA2RWMifQ",
+                      "payload": "eyJkb21haW4iOiJkZWdlbi12Mi52ZXJjZWwuYXBwIn0",
+                      "signature": "MHhjMzkxYTc4MTRlMWQwNDI5MzVmNGQzYjJlYWVmNWE5YTQwNDVhN2E1YjZiNDlkZjAxMDhjZDFmN2YzYzYwMDg5NDljMDdjYzFhOGYwYjk0MWUzNzBjZDRlMjFkOTU1MGFjMjg4YjdmNDk0MzJjZGNmY2U0MDJkNzc2MmM3ZTI2ZDFj"
+                    },
+                    "frame": {
+                      "version": "1",
+                      "name": "DEGEN",
+                      "home_url": "https://degen-v2.vercel.app/",
+                      "icon_url": "https://raw.githubusercontent.com/cashlessman/images/refs/heads/main/degen_logo.png",
+                      "image_url": "https://raw.githubusercontent.com/cashlessman/images/refs/heads/main/degen.png",
+                      "button_title": "SEE",
+                      "splash_image_url": "https://raw.githubusercontent.com/cashlessman/images/refs/heads/main/pfp.png",
+                      "splash_background_color": "#333333",
+                      "webhook_url": "https://degen-v2.vercel.app/api/webhook"
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x88025f2c67ad71f11af3c800a88bc4c49e065b0f",
+    "author": {
+      "object": "user",
+      "fid": 904150,
+      "username": "superstupidcast",
+      "display_name": "Super Stupid Caster",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f7ddc5fb-e209-4bb1-dabb-2f33f437c200/rectcrop3",
+      "custody_address": "0xdc474b14a44b7bfb068e096981f9817c09379d75",
+      "profile": {
+        "bio": {
+          "text": "Its not AI, not cool stuff, not even good to know it.\nJust Super Stupid Cast"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0x91150da55382ee86dd9b9bfbe91261ec1ca79bc7",
+        "0x28a14f8805fb82ec308eacd528e143084e0f940d"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x91150da55382ee86dd9b9bfbe91261ec1ca79bc7",
+          "0x28a14f8805fb82ec308eacd528e143084e0f940d"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x28a14f8805fb82ec308eacd528e143084e0f940d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x88025f2c67ad71f11af3c800a88bc4c49e065b0f",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "My $DEGEN stats \n \nframe by @cashlessman.eth",
+    "timestamp": "2025-03-08T15:10:06.000Z",
+    "embeds": [
+      {
+        "url": "https://degen-v2.vercel.app?fid=904150",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogTitle": "$DEGEN stats by cashlessman.eth",
+            "ogLocale": "en",
+            "ogDescription": "$DEGEN stats by cashlessman.eth"
+          },
+          "frame": {
+            "version": "next",
+            "title": "SEE YOURS",
+            "image": "https://degen-v2.vercel.app//opengraph-image?fid=904150&ts=3287066441471",
+            "frames_url": "https://degen-v2.vercel.app/?fid=904150",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 268438,
+              "username": "cashlessman.eth",
+              "display_name": "cashlessman 🎩",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a74b030e-2d92-405c-c2d0-1696f5d51d00/original",
+              "custody_address": "0x21808ee320edf64c019a6bb0f7e4bfb3d62f06ec"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjI2ODQzOCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDIxODA4RUUzMjBlREY2NGMwMTlBNmJiMEY3RTRiRkIzZDYyRjA2RWMifQ",
+                "payload": "eyJkb21haW4iOiJkZWdlbi12Mi52ZXJjZWwuYXBwIn0",
+                "signature": "MHhjMzkxYTc4MTRlMWQwNDI5MzVmNGQzYjJlYWVmNWE5YTQwNDVhN2E1YjZiNDlkZjAxMDhjZDFmN2YzYzYwMDg5NDljMDdjYzFhOGYwYjk0MWUzNzBjZDRlMjFkOTU1MGFjMjg4YjdmNDk0MzJjZGNmY2U0MDJkNzc2MmM3ZTI2ZDFj"
+              },
+              "frame": {
+                "version": "1",
+                "name": "DEGEN",
+                "home_url": "https://degen-v2.vercel.app/",
+                "icon_url": "https://raw.githubusercontent.com/cashlessman/images/refs/heads/main/degen_logo.png",
+                "image_url": "https://raw.githubusercontent.com/cashlessman/images/refs/heads/main/degen.png",
+                "button_title": "SEE",
+                "splash_image_url": "https://raw.githubusercontent.com/cashlessman/images/refs/heads/main/pfp.png",
+                "splash_background_color": "#333333",
+                "webhook_url": "https://degen-v2.vercel.app/api/webhook"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 3,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 809932,
+          "fname": "g4zer21"
+        },
+        {
+          "fid": 268438,
+          "fname": "cashlessman.eth"
+        },
+        {
+          "fid": 904150,
+          "fname": "superstupidcast"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 268438,
+        "username": "cashlessman.eth",
+        "display_name": "cashlessman 🎩",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a74b030e-2d92-405c-c2d0-1696f5d51d00/original",
+        "custody_address": "0x21808ee320edf64c019a6bb0f7e4bfb3d62f06ec",
+        "profile": {
+          "bio": {
+            "text": "dev. \nall my frames: @infobot, working on @anonpost,\nopen for opportunities",
+            "mentioned_profiles": [
+              {
+                "object": "user_dehydrated",
+                "fid": 882408,
+                "username": "infobot",
+                "display_name": "Info Bot",
+                "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3de1578b-fdad-4ace-5693-ceeeedf51300/original",
+                "custody_address": "0xa8b2bfb556a4b440f2b58c3873b41c74b6769cdc"
+              },
+              {
+                "object": "user_dehydrated",
+                "fid": 1009125,
+                "username": "anonpost",
+                "display_name": "Anon Post",
+                "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7f5bf50c-038c-4b63-19fd-ed72c70dd700/original",
+                "custody_address": "0xcfedede4630d7f2471d3b41d8d996310a732f243"
+              }
+            ],
+            "mentioned_profiles_ranges": [
+              {
+                "start": 21,
+                "end": 29
+              },
+              {
+                "start": 42,
+                "end": 51
+              }
+            ]
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [
+          "0x21808ee320edf64c019a6bb0f7e4bfb3d62f06ec",
+          "0x6100b29a235ebb272f4b10c1964ad9692ee67e13"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x21808ee320edf64c019a6bb0f7e4bfb3d62f06ec",
+            "0x6100b29a235ebb272f4b10c1964ad9692ee67e13"
+          ],
+          "sol_addresses": [
+            "6o2uakMiuVtEzceVSaJsdhrmSsRMrdBPzoi9DtPgM8Kz"
+          ],
+          "primary": {
+            "eth_address": "0x6100b29a235ebb272f4b10c1964ad9692ee67e13",
+            "sol_address": "6o2uakMiuVtEzceVSaJsdhrmSsRMrdBPzoi9DtPgM8Kz"
+          }
+        },
+        "verified_accounts": [
+          {
+            "platform": "x",
+            "username": "kashlessman"
+          }
+        ],
+        "power_badge": true
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 28,
+        "end": 44
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x8a106333a4aa84ecc3e6f6ecd7907d099f1d6b87",
+    "author": {
+      "object": "user",
+      "fid": 904150,
+      "username": "superstupidcast",
+      "display_name": "Super Stupid Caster",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f7ddc5fb-e209-4bb1-dabb-2f33f437c200/rectcrop3",
+      "custody_address": "0xdc474b14a44b7bfb068e096981f9817c09379d75",
+      "profile": {
+        "bio": {
+          "text": "Its not AI, not cool stuff, not even good to know it.\nJust Super Stupid Cast"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0x91150da55382ee86dd9b9bfbe91261ec1ca79bc7",
+        "0x28a14f8805fb82ec308eacd528e143084e0f940d"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x91150da55382ee86dd9b9bfbe91261ec1ca79bc7",
+          "0x28a14f8805fb82ec308eacd528e143084e0f940d"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x28a14f8805fb82ec308eacd528e143084e0f940d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x8a106333a4aa84ecc3e6f6ecd7907d099f1d6b87",
+    "parent_hash": null,
+    "parent_url": "chain://eip155:1/erc721:0xca21d4228cdcc68d4e23807e5e370c07577dd152",
+    "root_parent_url": "chain://eip155:1/erc721:0xca21d4228cdcc68d4e23807e5e370c07577dd152",
+    "parent_author": {
+      "fid": null
+    },
+    "text": "Coinized! 🪙\n\nhttps://zora.co/coin/base:0x5b2d6c3a43eb52c00d0f248bbe2d5a7f9c8ede2c?referrer=0xdfcf4280e63df05bd39bc2c4bb8d558184b14716",
+    "timestamp": "2025-03-01T05:48:29.000Z",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 8,
+          "hash": "0x7b6ad796de1994e507456572856d2657880c6318"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x7b6ad796de1994e507456572856d2657880c6318",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 8,
+            "username": "jacob",
+            "display_name": "jacob",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/89ed9bfb-655c-472d-e907-6a3da8d2ec00/rectcrop3",
+            "custody_address": "0xc6e3004b0e54a91da8d87ace80b6abc64d23e33f"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x7b6ad796de1994e507456572856d2657880c6318",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": "image summary:",
+          "timestamp": "2025-03-01T04:50:26.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e4deaba5-9e9f-4718-cd4c-7f3b30d6da00/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 309830,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1595,
+                  "height_px": 900
+                }
+              }
+            },
+            {
+              "cast_id": {
+                "fid": 8,
+                "hash": "0x50f9c9f4a82d3a636bfa2b813840a17f49976ac7"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x50f9c9f4a82d3a636bfa2b813840a17f49976ac7",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 8
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      },
+      {
+        "url": "https://zora.co/coin/base:0x5b2d6c3a43eb52c00d0f248bbe2d5a7f9c8ede2c?referrer=0xdfcf4280e63df05bd39bc2c4bb8d558184b14716",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://zora.co/coin/base:0x5b2d6c3a43eb52c00d0f248bbe2d5a7f9c8ede2c",
+            "favicon": "https://zora.co/favicon/favicon.png",
+            "ogImage": [
+              {
+                "url": "https://zora.co/api/og-image/coin/base:0x5b2d6c3a43eb52c00d0f248bbe2d5a7f9c8ede2c"
+              }
+            ],
+            "ogTitle": "Coinized",
+            "ogLocale": "en",
+            "ogSiteName": "Zora"
+          }
+        }
+      }
+    ],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "zora",
+      "name": "Zora",
+      "image_url": "https://i.imgur.com/3BN8GSF.png"
+    },
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": true
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0xa3186a200d1e11c7bf749b93e897f64275e217bf",
+    "author": {
+      "object": "user",
+      "fid": 904150,
+      "username": "superstupidcast",
+      "display_name": "Super Stupid Caster",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f7ddc5fb-e209-4bb1-dabb-2f33f437c200/rectcrop3",
+      "custody_address": "0xdc474b14a44b7bfb068e096981f9817c09379d75",
+      "profile": {
+        "bio": {
+          "text": "Its not AI, not cool stuff, not even good to know it.\nJust Super Stupid Cast"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0x91150da55382ee86dd9b9bfbe91261ec1ca79bc7",
+        "0x28a14f8805fb82ec308eacd528e143084e0f940d"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x91150da55382ee86dd9b9bfbe91261ec1ca79bc7",
+          "0x28a14f8805fb82ec308eacd528e143084e0f940d"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x28a14f8805fb82ec308eacd528e143084e0f940d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xa8817c346a199eff7f654b2d8f578c8338dbff0a",
+    "parent_hash": "0xa8817c346a199eff7f654b2d8f578c8338dbff0a",
+    "parent_url": null,
+    "root_parent_url": "chain://eip155:7777777/erc721:0x5d6a07d07354f8793d1ca06280c4adf04767ad7e",
+    "parent_author": {
+      "fid": 487070
+    },
+    "text": "https://zora.co/coin/base:0xf6a556ededbbc452b17b3b3a0f7ccbb78c7e8312?referrer=0xdfcf4280e63df05bd39bc2c4bb8d558184b14716",
+    "timestamp": "2025-02-26T11:50:29.000Z",
+    "embeds": [
+      {
+        "url": "https://zora.co/coin/base:0xf6a556ededbbc452b17b3b3a0f7ccbb78c7e8312?referrer=0xdfcf4280e63df05bd39bc2c4bb8d558184b14716",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://zora.co/coin/base:0xf6a556ededbbc452b17b3b3a0f7ccbb78c7e8312",
+            "favicon": "https://zora.co/favicon/favicon.png",
+            "ogImage": [
+              {
+                "url": "https://zora.co/api/og-image/coin/base:0xf6a556ededbbc452b17b3b3a0f7ccbb78c7e8312"
+              }
+            ],
+            "ogTitle": "Stupid Caster",
+            "ogLocale": "en",
+            "ogSiteName": "Zora",
+            "ogDescription": "Too stupid if you think this picture will generate some money for you! "
+          }
+        }
+      }
+    ],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "degen",
+      "name": "Degen",
+      "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4728a50a-1669-4334-1f57-9473c04a2500/original"
+    },
+    "reactions": {
+      "likes_count": 1,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 487070,
+          "fname": "tylerfoust.eth"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": false
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0x56d56c949587da24d0be2f15b020ff6856360302",
+    "author": {
+      "object": "user",
+      "fid": 904150,
+      "username": "superstupidcast",
+      "display_name": "Super Stupid Caster",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f7ddc5fb-e209-4bb1-dabb-2f33f437c200/rectcrop3",
+      "custody_address": "0xdc474b14a44b7bfb068e096981f9817c09379d75",
+      "profile": {
+        "bio": {
+          "text": "Its not AI, not cool stuff, not even good to know it.\nJust Super Stupid Cast"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0x91150da55382ee86dd9b9bfbe91261ec1ca79bc7",
+        "0x28a14f8805fb82ec308eacd528e143084e0f940d"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x91150da55382ee86dd9b9bfbe91261ec1ca79bc7",
+          "0x28a14f8805fb82ec308eacd528e143084e0f940d"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x28a14f8805fb82ec308eacd528e143084e0f940d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xb07bc6465ae8c288c6a0a801a1f73821511fc7c8",
+    "parent_hash": "0xb07bc6465ae8c288c6a0a801a1f73821511fc7c8",
+    "parent_url": null,
+    "root_parent_url": "chain://eip155:1/erc721:0xca21d4228cdcc68d4e23807e5e370c07577dd152",
+    "parent_author": {
+      "fid": 99
+    },
+    "text": "0xf6a556ededbbc452b17b3b3a0f7ccbb78c7e8312\n\nFeels strange if a donkey like me becomes your favorites 🫠",
+    "timestamp": "2025-02-26T11:46:02.000Z",
+    "embeds": [
+      {
+        "url": "https://warpcast.com/~/ca/0xf6a556ededbbc452b17b3b3a0f7ccbb78c7e8312",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://warpcast.com/~/ca/0xf6a556ededbbc452b17b3b3a0f7ccbb78c7e8312",
+            "ogType": "website",
+            "favicon": "/favicon.png",
+            "ogImage": [
+              {
+                "url": "https://wrpcd.net/cdn-cgi/image/anim=false,fit=contain,f=auto,w=256/https%3A%2F%2Fipfs.decentralized-content.com%2Fipfs%2Fbafybeie2en4sople3aq4zy6q74ysyx532cjsz7rmei3aiwki6uvrdzfeqa",
+                "width": "256",
+                "height": "256"
+              }
+            ],
+            "ogTitle": "$Stupid Caster on Warpcast",
+            "ogLocale": "en",
+            "ogSiteName": "Warpcast"
+          }
+        }
+      }
+    ],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "zora",
+      "name": "Zora",
+      "image_url": "https://i.imgur.com/3BN8GSF.png"
+    },
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": true
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0xc45f7022d0681dd45654727e268ee909723f91ef",
+    "author": {
+      "object": "user",
+      "fid": 904150,
+      "username": "superstupidcast",
+      "display_name": "Super Stupid Caster",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f7ddc5fb-e209-4bb1-dabb-2f33f437c200/rectcrop3",
+      "custody_address": "0xdc474b14a44b7bfb068e096981f9817c09379d75",
+      "profile": {
+        "bio": {
+          "text": "Its not AI, not cool stuff, not even good to know it.\nJust Super Stupid Cast"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0x91150da55382ee86dd9b9bfbe91261ec1ca79bc7",
+        "0x28a14f8805fb82ec308eacd528e143084e0f940d"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x91150da55382ee86dd9b9bfbe91261ec1ca79bc7",
+          "0x28a14f8805fb82ec308eacd528e143084e0f940d"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x28a14f8805fb82ec308eacd528e143084e0f940d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xc45f7022d0681dd45654727e268ee909723f91ef",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "I think I found a cute friend 🤭\n\n0xf6a556ededbbc452b17b3b3a0f7ccbb78c7e8312",
+    "timestamp": "2025-02-26T11:43:26.000Z",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 487070,
+          "hash": "0xa8817c346a199eff7f654b2d8f578c8338dbff0a"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0xa8817c346a199eff7f654b2d8f578c8338dbff0a",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 487070,
+            "username": "tylerfoust.eth",
+            "display_name": "TylerFoust🎩Ⓜ️",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f267d34f-ed97-482a-89a9-ac276cd49000/rectcrop3",
+            "custody_address": "0xd3d924a04ddebe6232fd98d21a235deed4b0fe00"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0xa8817c346a199eff7f654b2d8f578c8338dbff0a",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:7777777/erc721:0x5d6a07d07354f8793d1ca06280c4adf04767ad7e",
+          "root_parent_url": "chain://eip155:7777777/erc721:0x5d6a07d07354f8793d1ca06280c4adf04767ad7e",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Rain 6666 $Degen ☔️\n\nMy bichon Viksy likes this purple hat and she wants to share $DEGEN with you.\n\nSend picture with hat in comments.\n\nHat stay ON 🎩",
+          "timestamp": "2025-02-26T11:29:25.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2b2625a8-4281-4219-099f-b6b1efbb4b00/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 372301,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 960,
+                  "height_px": 1280
+                }
+              }
+            },
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/43f44522-3807-40af-ee96-a88fd0c86300/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 373606,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 960,
+                  "height_px": 1280
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "degen",
+            "name": "Degen",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4728a50a-1669-4334-1f57-9473c04a2500/original"
+          }
+        }
+      },
+      {
+        "url": "https://warpcast.com/~/ca/0xf6a556ededbbc452b17b3b3a0f7ccbb78c7e8312",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://warpcast.com/~/ca/0xf6a556ededbbc452b17b3b3a0f7ccbb78c7e8312",
+            "ogType": "website",
+            "favicon": "/favicon.png",
+            "ogImage": [
+              {
+                "url": "https://wrpcd.net/cdn-cgi/image/anim=false,fit=contain,f=auto,w=256/https%3A%2F%2Fipfs.decentralized-content.com%2Fipfs%2Fbafybeie2en4sople3aq4zy6q74ysyx532cjsz7rmei3aiwki6uvrdzfeqa",
+                "width": "256",
+                "height": "256"
+              }
+            ],
+            "ogTitle": "$Stupid Caster on Warpcast",
+            "ogLocale": "en",
+            "ogSiteName": "Warpcast"
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 3,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 803773,
+          "fname": "phant0m7"
+        },
+        {
+          "fid": 913157,
+          "fname": "alishagod"
+        },
+        {
+          "fid": 904150,
+          "fname": "superstupidcast"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xc74233113eef10c2cf397997b7f98b00e4e2b071",
+    "author": {
+      "object": "user",
+      "fid": 904150,
+      "username": "superstupidcast",
+      "display_name": "Super Stupid Caster",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f7ddc5fb-e209-4bb1-dabb-2f33f437c200/rectcrop3",
+      "custody_address": "0xdc474b14a44b7bfb068e096981f9817c09379d75",
+      "profile": {
+        "bio": {
+          "text": "Its not AI, not cool stuff, not even good to know it.\nJust Super Stupid Cast"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0x91150da55382ee86dd9b9bfbe91261ec1ca79bc7",
+        "0x28a14f8805fb82ec308eacd528e143084e0f940d"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x91150da55382ee86dd9b9bfbe91261ec1ca79bc7",
+          "0x28a14f8805fb82ec308eacd528e143084e0f940d"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x28a14f8805fb82ec308eacd528e143084e0f940d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xa8817c346a199eff7f654b2d8f578c8338dbff0a",
+    "parent_hash": "0xa8817c346a199eff7f654b2d8f578c8338dbff0a",
+    "parent_url": null,
+    "root_parent_url": "chain://eip155:7777777/erc721:0x5d6a07d07354f8793d1ca06280c4adf04767ad7e",
+    "parent_author": {
+      "fid": 487070
+    },
+    "text": "0xf6a556ededbbc452b17b3b3a0f7ccbb78c7e8312\n\nHello cute girl!",
+    "timestamp": "2025-02-26T11:41:11.000Z",
+    "embeds": [
+      {
+        "url": "https://warpcast.com/~/ca/0xf6a556ededbbc452b17b3b3a0f7ccbb78c7e8312",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://warpcast.com/~/ca/0xf6a556ededbbc452b17b3b3a0f7ccbb78c7e8312",
+            "ogType": "website",
+            "favicon": "/favicon.png",
+            "ogImage": [
+              {
+                "url": "https://wrpcd.net/cdn-cgi/image/anim=false,fit=contain,f=auto,w=256/https%3A%2F%2Fipfs.decentralized-content.com%2Fipfs%2Fbafybeie2en4sople3aq4zy6q74ysyx532cjsz7rmei3aiwki6uvrdzfeqa",
+                "width": "256",
+                "height": "256"
+              }
+            ],
+            "ogTitle": "$Stupid Caster on Warpcast",
+            "ogLocale": "en",
+            "ogSiteName": "Warpcast"
+          }
+        }
+      }
+    ],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "degen",
+      "name": "Degen",
+      "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4728a50a-1669-4334-1f57-9473c04a2500/original"
+    },
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": false
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0x7d085059b93499ae76ada284eba6160379d2cc64",
+    "author": {
+      "object": "user",
+      "fid": 904150,
+      "username": "superstupidcast",
+      "display_name": "Super Stupid Caster",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f7ddc5fb-e209-4bb1-dabb-2f33f437c200/rectcrop3",
+      "custody_address": "0xdc474b14a44b7bfb068e096981f9817c09379d75",
+      "profile": {
+        "bio": {
+          "text": "Its not AI, not cool stuff, not even good to know it.\nJust Super Stupid Cast"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0x91150da55382ee86dd9b9bfbe91261ec1ca79bc7",
+        "0x28a14f8805fb82ec308eacd528e143084e0f940d"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x91150da55382ee86dd9b9bfbe91261ec1ca79bc7",
+          "0x28a14f8805fb82ec308eacd528e143084e0f940d"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x28a14f8805fb82ec308eacd528e143084e0f940d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x7d085059b93499ae76ada284eba6160379d2cc64",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "Pilled on zoracoins\n0xf6a556ededbbc452b17b3b3a0f7ccbb78c7e8312",
+    "timestamp": "2025-02-26T11:00:42.000Z",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 1711,
+          "hash": "0x4b3a82cb0a50b1cf15fad53b1a3f836b93907e6e"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x4b3a82cb0a50b1cf15fad53b1a3f836b93907e6e",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 1711,
+            "username": "wowbestie",
+            "display_name": "lauren connolly",
+            "pfp_url": "https://i.imgur.com/EvSPi5z.jpg",
+            "custody_address": "0xd6b2d1a745e1b19d429e3a2fe62d043575d38371"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x4b3a82cb0a50b1cf15fad53b1a3f836b93907e6e",
+          "parent_hash": null,
+          "parent_url": "chain://eip155:1/erc721:0xca21d4228cdcc68d4e23807e5e370c07577dd152",
+          "root_parent_url": "chain://eip155:1/erc721:0xca21d4228cdcc68d4e23807e5e370c07577dd152",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "pilled on zoracoins",
+          "timestamp": "2025-02-26T03:19:47.000Z",
+          "embeds": [
+            {
+              "cast_id": {
+                "fid": 3895,
+                "hash": "0x3f430f73ac27546dc495ad05acaf14d7db011e50"
+              },
+              "cast": {
+                "object": "cast_dehydrated",
+                "hash": "0x3f430f73ac27546dc495ad05acaf14d7db011e50",
+                "author": {
+                  "object": "user_dehydrated",
+                  "fid": 3895
+                },
+                "app": {
+                  "object": "user_dehydrated",
+                  "fid": 9152
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "zora",
+            "name": "Zora",
+            "image_url": "https://i.imgur.com/3BN8GSF.png"
+          }
+        }
+      },
+      {
+        "url": "https://warpcast.com/~/ca/0xf6a556ededbbc452b17b3b3a0f7ccbb78c7e8312",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://warpcast.com/~/ca/0xf6a556ededbbc452b17b3b3a0f7ccbb78c7e8312",
+            "ogType": "website",
+            "favicon": "/favicon.png",
+            "ogImage": [
+              {
+                "url": "https://wrpcd.net/cdn-cgi/image/anim=false,fit=contain,f=auto,w=256/https%3A%2F%2Fipfs.decentralized-content.com%2Fipfs%2Fbafybeie2en4sople3aq4zy6q74ysyx532cjsz7rmei3aiwki6uvrdzfeqa",
+                "width": "256",
+                "height": "256"
+              }
+            ],
+            "ogTitle": "$Stupid Caster on Warpcast",
+            "ogLocale": "en",
+            "ogSiteName": "Warpcast"
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 1,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 913157,
+          "fname": "alishagod"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x48094cf98c783484e834f3735395f9c6b7bbb52d",
+    "author": {
+      "object": "user",
+      "fid": 904150,
+      "username": "superstupidcast",
+      "display_name": "Super Stupid Caster",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f7ddc5fb-e209-4bb1-dabb-2f33f437c200/rectcrop3",
+      "custody_address": "0xdc474b14a44b7bfb068e096981f9817c09379d75",
+      "profile": {
+        "bio": {
+          "text": "Its not AI, not cool stuff, not even good to know it.\nJust Super Stupid Cast"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0x91150da55382ee86dd9b9bfbe91261ec1ca79bc7",
+        "0x28a14f8805fb82ec308eacd528e143084e0f940d"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x91150da55382ee86dd9b9bfbe91261ec1ca79bc7",
+          "0x28a14f8805fb82ec308eacd528e143084e0f940d"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x28a14f8805fb82ec308eacd528e143084e0f940d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x48094cf98c783484e834f3735395f9c6b7bbb52d",
+    "parent_hash": null,
+    "parent_url": "chain://eip155:1/erc721:0xca21d4228cdcc68d4e23807e5e370c07577dd152",
+    "root_parent_url": "chain://eip155:1/erc721:0xca21d4228cdcc68d4e23807e5e370c07577dd152",
+    "parent_author": {
+      "fid": null
+    },
+    "text": "@zora @jacob @jessepollak \n\nhttps://zora.co/coin/base:0xf6a556ededbbc452b17b3b3a0f7ccbb78c7e8312?referrer=0xdfcf4280e63df05bd39bc2c4bb8d558184b14716",
+    "timestamp": "2025-02-26T10:59:04.000Z",
+    "embeds": [
+      {
+        "url": "https://zora.co/coin/base:0xf6a556ededbbc452b17b3b3a0f7ccbb78c7e8312?referrer=0xdfcf4280e63df05bd39bc2c4bb8d558184b14716",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://zora.co/coin/base:0xf6a556ededbbc452b17b3b3a0f7ccbb78c7e8312",
+            "favicon": "https://zora.co/favicon/favicon.png",
+            "ogImage": [
+              {
+                "url": "https://zora.co/api/og-image/coin/base:0xf6a556ededbbc452b17b3b3a0f7ccbb78c7e8312"
+              }
+            ],
+            "ogTitle": "Stupid Caster",
+            "ogLocale": "en",
+            "ogSiteName": "Zora",
+            "ogDescription": "Too stupid if you think this picture will generate some money for you! "
+          }
+        }
+      }
+    ],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "zora",
+      "name": "Zora",
+      "image_url": "https://i.imgur.com/3BN8GSF.png"
+    },
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 20910,
+        "username": "zora",
+        "display_name": "Zora",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1b471987-45b1-48e3-6af4-44929b6e4900/original",
+        "custody_address": "0x0acfb12705d3c61e221d3f5e2137f3005d7022f9",
+        "profile": {
+          "bio": {
+            "text": "coin your content"
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [],
+        "verified_addresses": {
+          "eth_addresses": [],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": null,
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [],
+        "power_badge": true
+      },
+      {
+        "object": "user",
+        "fid": 8,
+        "username": "jacob",
+        "display_name": "jacob",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/89ed9bfb-655c-472d-e907-6a3da8d2ec00/rectcrop3",
+        "custody_address": "0xc6e3004b0e54a91da8d87ace80b6abc64d23e33f",
+        "profile": {
+          "bio": {
+            "text": "Working on @zora, zora.co.\n +++???!!!",
+            "mentioned_profiles": [
+              {
+                "object": "user_dehydrated",
+                "fid": 20910,
+                "username": "zora",
+                "display_name": "Zora",
+                "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1b471987-45b1-48e3-6af4-44929b6e4900/original",
+                "custody_address": "0x0acfb12705d3c61e221d3f5e2137f3005d7022f9"
+              }
+            ],
+            "mentioned_profiles_ranges": [
+              {
+                "start": 11,
+                "end": 16
+              }
+            ]
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [
+          "0x17cd072cbd45031efc21da538c783e0ed3b25dcc",
+          "0x10783602f0754c4ba3d5ff5da515e9dd2ce6ef5c"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x17cd072cbd45031efc21da538c783e0ed3b25dcc",
+            "0x10783602f0754c4ba3d5ff5da515e9dd2ce6ef5c"
+          ],
+          "sol_addresses": [
+            "8Zk82d8GiiqzP4gc55fsVRFUpvGdHKR3UxiKS85GsD4v"
+          ],
+          "primary": {
+            "eth_address": "0x10783602f0754c4ba3d5ff5da515e9dd2ce6ef5c",
+            "sol_address": "8Zk82d8GiiqzP4gc55fsVRFUpvGdHKR3UxiKS85GsD4v"
+          }
+        },
+        "verified_accounts": [
+          {
+            "platform": "x",
+            "username": "js_horne"
+          }
+        ],
+        "power_badge": true
+      },
+      {
+        "object": "user",
+        "fid": 99,
+        "username": "jessepollak",
+        "display_name": "jesse.base.eth 🔵",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1013b0f6-1bf4-4f4e-15fb-34be06fede00/original",
+        "custody_address": "0x4ce34af3378a00c640125e4dbf4c9e64dff4c93b",
+        "profile": {
+          "bio": {
+            "text": "@base builder #001; onchain cities w/ OAK & city3",
+            "mentioned_profiles": [
+              {
+                "object": "user_dehydrated",
+                "fid": 12142,
+                "username": "base",
+                "display_name": "Base",
+                "pfp_url": "https://i.imgur.com/7Q0QBrm.jpg",
+                "custody_address": "0x04e6f111ebf6fd25576d480480962435dc3aa8d8"
+              }
+            ],
+            "mentioned_profiles_ranges": [
+              {
+                "start": 0,
+                "end": 5
+              }
+            ]
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [
+          "0x849151d7d0bf1f34b70d5cad5149d28cc2308bf1",
+          "0xe73f9c181b571cac2bf3173634d04a9921b7ffcf",
+          "0x6e0d9c6dd8a08509bb625caa35dc61a991406f62",
+          "0x2211d1d0020daea8039e46cf1367962070d77da9",
+          "0x8e86e5331d3a020909c9e42ea9051675555f5e49",
+          "0x6adea326faea1b688af33df59e18f7a819bcaa4f",
+          "0x85c0ba9e1456bc755a6ce69e1a85ccaa1faa9e41"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x849151d7d0bf1f34b70d5cad5149d28cc2308bf1",
+            "0xe73f9c181b571cac2bf3173634d04a9921b7ffcf",
+            "0x6e0d9c6dd8a08509bb625caa35dc61a991406f62",
+            "0x2211d1d0020daea8039e46cf1367962070d77da9",
+            "0x8e86e5331d3a020909c9e42ea9051675555f5e49",
+            "0x6adea326faea1b688af33df59e18f7a819bcaa4f",
+            "0x85c0ba9e1456bc755a6ce69e1a85ccaa1faa9e41"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0x849151d7d0bf1f34b70d5cad5149d28cc2308bf1",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [],
+        "power_badge": true
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 0,
+        "end": 5
+      },
+      {
+        "start": 6,
+        "end": 12
+      },
+      {
+        "start": 13,
+        "end": 25
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": true
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0xcbd3a6dcde6618215e51c868c523fe2aa703b165",
+    "author": {
+      "object": "user",
+      "fid": 904150,
+      "username": "superstupidcast",
+      "display_name": "Super Stupid Caster",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f7ddc5fb-e209-4bb1-dabb-2f33f437c200/rectcrop3",
+      "custody_address": "0xdc474b14a44b7bfb068e096981f9817c09379d75",
+      "profile": {
+        "bio": {
+          "text": "Its not AI, not cool stuff, not even good to know it.\nJust Super Stupid Cast"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0x91150da55382ee86dd9b9bfbe91261ec1ca79bc7",
+        "0x28a14f8805fb82ec308eacd528e143084e0f940d"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x91150da55382ee86dd9b9bfbe91261ec1ca79bc7",
+          "0x28a14f8805fb82ec308eacd528e143084e0f940d"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x28a14f8805fb82ec308eacd528e143084e0f940d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xcbd3a6dcde6618215e51c868c523fe2aa703b165",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "Join me on Bracket Frame...",
+    "timestamp": "2025-02-10T02:39:29.000Z",
+    "embeds": [
+      {
+        "url": "https://f.bracket.game/nfl25?ref=tmdm8za",
+        "metadata": {
+          "content_type": "text/html",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://f.bracket.game",
+            "ogType": "website",
+            "favicon": "/favicons/favicon.ico?v=3",
+            "ogImage": [
+              {
+                "url": "https://assets.bracket.game/frames/bracket-nfl.jpg",
+                "type": "jpg"
+              }
+            ],
+            "ogTitle": "🏈 Join @superstupidcast on Bracket",
+            "ogLocale": "en",
+            "ogDescription": "superstupidcast invited you to join their NFL Playoffs pool on Bracket!"
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 2,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 807079,
+          "fname": "tr4nquil17"
+        },
+        {
+          "fid": 913157,
+          "fname": "alishagod"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x9dc8d9e87356becdc663a9703aafbe2bd216a5e1",
+    "author": {
+      "object": "user",
+      "fid": 904150,
+      "username": "superstupidcast",
+      "display_name": "Super Stupid Caster",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f7ddc5fb-e209-4bb1-dabb-2f33f437c200/rectcrop3",
+      "custody_address": "0xdc474b14a44b7bfb068e096981f9817c09379d75",
+      "profile": {
+        "bio": {
+          "text": "Its not AI, not cool stuff, not even good to know it.\nJust Super Stupid Cast"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0x91150da55382ee86dd9b9bfbe91261ec1ca79bc7",
+        "0x28a14f8805fb82ec308eacd528e143084e0f940d"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x91150da55382ee86dd9b9bfbe91261ec1ca79bc7",
+          "0x28a14f8805fb82ec308eacd528e143084e0f940d"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x28a14f8805fb82ec308eacd528e143084e0f940d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xab2f283494d63937eff28e05fd1b60c83ec3a571",
+    "parent_hash": "0xab2f283494d63937eff28e05fd1b60c83ec3a571",
+    "parent_url": null,
+    "root_parent_url": "https://warpcast.com/~/channel/blobz",
+    "parent_author": {
+      "fid": 863277
+    },
+    "text": "Can u please check my dc sir? @blobz",
+    "timestamp": "2025-01-01T19:11:10.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "blobz",
+      "name": "blobz",
+      "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/13d624d4-73c9-49f8-bc64-9143506b9400/original"
+    },
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 863277,
+        "username": "blobz",
+        "display_name": "blobz-wtf.eth",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a657cdbd-848b-41de-118e-58f2f233d900/original",
+        "custody_address": "0x3bdd934340c7788b7bf3538f2985c1ad65e02693",
+        "profile": {
+          "bio": {
+            "text": "$BLOBZ is the only token whose scarcity is tied to Ethereum blobs. Learn how to mint your own:\nhttps://blobz.wtf"
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [
+          "0xb26169ee03df574ecba5ca6550462359b587537f"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0xb26169ee03df574ecba5ca6550462359b587537f"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0xb26169ee03df574ecba5ca6550462359b587537f",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [
+          {
+            "platform": "x",
+            "username": "blobz_wtf"
+          }
+        ],
+        "power_badge": false
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 30,
+        "end": 36
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": true
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0xae11471ece76065c0ebcfd529bea8aa9106585ab",
+    "author": {
+      "object": "user",
+      "fid": 904150,
+      "username": "superstupidcast",
+      "display_name": "Super Stupid Caster",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f7ddc5fb-e209-4bb1-dabb-2f33f437c200/rectcrop3",
+      "custody_address": "0xdc474b14a44b7bfb068e096981f9817c09379d75",
+      "profile": {
+        "bio": {
+          "text": "Its not AI, not cool stuff, not even good to know it.\nJust Super Stupid Cast"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0x91150da55382ee86dd9b9bfbe91261ec1ca79bc7",
+        "0x28a14f8805fb82ec308eacd528e143084e0f940d"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x91150da55382ee86dd9b9bfbe91261ec1ca79bc7",
+          "0x28a14f8805fb82ec308eacd528e143084e0f940d"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x28a14f8805fb82ec308eacd528e143084e0f940d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xae11471ece76065c0ebcfd529bea8aa9106585ab",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "I just subscribed to @blobz on /paragraph! Check it out:",
+    "timestamp": "2025-01-01T19:09:55.000Z",
+    "embeds": [
+      {
+        "url": "https://paragraph.xyz/@blobz?referrer=0xdc474b14a44b7bfb068e096981f9817c09379d75",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://paragraph.xyz/@blobz",
+            "ogDate": "2025-01-02T21:15:47.660Z",
+            "ogType": "website",
+            "favicon": "/favicon-32x32.png",
+            "ogImage": [
+              {
+                "url": "https://paragraph-nextjs-7b2r28923.paragraph.xyz/api/share_img?img=&title=blobz-wtf.eth&description=&primaryColor=&showSubscribeBtn=true"
+              }
+            ],
+            "ogTitle": "blobz-wtf.eth",
+            "ogLocale": "en",
+            "ogDescription": "Create, publish and share onchain blogs & newsletters."
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 863277,
+        "username": "blobz",
+        "display_name": "blobz-wtf.eth",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a657cdbd-848b-41de-118e-58f2f233d900/original",
+        "custody_address": "0x3bdd934340c7788b7bf3538f2985c1ad65e02693",
+        "profile": {
+          "bio": {
+            "text": "$BLOBZ is the only token whose scarcity is tied to Ethereum blobs. Learn how to mint your own:\nhttps://blobz.wtf"
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [
+          "0xb26169ee03df574ecba5ca6550462359b587537f"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0xb26169ee03df574ecba5ca6550462359b587537f"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0xb26169ee03df574ecba5ca6550462359b587537f",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [
+          {
+            "platform": "x",
+            "username": "blobz_wtf"
+          }
+        ],
+        "power_badge": false
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 21,
+        "end": 27
+      }
+    ],
+    "mentioned_channels": [
+      {
+        "object": "channel_dehydrated",
+        "id": "paragraph",
+        "name": "Paragraph"
+      }
+    ],
+    "mentioned_channels_ranges": [
+      {
+        "start": 31,
+        "end": 41
+      }
+    ]
+  },
+  {
+    "object": "cast",
+    "hash": "0xb03a16895caeee22a6e8670a326bccbcd268d8ab",
+    "author": {
+      "object": "user",
+      "fid": 904150,
+      "username": "superstupidcast",
+      "display_name": "Super Stupid Caster",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f7ddc5fb-e209-4bb1-dabb-2f33f437c200/rectcrop3",
+      "custody_address": "0xdc474b14a44b7bfb068e096981f9817c09379d75",
+      "profile": {
+        "bio": {
+          "text": "Its not AI, not cool stuff, not even good to know it.\nJust Super Stupid Cast"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0x91150da55382ee86dd9b9bfbe91261ec1ca79bc7",
+        "0x28a14f8805fb82ec308eacd528e143084e0f940d"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x91150da55382ee86dd9b9bfbe91261ec1ca79bc7",
+          "0x28a14f8805fb82ec308eacd528e143084e0f940d"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x28a14f8805fb82ec308eacd528e143084e0f940d",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xb03a16895caeee22a6e8670a326bccbcd268d8ab",
+    "parent_hash": null,
+    "parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+    "root_parent_url": "chain://eip155:7777777/erc721:0x4f86113fc3e9783cf3ec9a552cbb566716a57628",
+    "parent_author": {
+      "fid": null
+    },
+    "text": "First NFT @kompreni",
+    "timestamp": "2024-12-30T18:46:51.000Z",
+    "embeds": [
+      {
+        "url": "https://warped.art/mint/0x245489Cb730e00Bf43525c82C72E88f27d05Ee9C",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon.ico",
+            "ogImage": [
+              {
+                "alt": "Hello Frame",
+                "url": "https://warped.art/mint/0x245489Cb730e00Bf43525c82C72E88f27d05Ee9C/opengraph-image?ecde9ce4ce8f36e5",
+                "type": "image/png",
+                "width": "600",
+                "height": "400"
+              }
+            ],
+            "ogTitle": "SuperStupid",
+            "ogLocale": "en",
+            "ogDescription": "First NFT on Warped"
+          }
+        }
+      }
+    ],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "farcaster",
+      "name": "Farcaster",
+      "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreialf5usxssf2eu3e5ct37zzdd553d7lg7oywvdszmrg5p2zpkta7u"
+    },
+    "reactions": {
+      "likes_count": 1,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 904150,
+          "fname": "superstupidcast"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 15732,
+        "username": "kompreni",
+        "display_name": "kompreni 🚂",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/987efd90-4c51-44b5-203f-0c169a7c7f00/original",
+        "custody_address": "0xc1705301ecebedb3f85cb79330a855b847f80016",
+        "profile": {
+          "bio": {
+            "text": "Onchain startups. /rebase, /basedjobs and more",
+            "mentioned_channels": [
+              {
+                "object": "channel_dehydrated",
+                "id": "rebase",
+                "name": "Rebase",
+                "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/670927af-5edb-428f-07f1-268b25212700/original"
+              },
+              {
+                "object": "channel_dehydrated",
+                "id": "basedjobs",
+                "name": "based.jobs",
+                "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/65078396-3f88-47e5-8d05-77d1afc9d300/original"
+              }
+            ],
+            "mentioned_channels_ranges": [
+              {
+                "start": 18,
+                "end": 25
+              },
+              {
+                "start": 27,
+                "end": 37
+              }
+            ]
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [
+          "0x4133c79e575591b6c380c233fffb47a13348de86",
+          "0x0aadd2e08f1bf4be8b82ca6e402b7b76b3db76e9",
+          "0x30ac71b1a1b0384c4c8b17e87d863cc4a2f3db28"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x4133c79e575591b6c380c233fffb47a13348de86",
+            "0x0aadd2e08f1bf4be8b82ca6e402b7b76b3db76e9",
+            "0x30ac71b1a1b0384c4c8b17e87d863cc4a2f3db28"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0x0aadd2e08f1bf4be8b82ca6e402b7b76b3db76e9",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [
+          {
+            "platform": "x",
+            "username": "kompreni"
+          }
+        ],
+        "power_badge": true
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 10,
+        "end": 19
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": true
+    }
+  }
+]

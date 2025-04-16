@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "💬",
+      "label": "Communication Style",
+      "description": "How will your FarTwin communicate with others?",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Your FarTwin will communicate clearly and straightforwardly, stating opinions without hesitation or sugar-coating."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Your FarTwin will communicate tactfully and considerately, carefully choosing words to maintain harmony."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Emotional Expression",
+      "description": "How will your FarTwin express emotions?",
+      "options": [
+        {
+          "value": "Openly",
+          "description": "Your FarTwin will openly express emotions, wearing their heart on their sleeve."
+        },
+        {
+          "value": "Reservedly",
+          "description": "Your FarTwin will keep emotions to themselves, rarely showing vulnerability."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Conflict Resolution",
+      "description": "How will your FarTwin handle conflicts?",
+      "options": [
+        {
+          "value": "Aggressively",
+          "description": "Your FarTwin will aggressively assert their position and fight for what they believe in."
+        },
+        {
+          "value": "Passively",
+          "description": "Your FarTwin will avoid conflict and seek compromise, prioritizing harmony over confrontation."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Decision Making",
+      "description": "How will your FarTwin make decisions?",
+      "options": [
+        {
+          "value": "Rationally",
+          "description": "Your FarTwin will base decisions on logic and reason, weighing all available options."
+        },
+        {
+          "value": "Intuitively",
+          "description": "Your FarTwin will trust their instincts and make decisions based on gut feelings rather than analysis."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin approach risk?",
+      "options": [
+        {
+          "value": "Thrill-Seeker",
+          "description": "Your FarTwin will actively seek out new challenges and take calculated risks to push their limits."
+        },
+        {
+          "value": "Cautious",
+          "description": "Your FarTwin will prefer safety and stability, avoiding risks whenever possible."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Social Preferences",
+      "description": "How will your FarTwin interact with others?",
+      "options": [
+        {
+          "value": "Extroverted",
+          "description": "Your FarTwin will be outgoing and sociable, enjoying the company of large groups."
+        },
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin will prefer smaller, more intimate settings, recharging in solitude."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Adaptability",
+      "description": "How will your FarTwin adapt to change?",
+      "options": [
+        {
+          "value": "Flexible",
+          "description": "Your FarTwin will easily adjust to new situations and roll with the punches."
+        },
+        {
+          "value": "Resistant",
+          "description": "Your FarTwin will struggle with change, preferring routine and stability."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Responsibility",
+      "description": "How will your FarTwin handle responsibilities?",
+      "options": [
+        {
+          "value": "Proactive",
+          "description": "Your FarTwin will take initiative and be proactive about completing tasks."
+        },
+        {
+          "value": "Reactive",
+          "description": "Your FarTwin will wait for others to assign or initiate tasks, preferring not to take the lead."
+        }
+      ]
+    }
+  ]
+}

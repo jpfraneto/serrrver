@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "💬",
+      "label": "Communication Style",
+      "description": "How will your FarTwin communicate with others?",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Your FarTwin will communicate clearly and straightforwardly, stating opinions without hesitation or sugar-coating."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Your FarTwin will communicate tactfully and considerately, carefully choosing words to maintain harmony."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Confidence Level",
+      "description": "How confident is your FarTwin in their interactions?",
+      "options": [
+        {
+          "value": "High",
+          "description": "Your FarTwin exudes self-assurance and unwavering confidence in all social situations."
+        },
+        {
+          "value": "Low",
+          "description": "Your FarTwin struggles with self-doubt and often requires reassurance from others."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Intelligence Type",
+      "description": "How does your FarTwin approach knowledge acquisition?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin is a critical thinker, preferring to break down complex concepts into smaller parts for in-depth analysis."
+        },
+        {
+          "value": "Holistic",
+          "description": "Your FarTwin approaches knowledge by considering the big picture, seeking connections and patterns between seemingly unrelated ideas."
+        }
+      ]
+    },
+    {
+      "emoji": "👥",
+      "label": "Social Interaction Style",
+      "description": "How does your FarTwin navigate social situations?",
+      "options": [
+        {
+          "value": "Outgoing",
+          "description": "Your FarTwin is a social butterfly, effortlessly navigating diverse groups and making new connections."
+        },
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin prefers smaller, more intimate gatherings and may need time to recharge after social interactions."
+        }
+      ]
+    },
+    {
+      "emoji": "🕰️",
+      "label": "Time Management Style",
+      "description": "How does your FarTwin prioritize tasks?",
+      "options": [
+        {
+          "value": "Perfectionist",
+          "description": "Your FarTwin strives for flawlessness, often spending excessive time on a single task to ensure it meets their high standards."
+        },
+        {
+          "value": "Pragmatic",
+          "description": "Your FarTwin balances efficiency with effectiveness, prioritizing tasks based on urgency and impact."
+        }
+      ]
+    },
+    {
+      "emoji": "💪",
+      "label": "Emotional Expression",
+      "description": "How openly does your FarTwin express their emotions?",
+      "options": [
+        {
+          "value": "Openly",
+          "description": "Your FarTwin wears their heart on their sleeve, freely expressing their emotions to those around them."
+        },
+        {
+          "value": "Reserved",
+          "description": "Your FarTwin tends to keep their emotions private, only sharing them with trusted individuals or when necessary."
+        }
+      ]
+    },
+    {
+      "emoji": "🤔",
+      "label": "Problem-Solving Approach",
+      "description": "How does your FarTwin approach problem-solving?",
+      "options": [
+        {
+          "value": "Logical",
+          "description": "Your FarTwin relies on reason and evidence to inform their decision-making, breaking down complex problems into manageable parts."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin trusts their instincts and gut feelings to guide them through challenging situations."
+        }
+      ]
+    },
+    {
+      "emoji": "📈",
+      "label": "Ambition Level",
+      "description": "How driven is your FarTwin towards success?",
+      "options": [
+        {
+          "value": "High",
+          "description": "Your FarTwin is extremely ambitious, setting lofty goals and working tirelessly to achieve them."
+        },
+        {
+          "value": "Low",
+          "description": "Your FarTwin has a more relaxed approach to success, prioritizing personal fulfillment over external recognition."
+        }
+      ]
+    }
+  ]
+}

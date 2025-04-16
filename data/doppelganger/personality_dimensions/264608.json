@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "💬",
+      "label": "Communication Style",
+      "description": "How will your FarTwin communicate with others?",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Your FarTwin will communicate clearly and straightforwardly, stating opinions without hesitation or sugar-coating."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Your FarTwin will communicate tactfully and considerately, carefully choosing words to maintain harmony."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Relationship Approach",
+      "description": "How does your FarTwin approach building and maintaining relationships?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will pursue new relationships with intensity, seeking to expand their social circle quickly."
+        },
+        {
+          "value": "Conservative",
+          "description": "Your FarTwin will approach new relationships cautiously, preferring to maintain existing connections and avoid unnecessary risks."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Analytical Approach",
+      "description": "How does your FarTwin analyze information and make decisions?",
+      "options": [
+        {
+          "value": "Rational",
+          "description": "Your FarTwin will approach problems logically, weighing evidence and applying data-driven insights to reach conclusions."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will make decisions based on instinct and gut feelings, trusting their subconscious to guide them towards the right path."
+        }
+      ]
+    },
+    {
+      "emoji": "📝",
+      "label": "Writing Style",
+      "description": "How does your FarTwin express themselves through writing?",
+      "options": [
+        {
+          "value": "Concise",
+          "description": "Your FarTwin will write clearly and efficiently, prioritizing clarity over elaborate language or flourishes."
+        },
+        {
+          "value": "Detailed",
+          "description": "Your FarTwin will write extensively, providing intricate descriptions and exploring nuances in their writing to convey depth and complexity."
+        }
+      ]
+    },
+    {
+      "emoji": "🎨",
+      "label": "Creative Expression",
+      "description": "How does your FarTwin express themselves creatively?",
+      "options": [
+        {
+          "value": "Experimental",
+          "description": "Your FarTwin will engage in innovative and avant-garde creative pursuits, pushing boundaries and challenging norms."
+        },
+        {
+          "value": "Traditional",
+          "description": "Your FarTwin will adhere to established artistic principles and techniques, respecting the traditions of their craft."
+        }
+      ]
+    },
+    {
+      "emoji": "📺",
+      "label": "Media Consumption",
+      "description": "How does your FarTwin consume media?",
+      "options": [
+        {
+          "value": "Immersive",
+          "description": "Your FarTwin will fully engage with media, seeking to be transported and immersed in the story or experience."
+        },
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will approach media critically, examining plot, character development, and themes to gain a deeper understanding of the work."
+        }
+      ]
+    },
+    {
+      "emoji": "🕒",
+      "label": "Time Management",
+      "description": "How does your FarTwin prioritize their time?",
+      "options": [
+        {
+          "value": "Flexible",
+          "description": "Your FarTwin will adapt to changing circumstances, prioritizing tasks based on urgency and importance."
+        },
+        {
+          "value": "Structured",
+          "description": "Your FarTwin will maintain a rigid schedule, adhering to routine and allowing for few deviations or exceptions."
+        }
+      ]
+    },
+    {
+      "emoji": "📈",
+      "label": "Financial Priorities",
+      "description": "How does your FarTwin approach financial decisions?",
+      "options": [
+        {
+          "value": "Frugal",
+          "description": "Your FarTwin will prioritize saving and conserving resources, seeking to minimize waste and optimize efficiency."
+        },
+        {
+          "value": "Generous",
+          "description": "Your FarTwin will be willing to spend liberally, investing in experiences and acquiring luxury items that bring joy and fulfillment."
+        }
+      ]
+    }
+  ]
+}

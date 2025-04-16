@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "🤔",
+      "label": "Problem-Solving Approach",
+      "description": "How will your FarTwin approach problem-solving?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will methodically break down complex issues into manageable parts, analyzing data and evidence."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on instinct and experience to guide their problem-solving approach, often trusting gut feelings."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Conflict Resolution Style",
+      "description": "How will your FarTwin resolve conflicts?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will assert themselves firmly and confidently, using direct confrontation to resolve disputes."
+        },
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will seek common ground and work towards mutually beneficial solutions, prioritizing cooperation over competition."
+        }
+      ]
+    },
+    {
+      "emoji": "💻",
+      "label": "Technical Comfort Level",
+      "description": "How comfortable is your FarTwin with technical matters?",
+      "options": [
+        {
+          "value": "Expert",
+          "description": "Your FarTwin will be highly proficient in using and understanding technical tools and software, often leveraging them to enhance their work."
+        },
+        {
+          "value": "Casual",
+          "description": "Your FarTwin will have limited experience with technology and may struggle with technical tasks or feel uncomfortable navigating complex systems."
+        }
+      ]
+    },
+    {
+      "emoji": "👥",
+      "label": "Social Circle Size",
+      "description": "How many people does your FarTwin typically interact with?",
+      "options": [
+        {
+          "value": "Large",
+          "description": "Your FarTwin will have a large and diverse social circle, regularly engaging with numerous individuals from different backgrounds."
+        },
+        {
+          "value": "Small",
+          "description": "Your FarTwin will maintain a smaller, more intimate social circle, preferring closer relationships with a few key individuals."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Data Analysis Preference",
+      "description": "How does your FarTwin prefer to work with data?",
+      "options": [
+        {
+          "value": "Visual",
+          "description": "Your FarTwin will rely heavily on visual representations of data, using charts and graphs to quickly grasp complex insights."
+        },
+        {
+          "value": "Quantitative",
+          "description": "Your FarTwin will focus on numerical analysis and statistical methods, often prioritizing accuracy over intuitive understanding."
+        }
+      ]
+    },
+    {
+      "emoji": "🕰️",
+      "label": "Time Management Approach",
+      "description": "How does your FarTwin prioritize their time?",
+      "options": [
+        {
+          "value": "Flexible",
+          "description": "Your FarTwin will adapt to changing circumstances and priorities, often being open to adjusting their schedule as needed."
+        },
+        {
+          "value": "Structured",
+          "description": "Your FarTwin will maintain a strict routine and schedule, prioritizing efficiency and productivity above all else."
+        }
+      ]
+    },
+    {
+      "emoji": "💭",
+      "label": "Idea Generation Method",
+      "description": "How does your FarTwin generate new ideas?",
+      "options": [
+        {
+          "value": "Introspective",
+          "description": "Your FarTwin will rely on their own thoughts and reflections to spark creativity, often taking time for self-reflection."
+        },
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will engage in open discussions with others, building upon the ideas and perspectives of those around them."
+        }
+      ]
+    },
+    {
+      "emoji": "🎨",
+      "label": "Creative Expression Style",
+      "description": "How does your FarTwin express their creativity?",
+      "options": [
+        {
+          "value": "Visual",
+          "description": "Your FarTwin will primarily express themselves through visual art forms, such as drawing or graphic design."
+        },
+        {
+          "value": "Verbal",
+          "description": "Your FarTwin will focus on written communication, using language to convey their ideas and emotions."
+        }
+      ]
+    }
+  ]
+}

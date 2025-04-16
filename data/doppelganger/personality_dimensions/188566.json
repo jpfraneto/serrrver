@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "💭",
+      "label": "Problem-Solving Approach",
+      "description": "How will your FarTwin approach complex problems?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will break down complex problems into smaller, manageable parts and analyze each component."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on instinct and experience to navigate complex problems and find creative solutions."
+        }
+      ]
+    },
+    {
+      "emoji": "📈",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin approach risks and challenges?",
+      "options": [
+        {
+          "value": "Thrill-Seeker",
+          "description": "Your FarTwin will eagerly take on new challenges and risks, embracing uncertainty as an opportunity for growth."
+        },
+        {
+          "value": "Cautious",
+          "description": "Your FarTwin will approach risks with caution, weighing the potential benefits and drawbacks before making a decision."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Collaboration Style",
+      "description": "How will your FarTwin work with others?",
+      "options": [
+        {
+          "value": "Competitive",
+          "description": "Your FarTwin will approach collaboration as a competitive challenge, seeking to outdo and surpass others."
+        },
+        {
+          "value": "Cooperative",
+          "description": "Your FarTwin will prioritize teamwork and mutual support, working collaboratively to achieve shared goals."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Data Analysis Preference",
+      "description": "How will your FarTwin approach data analysis?",
+      "options": [
+        {
+          "value": "Quantitative",
+          "description": "Your FarTwin will focus on numerical data and statistics, using analytical tools to identify trends and patterns."
+        },
+        {
+          "value": "Qualitative",
+          "description": "Your FarTwin will prioritize qualitative insights, using narrative and descriptive data to gain a deeper understanding of complex issues."
+        }
+      ]
+    },
+    {
+      "emoji": "🎨",
+      "label": "Creative Expression",
+      "description": "How will your FarTwin express creativity?",
+      "options": [
+        {
+          "value": "Artistic",
+          "description": "Your FarTwin will channel their creativity into visual or performing arts, using mediums like music, painting, or dance to convey emotions and ideas."
+        },
+        {
+          "value": "Linguistic",
+          "description": "Your FarTwin will express themselves through language, using writing, poetry, or storytelling to convey complex thoughts and feelings."
+        }
+      ]
+    },
+    {
+      "emoji": "🚀",
+      "label": "Adaptability",
+      "description": "How will your FarTwin adapt to change?",
+      "options": [
+        {
+          "value": "Agile",
+          "description": "Your FarTwin will quickly adjust to new situations and challenges, embracing flexibility as a key strength."
+        },
+        {
+          "value": "Resilient",
+          "description": "Your FarTwin will approach change with a steady mindset, persevering through uncertainty and finding ways to adapt and grow."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Diplomatic Approach",
+      "description": "How will your FarTwin navigate conflicts?",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Your FarTwin will address conflicts head-on, using clear communication and assertiveness to resolve issues."
+        },
+        {
+          "value": "Mediating",
+          "description": "Your FarTwin will prioritize finding mutually beneficial solutions, actively listening to opposing perspectives and seeking common ground."
+        }
+      ]
+    },
+    {
+      "emoji": "💭",
+      "label": "Decision-Making Process",
+      "description": "How will your FarTwin make decisions?",
+      "options": [
+        {
+          "value": "Rational",
+          "description": "Your FarTwin will rely on logic and evidence-based reasoning to inform their decision-making process."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will trust their instincts and gut feelings, using emotional intelligence to guide their choices."
+        }
+      ]
+    }
+  ]
+}

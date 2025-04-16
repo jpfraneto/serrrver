@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "🤝",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin approach investments?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will be willing to take bold risks and invest heavily in potential high-gains opportunities."
+        },
+        {
+          "value": "Conservative",
+          "description": "Your FarTwin will prioritize stability and avoid taking significant risks, focusing on low-risk investments."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Analytical Thinking",
+      "description": "How will your FarTwin approach problem-solving?",
+      "options": [
+        {
+          "value": "Logical",
+          "description": "Your FarTwin will rely on logic and data-driven analysis to make informed decisions."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will trust their instincts and rely on creative, out-of-the-box thinking to solve problems."
+        }
+      ]
+    },
+    {
+      "emoji": "💼",
+      "label": "Career Goals",
+      "description": "What drives your FarTwin's career aspirations?",
+      "options": [
+        {
+          "value": "Financial",
+          "description": "Your FarTwin will prioritize financial stability and security in their professional life."
+        },
+        {
+          "value": "Personal",
+          "description": "Your FarTwin will be driven by a desire to make a meaningful impact, pursue their passions, and leave a lasting legacy."
+        }
+      ]
+    },
+    {
+      "emoji": "👥",
+      "label": "Social Interactions",
+      "description": "How will your FarTwin engage with others?",
+      "options": [
+        {
+          "value": "Extroverted",
+          "description": "Your FarTwin will be outgoing, sociable, and enjoy being around people, often seeking social interaction."
+        },
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin will prefer to spend time alone, recharge, and may find large social gatherings overwhelming."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Learning Style",
+      "description": "How does your FarTwin prefer to learn new information?",
+      "options": [
+        {
+          "value": "Hands-on",
+          "description": "Your FarTwin will learn best through practical experience, experimentation, and hands-on activities."
+        },
+        {
+          "value": "Theoretical",
+          "description": "Your FarTwin will prefer to learn through reading, research, and theoretical understanding."
+        }
+      ]
+    },
+    {
+      "emoji": "🕒",
+      "label": "Time Management",
+      "description": "How will your FarTwin prioritize their daily tasks?",
+      "options": [
+        {
+          "value": "Structured",
+          "description": "Your FarTwin will plan out their day, set deadlines, and stick to a schedule."
+        },
+        {
+          "value": "Flexible",
+          "description": "Your FarTwin will be more spontaneous, adapting to changing circumstances and priorities as needed."
+        }
+      ]
+    },
+    {
+      "emoji": "😊",
+      "label": "Emotional Expression",
+      "description": "How will your FarTwin manage their emotions?",
+      "options": [
+        {
+          "value": "Open",
+          "description": "Your FarTwin will express their emotions freely, openly communicating their feelings with others."
+        },
+        {
+          "value": "Reserved",
+          "description": "Your FarTwin will keep their emotions to themselves, only sharing them when necessary or with trusted individuals."
+        }
+      ]
+    },
+    {
+      "emoji": "💭",
+      "label": "Creativity",
+      "description": "How will your FarTwin approach creative problem-solving?",
+      "options": [
+        {
+          "value": "Innovative",
+          "description": "Your FarTwin will think outside the box, coming up with novel solutions to complex problems."
+        },
+        {
+          "value": "Methodical",
+          "description": "Your FarTwin will approach creative problem-solving methodically, breaking down complex issues into manageable parts."
+        }
+      ]
+    }
+  ]
+}

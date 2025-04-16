@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "💬",
+      "label": "Communication Style",
+      "description": "How will your FarTwin communicate with others?",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Your FarTwin will communicate clearly and straightforwardly, stating opinions without hesitation or sugar-coating."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Your FarTwin will communicate tactfully and considerately, carefully choosing words to maintain harmony."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Decision Making Approach",
+      "description": "How will your FarTwin approach making decisions?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will analyze data and facts to make informed decisions."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on instincts and personal feelings to guide their decision-making process."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Problem Solving Approach",
+      "description": "How will your FarTwin approach solving problems?",
+      "options": [
+        {
+          "value": "Logical",
+          "description": "Your FarTwin will use logical reasoning and methodical steps to solve problems."
+        },
+        {
+          "value": "Creative",
+          "description": "Your FarTwin will think outside the box and explore innovative solutions to problems."
+        }
+      ]
+    },
+    {
+      "emoji": "👥",
+      "label": "Social Interactions",
+      "description": "How will your FarTwin interact with others?",
+      "options": [
+        {
+          "value": "Extroverted",
+          "description": "Your FarTwin will be outgoing and sociable, enjoying the company of others."
+        },
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin will prefer quieter, more low-key environments and may need time alone to recharge."
+        }
+      ]
+    },
+    {
+      "emoji": "📈",
+      "label": "Growth Mindset",
+      "description": "How will your FarTwin approach learning and growth?",
+      "options": [
+        {
+          "value": "Optimistic",
+          "description": "Your FarTwin will have a positive attitude towards challenges and view them as opportunities for growth."
+        },
+        {
+          "value": "Pessimistic",
+          "description": "Your FarTwin may struggle with self-doubt and negativity, making it harder to learn from mistakes."
+        }
+      ]
+    },
+    {
+      "emoji": "💼",
+      "label": "Career Goals",
+      "description": "How will your FarTwin approach their career?",
+      "options": [
+        {
+          "value": "Ambitious",
+          "description": "Your FarTwin will set high goals for themselves and work hard to achieve them."
+        },
+        {
+          "value": "Relaxed",
+          "description": "Your FarTwin may not have a clear sense of direction or may be content with a more laid-back approach to their career."
+        }
+      ]
+    },
+    {
+      "emoji": "😊",
+      "label": "Emotional Intelligence",
+      "description": "How will your FarTwin manage their emotions?",
+      "options": [
+        {
+          "value": "Self-aware",
+          "description": "Your FarTwin will be in touch with their own emotions and be able to recognize and regulate them."
+        },
+        {
+          "value": "Impulsive",
+          "description": "Your FarTwin may struggle with managing their emotions, leading to impulsive decisions or outbursts."
+        }
+      ]
+    },
+    {
+      "emoji": "🕰️",
+      "label": "Time Management",
+      "description": "How will your FarTwin prioritize their time?",
+      "options": [
+        {
+          "value": "Efficient",
+          "description": "Your FarTwin will be able to manage their time effectively, prioritizing tasks and meeting deadlines."
+        },
+        {
+          "value": "Procrastinator",
+          "description": "Your FarTwin may struggle with procrastination and delay completing tasks, leading to missed opportunities."
+        }
+      ]
+    }
+  ]
+}

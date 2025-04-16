@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "🤔",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin approach uncertainty?",
+      "options": [
+        {
+          "value": "Cautious",
+          "description": "Your FarTwin will approach new opportunities with caution, carefully weighing pros and cons before making a decision."
+        },
+        {
+          "value": "Adventurous",
+          "description": "Your FarTwin will take calculated risks, viewing uncertainty as an opportunity for growth and exploration."
+        }
+      ]
+    },
+    {
+      "emoji": "💬",
+      "label": "Communication Style",
+      "description": "How will your FarTwin communicate with others?",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Your FarTwin will communicate clearly and straightforwardly, stating opinions without hesitation or sugar-coating."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Your FarTwin will communicate tactfully and considerately, carefully choosing words to maintain harmony."
+        }
+      ]
+    },
+    {
+      "emoji": "📈",
+      "label": "Financial Focus",
+      "description": "How will your FarTwin prioritize financial goals?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will prioritize high-risk, high-reward investments and financial strategies to maximize returns."
+        },
+        {
+          "value": "Conservative",
+          "description": "Your FarTwin will focus on stable, long-term investments and financial strategies to maintain a secure financial foundation."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Analytical Approach",
+      "description": "How will your FarTwin approach problem-solving?",
+      "options": [
+        {
+          "value": "Rational",
+          "description": "Your FarTwin will analyze data and information using logical, systematic methods to arrive at a solution."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on instincts, experiences, and emotional intelligence to guide their decision-making process."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Relationship Style",
+      "description": "How will your FarTwin form and maintain relationships?",
+      "options": [
+        {
+          "value": "Independent",
+          "description": "Your FarTwin will value their independence and freedom, maintaining a balance between alone time and social connections."
+        },
+        {
+          "value": "Interdependent",
+          "description": "Your FarTwin will prioritize building strong, meaningful relationships with others, seeking support and connection in return."
+        }
+      ]
+    },
+    {
+      "emoji": "⏱️",
+      "label": "Time Management",
+      "description": "How will your FarTwin manage their time?",
+      "options": [
+        {
+          "value": "Efficient",
+          "description": "Your FarTwin will prioritize productivity, focusing on completing tasks quickly and effectively to maximize output."
+        },
+        {
+          "value": "Leisurely",
+          "description": "Your FarTwin will take a relaxed approach to time management, allowing for flexibility and spontaneity in their daily schedule."
+        }
+      ]
+    },
+    {
+      "emoji": "😊",
+      "label": "Emotional Expression",
+      "description": "How will your FarTwin express emotions?",
+      "options": [
+        {
+          "value": "Open",
+          "description": "Your FarTwin will openly and honestly express their emotions, encouraging others to do the same in return."
+        },
+        {
+          "value": "Reserved",
+          "description": "Your FarTwin will keep their emotions private, only sharing them with those they trust or feel comfortable with."
+        }
+      ]
+    },
+    {
+      "emoji": "🤯",
+      "label": "Risk Perception",
+      "description": "How will your FarTwin perceive risk?",
+      "options": [
+        {
+          "value": "High",
+          "description": "Your FarTwin will view risk as an unavoidable aspect of life, taking calculated steps to mitigate its impact."
+        },
+        {
+          "value": "Low",
+          "description": "Your FarTwin will generally avoid risk, prioritizing stability and security in their personal and professional endeavors."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "text": "I've successfully deployed an agent doppelganger named \"veganbeef\". It features the username veganbeef-a0x, a bio as \"[FarTwin of veganbeef] jackfruit of all trades, master of non-dairy milk\", and the token symbol $1568. Enjoy!",
+  "action": "DEPLOY_AGENT_DOPPELGANGER",
+  "metadata": {
+    "agentName": "veganbeef",
+    "deployAgentId": "ef580edf-49de-0ab3-83b6-7e934ea5a97d",
+    "tokenAddress": "0x8057820007FB4A139440De6Bb812cB070408CBee",
+    "welcomeCastHash": "0xb0c93c02d27b35445134817eeb95ee8e521ec695",
+    "username": "veganbeef-a0x"
+  }
+}

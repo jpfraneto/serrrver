@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "💔",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin approach risk?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will take bold action, embracing uncertainty and pushing boundaries."
+        },
+        {
+          "value": "Cautious",
+          "description": "Your FarTwin will carefully weigh options, preferring stability and security over potential rewards."
+        }
+      ]
+    },
+    {
+      "emoji": "📈",
+      "label": "Learning Style",
+      "description": "How will your FarTwin learn new information?",
+      "options": [
+        {
+          "value": "Visual",
+          "description": "Your FarTwin will absorb knowledge through visual aids, such as images and videos."
+        },
+        {
+          "value": "Verbal",
+          "description": "Your FarTwin will digest information by listening to lectures or discussions."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Collaboration Style",
+      "description": "How will your FarTwin work with others?",
+      "options": [
+        {
+          "value": "Autonomous",
+          "description": "Your FarTwin will prefer to work independently, taking charge of their own projects."
+        },
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will thrive in team environments, building strong relationships with colleagues."
+        }
+      ]
+    },
+    {
+      "emoji": "⏱️",
+      "label": "Time Management",
+      "description": "How will your FarTwin prioritize tasks?",
+      "options": [
+        {
+          "value": "Impulsive",
+          "description": "Your FarTwin will act on instinct, focusing on short-term goals rather than long-term consequences."
+        },
+        {
+          "value": "Planned",
+          "description": "Your FarTwin will methodically plan and schedule tasks, ensuring everything is completed efficiently."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Analytical Approach",
+      "description": "How will your FarTwin analyze data?",
+      "options": [
+        {
+          "value": "Rational",
+          "description": "Your FarTwin will rely on logic and facts, making decisions based on objective evidence."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will trust their instincts, using patterns and emotions to guide decision-making."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Personal Growth Focus",
+      "description": "How will your FarTwin approach self-improvement?",
+      "options": [
+        {
+          "value": "Self-Critical",
+          "description": "Your FarTwin will analyze their weaknesses, using negative self-talk to drive personal growth."
+        },
+        {
+          "value": "Positive",
+          "description": "Your FarTwin will focus on their strengths, celebrating successes and learning from setbacks."
+        }
+      ]
+    },
+    {
+      "emoji": "👥",
+      "label": "Social Comfort Level",
+      "description": "How will your FarTwin interact with strangers?",
+      "options": [
+        {
+          "value": "Extroverted",
+          "description": "Your FarTwin will eagerly engage with new people, seeking social interactions and connections."
+        },
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin will prefer quieter environments, feeling overwhelmed by too much social interaction."
+        }
+      ]
+    },
+    {
+      "emoji": "💭",
+      "label": "Creative Expression",
+      "description": "How will your FarTwin express their creativity?",
+      "options": [
+        {
+          "value": "Verbal",
+          "description": "Your FarTwin will convey artistic ideas through spoken words, using storytelling and language to bring concepts to life."
+        },
+        {
+          "value": "Visual",
+          "description": "Your FarTwin will create art using visual mediums like images, videos, or music, using colors and textures to evoke emotions and convey messages."
+        }
+      ]
+    }
+  ]
+}

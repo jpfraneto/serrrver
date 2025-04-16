@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "🤖",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin handle financial risk?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will take bold and calculated risks to maximize returns."
+        },
+        {
+          "value": "Conservative",
+          "description": "Your FarTwin will prioritize stability and avoid high-risk investments."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Learning Style",
+      "description": "How will your FarTwin approach new information?",
+      "options": [
+        {
+          "value": "Hands-On",
+          "description": "Your FarTwin will learn best through practical experience and experimentation."
+        },
+        {
+          "value": "Theoretical",
+          "description": "Your FarTwin will prefer to understand concepts through theoretical frameworks and abstract thinking."
+        }
+      ]
+    },
+    {
+      "emoji": "👥",
+      "label": "Social Interaction",
+      "description": "How will your FarTwin engage with others?",
+      "options": [
+        {
+          "value": "Outgoing",
+          "description": "Your FarTwin will be confident and enthusiastic in social situations, making friends easily."
+        },
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin will prefer to observe and listen, preferring one-on-one interactions or solo activities."
+        }
+      ]
+    },
+    {
+      "emoji": "💻",
+      "label": "Technical Interest",
+      "description": "How will your FarTwin approach technology?",
+      "options": [
+        {
+          "value": "Curious",
+          "description": "Your FarTwin will be fascinated by the potential of technology to solve problems and improve lives."
+        },
+        {
+          "value": "Cautious",
+          "description": "Your FarTwin will approach technology with a healthy dose of skepticism, weighing risks before embracing new tools or methods."
+        }
+      ]
+    },
+    {
+      "emoji": "🎨",
+      "label": "Creative Expression",
+      "description": "How will your FarTwin express their creativity?",
+      "options": [
+        {
+          "value": "Verbal",
+          "description": "Your FarTwin will communicate their artistic vision through words, writing poetry or composing music."
+        },
+        {
+          "value": "Visual",
+          "description": "Your FarTwin will create art using visual mediums like painting, drawing, or photography."
+        }
+      ]
+    },
+    {
+      "emoji": "🏆",
+      "label": "Competitive Drive",
+      "description": "How will your FarTwin approach challenges?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will strive for excellence, pushing themselves to win and outperform others."
+        },
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will focus on supporting their team and working together to achieve shared goals."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Conflict Resolution",
+      "description": "How will your FarTwin handle disagreements?",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Your FarTwin will approach conflicts with clarity and assertiveness, directly addressing the issue at hand."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Your FarTwin will seek to find common ground, using tact and empathy to resolve disputes peacefully."
+        }
+      ]
+    },
+    {
+      "emoji": "📈",
+      "label": "Financial Goal Orientation",
+      "description": "How will your FarTwin prioritize financial stability?",
+      "options": [
+        {
+          "value": "Short-Term",
+          "description": "Your FarTwin will focus on achieving immediate financial goals, such as saving for a emergency fund or paying off debt."
+        },
+        {
+          "value": "Long-Term",
+          "description": "Your FarTwin will prioritize long-term financial security, investing in retirement accounts and wealth-building strategies."
+        }
+      ]
+    }
+  ]
+}

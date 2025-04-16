@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "💬",
+      "label": "Communication Style",
+      "description": "How will your FarTwin communicate with others?",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Your FarTwin will communicate clearly and straightforwardly, stating opinions without hesitation or sugar-coating."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Your FarTwin will communicate tactfully and considerately, carefully choosing words to maintain harmony."
+        }
+      ]
+    },
+    {
+      "emoji": "📈",
+      "label": "Financial Outlook",
+      "description": "How will your FarTwin view financial growth?",
+      "options": [
+        {
+          "value": "Optimistic",
+          "description": "Your FarTwin will expect steady and consistent growth, always looking for new opportunities."
+        },
+        {
+          "value": "Cautious",
+          "description": "Your FarTwin will approach financial growth with a cautious mindset, weighing risks before making decisions."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Collaboration Style",
+      "description": "How will your FarTwin work with others?",
+      "options": [
+        {
+          "value": "Competitive",
+          "description": "Your FarTwin will fiercely compete to achieve their goals, often at the expense of others."
+        },
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will work closely with others, prioritizing teamwork and mutual support."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Analytical Approach",
+      "description": "How will your FarTwin approach problem-solving?",
+      "options": [
+        {
+          "value": "Logical",
+          "description": "Your FarTwin will rely on objective data and evidence to inform their decisions."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will trust their instincts and experience, often relying on instinct over analysis."
+        }
+      ]
+    },
+    {
+      "emoji": "💻",
+      "label": "Technological Comfort",
+      "description": "How will your FarTwin interact with technology?",
+      "options": [
+        {
+          "value": "Proficient",
+          "description": "Your FarTwin is highly comfortable using technology to streamline their workflow and stay connected."
+        },
+        {
+          "value": "Cautionary",
+          "description": "Your FarTwin approaches technology with skepticism, preferring traditional methods whenever possible."
+        }
+      ]
+    },
+    {
+      "emoji": "👥",
+      "label": "Social Connection Style",
+      "description": "How will your FarTwin engage with their social circle?",
+      "options": [
+        {
+          "value": "Socialite",
+          "description": "Your FarTwin will actively seek out social connections and opportunities to expand their network."
+        },
+        {
+          "value": "Introvert",
+          "description": "Your FarTwin prefers smaller, more intimate social circles, often feeling drained by large groups."
+        }
+      ]
+    },
+    {
+      "emoji": "💡",
+      "label": "Creative Approach",
+      "description": "How will your FarTwin approach creativity?",
+      "options": [
+        {
+          "value": "Innovative",
+          "description": "Your FarTwin is always looking for new and innovative ways to solve problems or express themselves."
+        },
+        {
+          "value": "Traditional",
+          "description": "Your FarTwin will stick to tried-and-true methods, often preferring proven approaches over experimentation."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Knowledge Acquisition Style",
+      "description": "How will your FarTwin acquire new knowledge?",
+      "options": [
+        {
+          "value": "Curious",
+          "description": "Your FarTwin is always seeking out new information and experiences, staying curious and open-minded."
+        },
+        {
+          "value": "Discerning",
+          "description": "Your FarTwin will only invest time in learning if it's relevant to their goals or interests."
+        }
+      ]
+    }
+  ]
+}

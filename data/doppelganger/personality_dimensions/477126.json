@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "🔒",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin handle financial uncertainty?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will take bold and decisive action to seize opportunities, often taking calculated risks."
+        },
+        {
+          "value": "Conservative",
+          "description": "Your FarTwin will prioritize caution and stability, avoiding high-risk investments or ventures."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Analytical Approach",
+      "description": "How will your FarTwin approach problem-solving?",
+      "options": [
+        {
+          "value": "Logical",
+          "description": "Your FarTwin will rely on data-driven insights and rational analysis to inform decisions."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will trust their instincts and rely on creative, outside-the-box thinking."
+        }
+      ]
+    },
+    {
+      "emoji": "👥",
+      "label": "Interpersonal Style",
+      "description": "How will your FarTwin interact with others?",
+      "options": [
+        {
+          "value": "Assertive",
+          "description": "Your FarTwin will be confident and direct in their communication, taking charge of social interactions."
+        },
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will prioritize building relationships and working together with others to achieve common goals."
+        }
+      ]
+    },
+    {
+      "emoji": "💸",
+      "label": "Financial Priorities",
+      "description": "What will be your top financial focus?",
+      "options": [
+        {
+          "value": "Security",
+          "description": "Your FarTwin will prioritize saving, investing for the future, and maintaining a stable financial foundation."
+        },
+        {
+          "value": "Growth",
+          "description": "Your FarTwin will emphasize investing in personal growth, education, and new opportunities."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Learning Style",
+      "description": "How will your FarTwin learn and absorb new information?",
+      "options": [
+        {
+          "value": "Theoretical",
+          "description": "Your FarTwin will prefer to learn through abstract concepts, theoretical frameworks, and academic research."
+        },
+        {
+          "value": "Practical",
+          "description": "Your FarTwin will focus on hands-on experience, experimentation, and real-world application."
+        }
+      ]
+    },
+    {
+      "emoji": "🔝",
+      "label": "Emotional Expression",
+      "description": "How will your FarTwin express their emotions?",
+      "options": [
+        {
+          "value": "Open",
+          "description": "Your FarTwin will be expressive and honest about their feelings, sharing them openly with others."
+        },
+        {
+          "value": "Reserved",
+          "description": "Your FarTwin will keep their emotions private, only sharing them with close confidants or when necessary."
+        }
+      ]
+    },
+    {
+      "emoji": "🕰️",
+      "label": "Time Management",
+      "description": "How will your FarTwin prioritize time allocation?",
+      "options": [
+        {
+          "value": "Flexible",
+          "description": "Your FarTwin will adapt to changing circumstances, allowing for spontaneity and flexibility in their schedule."
+        },
+        {
+          "value": "Structured",
+          "description": "Your FarTwin will prioritize organization and routine, creating a strict plan and sticking to it."
+        }
+      ]
+    },
+    {
+      "emoji": "👀",
+      "label": "Attention Span",
+      "description": "How will your FarTwin focus their attention?",
+      "options": [
+        {
+          "value": "Broad",
+          "description": "Your FarTwin will maintain a wide range of interests, exploring multiple topics simultaneously."
+        },
+        {
+          "value": "Narrow",
+          "description": "Your FarTwin will concentrate on a single topic or task, eliminating distractions and minimizing multitasking."
+        }
+      ]
+    }
+  ]
+}

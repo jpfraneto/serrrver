@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "🤔",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin approach uncertain situations?",
+      "options": [
+        {
+          "value": "Cautious",
+          "description": "Your FarTwin will weigh risks carefully and avoid making impulsive decisions."
+        },
+        {
+          "value": "Thrill-Seeking",
+          "description": "Your FarTwin will eagerly take on new challenges and pursue uncertain opportunities."
+        }
+      ]
+    },
+    {
+      "emoji": "💸",
+      "label": "Financial Priorities",
+      "description": "How will your FarTwin handle financial decisions?",
+      "options": [
+        {
+          "value": "Frugal",
+          "description": "Your FarTwin will prioritize saving money and avoiding unnecessary expenses."
+        },
+        {
+          "value": "Spending-First",
+          "description": "Your FarTwin will prioritize enjoying life's luxuries and spending freely, even if it means overspending."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Learning Style",
+      "description": "How will your FarTwin approach new knowledge?",
+      "options": [
+        {
+          "value": "Book-Lover",
+          "description": "Your FarTwin will prefer learning through books, lectures, and formal education."
+        },
+        {
+          "value": "Experiential",
+          "description": "Your FarTwin will learn best through hands-on experiences, experiments, and real-world applications."
+        }
+      ]
+    },
+    {
+      "emoji": "👫",
+      "label": "Social Connections",
+      "description": "How will your FarTwin build relationships?",
+      "options": [
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin will prefer to spend time alone or with close friends, valuing personal space."
+        },
+        {
+          "value": "Socialite",
+          "description": "Your FarTwin will thrive in social situations, seeking out new friendships and connections."
+        }
+      ]
+    },
+    {
+      "emoji": "🏋️‍♀️",
+      "label": "Physical Activity",
+      "description": "How will your FarTwin prioritize physical health?",
+      "options": [
+        {
+          "value": "Gym-Rat",
+          "description": "Your FarTwin will maintain a strict workout routine, prioritizing physical fitness and appearance."
+        },
+        {
+          "value": "Casual",
+          "description": "Your FarTwin will engage in regular exercise, but not prioritize it above other aspects of life."
+        }
+      ]
+    },
+    {
+      "emoji": "😂",
+      "label": "Humor Style",
+      "description": "How will your FarTwin handle humor?",
+      "options": [
+        {
+          "value": "Dry-Wit",
+          "description": "Your FarTwin will appreciate dry, sarcastic humor and use it to deflect or mock."
+        },
+        {
+          "value": "Goofy",
+          "description": "Your FarTwin will enjoy playing pranks and using physical comedy to lighten the mood."
+        }
+      ]
+    },
+    {
+      "emoji": "📺",
+      "label": "Leisure Activities",
+      "description": "How will your FarTwin spend free time?",
+      "options": [
+        {
+          "value": "Movie-Buff",
+          "description": "Your FarTwin will prioritize watching movies, TV shows, and documentaries."
+        },
+        {
+          "value": "Gamer",
+          "description": "Your FarTwin will spend most of their free time playing video games or engaging in gaming-related activities."
+        }
+      ]
+    },
+    {
+      "emoji": "📝",
+      "label": "Creative Expression",
+      "description": "How will your FarTwin express creativity?",
+      "options": [
+        {
+          "value": "Artistic",
+          "description": "Your FarTwin will prioritize visual arts, writing, or music as means of creative expression."
+        },
+        {
+          "value": "Immersive",
+          "description": "Your FarTwin will engage in immersive activities like cosplay, prop-making, or building sets for creative projects."
+        }
+      ]
+    }
+  ]
+}

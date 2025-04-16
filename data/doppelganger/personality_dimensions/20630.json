@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "",
+      "label": "Creativity",
+      "description": "How will your FarTwin approach creative tasks?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will break down complex problems into manageable parts and analyze data to find innovative solutions."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on instinct and imagination, generating novel ideas without overthinking or analyzing."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Emotional Intelligence",
+      "description": "How will your FarTwin handle emotional conflicts?",
+      "options": [
+        {
+          "value": "Empathetic",
+          "description": "Your FarTwin will put themselves in others' shoes, actively listening and acknowledging emotions to diffuse tension."
+        },
+        {
+          "value": "Detached",
+          "description": "Your FarTwin will maintain a logical perspective, focusing on facts rather than emotions to make decisions."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Risk-Taking",
+      "description": "How will your FarTwin approach new opportunities?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will take bold action, seizing risks with confidence and enthusiasm to achieve success."
+        },
+        {
+          "value": "Cautious",
+          "description": "Your FarTwin will weigh options carefully, prioritizing stability over potential gains."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Perfectionism",
+      "description": "How will your FarTwin approach tasks?",
+      "options": [
+        {
+          "value": "Meticulous",
+          "description": "Your FarTwin will strive for flawlessness, pouring attention to detail into every task."
+        },
+        {
+          "value": "Pragmatic",
+          "description": "Your FarTwin will prioritize efficiency and effectiveness over perfection, adapting to changing circumstances."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Social Connections",
+      "description": "How will your FarTwin build relationships?",
+      "options": [
+        {
+          "value": "Outgoing",
+          "description": "Your FarTwin will be the life of the party, effortlessly forming connections and commanding attention."
+        },
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin will prefer smaller, more intimate settings, carefully curating meaningful relationships."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Adaptability",
+      "description": "How will your FarTwin handle change?",
+      "options": [
+        {
+          "value": "Resilient",
+          "description": "Your FarTwin will bounce back quickly, embracing new challenges and opportunities."
+        },
+        {
+          "value": "Conservative",
+          "description": "Your FarTwin will prefer stability and routine, resisting sudden changes or disruptions."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Self-Awareness",
+      "description": "How will your FarTwin understand their motivations?",
+      "options": [
+        {
+          "value": "Reflective",
+          "description": "Your FarTwin will engage in introspection, examining thoughts and emotions to gain insight."
+        },
+        {
+          "value": "Impulsive",
+          "description": "Your FarTwin will act on instinct, trusting their gut feelings without analyzing motivations."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Ambition",
+      "description": "How will your FarTwin pursue goals?",
+      "options": [
+        {
+          "value": "Driven",
+          "description": "Your FarTwin will push themselves to achieve success, driven by a strong desire for accomplishment."
+        },
+        {
+          "value": "Optimistic",
+          "description": "Your FarTwin will approach challenges with hope and enthusiasm, trusting that opportunities will arise."
+        }
+      ]
+    }
+  ]
+}

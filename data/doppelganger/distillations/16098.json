@@ -1,0 +1,49 @@
+{
+  "writingStyle": {
+    "tone": "enthusiastic",
+    "complexity": "technical with industry jargon",
+    "distinctivePhrases": [
+      "get yearly subscriptions",
+      "/orbiter"
+    ],
+    "sentenceStructure": "concise statements"
+  },
+  "contentPatterns": {
+    "topics": [
+      "yearly subscriptions",
+      "bankr club",
+      "hypersub",
+      "appreciation.lat"
+    ],
+    "interests": [
+      "NFTs",
+      "market trends",
+      "customer support"
+    ],
+    "expertiseAreas": [
+      "customer support",
+      "industry trends"
+    ],
+    "controversialViews": [
+      "the value of NFTs in customer support"
+    ]
+  },
+  "interactionStyle": {
+    "responsePattern": "offers advice",
+    "engagementLevel": "highly responsive",
+    "socialPosition": "conversation starter",
+    "relationshipDynamics": "builds on others' ideas"
+  },
+  "emotionalProfile": {
+    "dominantEmotions": [
+      "excitement",
+      "optimism"
+    ],
+    "humorStyle": "sarcastic",
+    "perspectiveStyle": "pragmatic",
+    "valueIndicators": [
+      "supporting customer growth",
+      "promoting NFT adoption"
+    ]
+  }
+}

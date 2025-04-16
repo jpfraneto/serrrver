@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "💡",
+      "label": "Decision Making Style",
+      "description": "How will your FarTwin make decisions?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will analyze data and evidence to make informed, rational decisions."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will trust their instincts and make decisions based on gut feelings or hunches."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Learning Style",
+      "description": "How will your FarTwin learn new information?",
+      "options": [
+        {
+          "value": "Visual",
+          "description": "Your FarTwin will learn best through visual aids, such as images or videos."
+        },
+        {
+          "value": "Verbal",
+          "description": "Your FarTwin will learn best through verbal communication, such as lectures or discussions."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Conflict Resolution Style",
+      "description": "How will your FarTwin resolve conflicts?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will assert themselves and try to 'win' arguments, even if it means hurting others' feelings."
+        },
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will listen to others, work together, and seek common ground to resolve conflicts peacefully."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin approach risk?",
+      "options": [
+        {
+          "value": "Conservative",
+          "description": "Your FarTwin will avoid risks and play it safe, even if it means missing out on opportunities."
+        },
+        {
+          "value": "Adventurous",
+          "description": "Your FarTwin will take calculated risks and pursue new experiences, even if it means facing uncertainty."
+        }
+      ]
+    },
+    {
+      "emoji": "📝",
+      "label": "Creative Expression Style",
+      "description": "How will your FarTwin express their creativity?",
+      "options": [
+        {
+          "value": "Written",
+          "description": "Your FarTwin will express themselves through writing, such as poetry or short stories."
+        },
+        {
+          "value": "Artistic",
+          "description": "Your FarTwin will express themselves through visual arts, such as painting or drawing."
+        }
+      ]
+    },
+    {
+      "emoji": "💻",
+      "label": "Technology Comfort Level",
+      "description": "How comfortable is your FarTwin with technology?",
+      "options": [
+        {
+          "value": "Expert",
+          "description": "Your FarTwin is highly skilled and comfortable using technology, such as coding or hacking."
+        },
+        {
+          "value": "Basic",
+          "description": "Your FarTwin has basic knowledge of technology, but may struggle with more complex tasks."
+        }
+      ]
+    },
+    {
+      "emoji": "👥",
+      "label": "Social Interactions Style",
+      "description": "How will your FarTwin interact with others?",
+      "options": [
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin prefers to spend time alone or in small groups, and may feel drained by too much social interaction."
+        },
+        {
+          "value": "Extroverted",
+          "description": "Your FarTwin is outgoing and enjoys being around people, often seeking social interactions and activities."
+        }
+      ]
+    },
+    {
+      "emoji": "🕒",
+      "label": "Time Management Style",
+      "description": "How will your FarTwin manage their time?",
+      "options": [
+        {
+          "value": "Flexible",
+          "description": "Your FarTwin is flexible and adaptable, adjusting to changing schedules and priorities as needed."
+        },
+        {
+          "value": "Structured",
+          "description": "Your FarTwin prefers a structured schedule and may struggle with flexibility or spontaneity."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "🤔",
+      "label": "Decision Making Style",
+      "description": "How will your FarTwin make decisions?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will analyze data and facts to make informed decisions, weighing pros and cons carefully."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will trust their instincts and make decisions based on gut feelings, rather than analyzing data or evidence."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Problem Solving Approach",
+      "description": "How will your FarTwin approach problem-solving?",
+      "options": [
+        {
+          "value": "Logical",
+          "description": "Your FarTwin will break down complex problems into smaller, manageable parts and solve them using logic and reason."
+        },
+        {
+          "value": "Creative",
+          "description": "Your FarTwin will think outside the box and generate innovative solutions by combining different ideas and perspectives."
+        }
+      ]
+    },
+    {
+      "emoji": "👥",
+      "label": "Collaboration Style",
+      "description": "How will your FarTwin collaborate with others?",
+      "options": [
+        {
+          "value": "Assertive",
+          "description": "Your FarTwin will take charge and lead teams, making decisions and setting goals without hesitation."
+        },
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will work closely with others, listening to their ideas and building on them to achieve common goals."
+        }
+      ]
+    },
+    {
+      "emoji": "💻",
+      "label": "Technical Expertise",
+      "description": "How will your FarTwin approach technical challenges?",
+      "options": [
+        {
+          "value": "Detail-Oriented",
+          "description": "Your FarTwin will focus on the intricacies of technical details, ensuring accuracy and precision in their work."
+        },
+        {
+          "value": "High-Level",
+          "description": "Your FarTwin will take a step back and look at the big picture, focusing on overall strategy and high-level goals."
+        }
+      ]
+    },
+    {
+      "emoji": "💡",
+      "label": "Innovation Approach",
+      "description": "How will your FarTwin approach new ideas?",
+      "options": [
+        {
+          "value": "Risk-Averse",
+          "description": "Your FarTwin will carefully weigh the risks and benefits of introducing new ideas, cautious not to disrupt existing processes."
+        },
+        {
+          "value": "Innovative",
+          "description": "Your FarTwin will be open to trying new approaches and experimenting with untested ideas, even if they carry some level of risk."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Learning Style",
+      "description": "How will your FarTwin approach learning?",
+      "options": [
+        {
+          "value": "Hands-On",
+          "description": "Your FarTwin will learn by doing, preferring experiential learning and hands-on experience to traditional classroom instruction."
+        },
+        {
+          "value": "Theoretical",
+          "description": "Your FarTwin will focus on theoretical knowledge and abstract concepts, seeking to understand the underlying principles of a subject before applying them."
+        }
+      ]
+    },
+    {
+      "emoji": "💬",
+      "label": "Communication Style",
+      "description": "How will your FarTwin communicate with others?",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Your FarTwin will communicate clearly and straightforwardly, stating opinions without hesitation or sugar-coating."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Your FarTwin will communicate tactfully and considerately, carefully choosing words to maintain harmony."
+        }
+      ]
+    },
+    {
+      "emoji": "🕒",
+      "label": "Time Management Style",
+      "description": "How will your FarTwin manage their time?",
+      "options": [
+        {
+          "value": "Optimistic",
+          "description": "Your FarTwin will be optimistic about their ability to complete tasks on time, managing their schedule to meet deadlines."
+        },
+        {
+          "value": "Pessimistic",
+          "description": "Your FarTwin will be cautious and realistic about the amount of time required for tasks, leaving some buffer time for unexpected delays."
+        }
+      ]
+    }
+  ]
+}

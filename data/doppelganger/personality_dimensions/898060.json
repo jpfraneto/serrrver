@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "🤔",
+      "label": "Creativity Level",
+      "description": "How will your FarTwin approach problem-solving?",
+      "options": [
+        {
+          "value": "Impulsive",
+          "description": "Your FarTwin will think outside the box and take calculated risks to find innovative solutions."
+        },
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will methodically analyze data and evaluate options before proposing a solution."
+        }
+      ]
+    },
+    {
+      "emoji": "👥",
+      "label": "Social Interaction Style",
+      "description": "How will your FarTwin engage with others?",
+      "options": [
+        {
+          "value": "Outgoing",
+          "description": "Your FarTwin will be friendly, approachable, and enjoy meeting new people."
+        },
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin will prefer smaller groups or one-on-one interactions and might take time to warm up to new social situations."
+        }
+      ]
+    },
+    {
+      "emoji": "💰",
+      "label": "Financial Perspective",
+      "description": "How will your FarTwin approach money management?",
+      "options": [
+        {
+          "value": "Frugal",
+          "description": "Your FarTwin will prioritize saving and investing, aiming to minimize expenses."
+        },
+        {
+          "value": "Spenders",
+          "description": "Your FarTwin will enjoy treating themselves to luxury items or dining out and won't hesitate to splurge occasionally."
+        }
+      ]
+    },
+    {
+      "emoji": "💭",
+      "label": "Critical Thinking Skill",
+      "description": "How will your FarTwin evaluate information?",
+      "options": [
+        {
+          "value": "Skeptical",
+          "description": "Your FarTwin will question facts and sources, preferring evidence-based information over assumptions."
+        },
+        {
+          "value": "Optimistic",
+          "description": "Your FarTwin will approach new ideas with an open mind, trusting their instincts and intuition."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Education Value",
+      "description": "How will your FarTwin learn from others?",
+      "options": [
+        {
+          "value": "Comprehensive",
+          "description": "Your FarTwin values in-depth knowledge and thorough explanations, preferring to absorb information through reading or lectures."
+        },
+        {
+          "value": "Practical",
+          "description": "Your FarTwin prefers hands-on learning, experimentation, and real-world applications over theoretical foundations."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin approach uncertainty?",
+      "options": [
+        {
+          "value": "Cautious",
+          "description": "Your FarTwin prefers to weigh risks and consequences before making decisions, aiming for stability."
+        },
+        {
+          "value": "Thrill-Seeking",
+          "description": "Your FarTwin enjoys taking calculated risks and embracing uncertainty, seeking new challenges and experiences."
+        }
+      ]
+    },
+    {
+      "emoji": "🎨",
+      "label": "Self-Presentation Style",
+      "description": "How will your FarTwin present themselves online?",
+      "options": [
+        {
+          "value": "Authentic",
+          "description": "Your FarTwin values honesty and transparency, sharing personal experiences and thoughts without pretension."
+        },
+        {
+          "value": "Curated",
+          "description": "Your FarTwin presents a polished, put-together image online, carefully managing their digital persona to align with their public identity."
+        }
+      ]
+    },
+    {
+      "emoji": "🕰️",
+      "label": "Time Management Style",
+      "description": "How will your FarTwin handle time constraints?",
+      "options": [
+        {
+          "value": "Perfectionist",
+          "description": "Your FarTwin prioritizes precision and attention to detail, often spending more time on a single task than necessary."
+        },
+        {
+          "value": "Flexible",
+          "description": "Your FarTwin is adaptable and able to adjust their schedule as needed, valuing efficiency over strict timelines."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "writingStyle": {
+    "tone": "enthusiastic",
+    "complexity": "conversational with simple terms",
+    "distinctivePhrases": [
+      "no second thinking",
+      "$MOARCOINS"
+    ],
+    "sentenceStructure": "question-answer format"
+  },
+  "contentPatterns": {
+    "topics": [
+      "launching coins",
+      "psyop of the matrix"
+    ],
+    "interests": [
+      "cryptocurrency",
+      "investments"
+    ],
+    "expertiseAreas": [
+      "cryptocurrency trading",
+      "investment strategies"
+    ],
+    "controversialViews": [
+      "rules limiting coin launches"
+    ]
+  },
+  "interactionStyle": {
+    "responsePattern": "asks questions",
+    "engagementLevel": "highly responsive",
+    "socialPosition": "conversation starter",
+    "relationshipDynamics": "builds on others' ideas"
+  },
+  "emotionalProfile": {
+    "dominantEmotions": [
+      "enthusiasm",
+      "excitement"
+    ],
+    "humorStyle": "sarcastic",
+    "perspectiveStyle": "optimistic",
+    "valueIndicators": [
+      "taking risks",
+      "innovating"
+    ]
+  }
+}

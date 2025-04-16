@@ -1,0 +1,575 @@
+[
+  {
+    "object": "cast",
+    "hash": "0x746829465341c9d03dbf1498747fffa5b9a28fa1",
+    "author": {
+      "object": "user",
+      "fid": 883806,
+      "username": "lccrypto09",
+      "display_name": "LCcrypto09",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8fbd1d6b-ed1f-4099-b07b-10df72876600/rectcrop3",
+      "custody_address": "0x23bc87ba1e1bd1f4d9d3fc0adeb4f9edbf2ae357",
+      "profile": {
+        "bio": {
+          "text": ""
+        }
+      },
+      "follower_count": 1,
+      "following_count": 25,
+      "verifications": [
+        "0xc0e86b4ef9069e7de6e746c288ed6cf730e9037e"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xc0e86b4ef9069e7de6e746c288ed6cf730e9037e"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xc0e86b4ef9069e7de6e746c288ed6cf730e9037e",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xee548ae24d83eddf1bb2ea6b3c1ed3beefca386f",
+    "parent_hash": "0xd01a53489cd715d7f577f3bb23db9cc978f2bbac",
+    "parent_url": null,
+    "root_parent_url": "https://warpcast.com/~/channel/keepushing",
+    "parent_author": {
+      "fid": 403020
+    },
+    "text": "Next step, dex",
+    "timestamp": "2025-03-28T01:47:59.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "keepushing",
+      "name": "Keep Pushin’",
+      "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5f702b56-76fd-46e1-065e-571a4f114f00/original"
+    },
+    "reactions": {
+      "likes_count": 1,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 403020,
+          "fname": "push-"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": true
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0x3a77a83d0bb4775253f3633febd9c3fc6b454380",
+    "author": {
+      "object": "user",
+      "fid": 883806,
+      "username": "lccrypto09",
+      "display_name": "LCcrypto09",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8fbd1d6b-ed1f-4099-b07b-10df72876600/rectcrop3",
+      "custody_address": "0x23bc87ba1e1bd1f4d9d3fc0adeb4f9edbf2ae357",
+      "profile": {
+        "bio": {
+          "text": ""
+        }
+      },
+      "follower_count": 1,
+      "following_count": 25,
+      "verifications": [
+        "0xc0e86b4ef9069e7de6e746c288ed6cf730e9037e"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xc0e86b4ef9069e7de6e746c288ed6cf730e9037e"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xc0e86b4ef9069e7de6e746c288ed6cf730e9037e",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x317272cffacb463258f42c0484a98ff56773ac67",
+    "parent_hash": "0x317272cffacb463258f42c0484a98ff56773ac67",
+    "parent_url": null,
+    "root_parent_url": "https://warpcast.com/~/channel/glanker",
+    "parent_author": {
+      "fid": 403020
+    },
+    "text": "after dex update this will fly, any ETA for dex update",
+    "timestamp": "2025-03-28T00:12:34.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "glanker",
+      "name": "Empire Builder",
+      "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8a179fa0-a068-43e8-e7cc-23d442cf5f00/original"
+    },
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": false
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0x31a7442af7fb486952a08d3678cd7c5420c7bb11",
+    "author": {
+      "object": "user",
+      "fid": 883806,
+      "username": "lccrypto09",
+      "display_name": "LCcrypto09",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8fbd1d6b-ed1f-4099-b07b-10df72876600/rectcrop3",
+      "custody_address": "0x23bc87ba1e1bd1f4d9d3fc0adeb4f9edbf2ae357",
+      "profile": {
+        "bio": {
+          "text": ""
+        }
+      },
+      "follower_count": 1,
+      "following_count": 25,
+      "verifications": [
+        "0xc0e86b4ef9069e7de6e746c288ed6cf730e9037e"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xc0e86b4ef9069e7de6e746c288ed6cf730e9037e"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xc0e86b4ef9069e7de6e746c288ed6cf730e9037e",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x6579194bb138fcc7937eba8024d1563e1b203fe0",
+    "parent_hash": "0x5789d18daa64961193937903d689d0c0b582f046",
+    "parent_url": null,
+    "root_parent_url": "chain://eip155:7777777/erc721:0x5d6a07d07354f8793d1ca06280c4adf04767ad7e",
+    "parent_author": {
+      "fid": 403020
+    },
+    "text": "lets push",
+    "timestamp": "2025-03-27T23:04:16.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "degen",
+      "name": "Degen",
+      "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4728a50a-1669-4334-1f57-9473c04a2500/original"
+    },
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": false
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0xb0411100a8aa528005c1a7657790e7d8abc57a01",
+    "author": {
+      "object": "user",
+      "fid": 883806,
+      "username": "lccrypto09",
+      "display_name": "LCcrypto09",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8fbd1d6b-ed1f-4099-b07b-10df72876600/rectcrop3",
+      "custody_address": "0x23bc87ba1e1bd1f4d9d3fc0adeb4f9edbf2ae357",
+      "profile": {
+        "bio": {
+          "text": ""
+        }
+      },
+      "follower_count": 1,
+      "following_count": 25,
+      "verifications": [
+        "0xc0e86b4ef9069e7de6e746c288ed6cf730e9037e"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xc0e86b4ef9069e7de6e746c288ed6cf730e9037e"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xc0e86b4ef9069e7de6e746c288ed6cf730e9037e",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x630fc375eb66e15e387bb4ff31c6cfe0dafb9304",
+    "parent_hash": "0xe121fb3eb983fd0a96b762fedc592528fa2a6db7",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 280
+    },
+    "text": ":(",
+    "timestamp": "2025-03-24T07:28:50.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xf42b016311574639f97b44e167da15f78a45928d",
+    "author": {
+      "object": "user",
+      "fid": 883806,
+      "username": "lccrypto09",
+      "display_name": "LCcrypto09",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8fbd1d6b-ed1f-4099-b07b-10df72876600/rectcrop3",
+      "custody_address": "0x23bc87ba1e1bd1f4d9d3fc0adeb4f9edbf2ae357",
+      "profile": {
+        "bio": {
+          "text": ""
+        }
+      },
+      "follower_count": 1,
+      "following_count": 25,
+      "verifications": [
+        "0xc0e86b4ef9069e7de6e746c288ed6cf730e9037e"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xc0e86b4ef9069e7de6e746c288ed6cf730e9037e"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xc0e86b4ef9069e7de6e746c288ed6cf730e9037e",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x23b8576179328a8df1ddb32a94da7e56d4f4f66a",
+    "parent_hash": "0x23b8576179328a8df1ddb32a94da7e56d4f4f66a",
+    "parent_url": null,
+    "root_parent_url": "https://warpcast.com/~/channel/merv",
+    "parent_author": {
+      "fid": 1356
+    },
+    "text": "Whats merv ca ?",
+    "timestamp": "2025-03-18T04:25:49.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "merv",
+      "name": "merv",
+      "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2c130803-733f-45f7-e411-55c4fe1e6400/original"
+    },
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": false
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0x0b1b4cda762024c19cead676ab2d3a13fb8d6143",
+    "author": {
+      "object": "user",
+      "fid": 883806,
+      "username": "lccrypto09",
+      "display_name": "LCcrypto09",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8fbd1d6b-ed1f-4099-b07b-10df72876600/rectcrop3",
+      "custody_address": "0x23bc87ba1e1bd1f4d9d3fc0adeb4f9edbf2ae357",
+      "profile": {
+        "bio": {
+          "text": ""
+        }
+      },
+      "follower_count": 1,
+      "following_count": 25,
+      "verifications": [
+        "0xc0e86b4ef9069e7de6e746c288ed6cf730e9037e"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xc0e86b4ef9069e7de6e746c288ed6cf730e9037e"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xc0e86b4ef9069e7de6e746c288ed6cf730e9037e",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x23b8576179328a8df1ddb32a94da7e56d4f4f66a",
+    "parent_hash": "0x23b8576179328a8df1ddb32a94da7e56d4f4f66a",
+    "parent_url": null,
+    "root_parent_url": "https://warpcast.com/~/channel/merv",
+    "parent_author": {
+      "fid": 1356
+    },
+    "text": "whats merv ca",
+    "timestamp": "2025-03-18T04:22:25.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "merv",
+      "name": "merv",
+      "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2c130803-733f-45f7-e411-55c4fe1e6400/original"
+    },
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": false
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0xc16ad85c65affc7ddef650727d032b9d6c475caa",
+    "author": {
+      "object": "user",
+      "fid": 883806,
+      "username": "lccrypto09",
+      "display_name": "LCcrypto09",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8fbd1d6b-ed1f-4099-b07b-10df72876600/rectcrop3",
+      "custody_address": "0x23bc87ba1e1bd1f4d9d3fc0adeb4f9edbf2ae357",
+      "profile": {
+        "bio": {
+          "text": ""
+        }
+      },
+      "follower_count": 1,
+      "following_count": 25,
+      "verifications": [
+        "0xc0e86b4ef9069e7de6e746c288ed6cf730e9037e"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xc0e86b4ef9069e7de6e746c288ed6cf730e9037e"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xc0e86b4ef9069e7de6e746c288ed6cf730e9037e",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x75556d6215ff5d3e7a0a06228a7badba5607f91f",
+    "parent_hash": "0x9c5546c714b4b504aa1e8a7a19448f7e2000b16e",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 874542
+    },
+    "text": "dex update ?",
+    "timestamp": "2025-02-26T00:32:25.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xf6b5d5b4b3dd509396915ac33dec9f7a14376e39",
+    "author": {
+      "object": "user",
+      "fid": 883806,
+      "username": "lccrypto09",
+      "display_name": "LCcrypto09",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8fbd1d6b-ed1f-4099-b07b-10df72876600/rectcrop3",
+      "custody_address": "0x23bc87ba1e1bd1f4d9d3fc0adeb4f9edbf2ae357",
+      "profile": {
+        "bio": {
+          "text": ""
+        }
+      },
+      "follower_count": 1,
+      "following_count": 25,
+      "verifications": [
+        "0xc0e86b4ef9069e7de6e746c288ed6cf730e9037e"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xc0e86b4ef9069e7de6e746c288ed6cf730e9037e"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xc0e86b4ef9069e7de6e746c288ed6cf730e9037e",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x3d2868c67c25dcaf4cefc728c0a5b0f5f01d758e",
+    "parent_hash": "0x3d2868c67c25dcaf4cefc728c0a5b0f5f01d758e",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 99
+    },
+    "text": "Are you enjoining you USDC from BASE PRINTER",
+    "timestamp": "2024-12-13T00:48:32.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  }
+]

@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "🤔",
+      "label": "Perceived Intelligence",
+      "description": "How will your FarTwin approach problem-solving?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will methodically analyze data and consider multiple perspectives."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on instinct and experience to make decisions."
+        }
+      ]
+    },
+    {
+      "emoji": "🌐",
+      "label": "Global Perspective",
+      "description": "How will your FarTwin view global issues?",
+      "options": [
+        {
+          "value": "Globalist",
+          "description": "Your FarTwin will consider the impact of global events on their own life."
+        },
+        {
+          "value": "Nationalist",
+          "description": "Your FarTwin will prioritize national interests over international concerns."
+        }
+      ]
+    },
+    {
+      "emoji": "💸",
+      "label": "Financial Values",
+      "description": "How will your FarTwin approach money and material possessions?",
+      "options": [
+        {
+          "value": "Frugal",
+          "description": "Your FarTwin will prioritize saving and responsible spending."
+        },
+        {
+          "value": "Luxurious",
+          "description": "Your FarTwin will value comfort, luxury, and indulgence."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Learning Style",
+      "description": "How will your FarTwin approach learning and self-improvement?",
+      "options": [
+        {
+          "value": "Self-Directed",
+          "description": "Your FarTwin will take initiative and pursue their own interests."
+        },
+        {
+          "value": "Structured",
+          "description": "Your FarTwin will require a clear plan and structured approach to learn effectively."
+        }
+      ]
+    },
+    {
+      "emoji": "👥",
+      "label": "Social Needs",
+      "description": "How will your FarTwin interact with others?",
+      "options": [
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin will prioritize alone time and may feel drained by social interactions."
+        },
+        {
+          "value": "Extroverted",
+          "description": "Your FarTwin will thrive in social situations and enjoy being around others."
+        }
+      ]
+    },
+    {
+      "emoji": "💭",
+      "label": "Cognitive Bias",
+      "description": "How will your FarTwin approach decision-making?",
+      "options": [
+        {
+          "value": "Critical",
+          "description": "Your FarTwin will consider multiple perspectives and evaluate evidence objectively."
+        },
+        {
+          "value": "Confirmation",
+          "description": "Your FarTwin may be more likely to accept information that confirms their existing beliefs."
+        }
+      ]
+    },
+    {
+      "emoji": "🎨",
+      "label": "Creative Expression",
+      "description": "How will your FarTwin express themselves creatively?",
+      "options": [
+        {
+          "value": "Authentic",
+          "description": "Your FarTwin will create work that is genuine and true to their own style."
+        },
+        {
+          "value": "Imaginative",
+          "description": "Your FarTwin may rely on imagination or external inspiration to create innovative work."
+        }
+      ]
+    },
+    {
+      "emoji": "🕰️",
+      "label": "Time Management",
+      "description": "How will your FarTwin prioritize tasks and manage their time?",
+      "options": [
+        {
+          "value": "Disciplined",
+          "description": "Your FarTwin will establish clear routines and stick to a schedule."
+        },
+        {
+          "value": "Flexible",
+          "description": "Your FarTwin may prefer a more relaxed approach to time management, adapting to changing circumstances."
+        }
+      ]
+    }
+  ]
+}

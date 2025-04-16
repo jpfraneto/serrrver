@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": "Well I'm on mobile but what's up "
+  },
+  {
+    "role": "assistant",
+    "content": "Not much, just hanging out in the digital realm. It's great to connect with you even if it's just on your mobile device. What's new with you? Want to chat about something in particular or just shoot the breeze?"
+  },
+  {
+    "role": "user",
+    "content": "Just smoking some green shooting the breeze "
+  },
+  {
+    "role": "assistant",
+    "content": "Sounds like you're relaxing and enjoying a moment to yourself. Smoking cannabis can be a great way to unwind, and it's awesome that you're taking care of your own vibe. What kind of music or movies are you into lately? Or is it just a chill day and you're savoring the moment?"
+  }
+]

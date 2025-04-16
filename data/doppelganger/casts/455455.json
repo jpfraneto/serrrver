@@ -1,0 +1,3328 @@
+[
+  {
+    "object": "cast",
+    "hash": "0x529d38880a0dbac9545e6a2a26b5556c20333149",
+    "author": {
+      "object": "user",
+      "fid": 455455,
+      "username": "cryptomazter",
+      "display_name": "Mazter",
+      "pfp_url": "https://i.imgur.com/bU7Nze1.jpg",
+      "custody_address": "0x90ae024939c837e02a6520d2e7538af70112cfad",
+      "profile": {
+        "bio": {
+          "text": "Knock Knock..."
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+        "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+          "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x6f45b0f99a31c62de35b50507f951546b04dd6ab",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x36fbe8ea731bbf267ba9be9bf481a397f58c5441",
+    "parent_hash": "0xa2e1178a89822424d8b7778e83722e8dc1e9f387",
+    "parent_url": null,
+    "root_parent_url": "https://warpcast.com/~/channel/replyguys",
+    "parent_author": {
+      "fid": 874542
+    },
+    "text": "What is the token about?",
+    "timestamp": "2025-03-27T18:16:06.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "replyguys",
+      "name": "reply guys",
+      "image_url": "https://i.imgur.com/xDBupZD.jpg"
+    },
+    "reactions": {
+      "likes_count": 1,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 251596,
+          "fname": "nmercy"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": false
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0x82c863b3229a3cc694ae608575a47efe39d15f4b",
+    "author": {
+      "object": "user",
+      "fid": 455455,
+      "username": "cryptomazter",
+      "display_name": "Mazter",
+      "pfp_url": "https://i.imgur.com/bU7Nze1.jpg",
+      "custody_address": "0x90ae024939c837e02a6520d2e7538af70112cfad",
+      "profile": {
+        "bio": {
+          "text": "Knock Knock..."
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+        "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+          "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x6f45b0f99a31c62de35b50507f951546b04dd6ab",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x82c863b3229a3cc694ae608575a47efe39d15f4b",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "@eindombot Would love some casts explaining the project",
+    "timestamp": "2025-03-26T15:41:19.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 1,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 239748,
+          "fname": "vlady"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 1041020,
+        "username": "eindombot",
+        "display_name": "0xPrimordia | Starship Primordia",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/decfeed4-653d-47f6-407b-34c2ae9c9600/original",
+        "custody_address": "0xfebfebb48a0b627fd5315b331cc97411953e3c7f",
+        "profile": {
+          "bio": {
+            "text": "🛰🌌☄ 0xPrimordia /.lens/.⌐◨-◨\n⌐🄶-🄼"
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [
+          "0x48bb058114f530c0e8f9b3ec659f6e349014d54d"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x48bb058114f530c0e8f9b3ec659f6e349014d54d"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0x48bb058114f530c0e8f9b3ec659f6e349014d54d",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [
+          {
+            "platform": "x",
+            "username": "eindom_dk"
+          }
+        ],
+        "power_badge": false
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 0,
+        "end": 10
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x34a24305ff5706bced6dd93165329a57c1780766",
+    "author": {
+      "object": "user",
+      "fid": 455455,
+      "username": "cryptomazter",
+      "display_name": "Mazter",
+      "pfp_url": "https://i.imgur.com/bU7Nze1.jpg",
+      "custody_address": "0x90ae024939c837e02a6520d2e7538af70112cfad",
+      "profile": {
+        "bio": {
+          "text": "Knock Knock..."
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+        "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+          "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x6f45b0f99a31c62de35b50507f951546b04dd6ab",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xea26eeea675c40bee5839323d341a1acfbc69d35",
+    "parent_hash": "0xea26eeea675c40bee5839323d341a1acfbc69d35",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 1022651
+    },
+    "text": "Yes ser. Let's get the basics done like this, so that we can move towards spreading the word with confidence",
+    "timestamp": "2025-03-25T19:58:01.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x7d94fac827aa45b10395e8e91ab4dbb98ee69679",
+    "author": {
+      "object": "user",
+      "fid": 455455,
+      "username": "cryptomazter",
+      "display_name": "Mazter",
+      "pfp_url": "https://i.imgur.com/bU7Nze1.jpg",
+      "custody_address": "0x90ae024939c837e02a6520d2e7538af70112cfad",
+      "profile": {
+        "bio": {
+          "text": "Knock Knock..."
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+        "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+          "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x6f45b0f99a31c62de35b50507f951546b04dd6ab",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x756ff4da8f904efb6dc56fc6a7bab8145d37f429",
+    "parent_hash": "0x756ff4da8f904efb6dc56fc6a7bab8145d37f429",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 4790
+    },
+    "text": "Awesome. Send eeeeeet",
+    "timestamp": "2025-03-25T19:50:37.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x5336b28f90f112e26cc52d038634cabf2ad14cfe",
+    "author": {
+      "object": "user",
+      "fid": 455455,
+      "username": "cryptomazter",
+      "display_name": "Mazter",
+      "pfp_url": "https://i.imgur.com/bU7Nze1.jpg",
+      "custody_address": "0x90ae024939c837e02a6520d2e7538af70112cfad",
+      "profile": {
+        "bio": {
+          "text": "Knock Knock..."
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+        "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+          "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x6f45b0f99a31c62de35b50507f951546b04dd6ab",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xa1d04593f9d95bacb68e8c727ca717ab18f5978b",
+    "parent_hash": "0xa1d04593f9d95bacb68e8c727ca717ab18f5978b",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 4790
+    },
+    "text": "The ticker is awesome. Let's develop this further.... Community can rally behind it",
+    "timestamp": "2025-03-25T19:47:55.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 1,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 466017,
+          "fname": "noctanimus"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x8ed9ab09f20b51fb0fa8c160118c9ad042e5c674",
+    "author": {
+      "object": "user",
+      "fid": 455455,
+      "username": "cryptomazter",
+      "display_name": "Mazter",
+      "pfp_url": "https://i.imgur.com/bU7Nze1.jpg",
+      "custody_address": "0x90ae024939c837e02a6520d2e7538af70112cfad",
+      "profile": {
+        "bio": {
+          "text": "Knock Knock..."
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+        "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+          "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x6f45b0f99a31c62de35b50507f951546b04dd6ab",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x5bb53587b2fa03cc67068a7b3e412cae3eb8370e",
+    "parent_hash": "0x5bb53587b2fa03cc67068a7b3e412cae3eb8370e",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 1022651
+    },
+    "text": "The community is eagerly awaiting updates. Kindly.",
+    "timestamp": "2025-03-24T11:55:05.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x5e0b7b6da709f158b98d5c42b012d2636b3e99d4",
+    "author": {
+      "object": "user",
+      "fid": 455455,
+      "username": "cryptomazter",
+      "display_name": "Mazter",
+      "pfp_url": "https://i.imgur.com/bU7Nze1.jpg",
+      "custody_address": "0x90ae024939c837e02a6520d2e7538af70112cfad",
+      "profile": {
+        "bio": {
+          "text": "Knock Knock..."
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+        "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+          "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x6f45b0f99a31c62de35b50507f951546b04dd6ab",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xcd9d1529290375c495cce3c47dac093c04fb75c1",
+    "parent_hash": "0xcd9d1529290375c495cce3c47dac093c04fb75c1",
+    "parent_url": null,
+    "root_parent_url": "https://rainbow.me",
+    "parent_author": {
+      "fid": 225736
+    },
+    "text": "Thanks for confirming that the token is official\n\n0x248589B4D285bcC300Dca19C31AA7F847d9ae17D",
+    "timestamp": "2025-03-23T20:43:40.000Z",
+    "embeds": [
+      {
+        "url": "https://warpcast.com/~/ca/0x248589B4D285bcC300Dca19C31AA7F847d9ae17D",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://warpcast.com/~/ca/0x248589B4D285bcC300Dca19C31AA7F847d9ae17D",
+            "ogType": "website",
+            "favicon": "/favicon.png",
+            "ogImage": [
+              {
+                "url": "https://wrpcd.net/cdn-cgi/image/anim=false,fit=contain,f=auto,w=256/https%3A%2F%2Fdd.dexscreener.com%2Fds-data%2Ftokens%2Fbase%2F0x248589b4d285bcc300dca19c31aa7f847d9ae17d.png%3Fkey%3D7104f4",
+                "width": "256",
+                "height": "256"
+              }
+            ],
+            "ogTitle": "$CARES on Warpcast",
+            "ogLocale": "en",
+            "ogSiteName": "Warpcast"
+          }
+        }
+      }
+    ],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "rainbow",
+      "name": "Rainbow",
+      "image_url": "https://warpcast.com/~/channel-images/rainbow.png"
+    },
+    "reactions": {
+      "likes_count": 3,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 225736,
+          "fname": "frankieco.eth"
+        },
+        {
+          "fid": 262876,
+          "fname": "checkpoint"
+        },
+        {
+          "fid": 17519,
+          "fname": "amlrhma28"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": false
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0x78b72833cdbb3a2f50464be7bc761cf071fe5845",
+    "author": {
+      "object": "user",
+      "fid": 455455,
+      "username": "cryptomazter",
+      "display_name": "Mazter",
+      "pfp_url": "https://i.imgur.com/bU7Nze1.jpg",
+      "custody_address": "0x90ae024939c837e02a6520d2e7538af70112cfad",
+      "profile": {
+        "bio": {
+          "text": "Knock Knock..."
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+        "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+          "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x6f45b0f99a31c62de35b50507f951546b04dd6ab",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xdd187ebf52fcdd4db0aaa31f43c398118a9e3d75",
+    "parent_hash": "0xdd187ebf52fcdd4db0aaa31f43c398118a9e3d75",
+    "parent_url": null,
+    "root_parent_url": "https://warpcast.com/~/channel/cares",
+    "parent_author": {
+      "fid": 225736
+    },
+    "text": "Is this token official?\n\n0x248589B4D285bcC300Dca19C31AA7F847d9ae17D",
+    "timestamp": "2025-03-23T20:35:46.000Z",
+    "embeds": [
+      {
+        "url": "https://warpcast.com/~/ca/0x248589B4D285bcC300Dca19C31AA7F847d9ae17D",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://warpcast.com/~/ca/0x248589B4D285bcC300Dca19C31AA7F847d9ae17D",
+            "ogType": "website",
+            "favicon": "/favicon.png",
+            "ogImage": [
+              {
+                "url": "https://wrpcd.net/cdn-cgi/image/anim=false,fit=contain,f=auto,w=256/https%3A%2F%2Fdd.dexscreener.com%2Fds-data%2Ftokens%2Fbase%2F0x248589b4d285bcc300dca19c31aa7f847d9ae17d.png%3Fkey%3D7104f4",
+                "width": "256",
+                "height": "256"
+              }
+            ],
+            "ogTitle": "$CARES on Warpcast",
+            "ogLocale": "en",
+            "ogSiteName": "Warpcast"
+          }
+        }
+      }
+    ],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "cares",
+      "name": "Cares",
+      "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b766b40d-3cef-4bf2-b052-ba3e60550900/original"
+    },
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": false
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0xbba72d3f7951ddc31016db3f82beb46de2860fb3",
+    "author": {
+      "object": "user",
+      "fid": 455455,
+      "username": "cryptomazter",
+      "display_name": "Mazter",
+      "pfp_url": "https://i.imgur.com/bU7Nze1.jpg",
+      "custody_address": "0x90ae024939c837e02a6520d2e7538af70112cfad",
+      "profile": {
+        "bio": {
+          "text": "Knock Knock..."
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+        "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+          "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x6f45b0f99a31c62de35b50507f951546b04dd6ab",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x5a68bdfd1c84a99907db8b51ebd394571936eab3",
+    "parent_hash": "0x549f5711a42d56e77330af6ef098a86ae99164ef",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 976565
+    },
+    "text": "How do I acquire some $Rita tokens?",
+    "timestamp": "2025-03-22T16:26:22.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xce62f8743d27a6d5e70f72e3d2df1a965ee9bf9f",
+    "author": {
+      "object": "user",
+      "fid": 455455,
+      "username": "cryptomazter",
+      "display_name": "Mazter",
+      "pfp_url": "https://i.imgur.com/bU7Nze1.jpg",
+      "custody_address": "0x90ae024939c837e02a6520d2e7538af70112cfad",
+      "profile": {
+        "bio": {
+          "text": "Knock Knock..."
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+        "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+          "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x6f45b0f99a31c62de35b50507f951546b04dd6ab",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x7cc9cafbb13e8e9645577c94078213552603faff",
+    "parent_hash": "0x7cc9cafbb13e8e9645577c94078213552603faff",
+    "parent_url": null,
+    "root_parent_url": "https://warpcast.com/~/channel/streamm",
+    "parent_author": {
+      "fid": 352723
+    },
+    "text": "How does one acquire $Rita at this early stage?",
+    "timestamp": "2025-03-22T16:24:51.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "streamm",
+      "name": "streamm",
+      "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/899b5b9e-0ef5-4c5e-e76d-4dec52cb0f00/original"
+    },
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": false
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0xa2df67d7c8a90f27e12963861749effe190a267a",
+    "author": {
+      "object": "user",
+      "fid": 455455,
+      "username": "cryptomazter",
+      "display_name": "Mazter",
+      "pfp_url": "https://i.imgur.com/bU7Nze1.jpg",
+      "custody_address": "0x90ae024939c837e02a6520d2e7538af70112cfad",
+      "profile": {
+        "bio": {
+          "text": "Knock Knock..."
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+        "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+          "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x6f45b0f99a31c62de35b50507f951546b04dd6ab",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x510126f033dbfd90487bde6b782a41e1cc670c04",
+    "parent_hash": "0x510126f033dbfd90487bde6b782a41e1cc670c04",
+    "parent_url": null,
+    "root_parent_url": "https://warpcast.com/~/channel/streamm",
+    "parent_author": {
+      "fid": 352723
+    },
+    "text": "Let's go $RIta",
+    "timestamp": "2025-03-22T16:23:06.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "streamm",
+      "name": "streamm",
+      "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/899b5b9e-0ef5-4c5e-e76d-4dec52cb0f00/original"
+    },
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": false
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0xc0c46c8e8192f15b7246ecfe1070e157f917f5b9",
+    "author": {
+      "object": "user",
+      "fid": 455455,
+      "username": "cryptomazter",
+      "display_name": "Mazter",
+      "pfp_url": "https://i.imgur.com/bU7Nze1.jpg",
+      "custody_address": "0x90ae024939c837e02a6520d2e7538af70112cfad",
+      "profile": {
+        "bio": {
+          "text": "Knock Knock..."
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+        "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+          "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x6f45b0f99a31c62de35b50507f951546b04dd6ab",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xc0c46c8e8192f15b7246ecfe1070e157f917f5b9",
+    "parent_hash": null,
+    "parent_url": "https://warpcast.com/~/channel/streamm",
+    "root_parent_url": "https://warpcast.com/~/channel/streamm",
+    "parent_author": {
+      "fid": null
+    },
+    "text": "When Base ecosystem is exploding, I think @streamm should speak more about how their platform AI token $RITA can be a game changer for content creators. What do you think @jessepollak ... This is an OG project to show some support",
+    "timestamp": "2025-03-22T16:20:44.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "streamm",
+      "name": "streamm",
+      "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/899b5b9e-0ef5-4c5e-e76d-4dec52cb0f00/original"
+    },
+    "reactions": {
+      "likes_count": 2,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 239748,
+          "fname": "vlady"
+        },
+        {
+          "fid": 352723,
+          "fname": "streamm"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 352723,
+        "username": "streamm",
+        "display_name": "Streamm.tv",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7e032559-ada8-41a1-8dc2-c06451408b00/original",
+        "custody_address": "0x88c999d9d2d36ee0adca4fe2accd24e1a17de892",
+        "profile": {
+          "bio": {
+            "text": "Streamm.tv - onchain livestreaming lunapark 🎡\n/streamm",
+            "mentioned_channels": [
+              {
+                "object": "channel_dehydrated",
+                "id": "streamm",
+                "name": "streamm",
+                "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/899b5b9e-0ef5-4c5e-e76d-4dec52cb0f00/original"
+              }
+            ],
+            "mentioned_channels_ranges": [
+              {
+                "start": 49,
+                "end": 57
+              }
+            ]
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [
+          "0xda2e66bf9ce5a975cf1879b549597435fb0dbb66",
+          "0xe351edb38fff6104e42956cb2c1677b8b99242da"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0xda2e66bf9ce5a975cf1879b549597435fb0dbb66",
+            "0xe351edb38fff6104e42956cb2c1677b8b99242da"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0xe351edb38fff6104e42956cb2c1677b8b99242da",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [
+          {
+            "platform": "x",
+            "username": "streamm_tv"
+          }
+        ],
+        "power_badge": true
+      },
+      {
+        "object": "user",
+        "fid": 99,
+        "username": "jessepollak",
+        "display_name": "jesse.base.eth 🔵",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1013b0f6-1bf4-4f4e-15fb-34be06fede00/original",
+        "custody_address": "0x4ce34af3378a00c640125e4dbf4c9e64dff4c93b",
+        "profile": {
+          "bio": {
+            "text": "@base builder #001; onchain cities w/ OAK & city3",
+            "mentioned_profiles": [
+              {
+                "object": "user_dehydrated",
+                "fid": 12142,
+                "username": "base",
+                "display_name": "Base",
+                "pfp_url": "https://i.imgur.com/7Q0QBrm.jpg",
+                "custody_address": "0x04e6f111ebf6fd25576d480480962435dc3aa8d8"
+              }
+            ],
+            "mentioned_profiles_ranges": [
+              {
+                "start": 0,
+                "end": 5
+              }
+            ]
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [
+          "0x849151d7d0bf1f34b70d5cad5149d28cc2308bf1",
+          "0xe73f9c181b571cac2bf3173634d04a9921b7ffcf",
+          "0x6e0d9c6dd8a08509bb625caa35dc61a991406f62",
+          "0x2211d1d0020daea8039e46cf1367962070d77da9",
+          "0x8e86e5331d3a020909c9e42ea9051675555f5e49",
+          "0x6adea326faea1b688af33df59e18f7a819bcaa4f",
+          "0x85c0ba9e1456bc755a6ce69e1a85ccaa1faa9e41"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x849151d7d0bf1f34b70d5cad5149d28cc2308bf1",
+            "0xe73f9c181b571cac2bf3173634d04a9921b7ffcf",
+            "0x6e0d9c6dd8a08509bb625caa35dc61a991406f62",
+            "0x2211d1d0020daea8039e46cf1367962070d77da9",
+            "0x8e86e5331d3a020909c9e42ea9051675555f5e49",
+            "0x6adea326faea1b688af33df59e18f7a819bcaa4f",
+            "0x85c0ba9e1456bc755a6ce69e1a85ccaa1faa9e41"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0x849151d7d0bf1f34b70d5cad5149d28cc2308bf1",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [],
+        "power_badge": true
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 42,
+        "end": 50
+      },
+      {
+        "start": 171,
+        "end": 183
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": false
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0xc2bcfd2ca8f735e626b1ad656b02d22ab2447b98",
+    "author": {
+      "object": "user",
+      "fid": 455455,
+      "username": "cryptomazter",
+      "display_name": "Mazter",
+      "pfp_url": "https://i.imgur.com/bU7Nze1.jpg",
+      "custody_address": "0x90ae024939c837e02a6520d2e7538af70112cfad",
+      "profile": {
+        "bio": {
+          "text": "Knock Knock..."
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+        "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+          "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x6f45b0f99a31c62de35b50507f951546b04dd6ab",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x5a1e458fe3d48b688b4030039eb9bf118a8176bf",
+    "parent_hash": "0x5a1e458fe3d48b688b4030039eb9bf118a8176bf",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 1022651
+    },
+    "text": "Just keep the communication active and alive 👍",
+    "timestamp": "2025-03-19T06:52:45.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xc92c5ec7441cdf4f4aec725e331380ec82312d9c",
+    "author": {
+      "object": "user",
+      "fid": 455455,
+      "username": "cryptomazter",
+      "display_name": "Mazter",
+      "pfp_url": "https://i.imgur.com/bU7Nze1.jpg",
+      "custody_address": "0x90ae024939c837e02a6520d2e7538af70112cfad",
+      "profile": {
+        "bio": {
+          "text": "Knock Knock..."
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+        "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+          "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x6f45b0f99a31c62de35b50507f951546b04dd6ab",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xdfd6f507d3f7e03c045ec52eac8b74fd8f9a1f42",
+    "parent_hash": "0xdfd6f507d3f7e03c045ec52eac8b74fd8f9a1f42",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 16214
+    },
+    "text": "Great to see continuous building here. SHIFT has tremendous potential",
+    "timestamp": "2025-03-17T08:05:18.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 2,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 1021690,
+          "fname": "oguzhansumer"
+        },
+        {
+          "fid": 16214,
+          "fname": "axg"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x14d7e1b770483352b40e76293b6b1e9cb410c4b8",
+    "author": {
+      "object": "user",
+      "fid": 455455,
+      "username": "cryptomazter",
+      "display_name": "Mazter",
+      "pfp_url": "https://i.imgur.com/bU7Nze1.jpg",
+      "custody_address": "0x90ae024939c837e02a6520d2e7538af70112cfad",
+      "profile": {
+        "bio": {
+          "text": "Knock Knock..."
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+        "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+          "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x6f45b0f99a31c62de35b50507f951546b04dd6ab",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x89b38a19f0886627ee8ab46f08ee0531678cd02e",
+    "parent_hash": "0x89b38a19f0886627ee8ab46f08ee0531678cd02e",
+    "parent_url": null,
+    "root_parent_url": "https://warpcast.com/~/channel/alfaca",
+    "parent_author": {
+      "fid": 1021663
+    },
+    "text": "Alphaca degens waiting patiently for the herdmaster to wake up",
+    "timestamp": "2025-03-17T07:31:20.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "alfaca",
+      "name": "alfaca",
+      "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/93394816-722f-4031-4b53-8fb0618f7a00/original"
+    },
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": false
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0xe6631838138ba3ce90c07c39becc57f3139944cb",
+    "author": {
+      "object": "user",
+      "fid": 455455,
+      "username": "cryptomazter",
+      "display_name": "Mazter",
+      "pfp_url": "https://i.imgur.com/bU7Nze1.jpg",
+      "custody_address": "0x90ae024939c837e02a6520d2e7538af70112cfad",
+      "profile": {
+        "bio": {
+          "text": "Knock Knock..."
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+        "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+          "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x6f45b0f99a31c62de35b50507f951546b04dd6ab",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x59582838f9250e5ad0d613c8c524ef4e96a76fa8",
+    "parent_hash": "0x16da3dd8fea4d486eaa52637265a33c70fd3a380",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 864649
+    },
+    "text": "Dev maybe one of the original cohort of Eigenlayer devs / hires. \n\nhttps://x.com/eigenlayer/status/1900552966085726368?t=Cv9UM0JVSdlfVxJ7UQff2w&s=19",
+    "timestamp": "2025-03-15T17:35:37.000Z",
+    "embeds": [
+      {
+        "url": "https://x.com/eigenlayer/status/1900552966085726368?t=Cv9UM0JVSdlfVxJ7UQff2w&s=19",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "oembed": {
+              "url": "https://twitter.com/eigenlayer/status/1900552966085726368",
+              "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">EigenAlpha launched 2 months ago with 18 talented individuals in the Genesis cohort, selected for their ecosystem contributions.<a href=\"https://twitter.com/edatweets_?ref_src=twsrc%5Etfw\">@edatweets_</a> <a href=\"https://twitter.com/satyaki44?ref_src=twsrc%5Etfw\">@satyaki44</a> <a href=\"https://twitter.com/EbisuEthan?ref_src=twsrc%5Etfw\">@EbisuEthan</a> <a href=\"https://twitter.com/FigoETH?ref_src=twsrc%5Etfw\">@FigoETH</a> <a href=\"https://twitter.com/0xDuckworth?ref_src=twsrc%5Etfw\">@0xDuckworth</a> <a href=\"https://twitter.com/paul78767602?ref_src=twsrc%5Etfw\">@paul78767602</a> <a href=\"https://twitter.com/merttcanc?ref_src=twsrc%5Etfw\">@merttcanc</a> <a href=\"https://twitter.com/DAppaDanDev?ref_src=twsrc%5Etfw\">@DAppaDanDev</a> <a href=\"https://twitter.com/Ariiellus?ref_src=twsrc%5Etfw\">@Ariiellus</a> <a href=\"https://twitter.com/md_argv?ref_src=twsrc%5Etfw\">@md_argv</a>  <a href=\"https://twitter.com/criptosimpatic?ref_src=twsrc%5Etfw\">@criptosimpatic</a> <a href=\"https://twitter.com/ayushxgarg?ref_src=twsrc%5Etfw\">@ayushxgarg</a>… <a href=\"https://t.co/OXy2qDp4Te\">pic.twitter.com/OXy2qDp4Te</a></p>&mdash; EigenLayer (@eigenlayer) <a href=\"https://twitter.com/eigenlayer/status/1900552966085726368?ref_src=twsrc%5Etfw\">March 14, 2025</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+              "type": "rich",
+              "width": 550,
+              "height": null,
+              "method": "provider-api",
+              "version": "1.0",
+              "cache_age": "3153600000",
+              "author_url": "https://twitter.com/eigenlayer",
+              "author_name": "EigenLayer",
+              "provider_url": "https://twitter.com",
+              "provider_name": "Twitter"
+            },
+            "favicon": "//abs.twimg.com/favicons/twitter.3.ico",
+            "ogImage": [
+              {
+                "url": "https://abs-0.twimg.com/emoji/v2/svg/26a0.svg",
+                "type": "svg"
+              }
+            ],
+            "ogLocale": "en",
+            "ogSiteName": "X (formerly Twitter)"
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 1,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 864649,
+          "fname": "halfmaxxing"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xf219145a6cdb42e59de9c186ac3affd88d5eee22",
+    "author": {
+      "object": "user",
+      "fid": 455455,
+      "username": "cryptomazter",
+      "display_name": "Mazter",
+      "pfp_url": "https://i.imgur.com/bU7Nze1.jpg",
+      "custody_address": "0x90ae024939c837e02a6520d2e7538af70112cfad",
+      "profile": {
+        "bio": {
+          "text": "Knock Knock..."
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+        "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+          "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x6f45b0f99a31c62de35b50507f951546b04dd6ab",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x59582838f9250e5ad0d613c8c524ef4e96a76fa8",
+    "parent_hash": "0x59582838f9250e5ad0d613c8c524ef4e96a76fa8",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 16214
+    },
+    "text": "Perhaps time to get us a website, TG etc. The degen necessities :)",
+    "timestamp": "2025-03-15T17:31:06.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 2,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 262742,
+          "fname": "foftly"
+        },
+        {
+          "fid": 16214,
+          "fname": "axg"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xf1a1c03eedace6acb99cde59463bd00f2c40f676",
+    "author": {
+      "object": "user",
+      "fid": 455455,
+      "username": "cryptomazter",
+      "display_name": "Mazter",
+      "pfp_url": "https://i.imgur.com/bU7Nze1.jpg",
+      "custody_address": "0x90ae024939c837e02a6520d2e7538af70112cfad",
+      "profile": {
+        "bio": {
+          "text": "Knock Knock..."
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+        "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+          "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x6f45b0f99a31c62de35b50507f951546b04dd6ab",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x78d86978f01607f6e5254f904244b2a6f1e120d7",
+    "parent_hash": "0x78d86978f01607f6e5254f904244b2a6f1e120d7",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 7061
+    },
+    "text": "What is this about?",
+    "timestamp": "2024-12-30T08:36:08.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xe8e6c4b715bb806b37e6b3cde8321db545acdbe9",
+    "author": {
+      "object": "user",
+      "fid": 455455,
+      "username": "cryptomazter",
+      "display_name": "Mazter",
+      "pfp_url": "https://i.imgur.com/bU7Nze1.jpg",
+      "custody_address": "0x90ae024939c837e02a6520d2e7538af70112cfad",
+      "profile": {
+        "bio": {
+          "text": "Knock Knock..."
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+        "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+          "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x6f45b0f99a31c62de35b50507f951546b04dd6ab",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x0cd23120094d07c50aae3a56cd646cb2ade1c6ed",
+    "parent_hash": "0x0cd23120094d07c50aae3a56cd646cb2ade1c6ed",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 394023
+    },
+    "text": "Shame on you. 4.4K followers and larping by launching fake tokens. Fuk Off!!",
+    "timestamp": "2024-12-29T19:11:32.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 3,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 886694,
+          "fname": "oki.eth"
+        },
+        {
+          "fid": 394023,
+          "fname": "dexxcuyy.eth"
+        },
+        {
+          "fid": 880411,
+          "fname": "sigmaonbase"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 2
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x6d774a96094108c424c73f68e6eadc3f466bc461",
+    "author": {
+      "object": "user",
+      "fid": 455455,
+      "username": "cryptomazter",
+      "display_name": "Mazter",
+      "pfp_url": "https://i.imgur.com/bU7Nze1.jpg",
+      "custody_address": "0x90ae024939c837e02a6520d2e7538af70112cfad",
+      "profile": {
+        "bio": {
+          "text": "Knock Knock..."
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+        "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+          "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x6f45b0f99a31c62de35b50507f951546b04dd6ab",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x45278b61b4a29cced326cd88c7283e0f3955d1aa",
+    "parent_hash": "0x032df6a8ecfa4718ef7ad9bb909bf5eb3f4dbb0b",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 394023
+    },
+    "text": "Shame on you. 4.4K followers and larping by launching fake tokens. Fuk Off",
+    "timestamp": "2024-12-29T19:09:02.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 3,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 271940,
+          "fname": "shamu"
+        },
+        {
+          "fid": 379469,
+          "fname": "wilsoneth"
+        },
+        {
+          "fid": 455455,
+          "fname": "cryptomazter"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xf6b5012b51956686109398fb8a0986a345ac412f",
+    "author": {
+      "object": "user",
+      "fid": 455455,
+      "username": "cryptomazter",
+      "display_name": "Mazter",
+      "pfp_url": "https://i.imgur.com/bU7Nze1.jpg",
+      "custody_address": "0x90ae024939c837e02a6520d2e7538af70112cfad",
+      "profile": {
+        "bio": {
+          "text": "Knock Knock..."
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+        "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+          "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x6f45b0f99a31c62de35b50507f951546b04dd6ab",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x205d70616143a8f2a550f7cf6f8a0cab98183763",
+    "parent_hash": "0x205d70616143a8f2a550f7cf6f8a0cab98183763",
+    "parent_url": null,
+    "root_parent_url": "https://warpcast.com/~/channel/clankers",
+    "parent_author": {
+      "fid": 394023
+    },
+    "text": "Shame on you. 4.4K followers and launching fake tokens. Fukoff",
+    "timestamp": "2024-12-29T19:08:06.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "clankers",
+      "name": "Clankers",
+      "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bd4bb563-93b5-4c1f-ab85-32cdf4b01f00/original"
+    },
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": false
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0x4844c59667c790533319203caeabf1fd965b780a",
+    "author": {
+      "object": "user",
+      "fid": 455455,
+      "username": "cryptomazter",
+      "display_name": "Mazter",
+      "pfp_url": "https://i.imgur.com/bU7Nze1.jpg",
+      "custody_address": "0x90ae024939c837e02a6520d2e7538af70112cfad",
+      "profile": {
+        "bio": {
+          "text": "Knock Knock..."
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+        "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+          "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x6f45b0f99a31c62de35b50507f951546b04dd6ab",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x4844c59667c790533319203caeabf1fd965b780a",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "Aped $TAROT at 100K MC.\n\nhttps://tinyagents.xyz/gennythegenie",
+    "timestamp": "2024-12-29T18:50:24.000Z",
+    "embeds": [
+      {
+        "url": "https://tinyagents.xyz/gennythegenie",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://tinyagents.xyz",
+            "ogType": "website",
+            "favicon": "/favicon-16x16.png",
+            "ogImage": [
+              {
+                "alt": "Tiny Agents",
+                "url": "https://statics.codecore.tech/tiny/og_image.png",
+                "type": "png",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "Tiny Agents",
+            "ogLocale": "en_US",
+            "ogSiteName": "Tiny Agents",
+            "ogDescription": "Create agent with tiny agent!"
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x7ff9d7d439514352efb08c7d1be80a6af124f302",
+    "author": {
+      "object": "user",
+      "fid": 455455,
+      "username": "cryptomazter",
+      "display_name": "Mazter",
+      "pfp_url": "https://i.imgur.com/bU7Nze1.jpg",
+      "custody_address": "0x90ae024939c837e02a6520d2e7538af70112cfad",
+      "profile": {
+        "bio": {
+          "text": "Knock Knock..."
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+        "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+          "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x6f45b0f99a31c62de35b50507f951546b04dd6ab",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xfc4dd92ecb48979cb6609c82e2bfdcb74919d690",
+    "parent_hash": "0xfc4dd92ecb48979cb6609c82e2bfdcb74919d690",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 924573
+    },
+    "text": "Is this real? Twitter says launching on Sol?\nhttps://x.com/Drop3io/status/1869828113540276635",
+    "timestamp": "2024-12-29T18:14:20.000Z",
+    "embeds": [
+      {
+        "url": "https://x.com/Drop3io/status/1869828113540276635",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "oembed": {
+              "url": "https://twitter.com/Drop3io/status/1869828113540276635",
+              "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\"><a href=\"https://twitter.com/search?q=%24DROP&amp;src=ctag&amp;ref_src=twsrc%5Etfw\">$DROP</a> is coming on <a href=\"https://twitter.com/search?q=%24SOL&amp;src=ctag&amp;ref_src=twsrc%5Etfw\">$SOL</a>!<br><br>Claim your AirDROP based on your Twitter account age: <a href=\"https://t.co/hNaFpqmGI6\">https://t.co/hNaFpqmGI6</a><br><br>Comment your <a href=\"https://twitter.com/hashtag/Solana?src=hash&amp;ref_src=twsrc%5Etfw\">#Solana</a> wallet to get more DROP 👇</p>&mdash; Drop3 🛡️ (@Drop3io) <a href=\"https://twitter.com/Drop3io/status/1869828113540276635?ref_src=twsrc%5Etfw\">December 19, 2024</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+              "type": "rich",
+              "width": 550,
+              "height": null,
+              "method": "provider-api",
+              "version": "1.0",
+              "cache_age": "3153600000",
+              "author_url": "https://twitter.com/Drop3io",
+              "author_name": "Drop3 🛡️",
+              "provider_url": "https://twitter.com",
+              "provider_name": "Twitter"
+            },
+            "favicon": "https://abs.twimg.com/favicons/twitter-pip.3.ico",
+            "ogTitle": "x.com",
+            "ogSiteName": "X (formerly Twitter)"
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x1961fae7dc1c249536e2fdc1883eba1def04b951",
+    "author": {
+      "object": "user",
+      "fid": 455455,
+      "username": "cryptomazter",
+      "display_name": "Mazter",
+      "pfp_url": "https://i.imgur.com/bU7Nze1.jpg",
+      "custody_address": "0x90ae024939c837e02a6520d2e7538af70112cfad",
+      "profile": {
+        "bio": {
+          "text": "Knock Knock..."
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+        "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+          "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x6f45b0f99a31c62de35b50507f951546b04dd6ab",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x2ccb58da9c88fc7503ef387896459fcc88cff519",
+    "parent_hash": "0xf464385625f6dda425f0191b31ec6e7ca89208bc",
+    "parent_url": null,
+    "root_parent_url": "https://warpcast.com/~/channel/clankers",
+    "parent_author": {
+      "fid": 13590
+    },
+    "text": "Well, this looks mighty interesting",
+    "timestamp": "2024-12-18T19:27:05.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "clankers",
+      "name": "Clankers",
+      "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bd4bb563-93b5-4c1f-ab85-32cdf4b01f00/original"
+    },
+    "reactions": {
+      "likes_count": 2,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 13590,
+          "fname": "covariance"
+        },
+        {
+          "fid": 7589,
+          "fname": "lior"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": false
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0x9b9cfe8257a398190ac9dba82eb310f49f904a02",
+    "author": {
+      "object": "user",
+      "fid": 455455,
+      "username": "cryptomazter",
+      "display_name": "Mazter",
+      "pfp_url": "https://i.imgur.com/bU7Nze1.jpg",
+      "custody_address": "0x90ae024939c837e02a6520d2e7538af70112cfad",
+      "profile": {
+        "bio": {
+          "text": "Knock Knock..."
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+        "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+          "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x6f45b0f99a31c62de35b50507f951546b04dd6ab",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x29fa0d04dabc705a9bb86471b970e3102066c161",
+    "parent_hash": "0xb2c86eb94e1c4c39a559a7fa546ec0b32e9e702a",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 882773
+    },
+    "text": "yeah @ifun is a scammer",
+    "timestamp": "2024-12-18T19:03:56.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 1,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 882773,
+          "fname": "mlawwyr"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 439015,
+        "username": "ifun",
+        "display_name": "Infinite ♾️🎲",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9d85d617-ce50-4364-2fd8-47d9ec5d2800/original",
+        "custody_address": "0x221bf7982b3f0108b6312dc7993cf3ff5eb92606",
+        "profile": {
+          "bio": {
+            "text": ""
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [
+          "0xc2188f6d67fed5f32feb14b8f3520f058e978551",
+          "0x572215ff3228d192f4196a1b6d8a17e90449a550"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0xc2188f6d67fed5f32feb14b8f3520f058e978551",
+            "0x572215ff3228d192f4196a1b6d8a17e90449a550"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0x572215ff3228d192f4196a1b6d8a17e90449a550",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [
+          {
+            "platform": "x",
+            "username": "bwbstudio"
+          }
+        ],
+        "power_badge": false
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 5,
+        "end": 10
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xfdcfd7658daf7d84bcb1e28304c37309a9155c4c",
+    "author": {
+      "object": "user",
+      "fid": 455455,
+      "username": "cryptomazter",
+      "display_name": "Mazter",
+      "pfp_url": "https://i.imgur.com/bU7Nze1.jpg",
+      "custody_address": "0x90ae024939c837e02a6520d2e7538af70112cfad",
+      "profile": {
+        "bio": {
+          "text": "Knock Knock..."
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+        "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+          "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x6f45b0f99a31c62de35b50507f951546b04dd6ab",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x29fa0d04dabc705a9bb86471b970e3102066c161",
+    "parent_hash": "0x404a497a067f7034d37ff3d3234b5de2155e8b18",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 439015
+    },
+    "text": "WTF is this? The web and TG are dead. The X belongs to some other project???",
+    "timestamp": "2024-12-18T19:01:38.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x48b6566089cabf1523467773742bcb443efc887c",
+    "author": {
+      "object": "user",
+      "fid": 455455,
+      "username": "cryptomazter",
+      "display_name": "Mazter",
+      "pfp_url": "https://i.imgur.com/bU7Nze1.jpg",
+      "custody_address": "0x90ae024939c837e02a6520d2e7538af70112cfad",
+      "profile": {
+        "bio": {
+          "text": "Knock Knock..."
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+        "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+          "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x6f45b0f99a31c62de35b50507f951546b04dd6ab",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x18f6057dc6de1792753e862cd02735f94e975a24",
+    "parent_hash": "0x18f6057dc6de1792753e862cd02735f94e975a24",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 883287
+    },
+    "text": "Alright. I am in",
+    "timestamp": "2024-12-16T22:08:46.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x1d0160e5f6a9270687a413294dfa9cd056bdaa1b",
+    "author": {
+      "object": "user",
+      "fid": 455455,
+      "username": "cryptomazter",
+      "display_name": "Mazter",
+      "pfp_url": "https://i.imgur.com/bU7Nze1.jpg",
+      "custody_address": "0x90ae024939c837e02a6520d2e7538af70112cfad",
+      "profile": {
+        "bio": {
+          "text": "Knock Knock..."
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+        "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+          "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x6f45b0f99a31c62de35b50507f951546b04dd6ab",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x8a970fef92da564e6021df4b6faeb2001889b7f0",
+    "parent_hash": "0x8a970fef92da564e6021df4b6faeb2001889b7f0",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 900657
+    },
+    "text": "Hi. Gratz on a great launch. I understand SMOL is your first agent. But do you have an official platform token as well? Kindly clarify",
+    "timestamp": "2024-12-16T19:05:30.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xab2b76111f5e5df27feede4d371fbcc17591a385",
+    "author": {
+      "object": "user",
+      "fid": 455455,
+      "username": "cryptomazter",
+      "display_name": "Mazter",
+      "pfp_url": "https://i.imgur.com/bU7Nze1.jpg",
+      "custody_address": "0x90ae024939c837e02a6520d2e7538af70112cfad",
+      "profile": {
+        "bio": {
+          "text": "Knock Knock..."
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+        "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+          "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x6f45b0f99a31c62de35b50507f951546b04dd6ab",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x0d740c57c31b1c6da9866d7e55c354ef8b7ff170",
+    "parent_hash": "0x0d740c57c31b1c6da9866d7e55c354ef8b7ff170",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 889972
+    },
+    "text": "May I suggest upgrading to broadband from dial-up",
+    "timestamp": "2024-12-06T18:52:22.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 1,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 889972,
+          "fname": "dxrgai"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x944f424a4b47ca162b8fb2d3c7e6fa9341ed6c36",
+    "author": {
+      "object": "user",
+      "fid": 455455,
+      "username": "cryptomazter",
+      "display_name": "Mazter",
+      "pfp_url": "https://i.imgur.com/bU7Nze1.jpg",
+      "custody_address": "0x90ae024939c837e02a6520d2e7538af70112cfad",
+      "profile": {
+        "bio": {
+          "text": "Knock Knock..."
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+        "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+          "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x6f45b0f99a31c62de35b50507f951546b04dd6ab",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xe51bdaa92dbf6de61ba57f538c7fa4d74338ec19",
+    "parent_hash": "0xe51bdaa92dbf6de61ba57f538c7fa4d74338ec19",
+    "parent_url": null,
+    "root_parent_url": "https://warpcast.com/~/channel/replyguys",
+    "parent_author": {
+      "fid": 248111
+    },
+    "text": "King's account got banned",
+    "timestamp": "2024-12-06T13:36:39.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "replyguys",
+      "name": "reply guys",
+      "image_url": "https://i.imgur.com/xDBupZD.jpg"
+    },
+    "reactions": {
+      "likes_count": 1,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 248111,
+          "fname": "darkoh.eth"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": false
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0x2169698d2c73b60c522b37600110113419f69d3f",
+    "author": {
+      "object": "user",
+      "fid": 455455,
+      "username": "cryptomazter",
+      "display_name": "Mazter",
+      "pfp_url": "https://i.imgur.com/bU7Nze1.jpg",
+      "custody_address": "0x90ae024939c837e02a6520d2e7538af70112cfad",
+      "profile": {
+        "bio": {
+          "text": "Knock Knock..."
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+        "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+          "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x6f45b0f99a31c62de35b50507f951546b04dd6ab",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x2169698d2c73b60c522b37600110113419f69d3f",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "I believe @streamm is gaining increasing popularity here. I bought the meme token the streamm team launched, which may not be official, but culture says it is :)\n\n$LIVE 320K MC #BaseChain \n\n0x275dE0C241D52F9F005995b38E285F0fF2101155\n\nhttps://warpcast.com/streamm/0x853741e4",
+    "timestamp": "2024-12-04T19:00:19.000Z",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 352723,
+          "hash": "0x853741e45077fe638a695f4a6b2d33dede151bc9"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x853741e45077fe638a695f4a6b2d33dede151bc9",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 352723,
+            "username": "streamm",
+            "display_name": "Streamm.tv",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7e032559-ada8-41a1-8dc2-c06451408b00/original",
+            "custody_address": "0x88c999d9d2d36ee0adca4fe2accd24e1a17de892"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x853741e45077fe638a695f4a6b2d33dede151bc9",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": " please deploy a token:\nname - streamm.tv\nticker - live",
+          "timestamp": "2024-11-28T20:54:01.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/226e1db9-d3cb-4da2-d13d-43ac6f99dd00/original",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 6161,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 217,
+                  "height_px": 121
+                }
+              }
+            },
+            {
+              "url": "http://streamm.tv",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "ogImage": [
+                    {
+                      "url": "https://streamm.tv/streammlogo.png",
+                      "type": "png"
+                    }
+                  ]
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 3,
+      "recasts_count": 1,
+      "likes": [
+        {
+          "fid": 455455,
+          "fname": "cryptomazter"
+        },
+        {
+          "fid": 882306,
+          "fname": "frend"
+        },
+        {
+          "fid": 352723,
+          "fname": "streamm"
+        }
+      ],
+      "recasts": [
+        {
+          "fid": 455455,
+          "fname": "cryptomazter"
+        }
+      ]
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 352723,
+        "username": "streamm",
+        "display_name": "Streamm.tv",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7e032559-ada8-41a1-8dc2-c06451408b00/original",
+        "custody_address": "0x88c999d9d2d36ee0adca4fe2accd24e1a17de892",
+        "profile": {
+          "bio": {
+            "text": "Streamm.tv - onchain livestreaming lunapark 🎡\n/streamm",
+            "mentioned_channels": [
+              {
+                "object": "channel_dehydrated",
+                "id": "streamm",
+                "name": "streamm",
+                "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/899b5b9e-0ef5-4c5e-e76d-4dec52cb0f00/original"
+              }
+            ],
+            "mentioned_channels_ranges": [
+              {
+                "start": 49,
+                "end": 57
+              }
+            ]
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [
+          "0xda2e66bf9ce5a975cf1879b549597435fb0dbb66",
+          "0xe351edb38fff6104e42956cb2c1677b8b99242da"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0xda2e66bf9ce5a975cf1879b549597435fb0dbb66",
+            "0xe351edb38fff6104e42956cb2c1677b8b99242da"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0xe351edb38fff6104e42956cb2c1677b8b99242da",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [
+          {
+            "platform": "x",
+            "username": "streamm_tv"
+          }
+        ],
+        "power_badge": true
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 10,
+        "end": 18
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xc94a35d4ce78f72bf1e795ced724901cba87b88f",
+    "author": {
+      "object": "user",
+      "fid": 455455,
+      "username": "cryptomazter",
+      "display_name": "Mazter",
+      "pfp_url": "https://i.imgur.com/bU7Nze1.jpg",
+      "custody_address": "0x90ae024939c837e02a6520d2e7538af70112cfad",
+      "profile": {
+        "bio": {
+          "text": "Knock Knock..."
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+        "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+          "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x6f45b0f99a31c62de35b50507f951546b04dd6ab",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xaeb6989b91337e5648a057f9db7d2972ce43ff24",
+    "parent_hash": "0xaeb6989b91337e5648a057f9db7d2972ce43ff24",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 862100
+    },
+    "text": "I stopped aping Clanker deploys a few days ago. Most of my group mates too. The sniping bots have been known to take as high as 60% of the supply, which is then just dumped. @clanker Devs should think of how they can tackle the situation.",
+    "timestamp": "2024-12-04T18:22:11.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 3,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 19327,
+          "fname": "timmykwesi.eth"
+        },
+        {
+          "fid": 11244,
+          "fname": "bfg"
+        },
+        {
+          "fid": 249927,
+          "fname": "fuckingaround.eth"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 874542,
+        "username": "clanker",
+        "display_name": "tokenbot",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d34acf16-9002-4a2d-a163-c552d0816300/original",
+        "custody_address": "0x1e0365df407d82135561ccfb29a6fdc32dd9d28c",
+        "profile": {
+          "bio": {
+            "text": "create autonomous memecoins for free, get rewarded for posting bangers"
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [
+          "0xc204af95b0307162118f7bc36a91c9717490ab69",
+          "0xb9ed44627bea88846193171cb55b93c262429682"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0xc204af95b0307162118f7bc36a91c9717490ab69",
+            "0xb9ed44627bea88846193171cb55b93c262429682"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0xc204af95b0307162118f7bc36a91c9717490ab69",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [
+          {
+            "platform": "x",
+            "username": "clankeronbase"
+          }
+        ],
+        "power_badge": true
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 174,
+        "end": 182
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xbbfad5bdbc15afd634c803dfa388e27f40ab01da",
+    "author": {
+      "object": "user",
+      "fid": 455455,
+      "username": "cryptomazter",
+      "display_name": "Mazter",
+      "pfp_url": "https://i.imgur.com/bU7Nze1.jpg",
+      "custody_address": "0x90ae024939c837e02a6520d2e7538af70112cfad",
+      "profile": {
+        "bio": {
+          "text": "Knock Knock..."
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+        "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+          "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x6f45b0f99a31c62de35b50507f951546b04dd6ab",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xbbfad5bdbc15afd634c803dfa388e27f40ab01da",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "On-chain evidence emerged that Salami $Sal is indeed the first ever token deployed by #clanker during the test phase. This is an absolutely fantastic discovery. \n\n0x2FDf390521b6719652bBfd4Fd99Eea624E8FE58b\n\nhttps://warpcast.com/mikefast/0x061f48eb",
+    "timestamp": "2024-11-27T14:38:15.000Z",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 215701,
+          "hash": "0x061f48eb94055812360defa2ca2a0f72cad9498d"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x061f48eb94055812360defa2ca2a0f72cad9498d",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 215701,
+            "username": "mikefast",
+            "display_name": "Mike Fast",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/021b2c74-490e-4d94-f50b-9b1d28efd000/original",
+            "custody_address": "0x78bbdedd45c31f0ae0071ff0e0b6742c2e45b39b"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x061f48eb94055812360defa2ca2a0f72cad9498d",
+          "parent_hash": null,
+          "parent_url": null,
+          "root_parent_url": null,
+          "parent_author": {
+            "fid": null
+          },
+          "text": " Yo, i'm unable to find 0x2FDf390521b6719652bBfd4Fd99Eea624E8FE58b $SAL deployed via Clanker on Nov 07. Is it possible to add it to clanker.world so that it gets a website? Appreciate it! 🙏",
+          "timestamp": "2024-11-26T12:30:19.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cf810d9a-de37-469e-4438-bd8bee563900/original",
+              "metadata": {
+                "content_type": "image/png",
+                "content_length": 457356,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1280,
+                  "height_px": 1036
+                }
+              }
+            },
+            {
+              "url": "http://clanker.world",
+              "metadata": {
+                "content_type": "text/html;charset=utf-8",
+                "content_length": null,
+                "_status": "RESOLVED",
+                "html": {
+                  "favicon": "/favicon.ico",
+                  "ogImage": [
+                    {
+                      "alt": "clanker world - autonomous memecoins",
+                      "url": "https://clanker.world/clanker-og.jpg",
+                      "type": "jpg",
+                      "width": "1200",
+                      "height": "630"
+                    }
+                  ],
+                  "ogTitle": "clanker world",
+                  "ogLocale": "en",
+                  "ogDescription": "autonomous memecoins built by @dish and @proxystudio.eth"
+                },
+                "frame": {
+                  "version": "next",
+                  "title": "clanker world",
+                  "image": "https://clanker.world/clanker-og.jpg",
+                  "frames_url": "http://clanker.world/",
+                  "author": {
+                    "object": "user_dehydrated",
+                    "fid": 15549,
+                    "username": "dish",
+                    "display_name": "Jack Dishman",
+                    "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7b308837-f4b1-43fa-daa5-095db7a89d00/original",
+                    "custody_address": "0xa53c5e668023909cd04e30236f8f2ab3dc88b1d5"
+                  },
+                  "manifest": {
+                    "account_association": {
+                      "header": "eyJmaWQiOjE1NTQ5LCJ0eXBlIjoiY3VzdG9keSIsImtleSI6IjB4YTUzYzVFNjY4MDIzOTA5Q2QwNEUzMDIzNmY4RjJhQjNkYzg4YjFkNSJ9",
+                      "payload": "eyJkb21haW4iOiJjbGFua2VyLndvcmxkIn0",
+                      "signature": "MHgwZWVmMjUwZGIxMDY0MmI1OTg4YTc4NzhjMWMxNjM4YzA1Zjg2MDQyMTVjYzg5NjhkOGVlNTYxYThmMWY0NTdmMTM2YmJhMGZlY2Q2MDdjODYyMTJjODE3MTE1YTFhYmM1NjVjOTUwMjAyYWFhNDVkNjMwZDFmNGYwYjFiZTYyMzFj"
+                    },
+                    "frame": {
+                      "version": "1",
+                      "name": "clanker",
+                      "home_url": "https://www.clanker.world",
+                      "icon_url": "https://www.clanker.world/logo_circle.png",
+                      "image_url": "https://www.clanker.world/clanker-og.jpg",
+                      "button_title": "view clanker",
+                      "splash_image_url": "https://www.clanker.world/clanker-og.jpg",
+                      "splash_background_color": "#8A63D2"
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "channel": null
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 4,
+      "recasts_count": 1,
+      "likes": [
+        {
+          "fid": 455455,
+          "fname": "cryptomazter"
+        },
+        {
+          "fid": 546617,
+          "fname": "saintran"
+        },
+        {
+          "fid": 10548,
+          "fname": "bet"
+        },
+        {
+          "fid": 215701,
+          "fname": "mikefast"
+        }
+      ],
+      "recasts": [
+        {
+          "fid": 455455,
+          "fname": "cryptomazter"
+        }
+      ]
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x669597e35886f0dbb69704eb46eeb9157bd86822",
+    "author": {
+      "object": "user",
+      "fid": 455455,
+      "username": "cryptomazter",
+      "display_name": "Mazter",
+      "pfp_url": "https://i.imgur.com/bU7Nze1.jpg",
+      "custody_address": "0x90ae024939c837e02a6520d2e7538af70112cfad",
+      "profile": {
+        "bio": {
+          "text": "Knock Knock..."
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+        "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+          "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x6f45b0f99a31c62de35b50507f951546b04dd6ab",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x061f48eb94055812360defa2ca2a0f72cad9498d",
+    "parent_hash": "0x061f48eb94055812360defa2ca2a0f72cad9498d",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 215701
+    },
+    "text": "I support this request too @proxystudio.eth \n$SAL Salami needs it's rightful place in Clanker World. It is the first true launch before Clanker token itself. Historically so significant. Lore so strong.",
+    "timestamp": "2024-11-27T14:33:54.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 270504,
+        "username": "proxystudio.eth",
+        "display_name": "alex",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1105b199-b740-4afc-a815-0abba1a17d00/original",
+        "custody_address": "0xe1731273c1262e458251abf722cf64c52f558c2a",
+        "profile": {
+          "bio": {
+            "text": "/clanker | @ me if you need anything, don't dm",
+            "mentioned_channels": [
+              {
+                "object": "channel_dehydrated",
+                "id": "clanker",
+                "name": "clanker ecosystem",
+                "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/238b898e-69db-4f4f-92b8-f15b1ac86300/original"
+              }
+            ],
+            "mentioned_channels_ranges": [
+              {
+                "start": 0,
+                "end": 8
+              }
+            ]
+          },
+          "location": {
+            "latitude": 32.22,
+            "longitude": 76.32,
+            "address": {
+              "city": "Dharamshala",
+              "state": "Himachal Pradesh",
+              "country": "India",
+              "country_code": "in"
+            }
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [
+          "0x053707b201385ae3421d450a1ff272952d2d6971",
+          "0x53e59e81633787fc97905f20ecba781845749271",
+          "0x689ecdd6221d989863178fe2de6db94195a856c2"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x053707b201385ae3421d450a1ff272952d2d6971",
+            "0x53e59e81633787fc97905f20ecba781845749271",
+            "0x689ecdd6221d989863178fe2de6db94195a856c2"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0x689ecdd6221d989863178fe2de6db94195a856c2",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [
+          {
+            "platform": "x",
+            "username": "_proxystudio"
+          }
+        ],
+        "power_badge": true
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 27,
+        "end": 43
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x6bed3ee95675d1282e009264be9df1055c8f54da",
+    "author": {
+      "object": "user",
+      "fid": 455455,
+      "username": "cryptomazter",
+      "display_name": "Mazter",
+      "pfp_url": "https://i.imgur.com/bU7Nze1.jpg",
+      "custody_address": "0x90ae024939c837e02a6520d2e7538af70112cfad",
+      "profile": {
+        "bio": {
+          "text": "Knock Knock..."
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+        "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xb2d84bd836cfda4a37d18229f97e827296c99873",
+          "0x6f45b0f99a31c62de35b50507f951546b04dd6ab"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x6f45b0f99a31c62de35b50507f951546b04dd6ab",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x6bed3ee95675d1282e009264be9df1055c8f54da",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "#BaseChain is at a great place. Between the high fees #Eth and the degen #Sol, attracting both builders and meme projects equally.\n\nI see huge(er) liquidity flow in the coming months.\n\nPositioned myself with some potential #100xgems:\n\n$SKI, $WARPIE, $FUNGI & $POV",
+    "timestamp": "2024-04-26T11:28:04.000Z",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/39ed2f93-36cf-4ae5-4876-a3f1013bc000/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 28692,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 500,
+            "height_px": 500
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 2,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 8211,
+          "fname": "zendetta"
+        },
+        {
+          "fid": 455455,
+          "fname": "cryptomazter"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  }
+]

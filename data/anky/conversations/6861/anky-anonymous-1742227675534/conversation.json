@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": "yo wassuo"
+  },
+  {
+    "role": "assistant",
+    "content": "*wink* Wassup, my dude?"
+  },
+  {
+    "role": "user",
+    "content": "who are you"
+  },
+  {
+    "role": "assistant",
+    "content": "I'm an AI assistant, which means I'm a computer program designed to simulate conversation and answer questions to the best of my ability. I don't have a personal identity or emotions like humans do, but I'm here to help and provide information on a wide range of topics.\n\nI was named after a character from the popular TV show \"The Fresh Prince of Bel-Air\", played by Will Smith. My creators probably chose the name because it's fun and memorable!"
+  }
+]

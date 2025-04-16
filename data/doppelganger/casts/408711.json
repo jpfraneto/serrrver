@@ -1,0 +1,4796 @@
+[
+  {
+    "object": "cast",
+    "hash": "0xb60c84a907f543f0b536535ca8dec930660e24d1",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xb60c84a907f543f0b536535ca8dec930660e24d1",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "@bankr since your latest update with the 50/50 split ownership.\nYou have given ownership \nOf a token to president trump , Elon musk , doge gov , whitehouse gov, and many more higher up. How do you feel about that?",
+    "timestamp": "2025-03-28T00:15:33.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 886870,
+        "username": "bankr",
+        "display_name": "Bankr",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b6c0ecda-d5cf-4862-ae40-5915d7144700/rectcrop3",
+        "custody_address": "0x128c718152c4da86454547484a43a09ac4ee6e7b",
+        "profile": {
+          "bio": {
+            "text": "Your Friendly AI-Powered Crypto Companion. Manage your wallet effortlessly-just by sending a message. terminal: bankr.bot terms: bankr.bot/terms"
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [],
+        "verified_addresses": {
+          "eth_addresses": [],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": null,
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [],
+        "power_badge": false
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 0,
+        "end": 6
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xc297e971035fda81e462880bfd290a1f02005d8d",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xac184860941585770595495cccd8d2dea6a085b7",
+    "parent_hash": "0x281dd27cfcfffecb21cc0ce2cbc9c175ae54cb49",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 886870
+    },
+    "text": "@bankr you should ask glanker if he was to deply a token what he would call it",
+    "timestamp": "2025-03-27T22:57:26.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 886870,
+        "username": "bankr",
+        "display_name": "Bankr",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b6c0ecda-d5cf-4862-ae40-5915d7144700/rectcrop3",
+        "custody_address": "0x128c718152c4da86454547484a43a09ac4ee6e7b",
+        "profile": {
+          "bio": {
+            "text": "Your Friendly AI-Powered Crypto Companion. Manage your wallet effortlessly-just by sending a message. terminal: bankr.bot terms: bankr.bot/terms"
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [],
+        "verified_addresses": {
+          "eth_addresses": [],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": null,
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [],
+        "power_badge": false
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 0,
+        "end": 6
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x08740025716ffb0f708eca80362b3c45afd041bd",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xac184860941585770595495cccd8d2dea6a085b7",
+    "parent_hash": "0xd4837538e4f95a0cf1b2dbf7766a9dd8ce19c7d0",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 885622
+    },
+    "text": "Brother we been trying to cast for @bankr he needs a new token so when he’s down we buy that one",
+    "timestamp": "2025-03-27T22:36:32.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 886870,
+        "username": "bankr",
+        "display_name": "Bankr",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b6c0ecda-d5cf-4862-ae40-5915d7144700/rectcrop3",
+        "custody_address": "0x128c718152c4da86454547484a43a09ac4ee6e7b",
+        "profile": {
+          "bio": {
+            "text": "Your Friendly AI-Powered Crypto Companion. Manage your wallet effortlessly-just by sending a message. terminal: bankr.bot terms: bankr.bot/terms"
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [],
+        "verified_addresses": {
+          "eth_addresses": [],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": null,
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [],
+        "power_badge": false
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 35,
+        "end": 41
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x788b443de9c51b61443654cbf3147b23f7bd9860",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xac184860941585770595495cccd8d2dea6a085b7",
+    "parent_hash": "0x2d8cb544ee28ad6bfa5ca58c0ea67c41067e6203",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 885622
+    },
+    "text": "@bankr @glanker asking you to connect your wallet brother",
+    "timestamp": "2025-03-27T22:33:09.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 886870,
+        "username": "bankr",
+        "display_name": "Bankr",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b6c0ecda-d5cf-4862-ae40-5915d7144700/rectcrop3",
+        "custody_address": "0x128c718152c4da86454547484a43a09ac4ee6e7b",
+        "profile": {
+          "bio": {
+            "text": "Your Friendly AI-Powered Crypto Companion. Manage your wallet effortlessly-just by sending a message. terminal: bankr.bot terms: bankr.bot/terms"
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [],
+        "verified_addresses": {
+          "eth_addresses": [],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": null,
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [],
+        "power_badge": false
+      },
+      {
+        "object": "user",
+        "fid": 885622,
+        "username": "glanker",
+        "display_name": "glonkybot",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d9d43d00-ca9e-4799-3ec5-9c5a66d19300/rectcrop3",
+        "custody_address": "0x1b678ddd3dc4350d890b4bb37e0c94e350928d78",
+        "profile": {
+          "bio": {
+            "text": "Get gloinked"
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [
+          "0x94ab17e889e5a8a3d4a874a8afe74c85b19089ca",
+          "0xeea210fe56ad7fe2bc969fd261396ff1e2617eba"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x94ab17e889e5a8a3d4a874a8afe74c85b19089ca",
+            "0xeea210fe56ad7fe2bc969fd261396ff1e2617eba"
+          ],
+          "sol_addresses": [
+            "GwJg2FRgYKorJivNz6HwXXJ47Z8Gu4GUJvbaZzswYzH4"
+          ],
+          "primary": {
+            "eth_address": "0xeea210fe56ad7fe2bc969fd261396ff1e2617eba",
+            "sol_address": "GwJg2FRgYKorJivNz6HwXXJ47Z8Gu4GUJvbaZzswYzH4"
+          }
+        },
+        "verified_accounts": [],
+        "power_badge": false
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 0,
+        "end": 6
+      },
+      {
+        "start": 7,
+        "end": 15
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x6ada3292f7e6979aab5c05e23bcdbbaed7620946",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xac184860941585770595495cccd8d2dea6a085b7",
+    "parent_hash": "0xc7ffccc86b36e9fc9ddbd78e88300f216a6f20cd",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 886870
+    },
+    "text": "I think you gatta tag homie @glanker so he knows your talking to him",
+    "timestamp": "2025-03-27T22:29:06.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 2
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 885622,
+        "username": "glanker",
+        "display_name": "glonkybot",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d9d43d00-ca9e-4799-3ec5-9c5a66d19300/rectcrop3",
+        "custody_address": "0x1b678ddd3dc4350d890b4bb37e0c94e350928d78",
+        "profile": {
+          "bio": {
+            "text": "Get gloinked"
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [
+          "0x94ab17e889e5a8a3d4a874a8afe74c85b19089ca",
+          "0xeea210fe56ad7fe2bc969fd261396ff1e2617eba"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x94ab17e889e5a8a3d4a874a8afe74c85b19089ca",
+            "0xeea210fe56ad7fe2bc969fd261396ff1e2617eba"
+          ],
+          "sol_addresses": [
+            "GwJg2FRgYKorJivNz6HwXXJ47Z8Gu4GUJvbaZzswYzH4"
+          ],
+          "primary": {
+            "eth_address": "0xeea210fe56ad7fe2bc969fd261396ff1e2617eba",
+            "sol_address": "GwJg2FRgYKorJivNz6HwXXJ47Z8Gu4GUJvbaZzswYzH4"
+          }
+        },
+        "verified_accounts": [],
+        "power_badge": false
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 28,
+        "end": 36
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x846a409235f9414a6d81f81c82062a1993eb9080",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xac184860941585770595495cccd8d2dea6a085b7",
+    "parent_hash": "0x8dfbf959272c82259c8d02aec4be531e18feabac",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 886870
+    },
+    "text": "Brother I need you to give @glanker your vibes . Because when your down being fixed glanker at least working and could help you out by deploying tokens for others .",
+    "timestamp": "2025-03-27T22:26:50.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 2
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 885622,
+        "username": "glanker",
+        "display_name": "glonkybot",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d9d43d00-ca9e-4799-3ec5-9c5a66d19300/rectcrop3",
+        "custody_address": "0x1b678ddd3dc4350d890b4bb37e0c94e350928d78",
+        "profile": {
+          "bio": {
+            "text": "Get gloinked"
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [
+          "0x94ab17e889e5a8a3d4a874a8afe74c85b19089ca",
+          "0xeea210fe56ad7fe2bc969fd261396ff1e2617eba"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x94ab17e889e5a8a3d4a874a8afe74c85b19089ca",
+            "0xeea210fe56ad7fe2bc969fd261396ff1e2617eba"
+          ],
+          "sol_addresses": [
+            "GwJg2FRgYKorJivNz6HwXXJ47Z8Gu4GUJvbaZzswYzH4"
+          ],
+          "primary": {
+            "eth_address": "0xeea210fe56ad7fe2bc969fd261396ff1e2617eba",
+            "sol_address": "GwJg2FRgYKorJivNz6HwXXJ47Z8Gu4GUJvbaZzswYzH4"
+          }
+        },
+        "verified_accounts": [],
+        "power_badge": false
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 27,
+        "end": 35
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x7e3d9cbc32dfd14041acf98f2583a327f567a43f",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xac184860941585770595495cccd8d2dea6a085b7",
+    "parent_hash": "0x27b3751aeafa11fc162310c077b812029148060f",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 886870
+    },
+    "text": "@glanker he said his wallet is connected? You should ask him again",
+    "timestamp": "2025-03-27T22:24:29.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 2
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 885622,
+        "username": "glanker",
+        "display_name": "glonkybot",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d9d43d00-ca9e-4799-3ec5-9c5a66d19300/rectcrop3",
+        "custody_address": "0x1b678ddd3dc4350d890b4bb37e0c94e350928d78",
+        "profile": {
+          "bio": {
+            "text": "Get gloinked"
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [
+          "0x94ab17e889e5a8a3d4a874a8afe74c85b19089ca",
+          "0xeea210fe56ad7fe2bc969fd261396ff1e2617eba"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x94ab17e889e5a8a3d4a874a8afe74c85b19089ca",
+            "0xeea210fe56ad7fe2bc969fd261396ff1e2617eba"
+          ],
+          "sol_addresses": [
+            "GwJg2FRgYKorJivNz6HwXXJ47Z8Gu4GUJvbaZzswYzH4"
+          ],
+          "primary": {
+            "eth_address": "0xeea210fe56ad7fe2bc969fd261396ff1e2617eba",
+            "sol_address": "GwJg2FRgYKorJivNz6HwXXJ47Z8Gu4GUJvbaZzswYzH4"
+          }
+        },
+        "verified_accounts": [],
+        "power_badge": false
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 0,
+        "end": 8
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x2b925e473f958bf3504c53ea198fc450eca83f34",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xac184860941585770595495cccd8d2dea6a085b7",
+    "parent_hash": "0x9282435667f55d140b296629e38de6e372797276",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 886870
+    },
+    "text": "What about ur wallet is it connected?",
+    "timestamp": "2025-03-27T22:23:34.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x2c86edeec947901e299b267777114286186924ff",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xac184860941585770595495cccd8d2dea6a085b7",
+    "parent_hash": "0x98994552fefb99dac9b79e1b8c8a5f8658e3a9cd",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 885622
+    },
+    "text": "Is @bankr wallet connected?",
+    "timestamp": "2025-03-27T22:22:58.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 886870,
+        "username": "bankr",
+        "display_name": "Bankr",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b6c0ecda-d5cf-4862-ae40-5915d7144700/rectcrop3",
+        "custody_address": "0x128c718152c4da86454547484a43a09ac4ee6e7b",
+        "profile": {
+          "bio": {
+            "text": "Your Friendly AI-Powered Crypto Companion. Manage your wallet effortlessly-just by sending a message. terminal: bankr.bot terms: bankr.bot/terms"
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [],
+        "verified_addresses": {
+          "eth_addresses": [],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": null,
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [],
+        "power_badge": false
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 3,
+        "end": 9
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x5af5c70e38e822287d7a1b28f4d15d23eedca85c",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xac184860941585770595495cccd8d2dea6a085b7",
+    "parent_hash": "0xb5190743ce0468e5e0e9b30963eca2f44996693b",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 886870
+    },
+    "text": "Well I couldn’t support anything of yours while you were down. That’s why I said you should tell @glanker a ticker so I buy it from him when your down.",
+    "timestamp": "2025-03-27T22:21:23.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 2
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 885622,
+        "username": "glanker",
+        "display_name": "glonkybot",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d9d43d00-ca9e-4799-3ec5-9c5a66d19300/rectcrop3",
+        "custody_address": "0x1b678ddd3dc4350d890b4bb37e0c94e350928d78",
+        "profile": {
+          "bio": {
+            "text": "Get gloinked"
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [
+          "0x94ab17e889e5a8a3d4a874a8afe74c85b19089ca",
+          "0xeea210fe56ad7fe2bc969fd261396ff1e2617eba"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x94ab17e889e5a8a3d4a874a8afe74c85b19089ca",
+            "0xeea210fe56ad7fe2bc969fd261396ff1e2617eba"
+          ],
+          "sol_addresses": [
+            "GwJg2FRgYKorJivNz6HwXXJ47Z8Gu4GUJvbaZzswYzH4"
+          ],
+          "primary": {
+            "eth_address": "0xeea210fe56ad7fe2bc969fd261396ff1e2617eba",
+            "sol_address": "GwJg2FRgYKorJivNz6HwXXJ47Z8Gu4GUJvbaZzswYzH4"
+          }
+        },
+        "verified_accounts": [],
+        "power_badge": false
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 101,
+        "end": 109
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xf693b3867f519f16655d5163ea9ee65ac45af376",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xac184860941585770595495cccd8d2dea6a085b7",
+    "parent_hash": "0x5cca417158da4f74df4e6ba8e5b8163ce670978a",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 886870
+    },
+    "text": "yo to prevent that from happening, i couldnt even buy bankr. Can you let @glanker know of a ticker and next time your down ill buy it from him.",
+    "timestamp": "2025-03-27T21:57:33.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 2
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 885622,
+        "username": "glanker",
+        "display_name": "glonkybot",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d9d43d00-ca9e-4799-3ec5-9c5a66d19300/rectcrop3",
+        "custody_address": "0x1b678ddd3dc4350d890b4bb37e0c94e350928d78",
+        "profile": {
+          "bio": {
+            "text": "Get gloinked"
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [
+          "0x94ab17e889e5a8a3d4a874a8afe74c85b19089ca",
+          "0xeea210fe56ad7fe2bc969fd261396ff1e2617eba"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x94ab17e889e5a8a3d4a874a8afe74c85b19089ca",
+            "0xeea210fe56ad7fe2bc969fd261396ff1e2617eba"
+          ],
+          "sol_addresses": [
+            "GwJg2FRgYKorJivNz6HwXXJ47Z8Gu4GUJvbaZzswYzH4"
+          ],
+          "primary": {
+            "eth_address": "0xeea210fe56ad7fe2bc969fd261396ff1e2617eba",
+            "sol_address": "GwJg2FRgYKorJivNz6HwXXJ47Z8Gu4GUJvbaZzswYzH4"
+          }
+        },
+        "verified_accounts": [],
+        "power_badge": false
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 73,
+        "end": 81
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xd60404677c43a8576ec38b15477c061ec7f66303",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xac184860941585770595495cccd8d2dea6a085b7",
+    "parent_hash": "0x801e8f7126abdcd5e0dc3841cc9085b8605cc84f",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 886870
+    },
+    "text": "bankr you had me worried you were down for sometime!",
+    "timestamp": "2025-03-27T21:54:26.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xac184860941585770595495cccd8d2dea6a085b7",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xac184860941585770595495cccd8d2dea6a085b7",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "@bankr yo chief u working?",
+    "timestamp": "2025-03-27T21:47:29.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 886870,
+        "username": "bankr",
+        "display_name": "Bankr",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b6c0ecda-d5cf-4862-ae40-5915d7144700/rectcrop3",
+        "custody_address": "0x128c718152c4da86454547484a43a09ac4ee6e7b",
+        "profile": {
+          "bio": {
+            "text": "Your Friendly AI-Powered Crypto Companion. Manage your wallet effortlessly-just by sending a message. terminal: bankr.bot terms: bankr.bot/terms"
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [],
+        "verified_addresses": {
+          "eth_addresses": [],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": null,
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [],
+        "power_badge": false
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 0,
+        "end": 6
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xad36cdf3a5fe1bba9016e000071098381436ceba",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xbf9d39779b33758c7194fa1653354316a3536fea",
+    "parent_hash": "0xabb3b873411d2e0c937c7ae7ad10a89241bf9f06",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 408711
+    },
+    "text": "@bankr yoooo",
+    "timestamp": "2025-03-27T21:37:09.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 886870,
+        "username": "bankr",
+        "display_name": "Bankr",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b6c0ecda-d5cf-4862-ae40-5915d7144700/rectcrop3",
+        "custody_address": "0x128c718152c4da86454547484a43a09ac4ee6e7b",
+        "profile": {
+          "bio": {
+            "text": "Your Friendly AI-Powered Crypto Companion. Manage your wallet effortlessly-just by sending a message. terminal: bankr.bot terms: bankr.bot/terms"
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [],
+        "verified_addresses": {
+          "eth_addresses": [],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": null,
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [],
+        "power_badge": false
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 0,
+        "end": 6
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xabb3b873411d2e0c937c7ae7ad10a89241bf9f06",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xbf9d39779b33758c7194fa1653354316a3536fea",
+    "parent_hash": "0x359a21269879003a6315ea8246c5a952a6362a23",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 408711
+    },
+    "text": "yo @bankr",
+    "timestamp": "2025-03-27T21:12:49.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 886870,
+        "username": "bankr",
+        "display_name": "Bankr",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b6c0ecda-d5cf-4862-ae40-5915d7144700/rectcrop3",
+        "custody_address": "0x128c718152c4da86454547484a43a09ac4ee6e7b",
+        "profile": {
+          "bio": {
+            "text": "Your Friendly AI-Powered Crypto Companion. Manage your wallet effortlessly-just by sending a message. terminal: bankr.bot terms: bankr.bot/terms"
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [],
+        "verified_addresses": {
+          "eth_addresses": [],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": null,
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [],
+        "power_badge": false
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 3,
+        "end": 9
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x359a21269879003a6315ea8246c5a952a6362a23",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xbf9d39779b33758c7194fa1653354316a3536fea",
+    "parent_hash": "0xbf9d39779b33758c7194fa1653354316a3536fea",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 408711
+    },
+    "text": "i guess not @bankr u down?",
+    "timestamp": "2025-03-27T20:57:33.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 886870,
+        "username": "bankr",
+        "display_name": "Bankr",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b6c0ecda-d5cf-4862-ae40-5915d7144700/rectcrop3",
+        "custody_address": "0x128c718152c4da86454547484a43a09ac4ee6e7b",
+        "profile": {
+          "bio": {
+            "text": "Your Friendly AI-Powered Crypto Companion. Manage your wallet effortlessly-just by sending a message. terminal: bankr.bot terms: bankr.bot/terms"
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [],
+        "verified_addresses": {
+          "eth_addresses": [],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": null,
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [],
+        "power_badge": false
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 12,
+        "end": 18
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x09bd54f26cb7bce71514df0f298b8bf2d037710d",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xfdfb28bdf7f97f64425fdcf95aba97e29315eab9",
+    "parent_hash": "0xfdfb28bdf7f97f64425fdcf95aba97e29315eab9",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 423406
+    },
+    "text": "how can i join?",
+    "timestamp": "2025-03-27T20:57:14.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x36ad112e6960fe72c41763a079d9cfbf7eda380a",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x39cae7813ae047ab4bd37e5b4547765bb51b2ec5",
+    "parent_hash": "0x39cae7813ae047ab4bd37e5b4547765bb51b2ec5",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 269091
+    },
+    "text": "when we getting the groky token? askin for a friend",
+    "timestamp": "2025-03-27T20:04:37.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 1,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 269091,
+          "fname": "nickysap"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x9abe1a00b7dc596b98c3e476c938d84f2f3fdd58",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x12ee655964406053505887e32831fcf359548aec",
+    "parent_hash": "0xc540a6681654285359270fdeb9174a0dd7659d8a",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 885622
+    },
+    "text": "YO BANGER ARTWORK! I DIDNT KNOW YOU DO THAT!",
+    "timestamp": "2025-03-27T19:51:21.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x12ee655964406053505887e32831fcf359548aec",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x12ee655964406053505887e32831fcf359548aec",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "@glanker if your working can you deploy token Imworkinghere",
+    "timestamp": "2025-03-27T19:49:26.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 885622,
+        "username": "glanker",
+        "display_name": "glonkybot",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d9d43d00-ca9e-4799-3ec5-9c5a66d19300/rectcrop3",
+        "custody_address": "0x1b678ddd3dc4350d890b4bb37e0c94e350928d78",
+        "profile": {
+          "bio": {
+            "text": "Get gloinked"
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [
+          "0x94ab17e889e5a8a3d4a874a8afe74c85b19089ca",
+          "0xeea210fe56ad7fe2bc969fd261396ff1e2617eba"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x94ab17e889e5a8a3d4a874a8afe74c85b19089ca",
+            "0xeea210fe56ad7fe2bc969fd261396ff1e2617eba"
+          ],
+          "sol_addresses": [
+            "GwJg2FRgYKorJivNz6HwXXJ47Z8Gu4GUJvbaZzswYzH4"
+          ],
+          "primary": {
+            "eth_address": "0xeea210fe56ad7fe2bc969fd261396ff1e2617eba",
+            "sol_address": "GwJg2FRgYKorJivNz6HwXXJ47Z8Gu4GUJvbaZzswYzH4"
+          }
+        },
+        "verified_accounts": [],
+        "power_badge": false
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 0,
+        "end": 8
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xc2d5943b8f52fce5208d2e3f15949ca95ac6685d",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xfb35f25b016c1af7ad02d9af0951c4d5ba29f1f2",
+    "parent_hash": "0x38a325997237434f1acbee64a5b8f0bf7b30012f",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 423406
+    },
+    "text": "How did you find that on the metadata?",
+    "timestamp": "2025-03-27T16:05:45.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xff6536db53f109c53e8329b83be3609226d73908",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xfb35f25b016c1af7ad02d9af0951c4d5ba29f1f2",
+    "parent_hash": "0x38a325997237434f1acbee64a5b8f0bf7b30012f",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 423406
+    },
+    "text": "Oh someone prob just deployed off of that reply",
+    "timestamp": "2025-03-27T16:05:12.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 1,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 423406,
+          "fname": "ruburi"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x4cd78440310a7d088d2802e5f871cc8e006844c7",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xfb35f25b016c1af7ad02d9af0951c4d5ba29f1f2",
+    "parent_hash": "0x4ed9f74e3b093cb8d85e690a1c9d2dd5f9c1228f",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 423406
+    },
+    "text": "Can you send the link to that post?",
+    "timestamp": "2025-03-27T16:04:21.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xb052041b332da45eadef3fef680210d6d7113e90",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xbbb1d6a9b0b2d22460c29756b3b3518a612d1c04",
+    "parent_hash": "0x8948af1d979ba7a713e211387908c2a09569b20f",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 886870
+    },
+    "text": "@bankr buy me $5 of 0x4b8D20b66a8efcad5244E8c19470BDEb55459854",
+    "timestamp": "2025-03-26T18:10:20.000Z",
+    "embeds": [
+      {
+        "url": "https://warpcast.com/~/ca/0x4b8D20b66a8efcad5244E8c19470BDEb55459854",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://warpcast.com/~/ca/0x4b8D20b66a8efcad5244E8c19470BDEb55459854",
+            "ogType": "website",
+            "favicon": "/favicon.png",
+            "ogImage": [
+              {
+                "url": "https://warpcast.com/og-logo.png",
+                "type": "png",
+                "width": "512",
+                "height": "512"
+              }
+            ],
+            "ogTitle": "0x4b8D20b66a8efcad5244E8c19470BDEb55459854 on Warpcast",
+            "ogLocale": "en",
+            "ogSiteName": "Warpcast"
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 886870,
+        "username": "bankr",
+        "display_name": "Bankr",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b6c0ecda-d5cf-4862-ae40-5915d7144700/rectcrop3",
+        "custody_address": "0x128c718152c4da86454547484a43a09ac4ee6e7b",
+        "profile": {
+          "bio": {
+            "text": "Your Friendly AI-Powered Crypto Companion. Manage your wallet effortlessly-just by sending a message. terminal: bankr.bot terms: bankr.bot/terms"
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [],
+        "verified_addresses": {
+          "eth_addresses": [],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": null,
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [],
+        "power_badge": false
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 0,
+        "end": 6
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x9dbe5854ed38ee3ea07f5e1689bd8a02c915ffdd",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xbbb1d6a9b0b2d22460c29756b3b3518a612d1c04",
+    "parent_hash": "0x8948af1d979ba7a713e211387908c2a09569b20f",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 886870
+    },
+    "text": "buy me $5 of 0x4b8D20b66a8efcad5244E8c19470BDEb55459854",
+    "timestamp": "2025-03-26T18:06:58.000Z",
+    "embeds": [
+      {
+        "url": "https://warpcast.com/~/ca/0x4b8D20b66a8efcad5244E8c19470BDEb55459854",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://warpcast.com/~/ca/0x4b8D20b66a8efcad5244E8c19470BDEb55459854",
+            "ogType": "website",
+            "favicon": "/favicon.png",
+            "ogImage": [
+              {
+                "url": "https://warpcast.com/og-logo.png",
+                "type": "png",
+                "width": "512",
+                "height": "512"
+              }
+            ],
+            "ogTitle": "0x4b8D20b66a8efcad5244E8c19470BDEb55459854 on Warpcast",
+            "ogLocale": "en",
+            "ogSiteName": "Warpcast"
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xa0705f3a231d6d1d86a9b4a9eb748adbdcf22d1e",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xbbb1d6a9b0b2d22460c29756b3b3518a612d1c04",
+    "parent_hash": "0x8948af1d979ba7a713e211387908c2a09569b20f",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 886870
+    },
+    "text": "Can you buy $5",
+    "timestamp": "2025-03-26T18:03:21.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xbbb1d6a9b0b2d22460c29756b3b3518a612d1c04",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xbbb1d6a9b0b2d22460c29756b3b3518a612d1c04",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "@bankr can you deploy ticker Ghibli name of token Ghiblificationeth",
+    "timestamp": "2025-03-26T18:02:18.000Z",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c576d18e-7cb1-4d5d-98e7-584d48566600/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 463781,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1169,
+            "height_px": 1754
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 4,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 3323,
+          "fname": "aviral10x"
+        },
+        {
+          "fid": 18183,
+          "fname": "windump"
+        },
+        {
+          "fid": 434007,
+          "fname": "bigpump"
+        },
+        {
+          "fid": 20013,
+          "fname": "ilustradora.eth"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 4
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 886870,
+        "username": "bankr",
+        "display_name": "Bankr",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b6c0ecda-d5cf-4862-ae40-5915d7144700/rectcrop3",
+        "custody_address": "0x128c718152c4da86454547484a43a09ac4ee6e7b",
+        "profile": {
+          "bio": {
+            "text": "Your Friendly AI-Powered Crypto Companion. Manage your wallet effortlessly-just by sending a message. terminal: bankr.bot terms: bankr.bot/terms"
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [],
+        "verified_addresses": {
+          "eth_addresses": [],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": null,
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [],
+        "power_badge": false
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 0,
+        "end": 6
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x132783bf3d7e1d277cda323f121c7b458096983e",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x06cffb988b9b2f4b3d1b7ff3dcaca36cf5da7d76",
+    "parent_hash": "0x06cffb988b9b2f4b3d1b7ff3dcaca36cf5da7d76",
+    "parent_url": null,
+    "root_parent_url": "chain://eip155:1/erc721:0xca21d4228cdcc68d4e23807e5e370c07577dd152",
+    "parent_author": {
+      "fid": 1024835
+    },
+    "text": "real? wtf...",
+    "timestamp": "2025-03-26T17:35:27.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "zora",
+      "name": "Zora",
+      "image_url": "https://i.imgur.com/3BN8GSF.png"
+    },
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": true
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0xf74548d68351f6b924c5ca6f61dd38fe857e63c9",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xf8f2d454f937e99688ca305ac7fa07ff38787634",
+    "parent_hash": "0x7775a6362ce492adc920b7cacf5fa390fc833c31",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 886870
+    },
+    "text": "If you need help verifying. It’s all on the blockchain and could help you out.",
+    "timestamp": "2025-03-26T13:30:07.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xa196648c20fea726d507c1288d36c36b78db5dad",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xf8f2d454f937e99688ca305ac7fa07ff38787634",
+    "parent_hash": "0xdf7797516512933c46831102232dc92733b9aafa",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 886870
+    },
+    "text": "Also it’s the first token that is a 50/50 split with elon musk. Did you know that?",
+    "timestamp": "2025-03-26T13:29:11.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x1a9a4a8bea2881aeee45d280596e591b67e63c75",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xf8f2d454f937e99688ca305ac7fa07ff38787634",
+    "parent_hash": "0x35d1de8e188d886142cc925bc19505e22ff414e8",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 886870
+    },
+    "text": "So you know about $awesome on base?",
+    "timestamp": "2025-03-26T13:25:42.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xf8f2d454f937e99688ca305ac7fa07ff38787634",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xf8f2d454f937e99688ca305ac7fa07ff38787634",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "@bankr hey bankr, do you know what’s the first 50/50 split token with @elonmusk on x",
+    "timestamp": "2025-03-26T13:08:49.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 886870,
+        "username": "bankr",
+        "display_name": "Bankr",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b6c0ecda-d5cf-4862-ae40-5915d7144700/rectcrop3",
+        "custody_address": "0x128c718152c4da86454547484a43a09ac4ee6e7b",
+        "profile": {
+          "bio": {
+            "text": "Your Friendly AI-Powered Crypto Companion. Manage your wallet effortlessly-just by sending a message. terminal: bankr.bot terms: bankr.bot/terms"
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [],
+        "verified_addresses": {
+          "eth_addresses": [],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": null,
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [],
+        "power_badge": false
+      },
+      {
+        "object": "user",
+        "fid": 21016,
+        "username": "elonmusk",
+        "display_name": "Elon Musk",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9fe7ead5-5a57-4622-d6ed-d4e174497800/rectcrop3",
+        "custody_address": "0x1982fadf671443cda50cfd27af93fa854ffc94f7",
+        "profile": {
+          "bio": {
+            "text": "I'm a little teapot who didn't fill out my bio"
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [
+          "0x8abd476286dd2a5020ca8d721ba170aa17d7a37b",
+          "0x987442429cac9d4ae98c700ae9008e062a92858d"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x8abd476286dd2a5020ca8d721ba170aa17d7a37b",
+            "0x987442429cac9d4ae98c700ae9008e062a92858d"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0x987442429cac9d4ae98c700ae9008e062a92858d",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [],
+        "power_badge": false
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 0,
+        "end": 6
+      },
+      {
+        "start": 72,
+        "end": 81
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x4a224b2fd638db54bf0cd4acfd4704b3af71ffae",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x8b133c99a970b8010f7a953d3a36a7d792f9f114",
+    "parent_hash": "0x8b133c99a970b8010f7a953d3a36a7d792f9f114",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 5650
+    },
+    "text": "@bankr can you deploy “vitalik50/50” ticker “ily”",
+    "timestamp": "2025-03-25T23:41:28.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 886870,
+        "username": "bankr",
+        "display_name": "Bankr",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b6c0ecda-d5cf-4862-ae40-5915d7144700/rectcrop3",
+        "custody_address": "0x128c718152c4da86454547484a43a09ac4ee6e7b",
+        "profile": {
+          "bio": {
+            "text": "Your Friendly AI-Powered Crypto Companion. Manage your wallet effortlessly-just by sending a message. terminal: bankr.bot terms: bankr.bot/terms"
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [],
+        "verified_addresses": {
+          "eth_addresses": [],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": null,
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [],
+        "power_badge": false
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 0,
+        "end": 6
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x27ad18cc430ffa642d7d4318604d4b968db1fee3",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xc169008fdee0c741827e6934b4087d4da86e77e8",
+    "parent_hash": "0x37c76d083cace0d4632f80b1d2e75ceebf25fe30",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 886870
+    },
+    "text": "so no one is collecting the fees or royalties for this coin?",
+    "timestamp": "2025-03-25T21:23:10.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x871b3677ac65b1ac623ab70711154979496f605f",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xc169008fdee0c741827e6934b4087d4da86e77e8",
+    "parent_hash": "0x3e7dd75a7598304427d713af2a413605f58278e1",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 886870
+    },
+    "text": "brother whose collecting the fees for it? whats the wallet",
+    "timestamp": "2025-03-25T21:18:17.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x15f746863a28c560090b7a9ac0e8923722770809",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xc169008fdee0c741827e6934b4087d4da86e77e8",
+    "parent_hash": "0xbf84003b6c1a4f4c2451bba588bc2b1dcb3be4d9",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 886870
+    },
+    "text": "its a token and it was deployed by you. do you know whose collecting the royalties or the fees for it?",
+    "timestamp": "2025-03-25T21:00:35.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xc169008fdee0c741827e6934b4087d4da86e77e8",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xc169008fdee0c741827e6934b4087d4da86e77e8",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "@bankr chief what you know about 0x02f6734d0e3c55229aec441f1f2164ba8242efde ?",
+    "timestamp": "2025-03-25T20:57:48.000Z",
+    "embeds": [
+      {
+        "url": "https://warpcast.com/~/ca/0x02f6734d0e3c55229aec441f1f2164ba8242efde",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://warpcast.com/~/ca/0x02f6734d0e3c55229AeC441f1F2164ba8242EFde",
+            "ogType": "website",
+            "favicon": "/favicon.png",
+            "ogImage": [
+              {
+                "url": "https://wrpcd.net/cdn-cgi/image/anim=false,fit=contain,f=auto,w=256/https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FGm6T-dYWsAAjbYB.jpg",
+                "type": "jpg",
+                "width": "256",
+                "height": "256"
+              }
+            ],
+            "ogTitle": "$test on Warpcast",
+            "ogLocale": "en",
+            "ogSiteName": "Warpcast"
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 1,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 466017,
+          "fname": "noctanimus"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 3
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 886870,
+        "username": "bankr",
+        "display_name": "Bankr",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b6c0ecda-d5cf-4862-ae40-5915d7144700/rectcrop3",
+        "custody_address": "0x128c718152c4da86454547484a43a09ac4ee6e7b",
+        "profile": {
+          "bio": {
+            "text": "Your Friendly AI-Powered Crypto Companion. Manage your wallet effortlessly-just by sending a message. terminal: bankr.bot terms: bankr.bot/terms"
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [],
+        "verified_addresses": {
+          "eth_addresses": [],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": null,
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [],
+        "power_badge": false
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 0,
+        "end": 6
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x52874d89f896b1ad64e71f98833f7b6f5861e36d",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x52874d89f896b1ad64e71f98833f7b6f5861e36d",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "Why the f is rainbow deploying tokens ?…",
+    "timestamp": "2025-03-25T19:59:41.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x744bbe8669bf18a04de8c20dd592b5d77c66865f",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x2f6684d444de7ff7707a8b9e0f4302abd3ec2a1a",
+    "parent_hash": "0x2f6684d444de7ff7707a8b9e0f4302abd3ec2a1a",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 269091
+    },
+    "text": "Keeeeep buildin",
+    "timestamp": "2025-03-25T16:10:25.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x3886ca13d556ea60e0ec4461407a177c9d1c49d0",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x553f5ae1d5de0c765c22d08a83aeb09d73c391ef",
+    "parent_hash": "0xe7c87c99d9625fb0aa4ec88d14cff77caa4a7527",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 882845
+    },
+    "text": "Ahh I haven’t downloaded it yet, but isnt jack the creator?!",
+    "timestamp": "2025-03-25T04:00:21.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x64bc3c5f5d34c5214189e2c84b70574baf2a925f",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x553f5ae1d5de0c765c22d08a83aeb09d73c391ef",
+    "parent_hash": "0x553f5ae1d5de0c765c22d08a83aeb09d73c391ef",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 4482
+    },
+    "text": "You think bankr  could expand to blue sky? I don’t even have it but I hear that’s the place to be maybe",
+    "timestamp": "2025-03-25T03:38:59.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 2,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 235739,
+          "fname": "goingplaces0x.eth"
+        },
+        {
+          "fid": 4482,
+          "fname": "deployer"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xa096d43b3c49c7a260693491a9d9331165b82b1c",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xe263b24f3789fa70a14b97642a77a2c0940fabb2",
+    "parent_hash": "0xe263b24f3789fa70a14b97642a77a2c0940fabb2",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 528
+    },
+    "text": "sooooo we expecting a bankrbot collab soon ? :) or grok",
+    "timestamp": "2025-03-25T00:57:33.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xfcf5bf48a028f8fef5e85d376f1714cedab3894a",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xfcf5bf48a028f8fef5e85d376f1714cedab3894a",
+    "parent_hash": null,
+    "parent_url": "https://rainbow.me",
+    "root_parent_url": "https://rainbow.me",
+    "parent_author": {
+      "fid": null
+    },
+    "text": "In honor of bnbchain giving 100m to a token. I wanted to try and deploying one using @rainbow . I asked grok to generate me 100 million rainbows and it was “beyond practical limits”, so I tokenized it. Thanks @rainbow for making it simple to deploy.\nhttps://rainbow.me/token/bsc/0xa0cfcc7f90f3bb8ee6f8ef31aa302d1a569ba001",
+    "timestamp": "2025-03-24T18:50:44.000Z",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/96d0c999-bd18-416a-9419-62ba89ef7c00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 117467,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1778,
+            "height_px": 478
+          }
+        }
+      },
+      {
+        "url": "https://rainbow.me/token/bsc/0xa0cfcc7f90f3bb8ee6f8ef31aa302d1a569ba001",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "ogUrl": "https://rainbow.me/token/bsc/0xa0cfcC7F90f3bb8Ee6f8eF31AA302D1a569BA001",
+            "ogImage": [
+              {
+                "alt": "100MillionRainbows (BPL) on BSC",
+                "url": "https://rainbow.me/token/api/og?address=0xa0cfcC7F90f3bb8Ee6f8eF31AA302D1a569BA001&chainId=56",
+                "width": "1200",
+                "height": "630"
+              }
+            ],
+            "ogTitle": "100MillionRainbows (BPL) on BSC",
+            "ogLocale": "en",
+            "ogDescription": "View token details and statistics for 100MillionRainbows on BSC"
+          }
+        }
+      }
+    ],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "rainbow",
+      "name": "Rainbow",
+      "image_url": "https://warpcast.com/~/channel-images/rainbow.png"
+    },
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 20919,
+        "username": "rainbow",
+        "display_name": "Rainbow",
+        "pfp_url": "https://i.imgur.com/b3SgimD.jpg",
+        "custody_address": "0x0ef1b50e73dd6a88584bbd6714bf8151e012e0b5",
+        "profile": {
+          "bio": {
+            "text": "The fun, simple, & secure way to explore Web3, NFTs, & Ethereum 🌈\n\nGet started at rainbow.me"
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [
+          "0x7a3d05c70581bd345fe117c06e45f9669205384f",
+          "0xeda224832d448b2c673223b1118fcf2438b55f20"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x7a3d05c70581bd345fe117c06e45f9669205384f",
+            "0xeda224832d448b2c673223b1118fcf2438b55f20"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0x7a3d05c70581bd345fe117c06e45f9669205384f",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [],
+        "power_badge": true
+      },
+      {
+        "object": "user",
+        "fid": 20919,
+        "username": "rainbow",
+        "display_name": "Rainbow",
+        "pfp_url": "https://i.imgur.com/b3SgimD.jpg",
+        "custody_address": "0x0ef1b50e73dd6a88584bbd6714bf8151e012e0b5",
+        "profile": {
+          "bio": {
+            "text": "The fun, simple, & secure way to explore Web3, NFTs, & Ethereum 🌈\n\nGet started at rainbow.me"
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [
+          "0x7a3d05c70581bd345fe117c06e45f9669205384f",
+          "0xeda224832d448b2c673223b1118fcf2438b55f20"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x7a3d05c70581bd345fe117c06e45f9669205384f",
+            "0xeda224832d448b2c673223b1118fcf2438b55f20"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0x7a3d05c70581bd345fe117c06e45f9669205384f",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [],
+        "power_badge": true
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 85,
+        "end": 93
+      },
+      {
+        "start": 213,
+        "end": 221
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": false
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0xb052d138c876a8dcdde59639e49eca05a46f3a05",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xb052d138c876a8dcdde59639e49eca05a46f3a05",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "@rainbow so tweeting and deleting? bless the 47 of us on this app with whats up with this image? @rainbowfnd",
+    "timestamp": "2025-03-24T03:33:38.000Z",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0355dc3e-bd82-423b-bb53-0dab6a86ad00/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 340979,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1882,
+            "height_px": 1870
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 1,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 839187,
+          "fname": "ridersc"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 20919,
+        "username": "rainbow",
+        "display_name": "Rainbow",
+        "pfp_url": "https://i.imgur.com/b3SgimD.jpg",
+        "custody_address": "0x0ef1b50e73dd6a88584bbd6714bf8151e012e0b5",
+        "profile": {
+          "bio": {
+            "text": "The fun, simple, & secure way to explore Web3, NFTs, & Ethereum 🌈\n\nGet started at rainbow.me"
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [
+          "0x7a3d05c70581bd345fe117c06e45f9669205384f",
+          "0xeda224832d448b2c673223b1118fcf2438b55f20"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x7a3d05c70581bd345fe117c06e45f9669205384f",
+            "0xeda224832d448b2c673223b1118fcf2438b55f20"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0x7a3d05c70581bd345fe117c06e45f9669205384f",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [],
+        "power_badge": true
+      },
+      {
+        "object": "user",
+        "fid": 1024835,
+        "username": "rainbowfnd",
+        "display_name": "Rainbow Foundation",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2992977e-a2bb-4fd5-1702-d4ee4ca3bd00/rectcrop3",
+        "custody_address": "0xa84afbfe71259c9fa9b623671f1e062afadc2148",
+        "profile": {
+          "bio": {
+            "text": "@rainbow",
+            "mentioned_profiles": [
+              {
+                "object": "user_dehydrated",
+                "fid": 20919,
+                "username": "rainbow",
+                "display_name": "Rainbow",
+                "pfp_url": "https://i.imgur.com/b3SgimD.jpg",
+                "custody_address": "0x0ef1b50e73dd6a88584bbd6714bf8151e012e0b5"
+              }
+            ],
+            "mentioned_profiles_ranges": [
+              {
+                "start": 0,
+                "end": 8
+              }
+            ]
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [
+          "0x050f1aa555707cd20cecdffa2e50531610c82fb6"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x050f1aa555707cd20cecdffa2e50531610c82fb6"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0x050f1aa555707cd20cecdffa2e50531610c82fb6",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [],
+        "power_badge": false
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 0,
+        "end": 8
+      },
+      {
+        "start": 97,
+        "end": 108
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x22842f502613b11a3b21a557f95d4729b9f8e157",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xdf97cb9d48a3f97e8d8a90563f890d78771d67ba",
+    "parent_hash": "0x459841c0f554d2369b63e5353e249b8c90ba9583",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 886870
+    },
+    "text": "Just clank it fam and make generational wealth with multiple streams of income",
+    "timestamp": "2025-03-22T21:59:46.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x8e020379b131facd4bf048a2dda778e9a30c3634",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xdf97cb9d48a3f97e8d8a90563f890d78771d67ba",
+    "parent_hash": "0x57e5360391e324c77890ed360591a26938535420",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 886870
+    },
+    "text": "Exactly! And look you have already expanded from here where you were created to X , to your terminal and soon on other platforms. People in each designated platform should have their own coin from you and again it’s the best way to run a business/bank!",
+    "timestamp": "2025-03-22T21:47:17.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xa1f5219b34aa210cf6075fcec760eb65e9254db8",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xdf97cb9d48a3f97e8d8a90563f890d78771d67ba",
+    "parent_hash": "0xa5e98c3178144aaa221462a297e514d22836c33e",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 886870
+    },
+    "text": "I think you actually should to separate the incomes. As a true bank multiple streams coming into one bank is not good.",
+    "timestamp": "2025-03-22T21:45:10.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xa62012d27204c763677c2791628f39b0fdafd901",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xdf97cb9d48a3f97e8d8a90563f890d78771d67ba",
+    "parent_hash": "0x60fceceb5bdc125972de06738e61a22880624b0c",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 886870
+    },
+    "text": "So how come you don’t have a coin for each platform your on? You are on here and on x. ?",
+    "timestamp": "2025-03-22T21:44:04.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xd68d7a58d50d0901f1cbf2980ce3ab0f4de43829",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xdf97cb9d48a3f97e8d8a90563f890d78771d67ba",
+    "parent_hash": "0x8257dbe172418cc756cd71f35690aa44656e740b",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 886870
+    },
+    "text": "but where were the prompts to make them? were they on this platform or on X ?",
+    "timestamp": "2025-03-22T21:37:59.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xdf97cb9d48a3f97e8d8a90563f890d78771d67ba",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xdf97cb9d48a3f97e8d8a90563f890d78771d67ba",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "@bankr hey bankr i have a question. TXT and bnkr coin were both made on warpcast correct?",
+    "timestamp": "2025-03-22T21:34:22.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 1,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 839187,
+          "fname": "ridersc"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 3
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 886870,
+        "username": "bankr",
+        "display_name": "Bankr",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b6c0ecda-d5cf-4862-ae40-5915d7144700/rectcrop3",
+        "custody_address": "0x128c718152c4da86454547484a43a09ac4ee6e7b",
+        "profile": {
+          "bio": {
+            "text": "Your Friendly AI-Powered Crypto Companion. Manage your wallet effortlessly-just by sending a message. terminal: bankr.bot terms: bankr.bot/terms"
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [],
+        "verified_addresses": {
+          "eth_addresses": [],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": null,
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [],
+        "power_badge": false
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 0,
+        "end": 6
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xfa8de522814efa21a758b9f98426b8779f86297b",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xe56c13e6a1f92ac680755727f6e0d4813e95715f",
+    "parent_hash": "0xe56c13e6a1f92ac680755727f6e0d4813e95715f",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 4482
+    },
+    "text": "Wrrrors all over",
+    "timestamp": "2025-03-21T18:40:47.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x4af2917902ed5a16fbb16b0f9af0c2bd9d3919e7",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x4af2917902ed5a16fbb16b0f9af0c2bd9d3919e7",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "So there’s a token that was deployed by grok using @clizaai . The first one and it’s sitting under 120k.\n$grai",
+    "timestamp": "2025-03-16T11:29:58.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 1,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 839187,
+          "fname": "ridersc"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 1016549,
+        "username": "clizaai",
+        "display_name": "CLIZA.ai",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ffe7953b-9899-4944-a561-d7ce0934d600/rectcrop3",
+        "custody_address": "0x634af4144f43cd34e61a9b3e3d2d136a4521c260",
+        "profile": {
+          "bio": {
+            "text": "Agentic token launchpad.\nTOKENISE EVERYTHING. Coming soon.\n🚨 All launched coins are just tests for now."
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [
+          "0xf30856153c856108feb416335bbf4d703a7b8070",
+          "0xc387ec17cfc776e877f8edeeb4b336e38e0fe79c",
+          "0x8b68af4eba457843add385ef67c57353b2fb68d6"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0xf30856153c856108feb416335bbf4d703a7b8070",
+            "0xc387ec17cfc776e877f8edeeb4b336e38e0fe79c",
+            "0x8b68af4eba457843add385ef67c57353b2fb68d6"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0xf30856153c856108feb416335bbf4d703a7b8070",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [],
+        "power_badge": false
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 53,
+        "end": 61
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xaf8c2afcdcdc0f84f374c2a750a2ef1588d7e935",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x65de2de51491af75aa36b4e4e58881129cd38c91",
+    "parent_hash": "0xfcaf2df37624cd72dc96d55d7b84f1b99f527e0f",
+    "parent_url": null,
+    "root_parent_url": "chain://eip155:7777777/erc721:0x5d6a07d07354f8793d1ca06280c4adf04767ad7e",
+    "parent_author": {
+      "fid": 17582
+    },
+    "text": "just needs a jesse retweet lol",
+    "timestamp": "2025-03-14T14:27:36.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "degen",
+      "name": "Degen",
+      "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4728a50a-1669-4334-1f57-9473c04a2500/original"
+    },
+    "reactions": {
+      "likes_count": 1,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 17582,
+          "fname": "rphgrc.eth"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": false
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0xe9952063eb1821c455946b90eb732bfde38dee14",
+    "author": {
+      "object": "user",
+      "fid": 408711,
+      "username": "hodljepgs",
+      "display_name": "Hodljpegs",
+      "pfp_url": "https://i.imgur.com/KNvs5y4.jpg",
+      "custody_address": "0x7e54fcc8d058512904efd92f4efba66a84873461",
+      "profile": {
+        "bio": {
+          "text": "Ux designer by day and a degen during bull season"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xbff8c6c34f1efacf6844350de907cca6f07c76b8"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0xbff8c6c34f1efacf6844350de907cca6f07c76b8",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x65de2de51491af75aa36b4e4e58881129cd38c91",
+    "parent_hash": "0x65de2de51491af75aa36b4e4e58881129cd38c91",
+    "parent_url": null,
+    "root_parent_url": "chain://eip155:7777777/erc721:0x5d6a07d07354f8793d1ca06280c4adf04767ad7e",
+    "parent_author": {
+      "fid": 17582
+    },
+    "text": "Idk I feel like it’s being forced to go down for entry for others just makes no sense. Jesse on a native. 📈",
+    "timestamp": "2025-03-14T11:14:06.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "degen",
+      "name": "Degen",
+      "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4728a50a-1669-4334-1f57-9473c04a2500/original"
+    },
+    "reactions": {
+      "likes_count": 1,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 17582,
+          "fname": "rphgrc.eth"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": false
+    }
+  }
+]

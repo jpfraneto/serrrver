@@ -1,0 +1,50 @@
+{
+  "writingStyle": {
+    "tone": "Conversational",
+    "complexity": "Simple",
+    "distinctivePhrases": [
+      "can you follow me",
+      "me puedes seguir"
+    ],
+    "sentenceStructure": "Question-answer format"
+  },
+  "contentPatterns": {
+    "topics": [
+      "following",
+      "social media",
+      "casting"
+    ],
+    "interests": [
+      "networking",
+      "community building",
+      "engagement"
+    ],
+    "expertiseAreas": [
+      "online presence",
+      "interaction styles",
+      "communication strategies"
+    ],
+    "controversialViews": [
+      "opinions on online etiquette"
+    ]
+  },
+  "interactionStyle": {
+    "responsePattern": "Asks questions",
+    "engagementLevel": "Highly responsive",
+    "socialPosition": "Conversation starter",
+    "relationshipDynamics": "Supportive"
+  },
+  "emotionalProfile": {
+    "dominantEmotions": [
+      "Polite",
+      "Helpful"
+    ],
+    "humorStyle": "None",
+    "perspectiveStyle": "Pragmatic",
+    "valueIndicators": [
+      "Empathy",
+      "Honesty",
+      "Respect"
+    ]
+  }
+}

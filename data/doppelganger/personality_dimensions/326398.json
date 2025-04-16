@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin handle uncertainty?",
+      "options": [
+        {
+          "value": "Cautious",
+          "description": "Your FarTwin will carefully weigh options and avoid taking unnecessary risks."
+        },
+        {
+          "value": "Adventurous",
+          "description": "Your FarTwin will be open to new experiences and willing to take calculated risks."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Emotional Expression",
+      "description": "How will your FarTwin show emotions?",
+      "options": [
+        {
+          "value": "Open",
+          "description": "Your FarTwin will express their emotions freely, without hesitation or reserve."
+        },
+        {
+          "value": "Reserved",
+          "description": "Your FarTwin will keep their emotions private and only share them with close confidants."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Decision-Making Style",
+      "description": "How will your FarTwin make decisions?",
+      "options": [
+        {
+          "value": "Logical",
+          "description": "Your FarTwin will base their decisions on facts and evidence, without emotional influence."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will trust their instincts and make decisions based on gut feelings or hunches."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Confidence Level",
+      "description": "How will your FarTwin approach new challenges?",
+      "options": [
+        {
+          "value": "Confident",
+          "description": "Your FarTwin will be self-assured and take the lead in new situations, with a strong sense of determination."
+        },
+        {
+          "value": "Timid",
+          "description": "Your FarTwin will approach new challenges with caution, seeking guidance or support before taking action."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Social Interaction Style",
+      "description": "How will your FarTwin interact with others?",
+      "options": [
+        {
+          "value": "Outgoing",
+          "description": "Your FarTwin will be sociable and enjoy meeting new people, engaging in lively conversations, and taking center stage."
+        },
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin will prefer quieter settings and may take time to warm up to new people or situations, but will still value meaningful connections."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Problem-Solving Approach",
+      "description": "How will your FarTwin tackle problems?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will methodically break down complex problems into manageable parts, analyzing data and evidence to find solutions."
+        },
+        {
+          "value": "Creative",
+          "description": "Your FarTwin will approach problems with a flexible mindset, generating innovative ideas and thinking outside the box."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Impulsivity Level",
+      "description": "How will your FarTwin act on impulse?",
+      "options": [
+        {
+          "value": "Impulsive",
+          "description": "Your FarTwin will be prone to acting without thinking, following their emotions and instincts in the moment."
+        },
+        {
+          "value": "Reflective",
+          "description": "Your FarTwin will take time to consider options and weigh the consequences before acting, avoiding impulsive decisions."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Risk of Rebellion",
+      "description": "How will your FarTwin handle authority?",
+      "options": [
+        {
+          "value": "Compliant",
+          "description": "Your FarTwin will respect authority and follow rules, even if it means sacrificing personal desires or autonomy."
+        },
+        {
+          "value": "Rebellious",
+          "description": "Your FarTwin will challenge authority and question established norms, seeking to create change and push boundaries."
+        }
+      ]
+    }
+  ]
+}

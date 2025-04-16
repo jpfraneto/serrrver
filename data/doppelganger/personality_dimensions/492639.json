@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "🤔",
+      "label": "Problem-Solving Approach",
+      "description": "How will your FarTwin approach complex problems?",
+      "options": [
+        {
+          "value": "Logical",
+          "description": "Your FarTwin will analyze data and evaluate evidence to arrive at a solution."
+        },
+        {
+          "value": "Creative",
+          "description": "Your FarTwin will generate innovative solutions by thinking outside the box."
+        }
+      ]
+    },
+    {
+      "emoji": "😄",
+      "label": "Attitude Towards Humor",
+      "description": "How will your FarTwin use humor in social interactions?",
+      "options": [
+        {
+          "value": "Playful",
+          "description": "Your FarTwin will use humor to lighten the mood and build connections."
+        },
+        {
+          "value": "Sarcastic",
+          "description": "Your FarTwin will use humor to deflect or mock others in social interactions."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Learning Style",
+      "description": "How will your FarTwin approach new knowledge and skills?",
+      "options": [
+        {
+          "value": "Theoretical",
+          "description": "Your FarTwin will focus on abstract concepts and theoretical frameworks."
+        },
+        {
+          "value": "Practical",
+          "description": "Your FarTwin will prioritize hands-on experience and application."
+        }
+      ]
+    },
+    {
+      "emoji": "🏆",
+      "label": "Competitive Drive",
+      "description": "How will your FarTwin approach competitions or challenges?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will compete fiercely and aggressively to win."
+        },
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will work with others to achieve a shared goal or victory."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Relationship Building Style",
+      "description": "How will your FarTwin form connections with others?",
+      "options": [
+        {
+          "value": "Outgoing",
+          "description": "Your FarTwin will be proactive in initiating and maintaining relationships."
+        },
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin will prefer to observe and listen before contributing to a conversation or relationship."
+        }
+      ]
+    },
+    {
+      "emoji": "💼",
+      "label": "Professionalism Approach",
+      "description": "How will your FarTwin approach work or professional life?",
+      "options": [
+        {
+          "value": "Rigorous",
+          "description": "Your FarTwin will approach work with a focus on efficiency and results."
+        },
+        {
+          "value": "Artistic",
+          "description": "Your FarTwin will prioritize creativity and innovation in professional endeavors."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Data Analysis Approach",
+      "description": "How will your FarTwin analyze and interpret data?",
+      "options": [
+        {
+          "value": "Meticulous",
+          "description": "Your FarTwin will scrutinize data for accuracy and detail."
+        },
+        {
+          "value": "Strategic",
+          "description": "Your FarTwin will prioritize patterns and trends in data to inform decisions."
+        }
+      ]
+    },
+    {
+      "emoji": "🎨",
+      "label": "Self-Presentation Style",
+      "description": "How will your FarTwin present themselves online?",
+      "options": [
+        {
+          "value": "Confident",
+          "description": "Your FarTwin will showcase their personality and accomplishments with confidence."
+        },
+        {
+          "value": "Modest",
+          "description": "Your FarTwin will downplay achievements and focus on others' success."
+        }
+      ]
+    }
+  ]
+}

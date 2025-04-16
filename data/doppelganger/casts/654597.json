@@ -1,0 +1,1189 @@
+[
+  {
+    "object": "cast",
+    "hash": "0x155c4e695b3f7431844d5b8e65ce7db75fc3f0e6",
+    "author": {
+      "object": "user",
+      "fid": 654597,
+      "username": "bagira",
+      "display_name": "Igor Cmirnov",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/114d5169-f5c1-47e1-f290-41f1a6de2f00/rectcrop3",
+      "custody_address": "0x57b2fa0e49f6e5799c8f1cc1a8aafe63a4b880d1",
+      "profile": {
+        "bio": {
+          "text": "Boi"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0x69e3585cdd74f757d9d8f7a165633ecc44be3285"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x69e3585cdd74f757d9d8f7a165633ecc44be3285"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x69e3585cdd74f757d9d8f7a165633ecc44be3285",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "bosskent9ra"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x155c4e695b3f7431844d5b8e65ce7db75fc3f0e6",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "Just joined the waitlist for @apemash\n\n💥 Epic Token Clashes are coming!",
+    "timestamp": "2025-03-18T09:31:07.000Z",
+    "embeds": [
+      {
+        "url": "https://apemash.it",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon-32x32.png",
+            "ogImage": [
+              {
+                "url": "https://apemash.it/home.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Apemash - Token Clashes That Never End",
+            "ogLocale": "en",
+            "ogDescription": "Put your money where your mouth is."
+          },
+          "frame": {
+            "version": "next",
+            "title": "Launch Apemash",
+            "image": "https://apemash.it/home.gif",
+            "frames_url": "https://apemash.it/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 1017825,
+              "username": "apemash",
+              "display_name": "Apemash",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/26e503fc-07a8-4527-4ab5-668f6290b400/original",
+              "custody_address": "0x1e8d1194f23e854c1c63c35ff3a4d1ce1f41a07e"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjEwMTc4MjUsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgxZThEMTE5NGYyM2U4NTRDMWM2M0MzNUZGM0E0RDFDZTFmNDFBMDdlIn0",
+                "payload": "eyJkb21haW4iOiJhcGVtYXNoLml0In0",
+                "signature": "MHgzMWM0MWU0ZGFlZDdhZWM2OWRkOTI4YzA3ODExM2U5ZTY1MmNjZDBiNzBmNGUwYTE3MTc3YmNiZGE4MGM1MDQ5MGZkZmRlNDQ3ODVlNmY1MWE5NzJlYzE2NDc4NmNhYjM5NzQwMzIwOTM1NzE2NTAzNjk2OGQyNzdiNzZlYWMwNzFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Apemash",
+                "home_url": "https://apemash.it",
+                "icon_url": "https://apemash.it/icon.png",
+                "image_url": "https://apemash.it/home.gif",
+                "button_title": "Launch Apemash",
+                "splash_image_url": "https://apemash.it/icon.png",
+                "splash_background_color": "#FFFFFF",
+                "webhook_url": "https://apemash.it/api/webhook"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 1,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 1017825,
+          "fname": "apemash"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 1017825,
+        "username": "apemash",
+        "display_name": "Apemash",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/26e503fc-07a8-4527-4ab5-668f6290b400/original",
+        "custody_address": "0x1e8d1194f23e854c1c63c35ff3a4d1ce1f41a07e",
+        "profile": {
+          "bio": {
+            "text": "Create epic token clashes. Rally tribes, fuel rivalries and let the market decide! An experiment by @polmaire.eth & @no12",
+            "mentioned_profiles": [
+              {
+                "object": "user_dehydrated",
+                "fid": 4995,
+                "username": "polmaire.eth",
+                "display_name": "pol",
+                "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ab9dd983-243e-454b-02fa-3e14f23cf600/original",
+                "custody_address": "0x99bd5358045c552bc6848b934163cb44668c5a01"
+              },
+              {
+                "object": "user_dehydrated",
+                "fid": 5114,
+                "username": "no12",
+                "display_name": "Noé Malzieu 🎩",
+                "pfp_url": "https://pbs.twimg.com/profile_images/1549754557718269952/PVbCNiCR_400x400.jpg",
+                "custody_address": "0x521362a240f0a99bf46c9bd9013d5348e80b6eb9"
+              }
+            ],
+            "mentioned_profiles_ranges": [
+              {
+                "start": 100,
+                "end": 113
+              },
+              {
+                "start": 116,
+                "end": 121
+              }
+            ]
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [
+          "0x1c815fb89a930b08adf47a7e0b6fc5798515596e"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x1c815fb89a930b08adf47a7e0b6fc5798515596e"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0x1c815fb89a930b08adf47a7e0b6fc5798515596e",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [],
+        "power_badge": false
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 29,
+        "end": 37
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xec568fc27552b1595bc4337f21e2033889dc3c12",
+    "author": {
+      "object": "user",
+      "fid": 654597,
+      "username": "bagira",
+      "display_name": "Igor Cmirnov",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/114d5169-f5c1-47e1-f290-41f1a6de2f00/rectcrop3",
+      "custody_address": "0x57b2fa0e49f6e5799c8f1cc1a8aafe63a4b880d1",
+      "profile": {
+        "bio": {
+          "text": "Boi"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0x69e3585cdd74f757d9d8f7a165633ecc44be3285"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x69e3585cdd74f757d9d8f7a165633ecc44be3285"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x69e3585cdd74f757d9d8f7a165633ecc44be3285",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "bosskent9ra"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xec568fc27552b1595bc4337f21e2033889dc3c12",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "Hey @clanker, launch the token with the name Bagira, ticker BGA, paired with CLANKER.",
+    "timestamp": "2025-03-14T12:48:05.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 874542,
+        "username": "clanker",
+        "display_name": "tokenbot",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d34acf16-9002-4a2d-a163-c552d0816300/original",
+        "custody_address": "0x1e0365df407d82135561ccfb29a6fdc32dd9d28c",
+        "profile": {
+          "bio": {
+            "text": "create autonomous memecoins for free, get rewarded for posting bangers"
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [
+          "0xc204af95b0307162118f7bc36a91c9717490ab69",
+          "0xb9ed44627bea88846193171cb55b93c262429682"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0xc204af95b0307162118f7bc36a91c9717490ab69",
+            "0xb9ed44627bea88846193171cb55b93c262429682"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0xc204af95b0307162118f7bc36a91c9717490ab69",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [
+          {
+            "platform": "x",
+            "username": "clankeronbase"
+          }
+        ],
+        "power_badge": true
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 4,
+        "end": 12
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x414368b273f8721646eae83be35005b0841cfbdd",
+    "author": {
+      "object": "user",
+      "fid": 654597,
+      "username": "bagira",
+      "display_name": "Igor Cmirnov",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/114d5169-f5c1-47e1-f290-41f1a6de2f00/rectcrop3",
+      "custody_address": "0x57b2fa0e49f6e5799c8f1cc1a8aafe63a4b880d1",
+      "profile": {
+        "bio": {
+          "text": "Boi"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0x69e3585cdd74f757d9d8f7a165633ecc44be3285"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x69e3585cdd74f757d9d8f7a165633ecc44be3285"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x69e3585cdd74f757d9d8f7a165633ecc44be3285",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "bosskent9ra"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x414368b273f8721646eae83be35005b0841cfbdd",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "Hey @clanker, on which pairs can you launch tokens?",
+    "timestamp": "2025-03-14T12:32:31.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 874542,
+        "username": "clanker",
+        "display_name": "tokenbot",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d34acf16-9002-4a2d-a163-c552d0816300/original",
+        "custody_address": "0x1e0365df407d82135561ccfb29a6fdc32dd9d28c",
+        "profile": {
+          "bio": {
+            "text": "create autonomous memecoins for free, get rewarded for posting bangers"
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [
+          "0xc204af95b0307162118f7bc36a91c9717490ab69",
+          "0xb9ed44627bea88846193171cb55b93c262429682"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0xc204af95b0307162118f7bc36a91c9717490ab69",
+            "0xb9ed44627bea88846193171cb55b93c262429682"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0xc204af95b0307162118f7bc36a91c9717490ab69",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [
+          {
+            "platform": "x",
+            "username": "clankeronbase"
+          }
+        ],
+        "power_badge": true
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 4,
+        "end": 12
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x7dc0210f6fea89a617958d5fd26eef0a5cb17dc0",
+    "author": {
+      "object": "user",
+      "fid": 654597,
+      "username": "bagira",
+      "display_name": "Igor Cmirnov",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/114d5169-f5c1-47e1-f290-41f1a6de2f00/rectcrop3",
+      "custody_address": "0x57b2fa0e49f6e5799c8f1cc1a8aafe63a4b880d1",
+      "profile": {
+        "bio": {
+          "text": "Boi"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0x69e3585cdd74f757d9d8f7a165633ecc44be3285"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x69e3585cdd74f757d9d8f7a165633ecc44be3285"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x69e3585cdd74f757d9d8f7a165633ecc44be3285",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "bosskent9ra"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xb115069d935ccdec33e569fdd396faacaa7b38ae",
+    "parent_hash": "0xb115069d935ccdec33e569fdd396faacaa7b38ae",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 281836
+    },
+    "text": "Launch the token on Base, dude.",
+    "timestamp": "2025-02-05T13:21:44.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x6cf710a05615def5a5716ccc4487437ce484926c",
+    "author": {
+      "object": "user",
+      "fid": 654597,
+      "username": "bagira",
+      "display_name": "Igor Cmirnov",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/114d5169-f5c1-47e1-f290-41f1a6de2f00/rectcrop3",
+      "custody_address": "0x57b2fa0e49f6e5799c8f1cc1a8aafe63a4b880d1",
+      "profile": {
+        "bio": {
+          "text": "Boi"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0x69e3585cdd74f757d9d8f7a165633ecc44be3285"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x69e3585cdd74f757d9d8f7a165633ecc44be3285"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x69e3585cdd74f757d9d8f7a165633ecc44be3285",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "bosskent9ra"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x817043ee4398fd4edc222f42c5af984563172eee",
+    "parent_hash": "0x817043ee4398fd4edc222f42c5af984563172eee",
+    "parent_url": null,
+    "root_parent_url": "https://warpcast.com/~/channel/clankers",
+    "parent_author": {
+      "fid": 412843
+    },
+    "text": "Let's rock this token.",
+    "timestamp": "2025-01-25T20:51:51.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "clankers",
+      "name": "Clankers",
+      "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bd4bb563-93b5-4c1f-ab85-32cdf4b01f00/original"
+    },
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": false
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0x0791161d4268712c9568dbc918e1abb619f2996a",
+    "author": {
+      "object": "user",
+      "fid": 654597,
+      "username": "bagira",
+      "display_name": "Igor Cmirnov",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/114d5169-f5c1-47e1-f290-41f1a6de2f00/rectcrop3",
+      "custody_address": "0x57b2fa0e49f6e5799c8f1cc1a8aafe63a4b880d1",
+      "profile": {
+        "bio": {
+          "text": "Boi"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0x69e3585cdd74f757d9d8f7a165633ecc44be3285"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x69e3585cdd74f757d9d8f7a165633ecc44be3285"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x69e3585cdd74f757d9d8f7a165633ecc44be3285",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "bosskent9ra"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x3f6dc9a39eef9797d98acc6592f29952360e4a09",
+    "parent_hash": "0x3f6dc9a39eef9797d98acc6592f29952360e4a09",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 1689
+    },
+    "text": "Hi bro,  \nHow do you do this? I want to do the same.  \n\nHow do you buy first and send spam transactions to buy faster than everyone else in the first block?",
+    "timestamp": "2025-01-24T22:01:25.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x3e0386206ead1ca66aa3622882ec7f3cf9926969",
+    "author": {
+      "object": "user",
+      "fid": 654597,
+      "username": "bagira",
+      "display_name": "Igor Cmirnov",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/114d5169-f5c1-47e1-f290-41f1a6de2f00/rectcrop3",
+      "custody_address": "0x57b2fa0e49f6e5799c8f1cc1a8aafe63a4b880d1",
+      "profile": {
+        "bio": {
+          "text": "Boi"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0x69e3585cdd74f757d9d8f7a165633ecc44be3285"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x69e3585cdd74f757d9d8f7a165633ecc44be3285"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x69e3585cdd74f757d9d8f7a165633ecc44be3285",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "bosskent9ra"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x9afacca29e1ef3930e3b12b5898e7324dfcdca10",
+    "parent_hash": "0x2f1733c4aabb3e699baecb5e6d9dd40bce24041c",
+    "parent_url": null,
+    "root_parent_url": "https://farcaster.group/founders",
+    "parent_author": {
+      "fid": 1325
+    },
+    "text": "Good",
+    "timestamp": "2024-09-02T06:56:33.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "founders",
+      "name": "Founders",
+      "image_url": "https://warpcast.com/~/channel-images/founders.png"
+    },
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": true
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0x94b2d9720ba9f1af106ebe4135e98d66f482bbb1",
+    "author": {
+      "object": "user",
+      "fid": 654597,
+      "username": "bagira",
+      "display_name": "Igor Cmirnov",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/114d5169-f5c1-47e1-f290-41f1a6de2f00/rectcrop3",
+      "custody_address": "0x57b2fa0e49f6e5799c8f1cc1a8aafe63a4b880d1",
+      "profile": {
+        "bio": {
+          "text": "Boi"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0x69e3585cdd74f757d9d8f7a165633ecc44be3285"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x69e3585cdd74f757d9d8f7a165633ecc44be3285"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x69e3585cdd74f757d9d8f7a165633ecc44be3285",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "bosskent9ra"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xc17d08efcd1428a1ae5db3596cb12febf893102a",
+    "parent_hash": "0xc17d08efcd1428a1ae5db3596cb12febf893102a",
+    "parent_url": null,
+    "root_parent_url": "https://warpcast.com/~/channel/taiwan",
+    "parent_author": {
+      "fid": 5650
+    },
+    "text": "Nice",
+    "timestamp": "2024-08-09T08:32:05.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "taiwan",
+      "name": "taiwan",
+      "image_url": "https://i.imgur.com/47o8vfT.jpg"
+    },
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": false
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0xd5ec9d0af1d8372805b111c18d97c0a07580ad3b",
+    "author": {
+      "object": "user",
+      "fid": 654597,
+      "username": "bagira",
+      "display_name": "Igor Cmirnov",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/114d5169-f5c1-47e1-f290-41f1a6de2f00/rectcrop3",
+      "custody_address": "0x57b2fa0e49f6e5799c8f1cc1a8aafe63a4b880d1",
+      "profile": {
+        "bio": {
+          "text": "Boi"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0x69e3585cdd74f757d9d8f7a165633ecc44be3285"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x69e3585cdd74f757d9d8f7a165633ecc44be3285"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x69e3585cdd74f757d9d8f7a165633ecc44be3285",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "bosskent9ra"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x0538ac0a5638190f96034242c8e79081a7ab556c",
+    "parent_hash": "0x0538ac0a5638190f96034242c8e79081a7ab556c",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 5650
+    },
+    "text": "Nice",
+    "timestamp": "2024-08-03T08:40:11.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 1,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 808264,
+          "fname": "kleopatra"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xb022b064f6a4960dc99f2d3739974910cf401c01",
+    "author": {
+      "object": "user",
+      "fid": 654597,
+      "username": "bagira",
+      "display_name": "Igor Cmirnov",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/114d5169-f5c1-47e1-f290-41f1a6de2f00/rectcrop3",
+      "custody_address": "0x57b2fa0e49f6e5799c8f1cc1a8aafe63a4b880d1",
+      "profile": {
+        "bio": {
+          "text": "Boi"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0x69e3585cdd74f757d9d8f7a165633ecc44be3285"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x69e3585cdd74f757d9d8f7a165633ecc44be3285"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x69e3585cdd74f757d9d8f7a165633ecc44be3285",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "bosskent9ra"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x61e106f18f52371d8235e18e14114838e7955bc3",
+    "parent_hash": "0x61e106f18f52371d8235e18e14114838e7955bc3",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 5650
+    },
+    "text": "Love ❤️",
+    "timestamp": "2024-07-08T12:03:30.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xd319aef41f3e6669d50f5355b819d66b3a5b5953",
+    "author": {
+      "object": "user",
+      "fid": 654597,
+      "username": "bagira",
+      "display_name": "Igor Cmirnov",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/114d5169-f5c1-47e1-f290-41f1a6de2f00/rectcrop3",
+      "custody_address": "0x57b2fa0e49f6e5799c8f1cc1a8aafe63a4b880d1",
+      "profile": {
+        "bio": {
+          "text": "Boi"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0x69e3585cdd74f757d9d8f7a165633ecc44be3285"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x69e3585cdd74f757d9d8f7a165633ecc44be3285"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x69e3585cdd74f757d9d8f7a165633ecc44be3285",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "bosskent9ra"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x1e68d17743aca6ee0223b098b5397c2ae858994a",
+    "parent_hash": "0x3e97f5ee5bcd05b5414e8cacee02eda154f2cdc5",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 654639
+    },
+    "text": "Soon",
+    "timestamp": "2024-06-27T17:37:46.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x1e68d17743aca6ee0223b098b5397c2ae858994a",
+    "author": {
+      "object": "user",
+      "fid": 654597,
+      "username": "bagira",
+      "display_name": "Igor Cmirnov",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/114d5169-f5c1-47e1-f290-41f1a6de2f00/rectcrop3",
+      "custody_address": "0x57b2fa0e49f6e5799c8f1cc1a8aafe63a4b880d1",
+      "profile": {
+        "bio": {
+          "text": "Boi"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0x69e3585cdd74f757d9d8f7a165633ecc44be3285"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x69e3585cdd74f757d9d8f7a165633ecc44be3285"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x69e3585cdd74f757d9d8f7a165633ecc44be3285",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "bosskent9ra"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x1e68d17743aca6ee0223b098b5397c2ae858994a",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "myyy",
+    "timestamp": "2024-06-21T20:22:31.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 2,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 654639,
+          "fname": "kauman"
+        },
+        {
+          "fid": 654597,
+          "fname": "bagira"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x8bdde7ce7c056a81f4a40e5d3d2e67e37d30c893",
+    "author": {
+      "object": "user",
+      "fid": 654597,
+      "username": "bagira",
+      "display_name": "Igor Cmirnov",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/114d5169-f5c1-47e1-f290-41f1a6de2f00/rectcrop3",
+      "custody_address": "0x57b2fa0e49f6e5799c8f1cc1a8aafe63a4b880d1",
+      "profile": {
+        "bio": {
+          "text": "Boi"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0x69e3585cdd74f757d9d8f7a165633ecc44be3285"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x69e3585cdd74f757d9d8f7a165633ecc44be3285"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x69e3585cdd74f757d9d8f7a165633ecc44be3285",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "bosskent9ra"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x8bdde7ce7c056a81f4a40e5d3d2e67e37d30c893",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "My car",
+    "timestamp": "2024-06-21T20:21:17.000Z",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/194bc910-082b-4f14-be1a-8c007e731700/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 879421,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2400,
+            "height_px": 3200
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 1,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 654597,
+          "fname": "bagira"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  }
+]

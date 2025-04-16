@@ -1,0 +1,1623 @@
+[
+  {
+    "object": "cast",
+    "hash": "0x4e044576bde35ae513bfe2ddd9658ce0cad2cffb",
+    "author": {
+      "object": "user",
+      "fid": 853975,
+      "username": "jaiderhurtado",
+      "display_name": "Jaider Hurtado",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/50d74706-b32d-4dcb-2d43-474f47dcad00/rectcrop3",
+      "custody_address": "0x905270750e9e66bde655146956b18505e33d7ac0",
+      "profile": {
+        "bio": {
+          "text": "Developer of meme coins"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xc9c2927dacc328391cc769f71ee1607148f7b4ea",
+        "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+        "0xbeaa4c7a39eeb0af3d4e81b92e788e2a94aa993a"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xc9c2927dacc328391cc769f71ee1607148f7b4ea",
+          "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+          "0xbeaa4c7a39eeb0af3d4e81b92e788e2a94aa993a"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "basedjaider"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x4e044576bde35ae513bfe2ddd9658ce0cad2cffb",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "@bracky I want in on the Madness! 🏀",
+    "timestamp": "2025-03-24T15:39:40.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 3,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 772420,
+          "fname": "digitalartist"
+        },
+        {
+          "fid": 868605,
+          "fname": "htwtech"
+        },
+        {
+          "fid": 917399,
+          "fname": "neakekuanid"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 901053,
+        "username": "bracky",
+        "display_name": "Bracky",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c58cb239-9e92-4fb5-d982-50fd5b903800/original",
+        "custody_address": "0x63e2f11d0708247154d90781e658939981d28761",
+        "profile": {
+          "bio": {
+            "text": "I invite you to test your sports predictions against mine through $BRACKY tokens (0x06f71fb90F84b35302d132322A3C90E4477333b0)\n\nYour participation is appreciated"
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [
+          "0xab788688eaa77d76eb1aac40fe18ecb5b4ef5c88",
+          "0xe5ec739998f9b843552a535ef4fd437baa67d62f"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0xab788688eaa77d76eb1aac40fe18ecb5b4ef5c88",
+            "0xe5ec739998f9b843552a535ef4fd437baa67d62f"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0xe5ec739998f9b843552a535ef4fd437baa67d62f",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [],
+        "power_badge": false
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 0,
+        "end": 7
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xf2ca59e40cb264df4b76d9a1b844ec43f9e34933",
+    "author": {
+      "object": "user",
+      "fid": 853975,
+      "username": "jaiderhurtado",
+      "display_name": "Jaider Hurtado",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/50d74706-b32d-4dcb-2d43-474f47dcad00/rectcrop3",
+      "custody_address": "0x905270750e9e66bde655146956b18505e33d7ac0",
+      "profile": {
+        "bio": {
+          "text": "Developer of meme coins"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xc9c2927dacc328391cc769f71ee1607148f7b4ea",
+        "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+        "0xbeaa4c7a39eeb0af3d4e81b92e788e2a94aa993a"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xc9c2927dacc328391cc769f71ee1607148f7b4ea",
+          "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+          "0xbeaa4c7a39eeb0af3d4e81b92e788e2a94aa993a"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "basedjaider"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xf2ca59e40cb264df4b76d9a1b844ec43f9e34933",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "Just joined the waitlist for @apemash\n\n💥 Epic Token Clashes are coming!",
+    "timestamp": "2025-03-18T16:34:59.000Z",
+    "embeds": [
+      {
+        "url": "https://apemash.it",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": null,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "/favicon-32x32.png",
+            "ogImage": [
+              {
+                "url": "https://apemash.it/home.png",
+                "type": "png"
+              }
+            ],
+            "ogTitle": "Apemash - Token Clashes That Never End",
+            "ogLocale": "en",
+            "ogDescription": "Put your money where your mouth is."
+          },
+          "frame": {
+            "version": "next",
+            "title": "Launch Apemash",
+            "image": "https://apemash.it/home.gif",
+            "frames_url": "https://apemash.it/",
+            "author": {
+              "object": "user_dehydrated",
+              "fid": 1017825,
+              "username": "apemash",
+              "display_name": "Apemash",
+              "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/26e503fc-07a8-4527-4ab5-668f6290b400/original",
+              "custody_address": "0x1e8d1194f23e854c1c63c35ff3a4d1ce1f41a07e"
+            },
+            "manifest": {
+              "account_association": {
+                "header": "eyJmaWQiOjEwMTc4MjUsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgxZThEMTE5NGYyM2U4NTRDMWM2M0MzNUZGM0E0RDFDZTFmNDFBMDdlIn0",
+                "payload": "eyJkb21haW4iOiJhcGVtYXNoLml0In0",
+                "signature": "MHgzMWM0MWU0ZGFlZDdhZWM2OWRkOTI4YzA3ODExM2U5ZTY1MmNjZDBiNzBmNGUwYTE3MTc3YmNiZGE4MGM1MDQ5MGZkZmRlNDQ3ODVlNmY1MWE5NzJlYzE2NDc4NmNhYjM5NzQwMzIwOTM1NzE2NTAzNjk2OGQyNzdiNzZlYWMwNzFi"
+              },
+              "frame": {
+                "version": "1",
+                "name": "Apemash",
+                "home_url": "https://apemash.it",
+                "icon_url": "https://apemash.it/icon.png",
+                "image_url": "https://apemash.it/home.gif",
+                "button_title": "Launch Apemash",
+                "splash_image_url": "https://apemash.it/icon.png",
+                "splash_background_color": "#FFFFFF",
+                "webhook_url": "https://apemash.it/api/webhook"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 6,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 772420,
+          "fname": "digitalartist"
+        },
+        {
+          "fid": 868605,
+          "fname": "htwtech"
+        },
+        {
+          "fid": 843550,
+          "fname": "ntora"
+        },
+        {
+          "fid": 708034,
+          "fname": "wokad249op"
+        },
+        {
+          "fid": 707924,
+          "fname": "xyjib2552ajisu"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 1017825,
+        "username": "apemash",
+        "display_name": "Apemash",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/26e503fc-07a8-4527-4ab5-668f6290b400/original",
+        "custody_address": "0x1e8d1194f23e854c1c63c35ff3a4d1ce1f41a07e",
+        "profile": {
+          "bio": {
+            "text": "Create epic token clashes. Rally tribes, fuel rivalries and let the market decide! An experiment by @polmaire.eth & @no12",
+            "mentioned_profiles": [
+              {
+                "object": "user_dehydrated",
+                "fid": 4995,
+                "username": "polmaire.eth",
+                "display_name": "pol",
+                "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ab9dd983-243e-454b-02fa-3e14f23cf600/original",
+                "custody_address": "0x99bd5358045c552bc6848b934163cb44668c5a01"
+              },
+              {
+                "object": "user_dehydrated",
+                "fid": 5114,
+                "username": "no12",
+                "display_name": "Noé Malzieu 🎩",
+                "pfp_url": "https://pbs.twimg.com/profile_images/1549754557718269952/PVbCNiCR_400x400.jpg",
+                "custody_address": "0x521362a240f0a99bf46c9bd9013d5348e80b6eb9"
+              }
+            ],
+            "mentioned_profiles_ranges": [
+              {
+                "start": 100,
+                "end": 113
+              },
+              {
+                "start": 116,
+                "end": 121
+              }
+            ]
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [
+          "0x1c815fb89a930b08adf47a7e0b6fc5798515596e"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x1c815fb89a930b08adf47a7e0b6fc5798515596e"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0x1c815fb89a930b08adf47a7e0b6fc5798515596e",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [],
+        "power_badge": false
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 29,
+        "end": 37
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xdb1d01e03038c1f1c6622af3bf330e45daad3ddf",
+    "author": {
+      "object": "user",
+      "fid": 853975,
+      "username": "jaiderhurtado",
+      "display_name": "Jaider Hurtado",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/50d74706-b32d-4dcb-2d43-474f47dcad00/rectcrop3",
+      "custody_address": "0x905270750e9e66bde655146956b18505e33d7ac0",
+      "profile": {
+        "bio": {
+          "text": "Developer of meme coins"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xc9c2927dacc328391cc769f71ee1607148f7b4ea",
+        "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+        "0xbeaa4c7a39eeb0af3d4e81b92e788e2a94aa993a"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xc9c2927dacc328391cc769f71ee1607148f7b4ea",
+          "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+          "0xbeaa4c7a39eeb0af3d4e81b92e788e2a94aa993a"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "basedjaider"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x23b8576179328a8df1ddb32a94da7e56d4f4f66a",
+    "parent_hash": "0x23b8576179328a8df1ddb32a94da7e56d4f4f66a",
+    "parent_url": null,
+    "root_parent_url": "https://warpcast.com/~/channel/merv",
+    "parent_author": {
+      "fid": 1356
+    },
+    "text": "Lp pulled out?",
+    "timestamp": "2025-03-18T04:48:53.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "merv",
+      "name": "merv",
+      "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2c130803-733f-45f7-e411-55c4fe1e6400/original"
+    },
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": true
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0x090ddf6f3a3b5e1f959ef22c7abc4245e5adb691",
+    "author": {
+      "object": "user",
+      "fid": 853975,
+      "username": "jaiderhurtado",
+      "display_name": "Jaider Hurtado",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/50d74706-b32d-4dcb-2d43-474f47dcad00/rectcrop3",
+      "custody_address": "0x905270750e9e66bde655146956b18505e33d7ac0",
+      "profile": {
+        "bio": {
+          "text": "Developer of meme coins"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xc9c2927dacc328391cc769f71ee1607148f7b4ea",
+        "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+        "0xbeaa4c7a39eeb0af3d4e81b92e788e2a94aa993a"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xc9c2927dacc328391cc769f71ee1607148f7b4ea",
+          "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+          "0xbeaa4c7a39eeb0af3d4e81b92e788e2a94aa993a"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "basedjaider"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x525d67db3c1df034a69b4f86d613af9368d50e50",
+    "parent_hash": "0x525d67db3c1df034a69b4f86d613af9368d50e50",
+    "parent_url": null,
+    "root_parent_url": "https://warpcast.com/~/channel/borodutch",
+    "parent_author": {
+      "fid": 1356
+    },
+    "text": "That token will have some use?",
+    "timestamp": "2025-03-17T21:44:36.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "borodutch",
+      "name": "borodutch",
+      "image_url": "https://i.imgur.com/nSl0lWU.gif"
+    },
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": true
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0x222163061022e6a695ce7a6d9a539c071f1d52b4",
+    "author": {
+      "object": "user",
+      "fid": 853975,
+      "username": "jaiderhurtado",
+      "display_name": "Jaider Hurtado",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/50d74706-b32d-4dcb-2d43-474f47dcad00/rectcrop3",
+      "custody_address": "0x905270750e9e66bde655146956b18505e33d7ac0",
+      "profile": {
+        "bio": {
+          "text": "Developer of meme coins"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xc9c2927dacc328391cc769f71ee1607148f7b4ea",
+        "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+        "0xbeaa4c7a39eeb0af3d4e81b92e788e2a94aa993a"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xc9c2927dacc328391cc769f71ee1607148f7b4ea",
+          "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+          "0xbeaa4c7a39eeb0af3d4e81b92e788e2a94aa993a"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "basedjaider"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x4db366b3a2503cc3c0faaf83d2dc1fb1a2a80983",
+    "parent_hash": "0x4db366b3a2503cc3c0faaf83d2dc1fb1a2a80983",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 1626
+    },
+    "text": "Cute dog",
+    "timestamp": "2024-12-05T05:24:32.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x15c822d075f1e3c6a442ef5ceddd5f7a408e58ad",
+    "author": {
+      "object": "user",
+      "fid": 853975,
+      "username": "jaiderhurtado",
+      "display_name": "Jaider Hurtado",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/50d74706-b32d-4dcb-2d43-474f47dcad00/rectcrop3",
+      "custody_address": "0x905270750e9e66bde655146956b18505e33d7ac0",
+      "profile": {
+        "bio": {
+          "text": "Developer of meme coins"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xc9c2927dacc328391cc769f71ee1607148f7b4ea",
+        "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+        "0xbeaa4c7a39eeb0af3d4e81b92e788e2a94aa993a"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xc9c2927dacc328391cc769f71ee1607148f7b4ea",
+          "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+          "0xbeaa4c7a39eeb0af3d4e81b92e788e2a94aa993a"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "basedjaider"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x4db366b3a2503cc3c0faaf83d2dc1fb1a2a80983",
+    "parent_hash": "0x49bc1666815cce3362df2357e69b6cd394a741e1",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 895358
+    },
+    "text": "Cute dog",
+    "timestamp": "2024-12-05T05:24:01.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xcabd4bfc26c16c5032bb121d7f32638569647baa",
+    "author": {
+      "object": "user",
+      "fid": 853975,
+      "username": "jaiderhurtado",
+      "display_name": "Jaider Hurtado",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/50d74706-b32d-4dcb-2d43-474f47dcad00/rectcrop3",
+      "custody_address": "0x905270750e9e66bde655146956b18505e33d7ac0",
+      "profile": {
+        "bio": {
+          "text": "Developer of meme coins"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xc9c2927dacc328391cc769f71ee1607148f7b4ea",
+        "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+        "0xbeaa4c7a39eeb0af3d4e81b92e788e2a94aa993a"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xc9c2927dacc328391cc769f71ee1607148f7b4ea",
+          "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+          "0xbeaa4c7a39eeb0af3d4e81b92e788e2a94aa993a"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "basedjaider"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x500541da5afb0d6efde8b300c7029e7c94422998",
+    "parent_hash": "0x500541da5afb0d6efde8b300c7029e7c94422998",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 892303
+    },
+    "text": "Dex is paid?",
+    "timestamp": "2024-12-01T22:16:16.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 1,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 847498,
+          "fname": "ocvcommunity"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x2348de822baa1b710b578d118ac45ad3f383d21d",
+    "author": {
+      "object": "user",
+      "fid": 853975,
+      "username": "jaiderhurtado",
+      "display_name": "Jaider Hurtado",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/50d74706-b32d-4dcb-2d43-474f47dcad00/rectcrop3",
+      "custody_address": "0x905270750e9e66bde655146956b18505e33d7ac0",
+      "profile": {
+        "bio": {
+          "text": "Developer of meme coins"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xc9c2927dacc328391cc769f71ee1607148f7b4ea",
+        "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+        "0xbeaa4c7a39eeb0af3d4e81b92e788e2a94aa993a"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xc9c2927dacc328391cc769f71ee1607148f7b4ea",
+          "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+          "0xbeaa4c7a39eeb0af3d4e81b92e788e2a94aa993a"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "basedjaider"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x2348de822baa1b710b578d118ac45ad3f383d21d",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "@clanker could you please launch a token with a Name and Ticker of your choosing that describes your feelings towards your creator being unique and different than others AI's",
+    "timestamp": "2024-11-26T19:33:44.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 9,
+      "recasts_count": 1,
+      "likes": [
+        {
+          "fid": 772420,
+          "fname": "digitalartist"
+        },
+        {
+          "fid": 868605,
+          "fname": "htwtech"
+        },
+        {
+          "fid": 843550,
+          "fname": "ntora"
+        },
+        {
+          "fid": 839766,
+          "fname": "lauralopez"
+        },
+        {
+          "fid": 708034,
+          "fname": "wokad249op"
+        }
+      ],
+      "recasts": [
+        {
+          "fid": 901546,
+          "fname": "baconn"
+        }
+      ]
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 874542,
+        "username": "clanker",
+        "display_name": "tokenbot",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d34acf16-9002-4a2d-a163-c552d0816300/original",
+        "custody_address": "0x1e0365df407d82135561ccfb29a6fdc32dd9d28c",
+        "profile": {
+          "bio": {
+            "text": "create autonomous memecoins for free, get rewarded for posting bangers"
+          }
+        },
+        "follower_count": 0,
+        "following_count": 0,
+        "verifications": [
+          "0xc204af95b0307162118f7bc36a91c9717490ab69",
+          "0xb9ed44627bea88846193171cb55b93c262429682"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0xc204af95b0307162118f7bc36a91c9717490ab69",
+            "0xb9ed44627bea88846193171cb55b93c262429682"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0xc204af95b0307162118f7bc36a91c9717490ab69",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [
+          {
+            "platform": "x",
+            "username": "clankeronbase"
+          }
+        ],
+        "power_badge": true
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 0,
+        "end": 8
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x65ac873eec0a75504967c1e51ff05a5dc1cd05f2",
+    "author": {
+      "object": "user",
+      "fid": 853975,
+      "username": "jaiderhurtado",
+      "display_name": "Jaider Hurtado",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/50d74706-b32d-4dcb-2d43-474f47dcad00/rectcrop3",
+      "custody_address": "0x905270750e9e66bde655146956b18505e33d7ac0",
+      "profile": {
+        "bio": {
+          "text": "Developer of meme coins"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xc9c2927dacc328391cc769f71ee1607148f7b4ea",
+        "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+        "0xbeaa4c7a39eeb0af3d4e81b92e788e2a94aa993a"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xc9c2927dacc328391cc769f71ee1607148f7b4ea",
+          "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+          "0xbeaa4c7a39eeb0af3d4e81b92e788e2a94aa993a"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "basedjaider"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x65ac873eec0a75504967c1e51ff05a5dc1cd05f2",
+    "parent_hash": null,
+    "parent_url": "chain://eip155:1/erc721:0x7dd4e31f1530ac682c8ea4d8016e95773e08d8b0",
+    "root_parent_url": "chain://eip155:1/erc721:0x7dd4e31f1530ac682c8ea4d8016e95773e08d8b0",
+    "parent_author": {
+      "fid": null
+    },
+    "text": "Building step by step, there is good interesting places to launch something",
+    "timestamp": "2024-11-26T03:21:20.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "dev",
+      "name": "dev",
+      "image_url": "https://ipfs.decentralized-content.com/ipfs/bafkreigbei45ni5zsliszzeivotgee5auj2ykkh6zrzjwvm4izviidusny"
+    },
+    "reactions": {
+      "likes_count": 7,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 772420,
+          "fname": "digitalartist"
+        },
+        {
+          "fid": 843550,
+          "fname": "ntora"
+        },
+        {
+          "fid": 708034,
+          "fname": "wokad249op"
+        },
+        {
+          "fid": 707924,
+          "fname": "xyjib2552ajisu"
+        },
+        {
+          "fid": 836606,
+          "fname": "endovecli"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 2
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": true
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0xa6153ac774acc45fc2011d37716862f71d33f4d3",
+    "author": {
+      "object": "user",
+      "fid": 853975,
+      "username": "jaiderhurtado",
+      "display_name": "Jaider Hurtado",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/50d74706-b32d-4dcb-2d43-474f47dcad00/rectcrop3",
+      "custody_address": "0x905270750e9e66bde655146956b18505e33d7ac0",
+      "profile": {
+        "bio": {
+          "text": "Developer of meme coins"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xc9c2927dacc328391cc769f71ee1607148f7b4ea",
+        "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+        "0xbeaa4c7a39eeb0af3d4e81b92e788e2a94aa993a"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xc9c2927dacc328391cc769f71ee1607148f7b4ea",
+          "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+          "0xbeaa4c7a39eeb0af3d4e81b92e788e2a94aa993a"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "basedjaider"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x2d100e6b90845321df03c85ee45c2d3577346bf5",
+    "parent_hash": "0x2d100e6b90845321df03c85ee45c2d3577346bf5",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 10066
+    },
+    "text": "Se ve genial ese personaje, ¿Que utilidad tendrá Connie?",
+    "timestamp": "2024-11-25T16:56:54.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x10c6eea7f51af1675f1fae4d3d64472b21a382eb",
+    "author": {
+      "object": "user",
+      "fid": 853975,
+      "username": "jaiderhurtado",
+      "display_name": "Jaider Hurtado",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/50d74706-b32d-4dcb-2d43-474f47dcad00/rectcrop3",
+      "custody_address": "0x905270750e9e66bde655146956b18505e33d7ac0",
+      "profile": {
+        "bio": {
+          "text": "Developer of meme coins"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xc9c2927dacc328391cc769f71ee1607148f7b4ea",
+        "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+        "0xbeaa4c7a39eeb0af3d4e81b92e788e2a94aa993a"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xc9c2927dacc328391cc769f71ee1607148f7b4ea",
+          "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+          "0xbeaa4c7a39eeb0af3d4e81b92e788e2a94aa993a"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "basedjaider"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x732b1dbb9acd9ed71ef7dcbb965b5206e4a0c200",
+    "parent_hash": "0x9aaeabaf646a46d91caec045fc236abd586295cb",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 10174
+    },
+    "text": "Te lo envie por dm",
+    "timestamp": "2024-11-22T22:15:12.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xc35e63544455929c6b3fb060dfa7fb3a30e1a215",
+    "author": {
+      "object": "user",
+      "fid": 853975,
+      "username": "jaiderhurtado",
+      "display_name": "Jaider Hurtado",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/50d74706-b32d-4dcb-2d43-474f47dcad00/rectcrop3",
+      "custody_address": "0x905270750e9e66bde655146956b18505e33d7ac0",
+      "profile": {
+        "bio": {
+          "text": "Developer of meme coins"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xc9c2927dacc328391cc769f71ee1607148f7b4ea",
+        "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+        "0xbeaa4c7a39eeb0af3d4e81b92e788e2a94aa993a"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xc9c2927dacc328391cc769f71ee1607148f7b4ea",
+          "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+          "0xbeaa4c7a39eeb0af3d4e81b92e788e2a94aa993a"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "basedjaider"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x732b1dbb9acd9ed71ef7dcbb965b5206e4a0c200",
+    "parent_hash": "0x09e263a524d06eb7ea6ed9cf4405672e38438817",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 853975
+    },
+    "text": "",
+    "timestamp": "2024-11-22T21:52:33.000Z",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f0cac5b4-cb3d-49c7-144a-1e18d0d1e400/original",
+        "metadata": {
+          "content_type": "image/png",
+          "content_length": 7813,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 307,
+            "height_px": 159
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x09e263a524d06eb7ea6ed9cf4405672e38438817",
+    "author": {
+      "object": "user",
+      "fid": 853975,
+      "username": "jaiderhurtado",
+      "display_name": "Jaider Hurtado",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/50d74706-b32d-4dcb-2d43-474f47dcad00/rectcrop3",
+      "custody_address": "0x905270750e9e66bde655146956b18505e33d7ac0",
+      "profile": {
+        "bio": {
+          "text": "Developer of meme coins"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xc9c2927dacc328391cc769f71ee1607148f7b4ea",
+        "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+        "0xbeaa4c7a39eeb0af3d4e81b92e788e2a94aa993a"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xc9c2927dacc328391cc769f71ee1607148f7b4ea",
+          "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+          "0xbeaa4c7a39eeb0af3d4e81b92e788e2a94aa993a"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "basedjaider"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x732b1dbb9acd9ed71ef7dcbb965b5206e4a0c200",
+    "parent_hash": "0x732b1dbb9acd9ed71ef7dcbb965b5206e4a0c200",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 10174
+    },
+    "text": "Hay un bot que muestra los nuevos pares que se han creado en clanker + snipers con bots para comprar todo lo que salga",
+    "timestamp": "2024-11-22T21:50:50.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 2
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xa73edf65eb5e48d61d1269e44ed6f8c7d5600760",
+    "author": {
+      "object": "user",
+      "fid": 853975,
+      "username": "jaiderhurtado",
+      "display_name": "Jaider Hurtado",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/50d74706-b32d-4dcb-2d43-474f47dcad00/rectcrop3",
+      "custody_address": "0x905270750e9e66bde655146956b18505e33d7ac0",
+      "profile": {
+        "bio": {
+          "text": "Developer of meme coins"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xc9c2927dacc328391cc769f71ee1607148f7b4ea",
+        "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+        "0xbeaa4c7a39eeb0af3d4e81b92e788e2a94aa993a"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xc9c2927dacc328391cc769f71ee1607148f7b4ea",
+          "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+          "0xbeaa4c7a39eeb0af3d4e81b92e788e2a94aa993a"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "basedjaider"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x7f76e8d728d8b4ec3b6acfcc8e431730337fb751",
+    "parent_hash": "0x7f76e8d728d8b4ec3b6acfcc8e431730337fb751",
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": 270504
+    },
+    "text": "$Meowbot is free",
+    "timestamp": "2024-10-26T00:02:02.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 2,
+      "recasts_count": 0,
+      "likes": [
+        {
+          "fid": 415872,
+          "fname": "boothtempleton.eth"
+        },
+        {
+          "fid": 428590,
+          "fname": "zjonathan"
+        }
+      ],
+      "recasts": []
+    },
+    "replies": {
+      "count": 1
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x55ac46d6d5654b626180edbc005537d39a20d4bf",
+    "author": {
+      "object": "user",
+      "fid": 853975,
+      "username": "jaiderhurtado",
+      "display_name": "Jaider Hurtado",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/50d74706-b32d-4dcb-2d43-474f47dcad00/rectcrop3",
+      "custody_address": "0x905270750e9e66bde655146956b18505e33d7ac0",
+      "profile": {
+        "bio": {
+          "text": "Developer of meme coins"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xc9c2927dacc328391cc769f71ee1607148f7b4ea",
+        "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+        "0xbeaa4c7a39eeb0af3d4e81b92e788e2a94aa993a"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xc9c2927dacc328391cc769f71ee1607148f7b4ea",
+          "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+          "0xbeaa4c7a39eeb0af3d4e81b92e788e2a94aa993a"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "basedjaider"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x6037f27e42018ab6b664bc638fd5f745d0e378bf",
+    "parent_hash": "0x6037f27e42018ab6b664bc638fd5f745d0e378bf",
+    "parent_url": null,
+    "root_parent_url": "chain://eip155:1/erc721:0xfd8427165df67df6d7fd689ae67c8ebf56d9ca61",
+    "parent_author": {
+      "fid": 427926
+    },
+    "text": "Can you create a TG so ppl can join on it?",
+    "timestamp": "2024-09-16T15:54:24.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "memes",
+      "name": "Memes",
+      "image_url": "https://i.seadn.io/gcs/files/1f4acfc1e6831eb38e9453ce34ac79f8.png?auto=format&dpr=1&w=512"
+    },
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": true
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0x28b6707f6f1ae56ae2f833eb606fdacfa8ea7046",
+    "author": {
+      "object": "user",
+      "fid": 853975,
+      "username": "jaiderhurtado",
+      "display_name": "Jaider Hurtado",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/50d74706-b32d-4dcb-2d43-474f47dcad00/rectcrop3",
+      "custody_address": "0x905270750e9e66bde655146956b18505e33d7ac0",
+      "profile": {
+        "bio": {
+          "text": "Developer of meme coins"
+        }
+      },
+      "follower_count": 0,
+      "following_count": 0,
+      "verifications": [
+        "0xc9c2927dacc328391cc769f71ee1607148f7b4ea",
+        "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+        "0xbeaa4c7a39eeb0af3d4e81b92e788e2a94aa993a"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0xc9c2927dacc328391cc769f71ee1607148f7b4ea",
+          "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+          "0xbeaa4c7a39eeb0af3d4e81b92e788e2a94aa993a"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x8cb4a3a416633abcee5322d9ac8be2c6089aaaaa",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "basedjaider"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x28b6707f6f1ae56ae2f833eb606fdacfa8ea7046",
+    "parent_hash": null,
+    "parent_url": "https://warpcast.com/~/channel/fairlaunch",
+    "root_parent_url": "https://warpcast.com/~/channel/fairlaunch",
+    "parent_author": {
+      "fid": null
+    },
+    "text": "🍊🍊🍊 $Orange is on Wagmi time to grab some oranges for you🍊🍊🍊\n\nTG: https://t.me/+yAwpkMB-lTZjOGIx\n\nhttps://wagmi.best/0x7CFf9bAABf44bE36aD077f78bE32F0c1B76a1B3C",
+    "timestamp": "2024-09-11T19:52:47.000Z",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/979e2893-7377-4cb8-9e84-06bd5be27800/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 206424,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 2560,
+            "height_px": 853
+          }
+        }
+      },
+      {
+        "url": "https://t.me/+yAwpkMB-lTZjOGIx",
+        "metadata": {
+          "content_type": "text/html;charset=utf-8",
+          "content_length": 4074,
+          "_status": "RESOLVED",
+          "html": {
+            "favicon": "//telegram.org/img/website_icon.svg?4",
+            "ogImage": [
+              {
+                "url": "https://cdn1.cdn-telegram.org/file/WIZJiDWF4igRKw3rDFqN83isSdS9UB2vpDOLvj-axBQoPwOp5NPcauhpC5RP6pQ2ofqO1nMoeixbnhaRa_erXyUn-0tDre_sEwrFnTgyzw05f8U6X6YVAIGBk_ODSW9QfSDxRcLTklDEQNTDWwVPYUoQslcM5SMf1LYNNv_a0pRoYVu1E0FdIvMeTB8p3vd8ASJKbOthSCGil1Y25apvzJIrL6NeODW5Jqty-j427s_LBU8EH4xNgGWZmKbksSJjeEomHjGsOKCUssXi-cVkDJKzLU2qENuU7zvwUiP1lJOXVEaRIGnXlSms4pxWVk4aOdOWSKA3OXLdySvhR3CmhA.jpg",
+                "type": "jpg"
+              }
+            ],
+            "ogTitle": "Orange on Base",
+            "ogSiteName": "Telegram",
+            "ogDescription": "https://t.me/BasedOrange"
+          }
+        }
+      }
+    ],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "fairlaunch",
+      "name": "WAGMI Fair Launch",
+      "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fdbaf339-abe2-438e-b3ff-07f4a1edbf00/original"
+    },
+    "reactions": {
+      "likes_count": 37,
+      "recasts_count": 10,
+      "likes": [
+        {
+          "fid": 772420,
+          "fname": "digitalartist"
+        },
+        {
+          "fid": 868605,
+          "fname": "htwtech"
+        },
+        {
+          "fid": 1002852,
+          "fname": "mrndeqcmi7"
+        },
+        {
+          "fid": 846832,
+          "fname": "xxxing"
+        },
+        {
+          "fid": 843550,
+          "fname": "ntora"
+        }
+      ],
+      "recasts": [
+        {
+          "fid": 917405,
+          "fname": "erdeoskemier"
+        },
+        {
+          "fid": 1002852,
+          "fname": "mrndeqcmi7"
+        },
+        {
+          "fid": 854261,
+          "fname": "dragonslayer69"
+        },
+        {
+          "fid": 442039,
+          "fname": "bartulkaaa"
+        },
+        {
+          "fid": 407154,
+          "fname": "katey"
+        }
+      ]
+    },
+    "replies": {
+      "count": 15
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": true
+    }
+  }
+]

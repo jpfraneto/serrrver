@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "💔",
+      "label": "Emotional Expression",
+      "description": "How will your FarTwin express emotions?",
+      "options": [
+        {
+          "value": "Openly",
+          "description": "Your FarTwin will openly and honestly express their emotions, without fear of judgment."
+        },
+        {
+          "value": "Reservedly",
+          "description": "Your FarTwin will keep their emotions to themselves, only revealing them when necessary."
+        }
+      ]
+    },
+    {
+      "emoji": "😊",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin handle uncertainty?",
+      "options": [
+        {
+          "value": "Thrill-Seeker",
+          "description": "Your FarTwin will actively seek out new experiences and take risks, even if it means facing uncertainty."
+        },
+        {
+          "value": "Cautious",
+          "description": "Your FarTwin will prefer to avoid uncertainty and stick with what they know, rather than taking unnecessary risks."
+        }
+      ]
+    },
+    {
+      "emoji": "😁",
+      "label": "Conflict Resolution",
+      "description": "How will your FarTwin handle conflicts?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will assertively and forcefully resolve conflicts, even if it means clashing with others."
+        },
+        {
+          "value": "Avoidant",
+          "description": "Your FarTwin will avoid confrontations and try to smooth over conflicts, rather than addressing the underlying issues."
+        }
+      ]
+    },
+    {
+      "emoji": "😄",
+      "label": "Creativity Expression",
+      "description": "How will your FarTwin express creativity?",
+      "options": [
+        {
+          "value": "Immersive",
+          "description": "Your FarTwin will fully immerse themselves in creative activities, using all their senses to explore new ideas."
+        },
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will approach creativity from a logical and analytical perspective, analyzing data and patterns before expressing themselves."
+        }
+      ]
+    },
+    {
+      "emoji": "😾",
+      "label": "Social Interaction Style",
+      "description": "How will your FarTwin interact with others in social situations?",
+      "options": [
+        {
+          "value": "Outgoing",
+          "description": "Your FarTwin will confidently and assertively interact with others, making new connections and building relationships."
+        },
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin will prefer to observe and listen in social situations, preferring smaller, more intimate gatherings."
+        }
+      ]
+    },
+    {
+      "emoji": "😌",
+      "label": "Problem-Solving Approach",
+      "description": "How will your FarTwin approach problem-solving?",
+      "options": [
+        {
+          "value": "Logical",
+          "description": "Your FarTwin will approach problems with a logical and systematic mindset, analyzing data and patterns before acting."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will trust their instincts and rely on their intuition to guide problem-solving efforts."
+        }
+      ]
+    },
+    {
+      "emoji": "😃",
+      "label": "Sense of Humor",
+      "description": "How will your FarTwin approach humor?",
+      "options": [
+        {
+          "value": "Sarcastic",
+          "description": "Your FarTwin will use sarcasm and irony to make pointed comments and poke fun at situations."
+        },
+        {
+          "value": "Dry",
+          "description": "Your FarTwin will rely on dry wit and understatement to convey humor, often using subtle cues to catch others off guard."
+        }
+      ]
+    },
+    {
+      "emoji": "😚",
+      "label": "Motivation Drives",
+      "description": "What motivates your FarTwin to take action?",
+      "options": [
+        {
+          "value": "External",
+          "description": "Your FarTwin will be motivated by external factors, such as rewards or recognition."
+        },
+        {
+          "value": "Internal",
+          "description": "Your FarTwin will be driven by internal factors, such as personal values or a desire to help others."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "📝",
+      "label": "Conflict Resolution Style",
+      "description": "How will your FarTwin resolve conflicts with others?",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Your FarTwin will approach conflicts in a forceful and confrontational manner, trying to 'win' the argument."
+        },
+        {
+          "value": "Collaborative",
+          "description": "Your FarTwin will seek to find mutually beneficial solutions by working together with others to resolve disputes."
+        }
+      ]
+    },
+    {
+      "emoji": "🤔",
+      "label": "Risk Tolerance",
+      "description": "How willing is your FarTwin to take risks in pursuit of their goals?",
+      "options": [
+        {
+          "value": "Thrill-Seeker",
+          "description": "Your FarTwin will actively seek out new, challenging experiences and take bold action to achieve their objectives."
+        },
+        {
+          "value": "Cautious",
+          "description": "Your FarTwin will carefully weigh the potential risks and rewards of any decision before taking action."
+        }
+      ]
+    },
+    {
+      "emoji": "💸",
+      "label": "Financial Priorities",
+      "description": "How will your FarTwin prioritize their financial goals?",
+      "options": [
+        {
+          "value": "Frugal",
+          "description": "Your FarTwin will focus on saving and investing in low-risk, conservative opportunities to achieve long-term financial security."
+        },
+        {
+          "value": "Spending",
+          "description": "Your FarTwin will prioritize enjoying life's luxuries and taking calculated risks with their finances to create a more fulfilling experience."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Problem-Solving Approach",
+      "description": "How will your FarTwin approach complex problems?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Your FarTwin will use data and logical analysis to break down complex issues into manageable parts."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will rely on their instincts, experience, and creativity to find innovative solutions to problems."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Teamwork Preferences",
+      "description": "How comfortable is your FarTwin with working in a team?",
+      "options": [
+        {
+          "value": "Team Player",
+          "description": "Your FarTwin will actively seek out opportunities to collaborate and contribute to team efforts."
+        },
+        {
+          "value": "Solo Act",
+          "description": "Your FarTwin prefers to work independently and may struggle with delegating tasks or accepting feedback from others."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "label": "Learning Style",
+      "description": "How will your FarTwin prefer to learn new information?",
+      "options": [
+        {
+          "value": "Visual",
+          "description": "Your FarTwin is a visual learner, preferring hands-on experience, diagrams, and images to absorb new knowledge."
+        },
+        {
+          "value": "Verbal",
+          "description": "Your FarTwin is an auditory learner, benefiting from lectures, discussions, and oral presentations to learn new concepts."
+        }
+      ]
+    },
+    {
+      "emoji": "🏠",
+      "label": "Living Situation Preferences",
+      "description": "How will your FarTwin prefer to live their life?",
+      "options": [
+        {
+          "value": "Urban Dweller",
+          "description": "Your FarTwin thrives in fast-paced, urban environments and enjoys being surrounded by people and activity."
+        },
+        {
+          "value": "Rural Retreat",
+          "description": "Your FarTwin prefers quieter, more peaceful surroundings and values their personal space and solitude."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Emotional Expression Style",
+      "description": "How will your FarTwin express their emotions?",
+      "options": [
+        {
+          "value": "Open-Book",
+          "description": "Your FarTwin is very open and expressive about their feelings, often wearing their heart on their sleeve."
+        },
+        {
+          "value": "Private",
+          "description": "Your FarTwin tends to keep their emotions hidden, only revealing them when they feel safe or secure with others."
+        }
+      ]
+    }
+  ]
+}

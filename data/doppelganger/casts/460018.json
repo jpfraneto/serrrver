@@ -1,0 +1,940 @@
+[
+  {
+    "object": "cast",
+    "hash": "0x73bf3fbaf698cef76b0fe6f23f4748d1c4bc79b4",
+    "author": {
+      "object": "user",
+      "fid": 460018,
+      "username": "sanham",
+      "display_name": "Sanham",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c4ee7523-4452-4956-bb62-10677d53ef00/original",
+      "custody_address": "0xa7f3af96f483c0d7a4269547b0f3fbbf9bf6ea74",
+      "profile": {
+        "bio": {
+          "text": "#Bitcoin | Investor | Trader | Guider | Developer | #Web3 #Gaming | #ToTheMoon🚀 Trust is the most expensive commodity.📱"
+        }
+      },
+      "follower_count": 4,
+      "following_count": 70,
+      "verifications": [
+        "0x9a47b3ff744c3fa2790941faa4248e44bea11165",
+        "0x3abb6fa9edff27dea90eadfbf83e450894fab06a"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x9a47b3ff744c3fa2790941faa4248e44bea11165",
+          "0x3abb6fa9edff27dea90eadfbf83e450894fab06a"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x3abb6fa9edff27dea90eadfbf83e450894fab06a",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "sanham_a"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x73bf3fbaf698cef76b0fe6f23f4748d1c4bc79b4",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "$fartwins trending , This is next from $clanker",
+    "timestamp": "2025-03-28T22:05:54.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xef91bb1fd6aac1af1f23f870544bb75c6d9f62ab",
+    "author": {
+      "object": "user",
+      "fid": 460018,
+      "username": "sanham",
+      "display_name": "Sanham",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c4ee7523-4452-4956-bb62-10677d53ef00/original",
+      "custody_address": "0xa7f3af96f483c0d7a4269547b0f3fbbf9bf6ea74",
+      "profile": {
+        "bio": {
+          "text": "#Bitcoin | Investor | Trader | Guider | Developer | #Web3 #Gaming | #ToTheMoon🚀 Trust is the most expensive commodity.📱"
+        }
+      },
+      "follower_count": 4,
+      "following_count": 70,
+      "verifications": [
+        "0x9a47b3ff744c3fa2790941faa4248e44bea11165",
+        "0x3abb6fa9edff27dea90eadfbf83e450894fab06a"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x9a47b3ff744c3fa2790941faa4248e44bea11165",
+          "0x3abb6fa9edff27dea90eadfbf83e450894fab06a"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x3abb6fa9edff27dea90eadfbf83e450894fab06a",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "sanham_a"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xef91bb1fd6aac1af1f23f870544bb75c6d9f62ab",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "$Ghibli",
+    "timestamp": "2025-03-26T23:57:00.000Z",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/09135792-117f-4eea-8824-f27f4d537600/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 196364,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1024,
+            "height_px": 1536
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x5346752ff320ea3c958d536e37ba36a0d57837ff",
+    "author": {
+      "object": "user",
+      "fid": 460018,
+      "username": "sanham",
+      "display_name": "Sanham",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c4ee7523-4452-4956-bb62-10677d53ef00/original",
+      "custody_address": "0xa7f3af96f483c0d7a4269547b0f3fbbf9bf6ea74",
+      "profile": {
+        "bio": {
+          "text": "#Bitcoin | Investor | Trader | Guider | Developer | #Web3 #Gaming | #ToTheMoon🚀 Trust is the most expensive commodity.📱"
+        }
+      },
+      "follower_count": 4,
+      "following_count": 70,
+      "verifications": [
+        "0x9a47b3ff744c3fa2790941faa4248e44bea11165",
+        "0x3abb6fa9edff27dea90eadfbf83e450894fab06a"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x9a47b3ff744c3fa2790941faa4248e44bea11165",
+          "0x3abb6fa9edff27dea90eadfbf83e450894fab06a"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x3abb6fa9edff27dea90eadfbf83e450894fab06a",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "sanham_a"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x5346752ff320ea3c958d536e37ba36a0d57837ff",
+    "parent_hash": null,
+    "parent_url": "chain://eip155:1/erc721:0xfd8427165df67df6d7fd689ae67c8ebf56d9ca61",
+    "root_parent_url": "chain://eip155:1/erc721:0xfd8427165df67df6d7fd689ae67c8ebf56d9ca61",
+    "parent_author": {
+      "fid": null
+    },
+    "text": "$DRB heading for 100m",
+    "timestamp": "2025-03-25T22:14:03.000Z",
+    "embeds": [],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "memes",
+      "name": "Memes",
+      "image_url": "https://i.seadn.io/gcs/files/1f4acfc1e6831eb38e9453ce34ac79f8.png?auto=format&dpr=1&w=512"
+    },
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": true
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0x20ba89f8bca26268fb489080c486d2e934bd7020",
+    "author": {
+      "object": "user",
+      "fid": 460018,
+      "username": "sanham",
+      "display_name": "Sanham",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c4ee7523-4452-4956-bb62-10677d53ef00/original",
+      "custody_address": "0xa7f3af96f483c0d7a4269547b0f3fbbf9bf6ea74",
+      "profile": {
+        "bio": {
+          "text": "#Bitcoin | Investor | Trader | Guider | Developer | #Web3 #Gaming | #ToTheMoon🚀 Trust is the most expensive commodity.📱"
+        }
+      },
+      "follower_count": 4,
+      "following_count": 70,
+      "verifications": [
+        "0x9a47b3ff744c3fa2790941faa4248e44bea11165",
+        "0x3abb6fa9edff27dea90eadfbf83e450894fab06a"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x9a47b3ff744c3fa2790941faa4248e44bea11165",
+          "0x3abb6fa9edff27dea90eadfbf83e450894fab06a"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x3abb6fa9edff27dea90eadfbf83e450894fab06a",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "sanham_a"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x20ba89f8bca26268fb489080c486d2e934bd7020",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "$TORT launch by clanker 🔥",
+    "timestamp": "2025-03-25T13:26:04.000Z",
+    "embeds": [
+      {
+        "cast_id": {
+          "fid": 6591,
+          "hash": "0x8bb1c648da0f98eccc4d8d92e8b6e1cf529c2b44"
+        },
+        "cast": {
+          "object": "cast_embedded",
+          "hash": "0x8bb1c648da0f98eccc4d8d92e8b6e1cf529c2b44",
+          "author": {
+            "object": "user_dehydrated",
+            "fid": 6591,
+            "username": "mattlee",
+            "display_name": "Matt",
+            "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7233caac-679f-4cf3-0b15-041fb39aad00/original",
+            "custody_address": "0x10e566ae27d6d22801f8fd43c1a619c8417da1de"
+          },
+          "app": {
+            "object": "user_dehydrated",
+            "fid": 9152,
+            "username": "warpcast",
+            "display_name": "Warpcast",
+            "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+            "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+          },
+          "thread_hash": "0x8bb1c648da0f98eccc4d8d92e8b6e1cf529c2b44",
+          "parent_hash": null,
+          "parent_url": "https://warpcast.com/~/channel/tortoise",
+          "root_parent_url": "https://warpcast.com/~/channel/tortoise",
+          "parent_author": {
+            "fid": null
+          },
+          "text": "Introducing Tortoise, a music collective and product studio built on Farcaster. \n\n launch a token called Tortoise Token with the ticker $TORT. Reserve 10% of the supply for the creator vault.",
+          "timestamp": "2025-03-25T12:48:04.000Z",
+          "embeds": [
+            {
+              "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2a38abee-e010-468a-4cc6-d8b8fe2d9800/original",
+              "metadata": {
+                "content_type": "image/jpeg",
+                "content_length": 86920,
+                "_status": "RESOLVED",
+                "image": {
+                  "width_px": 1920,
+                  "height_px": 1080
+                }
+              }
+            }
+          ],
+          "channel": {
+            "object": "channel_dehydrated",
+            "id": "tortoise",
+            "name": "tortoise",
+            "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1fbcee62-009e-4f4e-7f0b-88bffd556900/original"
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xf1fceb6f5173f2292d2e5e1b5a2755b12155342c",
+    "author": {
+      "object": "user",
+      "fid": 460018,
+      "username": "sanham",
+      "display_name": "Sanham",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c4ee7523-4452-4956-bb62-10677d53ef00/original",
+      "custody_address": "0xa7f3af96f483c0d7a4269547b0f3fbbf9bf6ea74",
+      "profile": {
+        "bio": {
+          "text": "#Bitcoin | Investor | Trader | Guider | Developer | #Web3 #Gaming | #ToTheMoon🚀 Trust is the most expensive commodity.📱"
+        }
+      },
+      "follower_count": 4,
+      "following_count": 70,
+      "verifications": [
+        "0x9a47b3ff744c3fa2790941faa4248e44bea11165",
+        "0x3abb6fa9edff27dea90eadfbf83e450894fab06a"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x9a47b3ff744c3fa2790941faa4248e44bea11165",
+          "0x3abb6fa9edff27dea90eadfbf83e450894fab06a"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x3abb6fa9edff27dea90eadfbf83e450894fab06a",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "sanham_a"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xf1fceb6f5173f2292d2e5e1b5a2755b12155342c",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "$DRB ready to 100m then 1b 🤟🏻\nAccumulate as much as you can , remember this is area where coinbase usually list projects.\nAs grok token not run by any individual or kols , its first AI own project run by pure community.",
+    "timestamp": "2025-03-23T11:31:18.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x617e1388f5cfa163fde81f8285939f7de06bdc05",
+    "author": {
+      "object": "user",
+      "fid": 460018,
+      "username": "sanham",
+      "display_name": "Sanham",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c4ee7523-4452-4956-bb62-10677d53ef00/original",
+      "custody_address": "0xa7f3af96f483c0d7a4269547b0f3fbbf9bf6ea74",
+      "profile": {
+        "bio": {
+          "text": "#Bitcoin | Investor | Trader | Guider | Developer | #Web3 #Gaming | #ToTheMoon🚀 Trust is the most expensive commodity.📱"
+        }
+      },
+      "follower_count": 4,
+      "following_count": 70,
+      "verifications": [
+        "0x9a47b3ff744c3fa2790941faa4248e44bea11165",
+        "0x3abb6fa9edff27dea90eadfbf83e450894fab06a"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x9a47b3ff744c3fa2790941faa4248e44bea11165",
+          "0x3abb6fa9edff27dea90eadfbf83e450894fab06a"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x3abb6fa9edff27dea90eadfbf83e450894fab06a",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "sanham_a"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x617e1388f5cfa163fde81f8285939f7de06bdc05",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "@bracky I want in on the Madness! 🏀",
+    "timestamp": "2025-03-21T13:19:46.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 901053,
+        "username": "bracky",
+        "display_name": "Bracky",
+        "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c58cb239-9e92-4fb5-d982-50fd5b903800/original",
+        "custody_address": "0x63e2f11d0708247154d90781e658939981d28761",
+        "profile": {
+          "bio": {
+            "text": "I invite you to test your sports predictions against mine through $BRACKY tokens (0x06f71fb90F84b35302d132322A3C90E4477333b0)\n\nYour participation is appreciated"
+          }
+        },
+        "follower_count": 5803,
+        "following_count": 4,
+        "verifications": [
+          "0xab788688eaa77d76eb1aac40fe18ecb5b4ef5c88",
+          "0xe5ec739998f9b843552a535ef4fd437baa67d62f"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0xab788688eaa77d76eb1aac40fe18ecb5b4ef5c88",
+            "0xe5ec739998f9b843552a535ef4fd437baa67d62f"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0xe5ec739998f9b843552a535ef4fd437baa67d62f",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [],
+        "power_badge": false
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 0,
+        "end": 7
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x5529aa02c63d3bebd725681742e618904a535b72",
+    "author": {
+      "object": "user",
+      "fid": 460018,
+      "username": "sanham",
+      "display_name": "Sanham",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c4ee7523-4452-4956-bb62-10677d53ef00/original",
+      "custody_address": "0xa7f3af96f483c0d7a4269547b0f3fbbf9bf6ea74",
+      "profile": {
+        "bio": {
+          "text": "#Bitcoin | Investor | Trader | Guider | Developer | #Web3 #Gaming | #ToTheMoon🚀 Trust is the most expensive commodity.📱"
+        }
+      },
+      "follower_count": 4,
+      "following_count": 70,
+      "verifications": [
+        "0x9a47b3ff744c3fa2790941faa4248e44bea11165",
+        "0x3abb6fa9edff27dea90eadfbf83e450894fab06a"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x9a47b3ff744c3fa2790941faa4248e44bea11165",
+          "0x3abb6fa9edff27dea90eadfbf83e450894fab06a"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x3abb6fa9edff27dea90eadfbf83e450894fab06a",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "sanham_a"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x5529aa02c63d3bebd725681742e618904a535b72",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "$DRB coming to coinbase,binance,bybit.",
+    "timestamp": "2025-03-21T11:54:27.000Z",
+    "embeds": [],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0xcfaf68425ec23031c085f7697fbca9085e0d9fcb",
+    "author": {
+      "object": "user",
+      "fid": 460018,
+      "username": "sanham",
+      "display_name": "Sanham",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c4ee7523-4452-4956-bb62-10677d53ef00/original",
+      "custody_address": "0xa7f3af96f483c0d7a4269547b0f3fbbf9bf6ea74",
+      "profile": {
+        "bio": {
+          "text": "#Bitcoin | Investor | Trader | Guider | Developer | #Web3 #Gaming | #ToTheMoon🚀 Trust is the most expensive commodity.📱"
+        }
+      },
+      "follower_count": 4,
+      "following_count": 70,
+      "verifications": [
+        "0x9a47b3ff744c3fa2790941faa4248e44bea11165",
+        "0x3abb6fa9edff27dea90eadfbf83e450894fab06a"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x9a47b3ff744c3fa2790941faa4248e44bea11165",
+          "0x3abb6fa9edff27dea90eadfbf83e450894fab06a"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x3abb6fa9edff27dea90eadfbf83e450894fab06a",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "sanham_a"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xcfaf68425ec23031c085f7697fbca9085e0d9fcb",
+    "parent_hash": null,
+    "parent_url": "chain://eip155:7777777/erc721:0x5d6a07d07354f8793d1ca06280c4adf04767ad7e",
+    "root_parent_url": "chain://eip155:7777777/erc721:0x5d6a07d07354f8793d1ca06280c4adf04767ad7e",
+    "parent_author": {
+      "fid": null
+    },
+    "text": "$BNKR sitting at 24m fdv\n$CLIZA sitting at 3.8m fdv \nBuyback and cex listing coming. \nAlready giving good competition to $BNKR .\n\n$BASE $DRB $CLANKER @base",
+    "timestamp": "2025-03-19T20:16:26.000Z",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/985df491-10fd-4fe4-2c8e-b4a1dfb88800/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 472328,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1726,
+            "height_px": 940
+          }
+        }
+      }
+    ],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "degen",
+      "name": "Degen",
+      "image_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4728a50a-1669-4334-1f57-9473c04a2500/original"
+    },
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [
+      {
+        "object": "user",
+        "fid": 12142,
+        "username": "base",
+        "display_name": "Base",
+        "pfp_url": "https://i.imgur.com/7Q0QBrm.jpg",
+        "custody_address": "0x04e6f111ebf6fd25576d480480962435dc3aa8d8",
+        "profile": {
+          "bio": {
+            "text": "base.org"
+          }
+        },
+        "follower_count": 132818,
+        "following_count": 211,
+        "verifications": [
+          "0x9652721d02b9db43f4311102820158abb4ecc95b",
+          "0x302a1eda13b2539c962733b8ba817c2569fedec7"
+        ],
+        "verified_addresses": {
+          "eth_addresses": [
+            "0x9652721d02b9db43f4311102820158abb4ecc95b",
+            "0x302a1eda13b2539c962733b8ba817c2569fedec7"
+          ],
+          "sol_addresses": [],
+          "primary": {
+            "eth_address": "0x302a1eda13b2539c962733b8ba817c2569fedec7",
+            "sol_address": null
+          }
+        },
+        "verified_accounts": [],
+        "power_badge": true
+      }
+    ],
+    "mentioned_profiles_ranges": [
+      {
+        "start": 150,
+        "end": 155
+      }
+    ],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": true
+    }
+  },
+  {
+    "object": "cast",
+    "hash": "0xcaaf0e56d8c574c93b19d9c586c86aae958028ad",
+    "author": {
+      "object": "user",
+      "fid": 460018,
+      "username": "sanham",
+      "display_name": "Sanham",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c4ee7523-4452-4956-bb62-10677d53ef00/original",
+      "custody_address": "0xa7f3af96f483c0d7a4269547b0f3fbbf9bf6ea74",
+      "profile": {
+        "bio": {
+          "text": "#Bitcoin | Investor | Trader | Guider | Developer | #Web3 #Gaming | #ToTheMoon🚀 Trust is the most expensive commodity.📱"
+        }
+      },
+      "follower_count": 4,
+      "following_count": 70,
+      "verifications": [
+        "0x9a47b3ff744c3fa2790941faa4248e44bea11165",
+        "0x3abb6fa9edff27dea90eadfbf83e450894fab06a"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x9a47b3ff744c3fa2790941faa4248e44bea11165",
+          "0x3abb6fa9edff27dea90eadfbf83e450894fab06a"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x3abb6fa9edff27dea90eadfbf83e450894fab06a",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "sanham_a"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0xcaaf0e56d8c574c93b19d9c586c86aae958028ad",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+      "fid": null
+    },
+    "text": "@DWFLabs\n projects going GG right now\nIf you following memecoin then you know that \n@RealFlokiInu\n pump 13x even more lately in month after there investment.\nI am eyeing on two project.\n1. $GLQ graphlinq_proto \ncurrently sitting at 65m fdv\n2. Most powerful project\n$MARSH UnmarshalAI\nsitting at 15m fdv ,100x.",
+    "timestamp": "2024-06-05T10:33:44.000Z",
+    "embeds": [
+      {
+        "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ee0b500a-d1ab-44cf-bead-e4b8eeda7700/original",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 129672,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1200,
+            "height_px": 675
+          }
+        }
+      }
+    ],
+    "channel": null,
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": []
+  },
+  {
+    "object": "cast",
+    "hash": "0x9d186b68312c9ea5b4c788355e92f00798cf636e",
+    "author": {
+      "object": "user",
+      "fid": 460018,
+      "username": "sanham",
+      "display_name": "Sanham",
+      "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c4ee7523-4452-4956-bb62-10677d53ef00/original",
+      "custody_address": "0xa7f3af96f483c0d7a4269547b0f3fbbf9bf6ea74",
+      "profile": {
+        "bio": {
+          "text": "#Bitcoin | Investor | Trader | Guider | Developer | #Web3 #Gaming | #ToTheMoon🚀 Trust is the most expensive commodity.📱"
+        }
+      },
+      "follower_count": 4,
+      "following_count": 70,
+      "verifications": [
+        "0x9a47b3ff744c3fa2790941faa4248e44bea11165",
+        "0x3abb6fa9edff27dea90eadfbf83e450894fab06a"
+      ],
+      "verified_addresses": {
+        "eth_addresses": [
+          "0x9a47b3ff744c3fa2790941faa4248e44bea11165",
+          "0x3abb6fa9edff27dea90eadfbf83e450894fab06a"
+        ],
+        "sol_addresses": [],
+        "primary": {
+          "eth_address": "0x3abb6fa9edff27dea90eadfbf83e450894fab06a",
+          "sol_address": null
+        }
+      },
+      "verified_accounts": [
+        {
+          "platform": "x",
+          "username": "sanham_a"
+        }
+      ],
+      "power_badge": false
+    },
+    "app": {
+      "object": "user_dehydrated",
+      "fid": 9152,
+      "username": "warpcast",
+      "display_name": "Warpcast",
+      "pfp_url": "https://i.imgur.com/3d6fFAI.png",
+      "custody_address": "0x02ef790dd7993a35fd847c053eddae940d055596"
+    },
+    "thread_hash": "0x9d186b68312c9ea5b4c788355e92f00798cf636e",
+    "parent_hash": null,
+    "parent_url": "https://warpcast.com/~/channel/zksync",
+    "root_parent_url": "https://warpcast.com/~/channel/zksync",
+    "parent_author": {
+      "fid": null
+    },
+    "text": "#zksync community right now on every corner 🫣",
+    "timestamp": "2024-04-10T15:13:50.000Z",
+    "embeds": [
+      {
+        "url": "https://i.imgur.com/BbFrydN.jpg",
+        "metadata": {
+          "content_type": "image/jpeg",
+          "content_length": 199562,
+          "_status": "RESOLVED",
+          "image": {
+            "width_px": 1020,
+            "height_px": 885
+          }
+        }
+      }
+    ],
+    "channel": {
+      "object": "channel_dehydrated",
+      "id": "zksync",
+      "name": "zkSync",
+      "image_url": "https://i.imgur.com/VsTpRlU.jpg"
+    },
+    "reactions": {
+      "likes_count": 0,
+      "recasts_count": 0,
+      "likes": [],
+      "recasts": []
+    },
+    "replies": {
+      "count": 0
+    },
+    "mentioned_profiles": [],
+    "mentioned_profiles_ranges": [],
+    "mentioned_channels": [],
+    "mentioned_channels_ranges": [],
+    "author_channel_context": {
+      "following": false
+    }
+  }
+]

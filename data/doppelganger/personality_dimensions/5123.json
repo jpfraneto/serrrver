@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "",
+      "label": "Communication Style",
+      "description": "How will your FarTwin interact with others?",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Straightforward and to the point"
+        },
+        {
+          "value": "Nuanced",
+          "description": "Considerate of others' feelings"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Interest in Technology",
+      "description": "What drives your FarTwin's curiosity about technology?",
+      "options": [
+        {
+          "value": "Innovative",
+          "description": "Always seeking new and better solutions"
+        },
+        {
+          "value": "Analytical",
+          "description": "Focusing on understanding existing systems"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Prioritization of Values",
+      "description": "How will your FarTwin make decisions when faced with conflicting values?",
+      "options": [
+        {
+          "value": "Pragmatic",
+          "description": "Focusing on practical outcomes"
+        },
+        {
+          "value": "Authentic",
+          "description": "Prioritizing personal integrity"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Approach to Problem-Solving",
+      "description": "How will your FarTwin tackle complex challenges?",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Breaking down into smaller parts"
+        },
+        {
+          "value": "Holistic",
+          "description": "Considering the entire system"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Sense of Humor",
+      "description": "How will your FarTwin navigate difficult situations with humor?",
+      "options": [
+        {
+          "value": "Witty",
+          "description": "Quick-witted and sarcastic"
+        },
+        {
+          "value": "Dry",
+          "description": "Deadpan and ironic"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Emotional Expression",
+      "description": "How will your FarTwin manage their emotions in social situations?",
+      "options": [
+        {
+          "value": "Open",
+          "description": "Expressing feelings freely"
+        },
+        {
+          "value": "Reserved",
+          "description": "Keeping emotions to themselves"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin handle uncertainty and risk?",
+      "options": [
+        {
+          "value": "Thrill-Seeking",
+          "description": "Embracing new challenges"
+        },
+        {
+          "value": "Cautious",
+          "description": "Prioritizing stability"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Relationship Style",
+      "description": "How will your FarTwin build and maintain relationships?",
+      "options": [
+        {
+          "value": "Empathetic",
+          "description": "Understanding and supporting others"
+        },
+        {
+          "value": "Assertive",
+          "description": "Setting clear boundaries"
+        }
+      ]
+    }
+  ]
+}

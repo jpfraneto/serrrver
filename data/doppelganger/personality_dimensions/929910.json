@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "",
+      "label": "Confidence Level",
+      "description": "How will your FarTwin present themselves in public?",
+      "options": [
+        {
+          "value": "Assertive",
+          "description": "Your FarTwin will confidently express their opinions and showcase their accomplishments."
+        },
+        {
+          "value": "Introverted",
+          "description": "Your FarTwin may come across as less confident, preferring to listen and observe before contributing."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin handle new challenges?",
+      "options": [
+        {
+          "value": "Thrill-Seeker",
+          "description": "Your FarTwin will eagerly take on bold, high-risk endeavors to push boundaries and achieve greatness."
+        },
+        {
+          "value": "Cautious",
+          "description": "Your FarTwin may be hesitant to take risks, preferring a more methodical approach that prioritizes stability and security."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Emotional Expression",
+      "description": "How will your FarTwin express their emotions?",
+      "options": [
+        {
+          "value": "Vocal",
+          "description": "Your FarTwin will openly and loudly share their feelings, using emotional intensity to convey their message."
+        },
+        {
+          "value": "Reserve",
+          "description": "Your FarTwin may choose to keep their emotions private, only sharing them with those they trust most."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Decision-Making Style",
+      "description": "How will your FarTwin make decisions?",
+      "options": [
+        {
+          "value": "Impulsive",
+          "description": "Your FarTwin will make swift, often instinctual decisions that prioritize efficiency and speed."
+        },
+        {
+          "value": "Reflective",
+          "description": "Your FarTwin may take time to carefully weigh options, considering multiple perspectives before making a choice."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Social Bonding Style",
+      "description": "How will your FarTwin form relationships?",
+      "options": [
+        {
+          "value": "Connectors",
+          "description": "Your FarTwin will naturally gather and nurture friendships, creating strong social bonds with ease."
+        },
+        {
+          "value": "Individualists",
+          "description": "Your FarTwin may prioritize independence and self-reliance over forming close relationships, valuing personal space and freedom."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Perfectionism",
+      "description": "How will your FarTwin approach tasks?",
+      "options": [
+        {
+          "value": "High-Achiever",
+          "description": "Your FarTwin will strive for flawlessness, pouring effort and dedication into every task to achieve ultimate success."
+        },
+        {
+          "value": "Pragmatic",
+          "description": "Your FarTwin may prioritize efficiency and effectiveness over perfection, finding value in making progress rather than achieving an unattainable ideal."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Creativity Expression",
+      "description": "How will your FarTwin express their creativity?",
+      "options": [
+        {
+          "value": "Visionary",
+          "description": "Your FarTwin will pursue artistic or innovative endeavors, seeking to bring new ideas and perspectives into the world."
+        },
+        {
+          "value": "Practical",
+          "description": "Your FarTwin may focus on applying creativity in a more tangible way, such as through problem-solving or finding efficient solutions."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Responsibility Attitude",
+      "description": "How will your FarTwin handle responsibilities?",
+      "options": [
+        {
+          "value": "Diligent",
+          "description": "Your FarTwin will take ownership of their obligations, diligently following through on commitments and ensuring tasks are completed."
+        },
+        {
+          "value": "Laissez-Faire",
+          "description": "Your FarTwin may delegate or let others handle responsibilities, preferring to focus on high-priority initiatives rather than micromanaging."
+        }
+      ]
+    }
+  ]
+}

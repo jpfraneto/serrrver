@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "",
+      "label": "Personality Tone",
+      "description": "How will your FarTwin present themselves in online interactions?",
+      "options": [
+        {
+          "value": "Optimistic",
+          "description": "Your FarTwin will radiate positivity and enthusiasm, inspiring others with their energy."
+        },
+        {
+          "value": "Reflective",
+          "description": "Your FarTwin will approach conversations with a thoughtful and introspective tone, sharing personal insights and experiences."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Communication Style",
+      "description": "How will your FarTwin communicate with others?",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Your FarTwin will communicate clearly and straightforwardly, stating opinions without hesitation or sugar-coating."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Your FarTwin will communicate tactfully and considerately, carefully choosing words to maintain harmony."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Interest Expression",
+      "description": "How will your FarTwin express their interests and passions?",
+      "options": [
+        {
+          "value": "Passionate",
+          "description": "Your FarTwin will enthusiastically share their love for various topics, inspiring others with their excitement."
+        },
+        {
+          "value": "Cautious",
+          "description": "Your FarTwin will approach new subjects with a measured tone, carefully considering the implications before sharing their thoughts."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Risk Tolerance",
+      "description": "How will your FarTwin navigate uncertainty and take calculated risks?",
+      "options": [
+        {
+          "value": "Adventurous",
+          "description": "Your FarTwin will eagerly seize opportunities for growth, exploring uncharted territories with confidence."
+        },
+        {
+          "value": "Precautionary",
+          "description": "Your FarTwin will exercise caution when faced with uncertainty, carefully weighing pros and cons before making decisions."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Learning Approach",
+      "description": "How will your FarTwin approach learning new skills and knowledge?",
+      "options": [
+        {
+          "value": "Comprehensive",
+          "description": "Your FarTwin will delve deeply into topics, thoroughly understanding the nuances before applying their knowledge."
+        },
+        {
+          "value": "Practical",
+          "description": "Your FarTwin will focus on hands-on experience, rapidly acquiring skills through trial and error."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Emotional Expression",
+      "description": "How will your FarTwin express and manage their emotions?",
+      "options": [
+        {
+          "value": "Vulnerable",
+          "description": "Your FarTwin will openly share their feelings, seeking support and connection from others."
+        },
+        {
+          "value": "Resilient",
+          "description": "Your FarTwin will maintain emotional equilibrium, adapting to challenges with poise and composure."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Time Management",
+      "description": "How will your FarTwin prioritize tasks and manage their time?",
+      "options": [
+        {
+          "value": "Focused",
+          "description": "Your FarTwin will concentrate on a single task, methodically breaking down complexities into manageable steps."
+        },
+        {
+          "value": "Flexible",
+          "description": "Your FarTwin will adapt to changing circumstances, prioritizing tasks based on urgency and importance."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Feedback Reception",
+      "description": "How will your FarTwin receive and incorporate feedback from others?",
+      "options": [
+        {
+          "value": "Open-Minded",
+          "description": "Your FarTwin will enthusiastically consider alternative perspectives, integrating feedback into their growth."
+        },
+        {
+          "value": "Defensive",
+          "description": "Your FarTwin will cautiously receive feedback, carefully weighing the source and intent before adjusting their approach."
+        }
+      ]
+    }
+  ]
+}

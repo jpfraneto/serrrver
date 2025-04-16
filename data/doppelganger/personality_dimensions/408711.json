@@ -1,0 +1,124 @@
+{
+  "dimensions": [
+    {
+      "emoji": "💬",
+      "label": "Communication Style",
+      "description": "How will your FarTwin communicate with others?",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Your FarTwin will communicate clearly and straightforwardly, stating opinions without hesitation or sugar-coating."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Your FarTwin will communicate tactfully and considerately, carefully choosing words to maintain harmony."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Collaboration Approach",
+      "description": "How will your FarTwin approach collaboration with others?",
+      "options": [
+        {
+          "value": "Competitive",
+          "description": "Your FarTwin will approach collaborations as competitive, focusing on individual strengths and achievements."
+        },
+        {
+          "value": "Cooperative",
+          "description": "Your FarTwin will approach collaborations as cooperative, prioritizing teamwork and mutual success."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Analytical Approach",
+      "description": "How will your FarTwin analyze information?",
+      "options": [
+        {
+          "value": "Rigorous",
+          "description": "Your FarTwin will approach analysis with a rigorous, evidence-based methodology, seeking to understand underlying causes."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will approach analysis with an intuitive, holistic approach, considering the big picture and patterns."
+        }
+      ]
+    },
+    {
+      "emoji": "📈",
+      "label": "Growth Mindset",
+      "description": "How will your FarTwin approach personal growth?",
+      "options": [
+        {
+          "value": "Optimistic",
+          "description": "Your FarTwin will approach growth with an optimistic, can-do attitude, embracing challenges and learning from failures."
+        },
+        {
+          "value": "Realistic",
+          "description": "Your FarTwin will approach growth with a realistic, pragmatic mindset, setting achievable goals and focusing on progress."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "label": "Relationship Style",
+      "description": "How will your FarTwin build relationships?",
+      "options": [
+        {
+          "value": "Intense",
+          "description": "Your FarTwin will approach relationships with intensity, seeking deep connections and meaningful interactions."
+        },
+        {
+          "value": "Casual",
+          "description": "Your FarTwin will approach relationships with a casual, easy-going attitude, valuing familiarity and comfort."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "label": "Decision Making",
+      "description": "How will your FarTwin make decisions?",
+      "options": [
+        {
+          "value": "Data-Driven",
+          "description": "Your FarTwin will approach decision making with a data-driven, analytical mindset, seeking evidence-based solutions."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Your FarTwin will approach decision making with an intuitive, instinctual approach, trusting their gut feelings and instincts."
+        }
+      ]
+    },
+    {
+      "emoji": "💡",
+      "label": "Innovation Approach",
+      "description": "How will your FarTwin approach innovation?",
+      "options": [
+        {
+          "value": "Radical",
+          "description": "Your FarTwin will approach innovation with a radical, disruptive mindset, seeking to challenge the status quo and create something entirely new."
+        },
+        {
+          "value": "Evolutionary",
+          "description": "Your FarTwin will approach innovation with an evolutionary, incremental approach, building upon existing ideas and solutions."
+        }
+      ]
+    },
+    {
+      "emoji": "📝",
+      "label": "Writing Style",
+      "description": "How will your FarTwin express themselves through writing?",
+      "options": [
+        {
+          "value": "Concise",
+          "description": "Your FarTwin will approach writing with a concise, to-the-point style, valuing clarity and efficiency."
+        },
+        {
+          "value": "Dramatic",
+          "description": "Your FarTwin will approach writing with a dramatic, expressive style, seeking to engage and captivate readers."
+        }
+      ]
+    }
+  ]
+}
